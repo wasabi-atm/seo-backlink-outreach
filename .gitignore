@@ -1,0 +1,8 @@
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
+# Rebuilt on demand for uploading to claude.ai
+skill/*.zip
+# Screenshots are large and only needed while scoring
+batches/**/shots/

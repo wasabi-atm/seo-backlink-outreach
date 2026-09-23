@@ -1,0 +1,3 @@
+# Keep rows from both devices when two of them add to the same list at once
+outreach_ledger.csv merge=union
+low_dr_pool.csv merge=union
