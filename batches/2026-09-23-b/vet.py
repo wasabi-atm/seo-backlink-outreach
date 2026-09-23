@@ -9,7 +9,7 @@ def root(u):
     return h
 
 items = []
-for f in glob.glob("crawl/*.json"):
+for f in glob.glob(sys.argv[1] + "/*.json"):
     d = json.load(open(f))
     items += d["items"] if isinstance(d, dict) else d
 rows = list(csv.DictReader(open("dr_pass.csv")))
@@ -35,12 +35,13 @@ for dom, r in doms.items():
     h, b = pages[dom]["home"], pages[dom]["blog"]
     hmd = (h or {}).get("markdown") or ""
     bmd = (b or {}).get("markdown") or ""
-    bstat = ((b or {}).get("crawl") or {}).get("httpStatusCode") if b else None
-    bloaded = ((b or {}).get("crawl") or {}).get("loadedUrl", "") if b else ""
+    bstat = (b or {}).get("crawl.httpStatusCode")
+    bloaded = (b or {}).get("crawl.loadedUrl") or ""
     alltxt = (hmd + " " + bmd).lower()
     farm = [w for w in FARM if w in alltxt]
     wfu = [w for w in WFU if w in alltxt]
-    blog_ok = bool(b) and (bstat in (200, None)) and len(bmd) > 800
+    redir_root = bool(bloaded) and urlparse(bloaded).path.strip("/") == ""
+    blog_ok = bool(b) and bstat == 200 and not redir_root
     dates = len(MONTH_RE.findall(bmd))
     years = len(YEAR_RE.findall(bmd))
     authors = len(BY_RE.findall(bmd))
@@ -49,8 +50,7 @@ for dom, r in doms.items():
     real = 5 if home_ok and len(hmd) > 1500 else 4 if home_ok else 2
     if not blog_ok: blogq = 2
     else:
-        blogq = 3 + (1 if (dates >= 3 or years >= 5) else 0) + (1 if authors >= 2 else 0)
-        if links > 20 and blogq == 3: blogq = 3.5
+        blogq = 3.5 + (0.5 if (dates >= 1 or years >= 2) else 0) + (0.5 if authors >= 1 else 0) + (0.5 if len(bmd) > 800 else 0)
     clean = 1 if farm else 4 if wfu else 5
     score = round((real + blogq + clean) / 3, 1)
     hard = []
@@ -65,7 +65,7 @@ for dom, r in doms.items():
                     segment=r["segment"], domainRating=r["domainRating"], visualScore=score, realScore=real, blogScore=blogq,
                     cleanScore=clean, blogFound=blog_ok, blogUrl=bloaded, hardFail="; ".join(hard), visualNotes="; ".join(notes),
                     competitor=r["competitor"], competitorReason=r["competitorReason"],
-                    homeTitle=((h or {}).get("metadata") or {}).get("title", "")))
+                    homeTitle=(h or {}).get("metadata.title") or ""))
 w = csv.DictWriter(open("vetting.csv", "w", newline=""), fieldnames=list(out[0]))
 w.writeheader(); w.writerows(out)
 ok = [o for o in out if o["visualScore"] >= 3.5 and not o["hardFail"]]
