@@ -26,9 +26,11 @@ case "${1:-}" in
     ;;
   push)
     [ -n "${2:-}" ] || { echo "usage: sync.sh push \"message\"" >&2; exit 2; }
-    # The ledger holds real contact emails. A public repo answers 200 without login, a private one 404.
-    code=$(curl -s -o /dev/null -w "%{http_code}" https://api.github.com/repos/wasabi-atm/seo-backlink-outreach)
-    [ "$code" = "200" ] && fail "the GitHub repo is PUBLIC. Make it private before pushing contact data."
+    # The ledger holds real contact emails. Read the "private" field rather than the status code:
+    # a private repo answers 404 without login, but 200 with "private": true when the request carries
+    # credentials (cloud sessions add them through a proxy).
+    info=$(curl -s https://api.github.com/repos/wasabi-atm/seo-backlink-outreach)
+    echo "$info" | grep -Eq '"private": *false' && fail "the GitHub repo is PUBLIC. Make it private before pushing contact data."
     git -C "$REPO" add -A
     if git -C "$REPO" diff --cached --quiet; then
       echo "Nothing to push"
