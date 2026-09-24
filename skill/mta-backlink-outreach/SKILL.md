@@ -150,7 +150,9 @@ Run `mcp__Ahrefs__subscription-info-limits-and-usage` first to see remaining API
 For each approved domain:
 
 - Domain rating: `site-explorer-domain-rating` with target the domain and date today.
-- Link habits: `site-explorer-linked-domains` (mode subdomains) for how many other sites their pages link out to, and `site-explorer-backlinks-stats` for their own link profile. Also look for contributor pages, "expert roundup" posts, or recent posts quoting founders from other companies.
+- Link habits: `site-explorer-linked-domains` (mode subdomains) for how many other sites their pages link out to. Also look for contributor pages, "expert roundup" posts, or recent posts quoting founders from other companies.
+
+Do not pull referring domains, backlink counts or `site-explorer-backlinks-stats`. The SEO manager confirmed they are not needed for cold outreach, and they cost Ahrefs units and Apify credit. DR and outbound link habits are enough.
 
 Set backlinkExchange:
 
@@ -158,11 +160,12 @@ Set backlinkExchange:
 - Some: a few of these signs.
 - No: almost no outbound editorial links.
 
-Fallback: if Ahrefs is low on units or returns an out-of-units or limit error, switch to Apify `radeance/ahrefs-scraper` with `urls` (up to 100 domains), `mode` "subdomains", `include_web_authority` true, `include_backlinks` true, `include_traffic` false. Mark the rows filled this way with dataSource "apify". Read its output carefully, or DR will look missing:
+Fallback: if Ahrefs is low on units or returns an out-of-units or limit error, switch to Apify `radeance/ahrefs-scraper` with `urls` (up to 100 domains), `mode` "subdomains", `include_web_authority` true, `include_backlinks` false, `include_traffic` false. Mark the rows filled this way with dataSource "apify". Read its output carefully, or DR will look missing:
 
-- Set `callOptions.maxTotalChargeUsd` to at least 0.25 (Apify refuses lower caps). Cost is about $0.01 per row, two rows per domain, so 40 domains is about $0.80.
-- It writes two rows per domain. `type` "backlinks" has only `total_referring_domains` and no DR. `type` "authority" has `domain_rating`, `refdomains`, `dofollow_refdomains` and `backlinks`. Take DR from the authority row only.
-- `get-dataset-items` returns 20 rows by default. Set `limit` to at least twice the number of domains, and pass `fields` "domain,type,domain_rating,refdomains,dofollow_refdomains,backlinks" to keep it small.
+- Keep `include_backlinks` false. Each search type is billed as its own result row, so turning it on adds a second "backlinks" row per domain (referring domains only, no DR) and doubles the cost.
+- Set `callOptions.maxTotalChargeUsd` to at least 0.25 (Apify refuses lower caps). Cost is about $0.01 per row, one row per domain, so 40 domains is about $0.40. Size the cap to the domain count (about $0.01 per domain plus a little), not a round $1.00 per run.
+- Take DR from the `type` "authority" row's `domain_rating`.
+- `get-dataset-items` returns 20 rows by default. Set `limit` to at least the number of domains, and pass `fields` "domain,type,domain_rating" to keep it small.
 - If a domain still has no authority row, try the free Ahrefs endpoint `public-domain-rating-free` (targets list, costs no units) for DR.
 
 The scraper does not show which sites a domain links out to, so on the Apify path check link habits by hand: fetch three to five recent blog posts and count distinct outside business domains they link to in the article body, plus any contributor page or quotes from outside founders.
