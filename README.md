@@ -18,6 +18,14 @@ python3 -m venv .venv
 
 Google Chrome must be installed for screenshots.
 
+The Step 4 blog crawl uses crawl4ai, which needs Python 3.10+ (`brew install python@3.12` on a Mac) and its own venv:
+
+```
+python3.12 -m venv .venv-crawl
+.venv-crawl/bin/pip install -U crawl4ai
+.venv-crawl/bin/crawl4ai-setup
+```
+
 ## Sync
 
 `sh skill/mta-backlink-outreach/scripts/sync.sh pull` before a run, `sh skill/mta-backlink-outreach/scripts/sync.sh push "message"` after. The skill does both on its own.

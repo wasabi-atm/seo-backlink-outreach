@@ -1,6 +1,6 @@
 ---
 name: "mta-backlink-outreach"
-description: "Run a Motion The Agency SEO backlink outreach batch. Interview, dedupe against every company already contacted, build and visually vet 40 UK/US/UAE sites with webscreenshotter, ask the user about any competitor, check DR and link habits in Ahrefs, pick one article per site, and draft emails on request."
+description: "Run a Motion The Agency SEO backlink outreach batch. Interview, dedupe against every company already contacted, build and visually vet 40 UK/US/UAE sites with webscreenshotter, ask the user about any competitor, check DR and link habits in Ahrefs, crawl each blog for free with crawl4ai to pick one article per site, and draft emails on request."
 ---
 
 # MTA backlink outreach
@@ -184,14 +184,38 @@ If fewer than 40 rows pass, go back to the spare candidates from Step 2, vet the
 
 ## Step 4: Pick one article per company
 
-Use the Apify actor `apify/website-content-crawler` to crawl each site's blog. Run it in batches of about 10 domains per run:
+Crawl each site's blog with crawl4ai (Playwright Chromium) through `<repo>/skill/mta-backlink-outreach/scripts/blog_crawl.py`. It is free. Do not use Apify's Website Content Crawler for this step: it cost about $4.40 of Apify credit for one batch and hit the monthly usage cap.
 
-- startUrls: each blog index (for example `https://domain.com/blog`)
-- includeUrlGlobs: `https://domain.com/blog/**` (match the real blog path)
-- crawlerType "cheerio" (switch to "playwright:adaptive" if a site comes back empty)
-- maxCrawlDepth 2, maxCrawlPages about 40 per domain, saveMarkdown true
+```
+<repo>/.venv-crawl/bin/python <repo>/skill/mta-backlink-outreach/scripts/blog_crawl.py 02_enriched.csv crawl/ --workers 4
+```
 
-Pull the title, URL and markdown with `get-dataset-items`. Look for articles about SaaS video, B2B video, video marketing, advertising or content marketing. Don't be strict. The test is whether a link to MTA would sit naturally in the article and pass authority to motiontheagency.com. Prefer articles that:
+For each webDomain it finds the blog index from the homepage links (or tries /blog, /insights, /resources and similar), then crawls up to about 40 pages, 2 levels deep, on the blog's host. It skips pricing, login, docs, services and similar pages, and ignores links in the nav, header and footer, so it follows the post list and not the site menu. Posts outside the blog path (for example `/post/...` or at the root) are still found. Around 10 seconds per site, so 40 sites take a few minutes with 4 workers. Run it in the background and wait for it to finish.
+
+It writes:
+
+- `crawl/articles.csv`: webDomain, url, title, published, wordCount, isListing, mdFile. Rows with isListing True are the blog index, pagination, tag, category or author pages. Skip them when picking an article.
+- `crawl/<domain>/<n>.md`: the page as markdown. The first line is the URL, the second the title.
+- `crawl/summary.csv`: per domain, the blog URL used, page and article counts, and any error. Everything with an error is listed again at the end of the run.
+
+For a domain with an error or 0 articles, find the real blog URL (from the homepage or a search), put it in a `blogUrl` column for just those rows, and run the script again on them. If a site still fails, open its blog in the built-in browser or fetch it directly.
+
+Setup, once per machine. crawl4ai needs Python 3.10 or newer (macOS ships 3.9, so use Homebrew's `python@3.12`). It gets its own venv, `<repo>/.venv-crawl`, kept apart from the screenshot venv because of the old Selenium pin there. It is not synced; on the main Mac it already exists.
+
+```
+python3.12 -m venv .venv-crawl
+.venv-crawl/bin/pip install -U crawl4ai
+.venv-crawl/bin/crawl4ai-setup
+.venv-crawl/bin/crawl4ai-doctor
+```
+
+`crawl4ai-setup` downloads Playwright's Chromium. Where to run it:
+
+1. In Claude Code on the user's Mac, use the local venv above and the local Playwright Chromium. This is the tested path.
+2. In a cloud session (Claude Code on the web, where `$CLAUDE_CODE_REMOTE` is set, or a claude.ai workspace), run it in the cloud with the cloud's own Playwright: do the setup above with whatever Python 3.10+ is there (`python3 -m venv .venv-crawl`). If Chromium fails to start for missing system libraries, run `.venv-crawl/bin/python -m playwright install --with-deps chromium`, then try again. First test the network with `curl -sI https://<one enriched domain>`, as the cloud workspace can block arbitrary sites. If sites are blocked there and a folder on the user's computer is connected, run the script on the Mac with device_bash instead and read `crawl/` back.
+3. Only if neither works, ask the user before falling back to Apify's `apify/website-content-crawler`. If they agree, give it only blog index start URLs (never homepages), `crawlerType` "cheerio", `maxCrawlDepth` 2, `maxCrawlPages` 40 per domain, and a `maxTotalChargeUsd` cap. Say what it will roughly cost first.
+
+Read the title, URL and markdown from `crawl/`. Look for articles about SaaS video, B2B video, video marketing, advertising or content marketing. Don't be strict. The test is whether a link to MTA would sit naturally in the article and pass authority to motiontheagency.com. Prefer articles that:
 
 - mention video, explainers, animation, demos or visual content, or recommend something MTA could make
 - are live and updated within the last two years

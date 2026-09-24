@@ -1,4 +1,7 @@
 .venv/
+.venv-crawl/
+# Blog crawl markdown is large and only needed while picking articles
+batches/**/crawl/
 .DS_Store
 __pycache__/
 *.pyc
