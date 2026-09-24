@@ -26,7 +26,7 @@ The workflow, the ledger, the low-DR pool and every batch live in a private repo
 
 Examples: "backlink-2026-10-01: 40 prospects to Checkpoint 1", "backlink-2026-10-01: logged 38 emails as queued", "mark backlink-2026-09-23 as sent". Pushing after each ledger change keeps the window small where another device could pick the same company. If the push fails, stop and tell the user. The ledger and pool use git's union merge, so rows added on two devices at once are both kept. After a merge, run `dedupe.py status` to check the ledger still reads cleanly.
 
-Screenshots (`batches/**/shots/`), `.venv` and the zip are not synced. Each device keeps its own.
+Screenshots (`batches/**/shots/`), blog crawls (`batches/**/crawl/`), `.venv`, `.venv-crawl` and the zip are not synced. Each device keeps its own.
 
 Output rules for every file and message:
 
