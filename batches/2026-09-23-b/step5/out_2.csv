@@ -1,0 +1,36 @@
+webDomain,firstName,lastName,jobTitle,email,emailStatus,apolloId,contactNote
+loom.com,Shahed,Khan,Co-founder of Loom (acquired),shahed@loom.com,verified,6890af4e00c65e00013673a1,Co-founder. Loom is now part of Atlassian and he may have stepped back. The only founder listed with an email; no head of content or marketing had an email.
+beehiiv.com,Tyler,Denk,Cofounder/CEO,tyler@beehiiv.com,verified,66f2c3b462e18e00017da9f0,Co-founder and CEO
+jasper.ai,Tom,Newton,Chief Marketing Officer,tom.newton@jasper.ai,verified,66f7bae9d12032000193b3a7,"Fallback to CMO. The real founders were not listed, and the CEO and founder results looked like other companies named Jasper."
+buzzsumo.com,,,,,,,"no contact found: only a Head of Customer Success and an assistant manager are listed, no founder or content/marketing lead"
+brandwatch.com,Gemma,Joyce,Head of Content,gemmaj@brandwatch.com,verified,54c2a58d74686916390af2b2,"Fallback to head of content; large company (Cision brand), founder not listed"
+leadpages.com,Michael,Sacca,Chief Executive Officer,michael.sacca@leadpages.com,verified,66f2d280a7e66e00019b351a,CEO
+contently.com,Jessica,Benavides Canepa,Senior Managing Editor,jessica@jbcanepa.com,verified,54a229817468693825176612,"Fallback: the CEO has no email. Email domain jbcanepa.com is NOT Contently (probably her own domain, so she may be a freelancer). No other Contently contact had an email."
+orbitmedia.com,Andy,Crestodina,Co-Founder and Chief Marketing Officer,andy@orbitmedia.com,verified,611cdba93c100000018394a8,Co-founder
+restream.io,Alexander,Khuda,"CEO, Co-founder",alex.khuda@restream.io,verified,66f548d588793e0001afa3e5,Co-founder and CEO
+victorious.com,Tania,Brown,Content Marketing Manager,tania.brown@victoriousseo.com,verified,66f43b28a4fba40001179ed2,Fallback to content: the founder was not listed. victoriousseo.com is Victorious's known alias domain.
+smartbugmedia.com,Michael,Ishak,Head of Marketing,mishak@smartbugmedia.com,verified,608319f57ac82600011bb8db,Fallback to head of marketing; founder not listed with email
+headliner.app,Neil,Mody,Co-Founder/CEO,neil@headliner.app,verified,66f6be95661f400001735af5,Co-founder and CEO
+newbreedrevenue.com,Patrick,Biddiscombe,CEO,pbiddiscombe@newbreedrevenue.com,verified,66f3a1a71f7bfd00012f5b81,CEO; founder listed without email
+scripted.com,Jennifer,Cameron,Founder,j.cameron@scripted.com,verified,65995299e388dd000140dd93,"Listed as Founder with scripted.com email (not the widely known founder, worth a quick LinkedIn check)"
+riseatseven.com,Carrie,Rose,CEO & Founder,carrie.rose@riseatseven.com,verified,60e91e13c2989a00017dc5b3,Founder and CEO
+sweetfishmedia.com,James,Carbary,Founder,james@sweetfishmedia.com,verified,66f3f8fde0ea5f0001ceccda,Founder
+bluebeetle.ae,Mark,Hirst,MD - Bespoke Online Business Solutions,mark@bluebeetle.me,verified,60e4568d2f434f0001bb4369,"Managing Director (no founder title listed). Email domain bluebeetle.me differs from bluebeetle.ae; it is probably a regional alias, so check it."
+calendly.com,Rachel,Burns,Content and Brand,rachel.burns@calendly.com,verified,63ea8f57af1ecb0001479e8d,Content role. Skipped several content marketing manager records that had no location and looked unreliable.
+twilio.com,Natalie,Schwab,Director of Content Marketing,nschwab@twilio.com,verified,60e61f727254c1000133325e,Content lead
+amplitude.com,Adam,Bonefeste,"Sr. Manager, Content Marketing",adam.bonefeste@amplitude.com,verified,650ef4cbf14fa900019bd31b,Content lead
+fullstory.com,Stella,Resta,Content Marketing Manager,stella@fullstory.com,verified,64809ea41848120001debb09,Content marketing manager
+outreach.io,Anthony,Zumpano,Content Marketing Manager,anthony.zumpano@outreach.io,verified,55714b1c7369642b9d575400,Content marketing manager (Apollo lists org domain as outreach.ai; email on outreach.io)
+brightpearl.com,,,,,,,no contact found: only a junk CEO record and a partner marketing manager with no email (Brightpearl is now part of Sage)
+cezannehr.com,Paul,Bauer,Head of Content & SEO,paul.bauer@cezannehr.com,verified,5accc1f0a6da98739ccbcfa5,Head of content
+webfx.com,William,Craig,CEO & Co-Founder,wcraig@webfx.com,verified,66f42b9636552400017bc822,Co-founder and CEO (about 750 staff)
+kapwing.com,Julia,Enthoven,Co-Founder and CEO,julia@kapwing.com,verified,66f2dbe069c79a0001878596,Co-founder and CEO
+brainlabsdigital.com,Andrea,Benaim,"Sr. Associate Director, Content Marketing",andrea.benaim@brainlabsdigital.com,verified,5b358df3a6da980beab18df6,"Fallback to content lead: large agency (about 1000 staff), so the founder and CEO are unlikely to reply"
+propellernet.co.uk,Connor,Hughes,Content Manager,connor@propellernet.co.uk,verified,5b368c8fa6da980c3eacb7e9,Fallback to content: CEO has no email
+qualtrics.com,Stephanie,Stead,"Manager, Content Marketing",sstead@qualtrics.com,verified,686098d1c1936500012d2af5,Content marketing manager
+sage.com,Charlotte,Penny,Senior Content Marketing Manager,charlotte.penny@sage.com,verified,6172466fd7cdbc0001d4d826,Senior content marketing manager
+ramp.com,Michelle,Lowery,SEO Content Editor,michellel@ramp.com,verified,60d374f5c6be2a0001ae74e6,SEO content editor
+monzo.com,Emily,Rogers,Content & Editorial Lead,emilyrogers@monzo.com,verified,57d79845a6da9809be0835ab,Content and editorial lead
+glean.com,Peter,Kim,Content Marketing Manager,peter.kim@glean.com,verified,61f6db2920350300010543e5,Content marketing manager
+relayfi.com,Nick,White,VP of Growth & Marketing,nick.white@relayfi.com,verified,68ecfe4ace659f000130a668,Head of marketing; senior content marketing manager had no email
+thoughtmachine.net,Rowan,Neslen,Global Head of Marketing,rneslen@thoughtmachine.net,verified,60abf478ab9ec300016cf7c3,"Head of marketing, no content lead listed; domain is catch-all"

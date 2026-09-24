@@ -1,0 +1,96 @@
+companyName,webDomain,country,serviceType,segment,visualScore,visualNotes,competitor,competitorDecision,domainRating,blogUrl
+Animoto,animoto.com,US,Online video maker,A,,not checked: crawl stopped at Apify usage cap,no,,84.0,
+Hippo Video,hippovideo.io,US,Video sales platform,A,4.0,homepage ok; no blog found at /blog (status None),no,,71.0,
+Sendspark,sendspark.com,US,Personalised video platform,A,3.7,homepage ok; no blog found at /blog (status 404),no,,71.0,https://www.sendspark.com/blog
+ClearVoice,clearvoice.com,US,Content creation platform,A,,not checked: crawl stopped at Apify usage cap,no,,76.0,
+Skyword,skyword.com,US,Content marketing platform,A,4.0,homepage ok; no blog found at /blog (status 404),no,,75.0,https://www.skyword.com/blog/
+Walker Sands,walkersands.com,US,B2B marketing and PR agency,A,4.0,homepage ok; no blog found at /blog (status 404),no,,75.0,https://www.walkersands.com/blog
+Uplift Content,upliftcontent.com,US,B2B content agency,A,,not checked: crawl stopped at Apify usage cap,no,,48.0,
+Draft.dev,draft.dev,US,Technical content agency,A,4.0,homepage ok; no blog found at /blog (status 404),no,,59.0,https://draft.dev/blog
+MarketMuse,marketmuse.com,US,Content planning software,A,4.0,homepage ok; no blog found at /blog (status 404),no,,77.0,https://www.marketmuse.com/blog
+Qualified,qualified.com,US,Pipeline generation platform,A,4.0,homepage ok; no blog found at /blog (status None),no,,74.0,
+Demandbase,demandbase.com,US,ABM platform,A,,not checked: crawl stopped at Apify usage cap,no,,80.0,
+6sense,6sense.com,US,ABM platform,A,,not checked: crawl stopped at Apify usage cap,no,,83.0,
+G2,g2.com,US,Software review marketplace,A,,not checked: crawl stopped at Apify usage cap,no,,91.0,
+TrustRadius,trustradius.com,US,Software review platform,A,4.0,homepage ok; no blog found at /blog (status 404),no,,85.0,https://www.trustradius.com/blog
+Muck Rack,muckrack.com,US,PR software,A,,not checked: crawl stopped at Apify usage cap,no,,85.0,
+5W Public Relations,5wpr.com,US,PR agency,A,2.7,homepage ok; no blog found at /blog (status 404),no,,71.0,https://www.5wpr.com/blog
+Content Allies,contentallies.com,US,B2B podcast agency,A,4.0,homepage ok; no blog found at /blog (status 404),no,,58.0,https://contentallies.com/blog
+Transistor,transistor.fm,US,Podcast hosting,A,4.0,homepage ok; no blog found at /blog (status None),no,,86.0,
+Red Antler,redantler.com,US,Brand agency,A,,not checked: crawl stopped at Apify usage cap,no,,72.0,
+Focus Lab,focuslab.agency,US,Brand agency,A,,not checked: crawl stopped at Apify usage cap,no,,63.0,
+Ramotion,ramotion.com,US,Brand and web design agency,A,,not checked: crawl stopped at Apify usage cap,no,,73.0,
+Clay,clay.global,US,UI UX design agency,A,,not checked: crawl stopped at Apify usage cap,no,,73.0,
+Veza Digital,vezadigital.com,US,Webflow agency for B2B,A,,not checked: crawl stopped at Apify usage cap,no,,71.0,
+Webflow,webflow.com,US,Website builder,A,,not checked: crawl stopped at Apify usage cap,no,,92.0,
+Verve Search,vervesearch.com,UK,SEO and digital PR agency,A,,not checked: crawl stopped at Apify usage cap,no,,50.0,
+Blue Array,bluearray.co.uk,UK,SEO consultancy,A,4.0,homepage ok; no blog found at /blog (status 404),no,,61.0,https://www.bluearray.co.uk/blog
+Digitaloft,digitaloft.co.uk,UK,Digital PR agency,A,3.7,homepage ok; no blog found at /blog (status 404),no,,64.0,https://digitaloft.co.uk/blog
+Transmission,transmissionagency.com,UK,B2B marketing agency,A,4.0,homepage ok; no blog found at /blog (status 404),no,,65.0,https://transmissionagency.com/blog
+Hotwire,hotwireglobal.com,UK,Tech PR agency,A,4.0,homepage ok; no blog found at /blog (status None),no,,55.0,
+Brands2Life,brands2life.com,UK,Tech PR agency,A,4.0,homepage ok; no blog found at /blog (status 404),no,,42.0,https://brands2life.com/blog
+Koto,koto.studio,UK,Brand studio,A,4.0,homepage ok; no blog found at /blog (status 404),no,,67.0,https://koto.com/blog
+Ragged Edge,raggededge.com,UK,Brand agency,A,3.7,homepage ok; no blog found at /blog (status 404),no,,57.0,https://raggededge.com/blog
+DixonBaxi,dixonbaxi.com,UK,Brand agency,A,4.0,homepage ok; no blog found at /blog (status 404),no,,62.0,https://www.dixonbaxi.com/blog
+Pearlfisher,pearlfisher.com,UK,Brand design agency,A,3.0,homepage thin or not loaded; no blog found at /blog (status 404),no,,59.0,https://pearlfisher.com/blog
+JKR,jkrglobal.com,UK,Brand design agency,A,3.0,homepage thin or not loaded; no blog found at /blog (status 404),no,,70.0,https://www.jkrglobal.com/blog
+Sitebulb,sitebulb.com,UK,SEO audit software,A,4.0,homepage ok; no blog found at /blog (status 404),no,,75.0,https://sitebulb.com/blog/
+Audiense,audiense.com,UK,Audience intelligence,A,4.0,homepage ok; no blog found at /blog (status 404),no,,76.0,https://www.audiense.com/blog
+Copify,copify.com,UK,Content writing service,A,4.0,homepage ok; no blog found at /blog (status 404),no,,50.0,https://copify.com/blog
+Vadecom,vadecom.net,UAE,B2B digital agency,A,,not checked: crawl stopped at Apify usage cap,no,,67.0,
+Communicate Online,communicateonline.me,UAE,Marketing news,A,4.0,homepage ok; no blog found at /blog (status 404),no,,65.0,https://communicateonline.me/blog
+Campaign Middle East,campaignme.com,UAE,Marketing news,A,3.7,homepage ok; no blog found at /blog (status 404),no,,73.0,https://campaignme.com/blog
+ArabAd,arabadonline.com,UAE,Marketing news,A,3.0,homepage thin or not loaded; no blog found at /blog (status 404),no,,54.0,https://www.arabaddigital.com/blog
+Wamda,wamda.com,UAE,Startup media platform,A,3.0,homepage thin or not loaded; no blog found at /blog (status 404),no,,73.0,https://www.wamda.com/blog
+Rippling,rippling.com,US,HR and IT SaaS,B,,not checked: crawl stopped at Apify usage cap,no,,84.0,
+Airtable,airtable.com,US,Work platform,B,4.0,homepage ok; no blog found at /blog (status 200),no,,91.0,https://blog.airtable.com/
+PandaDoc,pandadoc.com,US,Document automation SaaS,B,,not checked: crawl stopped at Apify usage cap,no,,83.0,
+Salesloft,salesloft.com,US,Sales engagement,B,4.0,homepage ok; no blog found at /blog (status 404),no,,83.0,https://www.salesloft.com/blog
+ZoomInfo,zoominfo.com,US,B2B data platform,B,3.0,homepage thin or not loaded; no blog found at /blog (status 200),no,,85.0,https://pipeline.zoominfo.com/
+Apollo.io,apollo.io,US,Sales intelligence,B,3.7,homepage ok; no blog found at /blog (status None),no,,84.0,
+Clari,clari.com,US,Revenue platform,B,,not checked: crawl stopped at Apify usage cap,no,,77.0,
+Chili Piper,chilipiper.com,US,Meeting scheduling for revenue teams,B,,not checked: crawl stopped at Apify usage cap,no,,81.0,
+Highspot,highspot.com,US,Sales enablement,B,,not checked: crawl stopped at Apify usage cap,no,,83.0,
+Seismic,seismic.com,US,Sales enablement,B,,not checked: crawl stopped at Apify usage cap,no,,81.0,
+Mindtickle,mindtickle.com,US,Sales readiness,B,,not checked: crawl stopped at Apify usage cap,no,,74.0,
+Copper,copper.com,US,CRM,B,,not checked: crawl stopped at Apify usage cap,no,,76.0,
+Intercom,intercom.com,US,Customer service AI,B,,not checked: crawl stopped at Apify usage cap,no,,91.0,
+Postman,postman.com,US,API platform,B,3.0,homepage thin or not loaded; no blog found at /blog (status 200),no,,91.0,https://blog.postman.com/
+Sentry,sentry.io,US,Error monitoring,B,4.0,homepage ok; no blog found at /blog (status None),no,,91.0,
+Datadog,datadoghq.com,US,Observability,B,,not checked: crawl stopped at Apify usage cap,no,,88.0,
+CircleCI,circleci.com,US,CI CD platform,B,,not checked: crawl stopped at Apify usage cap,no,,85.0,
+Retool,retool.com,US,Internal tools builder,B,,not checked: crawl stopped at Apify usage cap,no,,80.0,
+Render,render.com,US,Cloud hosting,B,,not checked: crawl stopped at Apify usage cap,no,,85.0,
+Fathom,fathom.video,US,AI meeting notes,B,4.0,homepage ok; no blog found at /blog (status 404),no,,76.0,https://fathom.video/blog
+Expensify,expensify.com,US,Expense management,B,4.0,homepage ok; no blog found at /blog (status 404),no,,79.0,https://www.expensify.com/blog
+Novo,novo.co,US,Small business banking,B,4.0,homepage ok; no blog found at /blog (status 404),no,,71.0,https://www.novo.co/blog
+Workable,workable.com,US,Recruiting software,B,4.0,homepage ok; no blog found at /blog (status 404),no,,90.0,https://workable.com/blog
+SurveyMonkey,surveymonkey.com,US,Survey software,B,4.0,homepage ok; no blog found at /blog (status None),no,,92.0,
+Ebury,ebury.com,UK,FX and payments,B,4.0,homepage ok; no blog found at /blog (status 404),no,,72.0,https://ebury.com/blog
+iwoca,iwoca.co.uk,UK,Business lending,B,4.0,homepage ok; no blog found at /blog (status 404),no,,71.0,https://www.iwoca.co.uk/blog
+Funding Circle,fundingcircle.com,UK,Business lending,B,,not checked: crawl stopped at Apify usage cap,no,,74.0,
+Applied,beapplied.com,UK,Hiring software,B,,not checked: crawl stopped at Apify usage cap,no,,72.0,
+Perkbox,perkbox.com,UK,Employee benefits,B,3.7,homepage ok; no blog found at /blog (status 404),no,,71.0,https://www.perkbox.com/blog
+Attio,attio.com,UK,CRM,B,,not checked: crawl stopped at Apify usage cap,no,,77.0,
+Onfido,onfido.com,UK,Identity verification,B,3.7,homepage ok; no blog found at /blog (status None),no,,76.0,
+Cloudsmith,cloudsmith.com,UK,Package management,B,4.0,homepage ok; no blog found at /blog (status None),no,,72.0,
+Luminance,luminance.com,UK,Legal AI,B,3.7,homepage ok; no blog found at /blog (status 404),no,,67.0,https://www.luminance.com/blog
+Tractable,tractable.ai,UK,AI for insurance,B,4.0,homepage ok; no blog found at /blog (status 404),no,,60.0,https://tractable.ai/blog
+Signal AI,signal-ai.com,UK,Risk and reputation AI,B,3.0,homepage thin or not loaded; no blog found at /blog (status 404),no,,65.0,https://signal-ai.com/blog
+Pento,pento.io,UK,Payroll software,B,,not checked: crawl stopped at Apify usage cap,no,,40.0,
+Crezco,crezco.com,UK,Account to account payments,B,4.0,homepage ok; no blog found at /blog (status None),no,,50.0,
+Cleo,meetcleo.com,UK,AI money assistant,B,,not checked: crawl stopped at Apify usage cap,no,,71.0,
+Zego,zego.com,UK,Commercial insurance,B,,not checked: crawl stopped at Apify usage cap,no,,69.0,
+Bud,thisisbud.com,UK,Financial data AI,B,,not checked: crawl stopped at Apify usage cap,no,,55.0,
+Tabby,tabby.ai,UAE,Buy now pay later,B,4.0,homepage ok; no blog found at /blog (status 404),no,,77.0,https://tabby.ai/en-AE/error/404
+Huspy,huspy.com,UAE,Mortgage platform,B,,not checked: crawl stopped at Apify usage cap,no,,46.0,
+Bayut,bayut.com,UAE,Property portal,B,3.0,homepage thin or not loaded; no blog found at /blog (status 503),no,,76.0,https://www.bayut.com/blog
+NymCard,nymcard.com,UAE,Card issuing platform,B,4.0,homepage ok; no blog found at /blog (status None),no,,51.0,
+Network International,network.ae,UAE,Payments provider,B,4.0,homepage ok; no blog found at /blog (status None),no,,63.0,
+Telr,telr.com,UAE,Payment gateway,B,,not checked: crawl stopped at Apify usage cap,no,,62.0,
+Stake,getstake.com,UAE,Property investing,B,,not checked: crawl stopped at Apify usage cap,no,,52.0,
+YAP,yap.com,UAE,Digital banking app,B,,not checked: crawl stopped at Apify usage cap,no,,53.0,
+Zbooni,zbooni.com,UAE,Social commerce payments,B,,not checked: crawl stopped at Apify usage cap,no,,59.0,
+Zenda,zenda.com,UAE,School payments,B,3.0,homepage thin or not loaded; no blog found at /blog (status 404),no,,43.0,https://www.zenda.com/blog
+Hubstaff,hubstaff.com,US,Time tracking software,B,4.0,homepage ok; no blog found at /blog (status None),no,,79.0,
+Freshbooks,freshbooks.com,US,Accounting software,B,4.0,homepage ok; no blog found at /blog (status None),no,,86.0,
