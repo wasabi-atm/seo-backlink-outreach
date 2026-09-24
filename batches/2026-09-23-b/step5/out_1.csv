@@ -1,0 +1,36 @@
+webDomain,firstName,lastName,jobTitle,email,emailStatus,apolloId,contactNote
+semrush.com,Ana,Camarena,Head of Content Strategy,ana.camarena@semrush.com,verified,60b88f4d06565f000102437a,Company 1000+ staff so skipped co-founder; head of content chosen
+kit.com,Caitlin,Miller,Content Marketing Team Lead,cait@kit.com,verified,54a4e8ab7468692fa299566d,Founder not listed in Apollo; content lead fallback
+prezi.com,Adam,Somlai-Fischer,Co-Founder,adam@prezi.com,verified,60d0d46a2574360001738cf8,Co-founder
+veed.io,Sabba,Keynejad,Co-Founder & CEO,sabba@veed.io,verified,66eae8d79dae090001a98507,Co-founder and CEO
+synthesia.io,Borys,Khodan,VP of Marketing,borys.khodan@synthesia.io,verified,66fab16cd5a95b0001e48d22,CEO listed without email; VP Marketing fallback; catch-all domain
+instapage.com,,,,,,,"no contact found: no founder, content or marketing leader with email in Apollo"
+streamyard.com,Dan,Briggs,Co-Founder,dbriggs@streamyard.com,verified,666ab3b918a19f00010acd22,Co-founder
+mux.com,Jon,Dahl,"Co-founder, CEO",jon@mux.com,verified,66f2c89c1b6e2c00011456d2,Co-founder and CEO
+beautiful.ai,Jason,Lapp,CEO,jason@beautiful.ai,verified,66f2b2612f7f2600012023d5,CEO; catch-all domain
+brafton.com,Tom,Agnew,CEO and Founder,tom.agnew@brafton.com,verified,66edabce350fc50001e96dc8,Founder and CEO; catch-all domain
+screencastify.com,,,,,,,no contact found: domain returns no people in Apollo
+ironpaper.com,Jonathan,Franchell,CEO & Founder,jon@ironpaper.com,verified,66f51f350b38b70001968f29,Founder and CEO
+nogood.io,Gayana,Sarkisova,"Senior Director, Growth Marketing",gayana@nogood.io,verified,6109bb3f140c870001234c27,Founder not listed in Apollo; senior marketing lead fallback
+builtvisible.com,,,,,,,no contact found: only Head of Sales and Marketing listed and has no email
+verblio.com,Jamielou,L,SEO Content Marketing Team Lead,jamie.lynn@verblio.com,verified,654c51f8e3af4400014054b7,Founder not listed; content lead fallback; Apollo last name only an initial; catch-all domain
+leanlabs.com,Kevin,Barber,Head of Growth,kevin@lean-labs.com,verified,6a11a721cdb6e300017b4b8c,"Founder has no email; head of growth fallback; email domain lean-labs.com differs from leanlabs.com (Apollo lists lean-labs.com as company primary domain, likely alias, check)"
+napierb2b.com,Phil,Gibson,Head of Content Development,phil@napierb2b.com,verified,5b31d696a6da987115198e9d,Founder not listed; head of content fallback
+kaizen.co.uk,Kamile,Kupryte,Marketing Manager,kamile.kupryte@kaizen.co.uk,verified,5f0f55657e5e2a0001f77a15,Founders and CEO listed without email; marketing manager fallback
+zapier.com,Jessica,Lau,Content Marketing Manager,jessica.lau@zapier.com,verified,63bef28467aca30001737c69,Content marketing manager; catch-all domain
+posthog.com,Natalia,Amorim,Content Marketing Manager,natalia@posthog.com,verified,60d9f9483ec9f00001fe6678,Content marketing manager; catch-all domain
+wrike.com,Shelly,Madden,Head of Content Marketing,shelly.madden@team.wrike.com,verified,61fcc9101b178d000118c733,Head of content; email on team.wrike.com subdomain; catch-all domain
+launchdarkly.com,Justin,Engelland,VP of Marketing,jengelland@launchdarkly.com,verified,66f05b4e60019600017b60df,No content lead listed; VP Marketing; catch-all domain
+propertyfinder.ae,Hamza,Chaoui,Chief Marketing Officer,hamza@propertyfinder.ae,verified,55706bc97369642725db1e00,Head of Content listed without email; CMO fallback
+justworks.com,Ciara,Gormley,"Senior Manager, Content Marketing",cgormley@justworks.com,verified,5d4ed1b3a3ae619e8f5339bc,Content marketing lead
+buzzsprout.com,Kevin,Finn,Co-Founder,kevin@buzzsprout.com,verified,66f4560de74e460001d32b04,Co-founder
+writer.com,May,Habib,Co-founder and CEO,may@writer.com,verified,687f108244634500010f8bc0,Co-founder and CEO; catch-all domain
+wynter.com,Peep,Laja,CEO,peep@wynter.com,verified,66f299f27a45700001326e0b,Founder and CEO
+simpletiger.com,Sean,Smith,Chief Strategy Officer (CSO) & Co-founder,sean@simpletiger.com,verified,59388bfea6da984df28f57cf,Co-founder
+lever.co,,,,,,,"no contact found: only founders listed (no content or marketing roles), Apollo data for Lever looks stale"
+ashbyhq.com,Anum,Hussain,Head of Content,anum@ashbyhq.com,verified,66f7efc7a8551a00012a9705,Head of content; catch-all domain
+gorgias.com,Heather,Adams,VP Marketing,heather.adams@gorgias.com,verified,67f24232bde7b500011b9622,No content lead listed; VP Marketing
+pendo.io,Nathaniel,Brown,Senior Lead Content Marketing Manager,nat.brown@pendo.io,verified,61f4f7496b20190001ae9551,Content marketing lead
+dotdigital.com,Katie,O'Leary,Global Head of Content Marketing,katie.oleary@dotdigital.com,verified,66f9735861199700015642ce,Head of content
+mention-me.com,Macloud,Moyo,Head of Marketing,macloud.moyo@mention-me.com,verified,66f1706274dd450001dcd054,No content lead listed; head of marketing
+multiverse.io,Will,Thompson,Director of B2B Marketing,will.thompson@multiverse.io,verified,66f533598db3620001811cfe,No content lead listed; marketing director; catch-all domain
