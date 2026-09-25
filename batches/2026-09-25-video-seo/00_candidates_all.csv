@@ -1,0 +1,1149 @@
+companyName,webDomain,country,serviceType,pageTitle,videoPlatform,source,hasVideo,videoSchema,videoSchemaGap,videoNote
+Vercel,vercel.com,US,Frontend cloud,Agentic Infrastructure - Vercel,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Airtable,airtable.com,US,Work platform,"Airtable: Build Enterprise-ready AI Workflows, Apps & Agents | Airtable",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Buffer,buffer.com,US,Social media software,Buffer: Social media management for everyone,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+G2,g2.com,US,Software review marketplace,,,past-candidates,unknown,,unknown,homepage did not load for the video check (HTTP 301)
+Docebo,docebo.com,US,Learning platform,AI-First LMS for Enterprise Learning & Skills | Docebo,"wistia, youtube",past-candidates,yes,TRUE,no,"wistia, youtube video with VideoObject in the rendered page, so Apify was skipped"
+Astra Tech,astratech.ae,UAE,Consumer tech,Astra Tech,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Culture Amp UK,cultureamp.com,UK,Employee experience platform,The market-leading employee experience platform | Culture Amp,wistia,past-candidates,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Demandbase,demandbase.com,US,ABM platform,ABM Platform for B2B Sales & Marketing Success | Demandbase,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hala,hala.com,UAE,Payments,,,past-candidates,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Drata,drata.com,US,Compliance automation,The Agentic Trust Management Platform | Drata,,past-candidates,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Workable,workable.com,US,Recruiting software,Workable | All-in-one HR software,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Dext,dext.com,UK,Bookkeeping automation,Online Bookkeeping Software for Small Businesses | Dext,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+Toggl,toggl.com,US,Time tracking software,Toggl: Time Tracking Software & Capacity Planning Tool,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Algolia,algolia.com,US,Search API,The AI search and retrieval platform - Agentic | Generative | Search,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cleo,meetcleo.com,UK,AI money assistant,Cleo makes money better.,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+NymCard,nymcard.com,UAE,Card issuing platform,NymCard — Simplifying how money moves,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hubstaff,hubstaff.com,US,Time tracking software,Time Tracking Software with Productivity Insights | Hubstaff,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hotjar,hotjar.com,US,Website analytics tool,Official Hotjar Site – Sign up for free,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Attio,attio.com,UK,CRM,Attio: The CRM for agentic revenue,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Muck Rack,muckrack.com,US,PR software,,,past-candidates,unknown,,unknown,homepage did not load for the video check (HTTP 307)
+Lever,lever.co,US,Recruiting software,Lever | Modern Recruiting Software & ATS,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+YAP,yap.com,UAE,Digital banking app,YAP UAE,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Primer,primer.io,UK,Payments orchestration,Unified intelligence for payments | Primer,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Faculty,faculty.ai,UK,Applied AI company,Faculty AI - Frontier AI for the frontlines | Faculty,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vidyard,vidyard.com,US,Video platform for sales,Vidyard - Video Tools for Virtual Sales and Marketing Teams,vidyard,past-candidates,yes,FALSE,yes,vidyard video with no VideoObject schema
+Loopio,loopio.com,US,RFP software,Loopio | AI RFP Software with a Competitive Edge,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Brightcove,brightcove.com,US,Enterprise video platform,Brightcove | Leading Video Hosting & Streaming Platform,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Melio,melio.com,US,B2B payments,Pay & get paid: Easy bill paying service for businesses | Melio,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Modulr,modulrfinance.com,UK,Payments infrastructure,Modulr | The Payments Automation Platform,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Netlify,netlify.com,US,Web platform,Push your ideas to the web | Netlify,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Baraka,getbaraka.com,UAE,Investing app,"Invest in US Stocks, ETFs and Options from UAE and GCC | baraka",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CircleCI,circleci.com,US,CI CD platform,Autonomous validation for the AI era - CircleCI,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Tractable,tractable.ai,UK,AI for insurance,Home - Tractable,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ometria,ometria.com,UK,Customer marketing platform,Ometria | Home,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Gem,gem.com,US,Recruiting CRM,Home — Gem,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Peak,peak.ai,UK,AI for business,Peak | Game-Changing AI Software.,wistia,past-candidates,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Maxio,maxio.com,US,SaaS billing,Billing and Financial Reporting for B2B SaaS & AI | Maxio,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Copper,copper.com,US,CRM,CRM Software Solutions Company for Service Businesses | Copper CRM,wistia,past-candidates,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Gorilla,gorilla.co,US,Accounting software,Gorilla | Energy Margin Intelligence,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Paystand,paystand.com,US,B2B payments,Agentic B2B Payment Network | AR and Expense | Paystand,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Instapage,instapage.com,US,Landing page platform,Best Landing Page Builder & Software - Create High-Converting Landing Pages | Instapage,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bud,thisisbud.com,UK,Financial data AI,Home | Bud Financial,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fathom,fathom.ai,US,AI meeting notes,Fathom AI Notetaker - Never Take Notes Again,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Genie,genie.ae,UAE,AI assistant,Genie,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Brightpearl,brightpearl.com,UK,Retail operations software,#1 Retail Operating System - For Multichannel Ecommerce - Brightpearl,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TrustRadius,trustradius.com,US,Software review platform,"TrustRadius: Software Reviews, Software Comparisons and More",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Satago,satago.com,UK,Cash flow tools,,,past-candidates,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Hippo Video,hippovideo.io,US,Video sales platform,"Automate Video Creation with Agentic AI – Scalable, Multilingual Video Pitches",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zbooni,zbooni.com,UAE,Social commerce payments,Home | The ultimate social commerce platform,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Crezco,crezco.com,UK,Account to account payments,Crezco: Embedded Payments API - Crezco,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Casted,casted.us,US,Podcast marketing platform,LiveJasmin.com - Hot Live Sex Shows!,html5,past-candidates,yes,,unknown,Apify not run on this site
+MarketMuse,marketmuse.com,US,Content planning software,AI Content Planning and Optimization Software - MarketMuse,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Frase,frase.io,US,SEO content tool,Frase — SEO & GEO Content Platform for AI Search,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Elai,elai.io,US,AI video generation,Elai.io - The Most Advanced and Intuitive AI Video Generator,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+AXON,axon.ae,UAE,Fintech,Axon | Security. Signage. Solutions.,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BrightEdge,brightedge.com,US,SEO platform,Enterprise SEO Platform | Visibility in AI Search | BrightEdge,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Huntress,huntress.com,US,Managed security platform,Huntress Managed Security Platform: Wrecking Hackers 24/7 | Huntress,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Papaya Global,papayaglobal.com,US,Global payroll platform,Global Payments & Contingent Workforce For Enterprises | Papaya Global,,past-candidates,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Quantexa,quantexa.com,UK,Decision intelligence software,Quantexa - Context Behind Every Decision,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Productboard,productboard.com,US,Product management software,The Agentic Product Management System | Productboard,wistia,past-candidates,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+HireVue,hirevue.com,US,Video interviewing software,Hirevue | Make confident talent decisions,brightcove,past-candidates,yes,FALSE,yes,brightcove video with no VideoObject schema
+Kaltura,kaltura.com,US,Video platform,Kaltura - Agentic Video & AI Avatar Platform for Enterprise,,past-candidates,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Betterworks,betterworks.com,US,Performance management software,Real-Time Performance Management & Talent Intelligence | Betterworks,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Alef Education,alefeducation.com,UAE,Edtech platform,Alef Education | Award Winning K-12 Education Technology,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ON24,on24.com,US,Webinar platform,AI Webinar & Engagement Platform | ON24,youtube,past-candidates,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; youtube video with no VideoObject schema
+MAGNiTT,magnitt.com,UAE,Startup data platform,Home | MAGNiTT,html5,past-candidates,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; html5 video with no VideoObject schema
+Customer.io,customer.io,US,Messaging automation software,Customer.io: Customer Engagement Platform For Better Outcomes,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Scribe,scribe.com,US,Process documentation software,Scribe: Workflow context for teams & AI agents,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Coda,coda.io,US,Docs and workflow software,Coda: Your all-in-one collaborative workspace.,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+ChurnZero,churnzero.com,US,Customer success software,Customer Success Software for Customer Growth - ChurnZero,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Consensus,goconsensus.com,US,Video demo automation,Consensus: Interactive Product Demo Software With AI,hubspot,past-candidates,yes,TRUE,no,"hubspot video with VideoObject in the rendered page, so Apify was skipped"
+Learning Pool,learningpool.com,UK,Learning software,Your Workforce Enablement System | Learn. Perform. Engage.,wistia,past-candidates,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+FloQast,floqast.com,US,Accounting close software,FloQast | Accounting Workflow Automation,wistia,past-candidates,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Tenderd,tenderd.com,UAE,Construction fleet software,AI-Powered Fleet & Equipment Management Software | TENDERD,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kriya,kriya.co,UK,B2B payments and finance,Kriya | B2B PayLater | Invoice Finance | Working Capital Loans,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Magnati,magnati.com,UAE,Payments provider,,,past-candidates,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Simpplr,simpplr.com,US,Employee intranet software,Simpplr: #1 AI Intranet & Employee Experience Platform,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+WriterAccess,writeraccess.com,US,Content writing platform,WriterAccess: Hire Writers and Content Creators,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kustomer,kustomer.com,US,Customer service CRM,AI Customer Service Platform & CRM | Kustomer,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Volt,volt.io,UK,Real-time payments,"Volt: Real-time Payments, Everywhere | Pay by Bank | Volt",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Equals Money,equalsmoney.com,UK,Business payments,,,past-candidates,unknown,,unknown,homepage did not load for the video check (HTTP 202)
+Secureframe,secureframe.com,US,Compliance automation,Secureframe: Build trust. Unlock growth.,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fourth,fourth.com,UK,Hospitality workforce software,Fourth — Workforce Management & Inventory Software,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Alloy,alloy.com,US,Identity and fraud platform,AI-Powered Financial Crime and Customer Risk Management… | Alloy,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Litmus,litmus.com,US,Email marketing software,All-in-One Email Marketing Platform | Tools to Drive Success,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Metadata.io,metadata.io,US,B2B ad automation,Metadata | The Execution Layer for B2B Paid Campaigns,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+Anyword,anyword.com,US,AI copywriting software,Anyword makes AI content perform 76% better.,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Panopto,panopto.com,US,Video platform,Panopto | AI-Powered Video Content Management System,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vendr,vendr.com,US,SaaS buying platform,Vendr - The Authority on Software Pricing Transparency,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Juro,juro.com,UK,Contract management software,Juro | Intelligent contracting,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mutiny,mutinyhq.com,US,Website personalisation software,Mutiny | The sales assistant built for customer-facing work,vimeo,past-candidates,yes,FALSE,yes,vimeo video with no VideoObject schema
+SmartCrowd,smartcrowd.ae,UAE,Property investment platform,SmartCrowd | Online Real Estate Investments in Dubai with High Returns,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Crossbeam,crossbeam.com,US,Partner ecosystem software,The Ecosystem Revenue Platform | Crossbeam,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Featurespace,featurespace.com,UK,Fraud prevention software,Featurespace | Fraud and financial crime management,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Turtl,turtl.co,UK,Content format platform,Turtl: ABM & Revenue Content Platform for B2B Marketers,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Modern Treasury,moderntreasury.com,US,Payment operations software,Modern Treasury - Build Products That Move Money,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cledara,cledara.com,UK,SaaS management software,Cledara | The SaaS Management Platform for Spend & Risk,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Behavox,behavox.com,UK,Compliance AI software,Behavox — AI Compliance and Conduct Surveillance,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Spark Hire,sparkhire.com,US,Video interviewing software,Hiring Software for Lean Teams | Spark Hire,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Canny,canny.io,US,Feedback management software,Canny: AI Customer Feedback Management Software and Tools,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bombora,bombora.com,US,B2B intent data,"Bombora | B2B data provider for Intent, audience and identity",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Stampli,stampli.com,US,Accounts payable automation,Stampli | Procure-to-Pay Platform for Finance Teams,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zinc,zincwork.com,UK,Background check software,Zinc | Award-winning employee background checking software,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Dwolla,dwolla.com,US,Payments API,Bank Payment Infrastructure for Platforms | Dwolla,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+NOW Money,nowmoney.me,UAE,Payroll banking fintech,NOW Money - NOW Money,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cube,cubesoftware.com,US,FP&A software,Agentic finance layer for FP&A | Cube,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+Vbrick,vbrick.com,US,Enterprise video platform,Vbrick | Enterprise Video Solutions,,past-candidates,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Adzooma,adzooma.com,UK,Ad management software,Adzooma | Free PPC Software & All-in-One PPC Management,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+seoClarity,seoclarity.net,US,SEO platform,seoClarity - Unified SEO and AEO Platform,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Tribepad,tribepad.com,UK,Recruitment software,"Recruitment Software for Fairer, Faster, Better Hiring | Tribepad",vimeo,past-candidates,yes,FALSE,yes,vimeo video with no VideoObject schema
+Filtered,filtered.com,UK,Learning software,Filtered Intelligence | The Learning Infrastructure for Enterprise AI,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Capsule CRM,capsulecrm.com,UK,CRM software,CRM Made Simple | Capsule CRM,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Orlo,orlo.tech,UK,Social media management software,Orlo: AI-Optimised Community Engagement Platform,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+Zencastr,zencastr.com,US,Podcast recording platform,"Pro Podcasting, Now in Your Pocket | Zencastr",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hive HR,hive.hr,UK,Employee voice software,Hive - Employee Engagement Platform and Professional Services,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BigMarker,bigmarker.com,US,Webinar platform,"BigMarker - Modern, No-Download Webinar Software",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Baremetrics,baremetrics.com,US,Subscription analytics,Baremetrics: Subscription Analytics for your Business,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Nomod,nomod.com,UAE,Mobile payments app,"The payment links platform to sell anything, anywhere | Nomod",,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+RotaCloud,rotacloud.com,UK,Staff scheduling software,Online Rota Software & Workforce Management · RotaCloud,,past-candidates,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Halr,halr.ai,UK,,AI Voice Agents for B2B Sales Outreach | halr,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kovai.co,kovai.co,UK,,Leading Enterprise Software & SaaS Company in Coimbatore | Kovai.co,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+eTalk SaaS for Education & Corporate Training,etalk.ai,UK,,eTalk Home - eTalk.ai SaaS Software for Live & Blended Learning,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+hackajob,hackajob.com,UK,,Archer from hackajob - the AI hiring agent,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Sharp Brains,sharpbrains.co.uk,UK,,Sharp Brains - Global IT Services & Solutions Provider,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ConnexAI,connex.ai,UK,,ConnexAI,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DICE,dice.fm,UK,,DICE | Tickets for your kind of shows,mux,apollo-lookup-1,yes,,unknown,Apify not run on this site
+proSapient,prosapient.com,UK,,proSapient | Expert Intelligence on Demand,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+YunoJuno,yunojuno.com,UK,,YunoJuno | Freelancer Management System,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Script Assist,scriptassist.co.uk,UK,,Medical Cannabis Clinic Software | Script Assist,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Plentific,plentific.com,UK,,Plentific | Maintenance and Property Management Software,wistia,apollo-lookup-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Flo Health Inc.,flo.health,UK,,"Period tracker, ovulation tracker, pregnancy app | Flo",youtube,apollo-lookup-1,yes,,unknown,Apify not run on this site
+Ultralytics,ultralytics.com,UK,,Ultralytics | Revolutionizing the World of Computer Vision,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lolly.com,lolly.com,UK,,Lolly — One AI-Powered Platform for 360° Intelligence,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Affinity,affinity.studio,UK,,"Affinity | Professional Creative Software, Free for Everyone",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Callsign,callsign.com,UK,,"Fraud Prevention, Authentication and Intelligence - Callsign",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Aurora Energy Research,auroraer.com,UK,,Aurora Energy Research | Trusted global energy intelligence,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Granola,granola.ai,UK,,Granola — The AI Notepad for back-to-back meetings,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Triptease,triptease.com,UK,,Triptease: Increase direct bookings. Full funnel hotel marketing,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Leah,leahai.com,UK,,"Agentic AI for Legal, CLM, Procurement, and Finance - Leah",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Write Bot,writingtools.co.uk,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (net::ERR_NAME_NOT_RESOLVED)
+KYC Hub,kychub.com,UK,,KYC Hub | Fraud & Compliance Infrastructure,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Asite,asite.com,UK,,"Asite, cloud collaboration system for seamless collaboration across disciplines.",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+S2T AI - AI-Powered Investigations,s2t.ai,UK,,S2T.AI | Digital Intelligence & OSINT Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HowNow,hownow.com,UK,,HowNow | Award-winning AI Learning & Upskilling Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Oxane Partners,oxanepartners.com,UK,,Oxane Partners | Private Credit Technology Solution,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BlueOptima,blueoptima.com,UK,,Software Engineering Intelligence from Source Code | BlueOptima,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Evolving Systems,evolving.com,UK,,Evolving Systems – Advanced Solutions for Telecom and CVM,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+MHR,mhrglobal.com,UK,,"MHR: HR, Payroll and Finance Software Solutions",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Plum,withplum.com,UK,,Money for life | Plum,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vortexa,vortexa.com,UK,,Decision Intelligence for Energy Trading | Vortexa,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vertice,vertice.one,UK,,Intelligent Procurement Platform | Vertice,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Swap,swap.com,UK,,The Jay Group—Re-Commerce Solutions | The Jay Group,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Climate AI,climate.ai,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 404)
+Runna,runna.com,UK,,Runna | #1 rated personalized training plans for running,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pelican.ai,pelican.ai,UK,,Pelican AI | AI Payments Platform | AI powered Payments and Compliance,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Genesis Global,genesis.global,UK,,AI Architecture for Capital Markets | Genesis Global,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+IES Ltd.,iesve.com,UK,,Integrated Environmental Solutions | IES,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Orgvue,orgvue.com,UK,,Organizational Design & Workforce Planning Platform | Orgvue,wistia,apollo-lookup-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Banfico,banfico.com,UK,,Banfico - Banfico,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Passivae®,passivae.com,UK,,Passivae,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BKN301,bkn301.com,UK,,Financial Data Infrastructure for Regulated Banking | BKN301,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Doctify,doctify.com,UK,,Doctify | Find and Book Healthcare Providers with Verified Patient Reviews,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Currencycloud,currencycloud.com,UK,,International Payment Solutions & Infrastructure | Currencycloud,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Unmind,unmind.com,UK,,"Unmind | Workplace Mental Health Platform — Therapy, Coaching & EAP",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Centrue,centrue.com,UK,,CenTrue Private Bank - Private Banking for Internationally Structured Wealth,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ESG Book,esgbook.com,UK,,ESG Book | Streamline Sustainability Reporting with ESG Book,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+AMFG,amfg.ai,UK,,AI Manufacturing Quoting Software for Machine Shops | AMFG,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Oxa,oxa.tech,UK,,Autonomous Vehicle Software - Oxa,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Open Innovation AI,openinnovation.ai,UK,,Open Innovation AI – Enterprise AI Infrastructure Simplified,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ecolibrium,ecolibrium.io,UK,,"Ecolibrium - Leveraging AI to Balance People, Planet & Profit",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CitNOW Group,citnowgroup.com,UK,,Transforming the way the automotive world communicates - CitNOW Group,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rezolve Ai,rezolve.com,UK,,Home - Rezolve Ai,vimeo,apollo-lookup-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; vimeo video with no VideoObject schema
+CUBE,cube.global,UK,,CUBE,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MOVE,move.ai,UK,,Move AI - Markerless Motion Capture & 3D Animation,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HR Priya,priyahrms.com,UK,,Ramoji Group - HR,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Opus 2,opus2.com,UK,,Intelligent Legal Software for Law Firms | Opus 2,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+myFitApp,myfitapp.com,UK,,"myFitApp - The all-in-one member app. Your brand, your way.",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+FintechOS,fintechos.com,UK,,The AI Platform for Financial Product Operations | FintechOS,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Winnow,winnowsolutions.com,UK,,AI Food Waste Management for Commercial Kitchens | Winnow,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Thomas,thomas.co,UK,,Homepage | Thomas.co,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Rare Technology,raretechnology.com,UK,,"Rare Technology | Intuitive, award-winning people technology | Home",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Perkbox,perkbox.com,UK,,Global Employee Benefits and Rewards Platform | Perkbox,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ITRS,itrsgroup.com,UK,,Real-Time Observability for Financial Services | ITRS,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Oneday,oneday.com,UK,,OneDay | Personalized Video Automation,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Once For All,onceforall.com,UK,,Once For All | Supply Chain SaaS Solutions for the Construction Industry,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Trayport,trayport.com,UK,,"Trayport | Energy Trading Solution, Software & Market Access",html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+hyperexponential,hyperexponential.com,UK,,Agentic Underwriting Workbench | hyperexponential,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Enate,enate.io,UK,,Enate: AI Orchestration Platform | Agentic AI & Governance,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MishiPay,mishipay.com,UK,,"Mishipay | Skip the line. Just scan, pay, and go. The technology behind frictionless retail",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Paysend,paysend.com,UK,,Paysend — The Global Infrastructure Money Moves On,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fyxer,fyxer.com,UK,,Fyxer | Get ahead of your inbox,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Modo Energy,modoenergy.com,UK,,Energy Market Intelligence for Investors | Modo Energy,wistia,apollo-lookup-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Tyk,tyk.io,UK,,API Management Platform & API Gateway | Tyk.io,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Benifex,benifex.com,UK,,Benifex: Global Employee Benefits,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ApprovalMax,approvalmax.com,UK,,ApprovalMax,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Smart Manufacturing Solutions Technology ltd,sms-tech.org,UK,,SMS Technology | Industry-specific operational performance software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mapp,mapp.com,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Goodlord,goodlord.com,UK,,"Goodlord: Letting Agent Software, Tenant Referencing, Insurance",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Shop Circle,shopcircle.co,UK,,Shop Circle | The AI-native home for mission-critical software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Updapt - an ESG Tech Co.,updapt.com,UK,,ESG Software - Sustainability Data Management & Data Reporting Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+VenPep Group,venpep.com,UK,,Digital Transformation & Software Company | VenPep,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Virtuoso QA,virtuosoqa.com,UK,,Enterprise Test Automation Platform | Virtuoso QA,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Huma,huma.com,UK,,Huma,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+9fin,9fin.com,UK,,9fin | The AI-Native Platform For Modern Credit Teams,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Proactis,proactis.com,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 301)
+Ideagen,ideagen.com,UK,,GRC Software Management Solutions,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+GRC Solutions,grcsolutions.io,UK,,Cyber Security and Compliance Services - GRC Solutions,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Upstream,upstreamsystems.com,UK,,Upstream - Leading in mobile marketing,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Doit,doit.life,UK,,Doit - turn business impact into social impact,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ledgy,ledgy.com,UK,,Equity & Executive Compensation Management Software | Ledgy,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Arbor Education,arbor-education.com,UK,,Arbor – Management Information System (MIS) for schools,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bulb,bulbapp.com,UK,,A Digital Portfolio for Everyone | bulb,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Disguise,disguise.one,UK,,Disguise | The Cutting Edge of Visual Experiences,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Overleaf,overleaf.com,UK,,"Overleaf, Online LaTeX Editor",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Macrobond,macrobond.com,UK,,Macrobond | The all-in-one platform for financial research,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Velaris,velaris.io,UK,,Velaris: The AI Customer Success Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ParentPay Group,parentpaygroup.com,UK,,Homepage | ParentPay Group | Creating more time for learning,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Quoreka,quoreka.com,UK,,Quoreka | CTRM & ETRM Software for Commodity Trading & Operations,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+"Ex Libris, from Clarivate",exlibrisgroup.com,UK,,Ex Libris Library Software : Library Management Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+RDX Works Ltd,radixdlt.com,UK,,Radix DLT | Radically Better Web3,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mozilor,mozilor.com,UK,,Home | Mozilor - Mozilor,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Totalmobile Ltd,totalmobile.com,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+HICX,hicx.com,UK,,"Smarter Supplier Management, Lower Costs, Greater Efficiency",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Proximie,proximie.com,UK,,Proximie | The Operating System for intelligent Operating Rooms.,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Nextgen Clearing Ltd,nextgenclearing.com,UK,,nextgenclearing.com | Explore Clearing Solutions - Get Started Now,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lepide,lepide.com,UK,,Lepide | Directory & Data Security Solution,,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Kuba Group,kubapay.com,UK,,Kuba | The present and future of transport ticketing,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Disperse,disperse.io,UK,,OpenSpace: The Visual Intelligence Platform for Builders,vimeo,apollo-lookup-1,yes,,unknown,Apify not run on this site
+JustPark,justpark.com,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Monite,monite.com,UK,,Monite | Add Invoicing and Payables Automation to your Product,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TBO,businessof.co,UK,,The Business of Marketing,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+poq,poqcommerce.com,UK,,Home | poq - Enterprise native app platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Airfinity Ltd,airfinity.com,UK,,AI-enabled health analytics and forecasting | Airfinity,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SentiSum,sentisum.com,UK,,AI-native CX Intelligence Software | SentiSum,vidyard,apollo-lookup-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+INSTANDA,instanda.com,UK,,Insurance Software Solutions for carriers and MGAs | INSTANDA,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Purple,purple.ai,UK,,"Guest, Staff & Multi-Tenant WiFi Platform | Purple",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+AEMS.ai,aems.ai,UK,,AEMS,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Blippar,blippar.group,UK,,Blippar,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Astrato Analytics,astrato.io,UK,,Astrato | The Fastest Way to Ship Data Apps,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Robin AI,robinai.com,UK,,Robin | Legal AI | AI-Powered Contract Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Thrive,thrivelearning.com,UK,,Learning and Development Platform | L&D Software | Thrive,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Enactor,enactor.co,UK,,Next Generation POS and Unified Commerce Platform | Enactor,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Triple,jointriple.com,UK,,Triple - The transaction intelligence platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ZakApps,zakapps.com,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Codility,codility.com,UK,,Codility: Online Coding Tests & Technical Interviews,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Despatch Cloud,despatchcloud.com,UK,,Helm WMS | AI-Powered Warehouse Management Software,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Sanction Scanner,sanctionscanner.com,UK,,Sanction Scanner: Anti-Money Laundering Solutions - Sanction Scanner,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+AntWorks,ant.works,UK,,AntWorks: Global Leader in Intelligent Document Processing,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+V7,v7labs.com,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (timed out after 90s)
+Kelp,kelpglobal.com,UK,,Kelp | The Intelligent Private Equity Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Aveni,aveni.ai,UK,,AI for Financial Services | Aveni,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zonal,zonal.co.uk,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Lunio,lunio.ai,UK,,Ad traffic verification and protection - powered by AI | Lunio,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Homey,homey.co.uk,UK,,Homey — No more Conveyancing mess.,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Nivoda,nivoda.com,UK,,Home - Nivoda,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+intelliflo,intelliflo.com,UK,,intelliflo Office | UK's Leading Financial Adviser & IFA Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CuspAI,cusp.ai,UK,,CuspAI | AI-powered materials discovery,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Increasingly,increasingly.com,UK,,Home - Increasingly | AI that Boosts Average Order Value,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+JAAQ,jaaq.app,UK,,Closing the Gap Between Questions and Care | JAAQ,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kaluza,kaluza.com,UK,,Energy Intelligence & Optimisation Software - Kaluza,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SeedLegals,seedlegals.com,UK,,The UK's most powerful legal and fundraising platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Indico Labs,indicolabs.io,UK,,PowerPoint Automation for Market Research | Indico Labs,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Synapse,overseaspayments.com,UK,,Overseas Payments | Experience Seamless Transfers Today,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DSMN8 - The Employee Advocacy Platform,dsmn8.com,UK,,DSMN8 | The #1 Employee Advocacy Platform Rated By Users,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+imimobile (part of Webex),imimobile.com,UK,,"Sorry, the website has been stopped",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mycom,mycom.com,UK,,Mycom - AI + Data + Automation,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+XCM,horizoncdp.com,UK,,Horizon - More than ‘just’ a Customer Data Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Warehouse AI,thewarehouse.ai,UK,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (net::ERR_SSL_PROTOCOL_ERROR)
+Nethermind,nethermind.io,UK,,Nethermind | Ethereum Infrastructure & Blockchain Research,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Powtoon,powtoon.com,UK,,Powtoon | The Unified AI Video Platform,mux,apollo-lookup-1,yes,FALSE,yes,mux video with no VideoObject schema
+Neuracore,neuracore.com,UK,,Neuracore: Robot Skill Creation Engine,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Insurwave,insurwave.ai,UK,,"Insurwave | Dynamic risk, scored live",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Target Group,targetgroup.com,UK,,Digital Transformation and BPO specialists | Target Group,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SurrealDB,surrealdb.com,UK,,The unified data layer for AI | SurrealDB,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Wazoku,wazoku.com,UK,,Wazoku - Where Innovation Works,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PawaPay,pawapay.io,UK,,Mobile Money Payments API for Africa — PawaPay,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Electric Miles,electricmiles.com,UK,,Electric Miles | EV Charging Operating Layer (CPMS & SmartFlex),,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Optymyze,optymyze.com,UK,,Built for Compensation. Designed for Performance. | Optymyze,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Proxymity,proxymity.io,UK,,Proxymity | Investor Communications for a Connected World,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Avanza Solutions,avanzasolutions.com,UAE,,Home - Avanza Solutions,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Next Match AI,nextmatch.ai,UAE,,Next Match,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BNC Network,bncnetwork.net,UAE,,BNC Network | The largest construction intelligence platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Datacultr,datacultr.com,UAE,,Digital Debt Collection and Risk Management | Datacultr,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Presight,presight.ai,UAE,,Presight AI | See the Future Today,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Alchemy Group,thealchemygroup.co,UAE,,Alchemy Group | A Tech-First Agency Building for Next-Gen Audiences,html5,apollo-lookup-1,yes,,unknown,Apify not run on this site
+Lyve Global,lyveglobal.com,UAE,,Lyve Logistics and Technology Solutions,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ROAMWORKS,roamworks.com,UAE,,ROAMWORKS,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Unity Infotech,unityinfotech.com,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Postpay,postpay.io,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (net::ERR_NAME_NOT_RESOLVED)
+WovV Technologies,wovvtech.com,UAE,,WovVTech | AI-Powered SaaS Solutions for Business Growth,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Saal.ai,saal.ai,UAE,,We Transform Lives | Creator of AI Enterprise Data Platform DigiXT,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bayanat Smart Solutions,bayanat.ai,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 302)
+Classcard,classcardapp.com,UAE,,Class Management Software for Academies | Classcard,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Nabat,nabat.ai,UAE,,Ecosystem Restoration Company | Nabat.ai,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mobile-Technologies,mobile-technologies.com,UAE,,Home - Mobile Technologies,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+mazeed,mazeed.com,UAE,,Smart Accounting Software for UAE Businesses | mazeed ONE,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ZIWO,ziwo.io,UAE,,Ziwo: Cloud Based Call Center & Contact Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kaso,kaso.ai,UAE,,KASO - AI-Powered Food Procurement,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Codebase Technologies,codebtech.com,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Seena,seena-app.com,UAE,,Zoho,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Teknikforce,teknikforce.com,UAE,,Welcome to Teknikforce.com,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Paismo,paismo.com,UAE,,Best HR and Payroll Software | Paismo,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Enhance,enhancetech.io,UAE,,Enhance Tech,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LOGZ,logzee.com,UAE,,One Powerful CRM for Growing Businesses,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PiLog Group,piloggroup.com,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Servme,servmeco.com,UAE,,Servme | Hospitality Guest Platform,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Paysys Labs,paysyslabs.com,UAE,,Paysys Labs – To Innovate & Serve,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Data Semantics,datasemantics.co,UAE,,Conversational Analytics By DataSemantics: Leading In Data,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MoonTech,moontech.co,UAE,,AI-Agentic Workflow for Influencer Marketing UAE & KSA | MoonTech,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Serri,serri.ai,UAE,,Serri • AI Messaging Infrastructure,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+KMMRCE,kmmrce.com,UAE,,Homepage,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LocAI,locai.ai,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (net::ERR_SSL_PROTOCOL_ERROR)
+ArabyAds,arabyads.com,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+mSocial,msocialverse.com,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 525)
+1XL Universe,1xl.com,UAE,,"1XL Holdings | Strategic Ownership, Partnerships & Capital",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+QuickSync,quicksync.pro,UAE,,QuickSync | Multichannel Inventory Sync,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Trasna,trasna.io,UAE,,"Cellular IoT modules, eSIM, SIM & SoC & device management | Trasna",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Admitad,admitad.com,UAE,,Admitad - Collaboration Platform for Management Partners,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Gibraltar Technologies,gt.technology,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Nano Health Suite,nanohealthsuite.com,UAE,,Collaborative Intelligence for Better Healthcare | Nano Health Suite,,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+PaladinAi,paladintech.ai,UAE,,AI Cybersecurity & Deepfake Detection Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kezana,kezana.net,UAE,,Kezana | Discover and share academic content for the emerging world.,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LumiShare,lumishare.io,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 200)
+IdoubleS,idoubles.net,UAE,,Cyber Threat Modelling Software | AI-Powered CTM — IdoubleS,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SANTECHTURE,santechture.com,UAE,,Home | Santechture,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Location Solutions,locationsolutions.com,UAE,,GPS Fleet Tracking Telematics Services | Location Solutions,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Alpheya,alpheya.com,UAE,,Alpheya,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Mawared HR,mawaredhr.com,UAE,,Mawared HR | AI-Powered Cloud HR & Attendance Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ATOM Insurance,atom-insurance.co,UAE,,ATOM Insurance,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Clara Technologies,clara.co,UAE,,Clara | Seamless digital formations for your company,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Humai,wearehumai.com,UAE,,"Humai | Assurance for AI systems, qualified review for AI work",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Roaa Tech,roaa.tech,UAE,,الصفحة الرئيسية - رؤى التقنية,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Flashy,flashy.ai,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Syncrow,syncrow.ae,UAE,,IoT Automation Solutions Company in Dubai & Riyadh | Syncrow,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+BE,beclub.com,UAE,,BE Club | Build your future with BE,html5,apollo-lookup-1,yes,,unknown,Apify not run on this site
+WegoPro,wegopro.com,UAE,,WegoPro | Corporate Travel & Expense Management Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+NEXSYS ONE,nexsysone.com,UAE,,NEXSYS-ONE End-to-End Software Solutions | NEXSYS-ONE,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+spiderSilk,spidersilk.com,UAE,,spiderSilk - AI-Native Exposure Management,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hloov,hloov.com,UAE,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (net::ERR_SSL_PROTOCOL_ERROR)
+Ntigra,ntigra.com,UAE,,Home | Ntigra,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ClearGrid,cleargrid.co,UAE,,AI Debt Collection Software for UAE & Saudi | ClearGrid,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Eat App,eatapp.co,UAE,,Eat App | The all-in-one reservation platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Transportr,transportr.com,UAE,,"Digital Logistics Solutions in Riyadh, Abu Dhabi, Dubai, & more | Transportr",html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Decibel HCM,decibel360cloud.com,UAE,,Best HCM Solution in Pakistan - Decibel360 | Payroll System,html5,apollo-lookup-1,yes,,unknown,Apify not run on this site
+Keyper,realkeyper.com,UAE,,"Dubai Rent Now, Pay Monthly and Property Management | Keyper",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ABZER,abzer.com,UAE,,A Global Enterprise Software Solution Provider | Abzer,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Newage Software & Solutions,newage-global.com,UAE,,Freight Forwarding Software and Logistics BPO | Newage,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+afina,afinadmp.com,UAE,,afina DMP – First AI-based data monetization platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rain Stella Technologies,rainstellatech.com,UAE,,Rain Stella,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Dalil AI,usedalil.ai,UAE,,Dalil AI is the AI Sales OS built for modern sales teams,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HitPixel,hitpixel.com,UAE,,Hitpixel,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ZagTrader,zagtrader.com,UAE,,"ZagTrader | Global Markets Platform for Banks, Brokers & Fintechs",,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Exafy,exafy.io,UAE,,Exafy – AI Automation Services,youtube,apollo-lookup-1,yes,,unknown,Apify not run on this site
+Filps,filps.com,UAE,,End-to-End Fintech Transformation Partner | Home | Filps,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pemo,pemo.io,UAE,,Best Smart Corporate Cards in Dubai (MENA) | Pemo,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cartrack Middle East,cartrackme.com,UAE,,Cartrack UAE - Home of Connected Vehicles,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+SamTech Middle East,samtech-me.com,UAE,,Home - SamTech,html5,apollo-lookup-1,yes,,unknown,Apify not run on this site
+Careo Ai,careo.ai,UAE,,Careo AI,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Hotdesk,hotdesk.com,UAE,,"Hotdesk | Book Coworking Spaces, Meeting Rooms & Offices Worldwide in Seconds",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Investera,investera.com,UAE,,Investera | Bringing Investment Management Together,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Trisun,thetrisun.com,UAE,,Trisun | Where Code Meets Intelligence,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Amantra,amantra.ai,UAE,,AI Agents for Enterprise | Agentic AI Platform | Amantra,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Teammates.ai,teammates.ai,UAE,,"Teammates — AI Teammates for Support, Sales & Recruiting",,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Platformance.io,platformance.io,UAE,,Platformance | Reach and acquire high-quality customers,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Finitic Information Technologies,finitic.com,UAE,,Finitic Technology,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PACI,paci.ai,UAE,,Best Accounting Services in UAE | Paci,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+growdash,growdash.ai,UAE,,GrowDash - AI Delivery Manager for Restaurants,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Biconomy,biconomy.io,UAE,,Biconomy - Universal Execution Layer for Web3,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Black Lake,blacklake.co,UAE,,blacklake.co,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Perplexity,perplexity.ai,US,,Perplexity,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Applicantz,applicantz.com,US,,Applicantz,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Weekday AI,weekday.works,US,,Weekday: AI Outbound Recruiting for Passive Candidates,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Braintrust,usebraintrust.com,US,,Braintrust — AI-Powered Talent Network for Enterprise,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+"Docker, Inc",docker.com,US,,Docker | Secure Sandboxes for AI Agents,,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+CloudEagle.ai,cloudeagle.ai,US,,Enterprise AI Governance and SaaS Management Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pepper,pepper.inc,US,,"#1 Organic Growth Channel, Run by Pepper",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HackerEarth,hackerearth.com,US,,HackerEarth | AI Powered Interviews and Assessment,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lotus Interworks,lotusinterworks.com,US,,Artificial Intelligence Consulting | Lotus InterWorks,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Talentify.io,talentify.us.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (net::ERR_SSL_PROTOCOL_ERROR)
+Sprinto,sprinto.com,US,,"Autonomous Trust Platform for Compliance, Risk & GRC | Sprinto",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cursor,cursor.com,US,,AI Coding Agent for Building Ambitious Software | Cursor,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+efficiently,efficiently.com,US,,efficiently | Construction rebuilt around intelligence | efficiently,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lucidity,lucidity.cloud,US,,"Lucidity | Intelligent, Autonomous Cloud Storage Optimization.",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+WalkMe,walkme.com,US,,WalkMe - Digital Adoption Platform | AI That Delivers Real ROI,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Zywave,zywave.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+IgniteTech,ignitetech.ai,US,,The AI Enterprise Software Company,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Signzy,signzy.com,US,,Signzy – Global Identity Verification and Compliance Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Careerflow.ai,careerflow.ai,US,,Careerflow - Your Career Copilot | Powerful AI Job Search Tools,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Adobe Marketo,marketo.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (net::ERR_HTTP)
+Turnitin,turnitin.com,US,,"Empower Students to Do Their Best, Original Work | Turnitin",brightcove,apollo-lookup-1,yes,FALSE,yes,brightcove video with no VideoObject schema
+Arcana,arcana.io,US,,Arcana | Portfolio Intelligence for Hedge Funds & Asset Managers,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LivePerson,liveperson.com,US,,The Best Conversational AI Platform for Business | LivePerson,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ultimate Software,ultimatesoftware.com,US,,"UKG HR, pay, and workforce management | UKG",vimeo,apollo-lookup-1,yes,,unknown,Apify not run on this site
+SocialPilot,socialpilot.co,US,,Social Media Management and Scheduling Tool | SocialPilot,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Versapay,versapay.com,US,,Accounts Receivable Automation Software | Versapay,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cloudbeds,cloudbeds.com,US,,#1 Award-Winning Hospitality Management System - Cloudbeds,wistia,apollo-lookup-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Khoros,khoros.ai,US,,Khoros,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Wizehire,wizehire.com,US,,Wizehire: AI Hiring Platform With Human Experts,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mappa,mappa.ai,US,,"AI hiring platform — Hire for fit, performance, and retention | Mappa",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PrismHR,prismhr.com,US,,Home | PrismHR,vimeo,apollo-lookup-1,yes,TRUE,no,"vimeo video with VideoObject in the rendered page, so Apify was skipped"
+ValGenesis,valgenesis.com,US,,AI-Powered Digitalization for Life Sciences | ValGenesis,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ema,ema.ai,US,,"Ema - Universal AI Employee, AI Agents Tool for Enterprise",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Gamma,gamma.app,US,,Just a moment...,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Obsidian Security,obsidiansecurity.com,US,,Secure AI. Fearless Innovation. | Obsidian,wistia,apollo-lookup-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Quillbot,quillbot.com,US,,"Quillbot: Write, Design & Create",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ollama,ollama.com,US,,Ollama,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SketchUp,sketchup.com,US,,SketchUp: 3D Design Software - Bring Your Vision to Life | Trimble,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Maven Clinic,mavenclinic.com,US,,Maven Clinic - The next generation of care for women and families,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Briq,briq.ai,US,,Otto Runs Construction | Briq,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Abacus.AI,abacus.ai,US,,Abacus.AI - The World's First Super Assistant For Professionals And Enterprises.,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+SuperAGI,superagi.com,US,,SuperAGI,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Veracity Software Inc,veracity-us.com,US,,Veracity,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kissflow,kissflow.com,US,,Kissflow | Build Custom Enterprise Apps Fast with AI & Low-Code,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ActiveCampaign,activecampaign.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 307)
+Together AI,together.ai,US,,Together AI | The AI Native Cloud,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Optym,optym.com,US,,Transportation Optimization Software | Optym,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rive,rive.app,US,,Rive — the interactive experience engine,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Quartic,quartic.ai,US,,AI in Manufacturing | Manufacturing Operations Management | Quartic,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cendyn,cendyn.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 301)
+Rokt,rokt.com,US,,Unlock the Moment That Matters Most | Rokt,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Darwix AI,darwix.ai,US,,Darwix AI Indonesia | Enterprise Omni-Channel AI for Multifinance,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Faxoc,faxoc.com,US,,Faxoc | Global Execution Risk Ratings Bureau,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+moCal,mocal.ai,US,,moCal: Free Online Appointment Scheduling - Streamline Your Bookings,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Simplify Healthcare,simplifyhealthcare.com,US,,Payer AI Platform for Health Plans | Simplify Healthcare,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Graphy Inc.,graphy.com,US,,"Graphy - Build & Sell Courses, Memberships, Digital Products and More",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hypersonix Inc.,hypersonix.ai,US,,Retail Pricing & Profit Optimization Software | Hypersonix AI,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+RECRIVIO,recrivio.com,US,,Recrivio,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DAT Freight & Analytics,dat.com,US,,DAT Freight & Analytics - DAT,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Harvey,harvey.ai,US,,Harvey | AI software for legal and professional services,mux,apollo-lookup-1,yes,FALSE,yes,mux video with no VideoObject schema
+testRigor,testrigor.com,US,,AI-Based Test Automation Tool [2026] - testRigor Software Testing,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ITILITE,itilite.com,US,,ITILITE: Best Corporate Travel & Expense Management Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Acumatica,acumatica.com,US,,Acumatica | Cloud ERP Business Management System,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vyro,vyro.ai,US,,"ImagineArt - AI Creative Suite | Images, Videos, Voice",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Arcserve,arcserve.com,US,,"Arcserve | Data Protection, Backup, and Disaster Recovery Solutions",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Replit,replit.com,US,,AI App and Website Builder | Replit,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+bolt,boltinc.com,US,,bolt | The AI-Powered Insurance Distribution Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pixis,pixis.ai,US,,Where creativity meets performance | Pixis,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Silvermine Group,silverminegroup.com,US,,Silvermine Group LLC,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Opkey,opkey.com,US,,AI-Powered Cloud Application Lifecycle Management & Test Automation | Opkey,,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+SMS-Magic,conversive.ai,US,,Turn Conversations Into Outcomes with Conversational AI | Conversive,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Storable,storable.com,US,,AI Self Storage Software for Owners & Operators | Storable,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Sirion,sirion.ai,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 301)
+Nozomi Networks,nozominetworks.com,US,,The Leader in OT Cybersecurity Technology | Nozomi Networks,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Conviva,conviva.ai,US,,Conviva | Real-Time Experience Intelligence for AI Agents,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Articulate,articulate.com,US,,Build effective training for the AI era with Articulate 360 | Articulate,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+PyjamaHR,pyjamahr.com,US,,PyjamaHR: World's Best ATS and Recruitment Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+dbt Labs,getdbt.com,US,,Deliver trusted data with dbt | dbt Labs,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hexnode,hexnode.com,US,,Hexnode | Enterprise Device Management & Security,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HeadSpin,headspin.io,US,,"Real Device Testing Platform for Mobile, Web & OTT - HeadSpin",,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Orange Logic,orangelogic.com,US,,Orange Logic | Digital Asset Management Software (DAM),,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Yellow.ai,yellow.ai,US,,AI Agents for CX and EX Automation - Yellow.ai,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Seceon Inc.,seceon.com,US,,"Leader in Cybersecurity Solutions and Services in USA, India & Threat Detection for Modern Enterprises | Seceon",youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+AppLogic Networks,applogicnetworks.com,US,,The App QoE Company | AppLogic Networks,,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+OneOrigin,oneorigin.us,US,,OneOrigin: Governed AI for Higher Education,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Thinking Machines Lab,thinkingmachines.ai,US,,Thinking Machines Lab,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Chainalysis,chainalysis.com,US,,The Blockchain Data Platform - Chainalysis,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Domo,domo.com,US,,Governed Data for AI Agents | Domo,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Yalo,yalo.ai,US,,Yalo | Plataforma de ventas inteligente con agentes,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+One Identity,oneidentity.com,US,,One Identity | Unified Identity Security,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Teal,tealhq.com,US,,Resume & Job Search Tools: Land Interviews 6x Faster,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+eGain Corporation,egain.com,US,,AI Knowledge Platform for CX and Customer Service Automation | eGain,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Chili Piper,chilipiper.com,US,,Chili Piper | AI Website Conversion Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ClearML,clear.ml,US,,AI Infrastructure Platform | Maximize AI Performance & Scalability | ClearML,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zluri,zluri.com,US,,Zluri | Next-Gen Identity Governance and Administration,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Celigo,celigo.com,US,,#1 rated iPaaS for enterprise automation | Celigo,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Optro,optro.ai,US,,Optro | AI-Powered GRC Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LRN,lrn.com,US,,Ethics & Compliance Program Solutions | LRN,hubspot,apollo-lookup-1,yes,TRUE,no,"hubspot video with VideoObject in the rendered page, so Apify was skipped"
+Qure.ai,qure.ai,US,,Qure AI | AI assistance for Accelerated Healthcare,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+project44,project44.com,US,,Decision Intelligence Platform | project44,wistia,apollo-lookup-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Movable Ink,movableink.com,US,,Movable Ink | The Magic Behind Your Marketing,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Signeasy,signeasy.com,US,,"Intelligent Contract Management: eSign, Store, Renew | Signeasy",,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+"Drift, a Salesloft company",drift.com,US,,AI Chat Agent for B2B Sales,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Visdum,visdum.com,US,,Sales Compensation Software & Commission Management | Visdum,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+DBSync,mydbsync.com,US,,Data Integration and Replication Platform - DBSync,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Inworld AI,inworld.ai,US,,Inworld AI – Realtime AI for consumer-facing applications,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DaVinci Commerce,davincicommerce.ai,US,,DaVinci Commerce | Agentic Commerce Experience Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Flam,flamapp.ai,US,,AI for the internet beyond videos | Flam,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bik.ai,bik.ai,US,,BIK,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TAC Security,tacsecurity.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Hevo Data,hevodata.com,US,,"Hevo Data | ETL, Data Integration & Data Pipeline Platform",youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Pipefy,pipefy.com,US,,Pipefy: AI Agents for Workflow Automation,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Feedzai,feedzai.com,US,,AI-Native Fraud & Financial Crime Prevention Platform| Feedzai,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Swooped,swooped.co,US,,Free AI Resume Builder & Job Search Platform | Swooped,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ClickHouse,clickhouse.com,US,,Fast Open-Source OLAP DBMS | ClickHouse,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TestGrid.io,testgrid.io,US,,AI powered End-to-End Testing Platform - TestGrid,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Billtrust,billtrust.com,US,,Start Generating Cash with AI-powered Accounts Receivable (AR) Software | Billtrust,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+JumpCloud,jumpcloud.com,US,,"JumpCloud: Unified Platform for Identity, Access, & Devices",wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Seclore,seclore.com,US,,Data Security Intelligence | Embrace AI Fearlessly | Seclore,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Tebra,tebra.com,US,,Tebra - EHR and practice management software built for private practices,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+H2O.ai,h2o.ai,US,,"H2O.ai | Convergence of the World’s Best Predictive and Generative AI for Private, Protected Data",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Jitterbit,jitterbit.com,US,,AI-Powered Enterprise Automation & Integration | Jitterbit,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Jack,searchwithjack.com,US,,Search With Jack - Jack applies. You interview.,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Apollo.io,apollo.io,US,,The AI GTM System for Go-to-Market Teams | Apollo,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hebbia,hebbia.com,US,,Hebbia | AI built for the rigor of finance,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+SQUIRE,getsquire.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Fireblocks,fireblocks.com,US,,Fireblocks | Digital Asset & Stablecoin Infrastructure,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Triomics,triomics.com,US,,Triomics,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kimi (Moonshot AI),kimi.ai,US,,Kimi AI with K3 | Built for Agentic Coding & Knowledge Work,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Medable,medable.com,US,,"Medable Clinical Trial Platform (Agentic AI, eCOA, and DCT solutions)",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Securiti AI,securiti.ai,US,,Securiti: DSPM | Data Security | AI Security | PrivacyOps,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+RoboMQ,robomq.io,US,,RoboMQ | Workforce Lifecycle Management & Identity Governance,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+IntegriChain,integrichain.com,US,,Pharmaceutical Commercialization & Market Access Services,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Checkmarx,checkmarx.com,US,,Agentic Application Security Testing Software Platform | Checkmarx,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Snapsheet Inc,snapsheetclaims.com,US,,P&C Claims Management Software | Snapsheet,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+"FourKites, Inc.",fourkites.ai,US,,FourKites: AI-Powered Supply Chain Orchestration,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+"MaxVal Group, Inc.",maxval.com,US,,MaxVal Group | Leading IP Management Solutions & Services,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Amplify,amplify.xyz,US,,Amplify - Coming Soon,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Aurigo Software Technologies,aurigo.com,US,,Aurigo | AI-native Platform for Capital Program Management,youtube,apollo-lookup-1,yes,TRUE,no,"youtube video with VideoObject in the rendered page, so Apify was skipped"
+CleverTap,clevertap.com,US,,Supercharge Your Customer Lifetime Value with CleverTap: The Ultimate All-in-One Customer Engagement Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Astronomer,astronomer.io,US,,Astronomer: The Best Place to Run Apache Airflow®,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cognite,cognite.com,US,,Deploy and Scale Industrial AI | Cognite,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Dataminr,dataminr.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 301)
+BigID,bigid.com,US,,BigID: Enterprise Data Security Platform for DSPM & AI,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Animaker Inc.,animaker.com,US,,Animaker | Animation Maker for Beginners & Pros (Start Free),,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fusemachines,fusemachines.com,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Banyan Cloud,banyancloud.io,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Creatio,creatio.com,US,,AI CRM and Workflow Platform | Creatio,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bubble,bubble.io,US,,Bubble: Build web & mobile apps with the only no-code AI app builder,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HyperVerge,hyperverge.co,US,,Passive Liveness & Face Authentication | Digital KYC,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mi-Case,mi-case.com,US,,"Mi-Case | Corrections, Jail Management & Government Licensing Software",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LotusFlare,lotusflare.com,US,,AI-Native Commerce Platform for Telecom,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Icon,icon.com,US,,The Agency | Icon,mux,apollo-lookup-1,yes,FALSE,yes,mux video with no VideoObject schema
+Circle,circle.so,US,,Circle | A new era for digital businesses,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Eagle Eye Networks,een.com,US,,AI Video Surveillance & Proactive security | Eagle Eye Networks,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Neo4j,neo4j.com,US,,Neo4j Graph Intelligence Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CONFIDENCIAL,confidencial.io,US,,Confidencial | Advanced Data Protection Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Instabase,instabase.com,US,,"Transform complex, document-heavy workflows with AI agents",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BoomerangFX,boomerangfx.com,US,,#1 Cosmetic Surgery and Medspa Growth Platform - By creator of Morpheus8,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SpotDraft,spotdraft.com,US,,SpotDraft | AI Contract Lifecycle Management Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zest AI,zest.ai,US,,Zest AI,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Responsive,responsive.io,US,,#1 AI RFP Software & G2 Market Leader,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Minitab,minitab.com,US,,Analytics Solutions for Data Analysis & Process Improvement | Minitab,vidyard,apollo-lookup-1,yes,TRUE,no,"vidyard video with VideoObject in the rendered page, so Apify was skipped"
+Clarity AI,clarity.ai,US,,Home | Clarity AI,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Alation,alation.com,US,,Alation Intelligence Operating System,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Luma,lumalabs.ai,US,,Luma | AI Agents for Creative Work,,apollo-lookup-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Laravel,laravel.com,US,,Laravel - The clean stack for Artisans and agents,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Matera,matera.com,US,,Modern Banking Meets Digital Currency | Matera,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Magnet Forensics,magnetforensics.com,US,,Magnet Forensics | Gain an Investigative Edge,vimeo,apollo-lookup-1,yes,,unknown,Apify not run on this site
+Guesty,guesty.com,US,,"Guesty: Airbnb & Vacation Rental Software, Built on AI",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Auth0,auth0.com,US,,Secure AI Agent & User Authentication | Auth0,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Klenty,klenty.com,US,,Sales Engagement Platform & AI Dialer for SDRs | Klenty,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pave,pave.com,US,,AI-Native Compensation Management Software | Pave,wistia,apollo-lookup-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Solytics Partners,solytics-partners.com,US,,"Model Risk, Compliance & AI Governance | Solytics Partners",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Spendflo,spendflo.com,US,,Spendflo | Meet Flo. AI Agents for Procurement.,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Moloco,moloco.com,US,,AI-powered Performance Advertising at Global Scale | Moloco,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Data Works,dataworksinc.com,US,,DataWorks,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+gnani.ai,gnani.ai,US,,Gnani AI | The Frontier Voice AI Company for Enterprise,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PGi,pgi.com,US,,PGI.com - Frankcom IT Service,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Sectigo,sectigo.com,US,,Certificate Management Solutions & SSL Certificates | Sectigo® Official,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Loyyal,loyyal.com,US,,Loyyal,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+iboss,iboss.com,US,,iboss | The AI-Powered SASE Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mighty Networks,mightynetworks.com,US,,"Mighty Networks | Community Platform, Courses & Memberships",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Eqvista,eqvista.com,US,,Eqvista | Equity management and valuations,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+"Textellent, Inc.",textellent.com,US,,Business Texting & Text Message Marketing Solutions - Textellent,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Haptiq,haptiq.com,US,,Haptiq,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Xactly Corp,xactlycorp.com,US,,Sales Performance Management Software Solutions | Xactly,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ushur,ushur.ai,US,,Agentic AI Platform for Customer Experience | Ushur,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+PaxeraHealth,paxerahealth.com,US,,Paxera Health | Medical Imaging AI Platform,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Volante Technologies,volantetech.com,US,,Volante Technologies,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Acoustic,acoustic.com,US,,Intent-Driven Marketing for modern brands | Acoustic,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Skai,skai.io,US,,,,apollo-lookup-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Monte Carlo,montecarlo.ai,US,,Monte Carlo | The Agent Trust Platform For Data + AI Observability,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DeltaX,deltax.com,US,,"DeltaX - AI-driven Advertising - Insights that Empower, Creative that Delights, and Tracking that's Accurate",,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SimplifyVMS,simplifyvms.com,US,,SimplifyVMS - Vendor Management Software | Contingent Staffing,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Aurea,aurea.com,US,,Aurea Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+procol ai,procol.in,US,,Agentic AI for Procurement & Finance | Procol AI,html5,apollo-lookup-1,yes,TRUE,no,"html5 video with VideoObject in the rendered page, so Apify was skipped"
+Bland,bland.ai,US,,Bland | Enterprise Voice AI Platform for Phone Agents,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Drillinginfo,drillinginfo.com,US,,Enverus | Creating the future of energy together.,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Skan AI,skan.ai,US,,Context Graph of Work and Agentic AI Platform | Skan AI,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Weights & Biases,wandb.ai,US,,Weights & Biases: The AI developer platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ColorTokens Inc.,colortokens.com,US,,Be Breach Ready | ColorTokens,youtube,apollo-lookup-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; youtube video with no VideoObject schema
+Ginger,ginger.com,US,,End-to-End Mental Health Care for Organizations | Headspace,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MaintainX,getmaintainx.com,US,,MaintainX | Modern Maintenance and Asset Management Software,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rently,rently.com,US,,Rently | Resident Lifecycle Management Platform,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Innovapptive Inc,innovapptive.com,US,,Revolutionizing Workforce Efficiency | AI-First Connected Worker Solutions | Innovapptive,vidyard,apollo-lookup-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Teramind,teramind.co,US,,Workforce Analytics & Insider Risk Platform | Teramind,youtube,apollo-lookup-1,yes,TRUE,no,"youtube video with VideoObject in the rendered page, so Apify was skipped"
+Acceldata,acceldata.io,US,,Autonomous Data & AI Platform for Hybrid Clouds | Acceldata,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hyring,hyring.com,US,,AI recruiting software for recruiters | Hyring,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CAST,castsoftware.com,US,,Instant insight into your applications | CAST,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Edifecs,edifecs.com,US,,Edifecs is now Cotiviti,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Reltio,reltio.com,US,,Context Intelligence & AI-Powered Data Unification for the Enterprise,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bynry Inc.,bynry.com,US,,Utility Management Platform for SMB Utilities | SMART360 by Bynry,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Scrut Automation,scrut.io,US,,AI Compliance Automation Platform | Scrut Automation,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Artisan,artisan.co,US,,Boost Your Outbound Sales with an AI BDR from Artisan,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Platform9,platform9.com,US,,Enterprise-grade VM & Container Management Platform • Platform9,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mural,mural.co,US,,AI-powered visual workspace for team collaboration | Mural,vidyard,apollo-lookup-1,yes,TRUE,no,"vidyard video with VideoObject in the rendered page, so Apify was skipped"
+Linear,linear.app,US,,Linear – The system for product development,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fieldwire by Hilti,fieldwire.com,US,,Real-Time Jobsite Management Software | Fieldwire by Hilti | Fieldwire by Hilti,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Resecurity,resecurity.com,US,,Cybersecurity Solutions and Services | Resecurity,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Posit PBC,posit.co,US,,Posit | Data Science Platform for Enterprise Teams,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Cogent Labs,cogentlabs.co,US,,Boring AI That Works for SMBs | Cogent Labs,,apollo-lookup-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Wand AI,wand.ai,US,,Your Future Workforce | Wand AI,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+System1,system1group.com,UK,,System1 Group | The Creative Effectiveness Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+LoopMe,loopme.ai,UK,,Home - LoopMe | Bringing Brands into Apps,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Foundry,foundry.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Hudl Statsbomb,statsbomb.com,UK,,Hudl Statsbomb - The World’s Most Advanced Football Data,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+YouLend,youlend.com,UK,,YouLend | Global Embedded Financing Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+what3words,what3words.com,UK,,what3words /// The simplest way to talk about location,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Galytix,galytix.com,UK,,Galytix AI | Specialised AI for FIs,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+XYZ Reality,xyzreality.com,UK,,XYZ Reality | Construction delivery platform for data… | XYZ Reality,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+eviivo,eviivo.com,UK,,eviivo | All-in-One Hospitality PMS for Hotels & Vacation Rentals,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vixio,vixio.com,UK,,Vixio | RegTech for Financial Services & Gambling,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Causaly,causaly.com,UK,,Causaly: The Agentic AI Platform For Life Sciences,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+AmpiFire,ampifire.com,UK,,AmpiFire | Automated Content Creation & Distribution Software,wistia,apollo-video-tech-1,yes,FALSE,yes,wistia video with no VideoObject schema
+BigHand,bighand.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+CarbonChain,carbonchain.com,UK,,CarbonChain | Track emissions. Accelerate climate action.,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pointr,pointr.tech,UK,,"Pointr - AI Mapping, Wayfinding, & Positioning",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Tungsten Network,tungsten-network.com,UK,,E-Invoicing Software & Solutions | Tungsten Automation,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pinewood.AI,pinewood.ai,UK,,"Pinewood.AI | Designed By Car People, For Car People",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Speechmatics,speechmatics.com,UK,,Speechmatics | Speech APIs powering Voice AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ikon Science,ikonscience.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (net::ERR_SOCKET_NOT_CONNECTED)
+Datamaran,datamaran.com,UK,,AI-Powered Governance Platform | Datamaran,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Expert Vehicle Tracking,ramtracking.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Encompass Corporation,encompasscorporation.com,UK,,Corporate Digital Identity | CDI & KYC | Encompass Corporation,"vimeo, wistia",apollo-video-tech-1,yes,TRUE,no,"vimeo, wistia video with VideoObject in the rendered page, so Apify was skipped"
+uMotif,umotif.com,UK,,uMotif | Modern eCOA/ePRO and eConsent Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PerchPeek,perchpeek.com,UK,,PerchPeek - Expert Employee Relocations | 70% Cheaper,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Unitary,unitary.ai,UK,,Unitary,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+EDITED,edited.com,UK,,EDITED - Empowering Intelligent Retail,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Smartly Creative,ad-lib.io,UK,,Ad-Lib.io is Now Part of Smartly | Creative Automation & AI Advertising Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DrDoctor,drdoctor.co.uk,UK,,DrDoctor | The System of Action for the NHS,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PE Ltd (PETEX),petex.com,UK,,Petex Engineering and Structural Geology Software | Petex,vimeo,apollo-video-tech-1,yes,,unknown,no usable Apify result
+Snowplow,snowplow.io,UK,,Customer Context Layer | Snowplow,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BigChange,bigchange.com,UK,,BigChange Lightning: AI Field Service Software for Mobile Teams,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Commotion,gocommotion.com,UK,,Commotion | AI that does more than talk. AI that actually works.,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Reward,rewardinsight.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+InfoSum,infosum.com,UK,,Light up collaborative intelligence. Unlock growth. | InfoSum,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Metaphysic.ai,metaphysic.ai,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Microlise,microlise.com,UK,,Microlise | Telematics & Technology Solutions for Fleet Operators,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Freespace,afreespace.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Vicon,vicon.com,UK,,Award Winning Motion Capture Systems | Vicon,vidyard,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Hook,hook.co,UK,,Hook - AI agents for CS,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Threecolts,threecolts.com,UK,,"Ecommerce Software - Protect Margin, Run Leaner | Threecolts",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Juniper Education,junipereducation.org,UK,,"Software, Training & Professional Services For Schools | Juniper Education",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Person Centred Software Ltd,personcentredsoftware.com,UK,,Person Centred Software | Care management software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Coniq,coniq.com,UK,,"Coniq, the intelligence and loyalty engine for retail destinations",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MetaCompliance,metacompliance.com,UK,,Human Risk Management & Security Awareness | MetaCompliance,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Content Guru,contentguru.com,UK,,Cloud CX Solutions - Content Guru Inc.,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Brainomix,brainomix.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Atarim,atarim.io,UK,,"The AI web agency, plugged into yours - Atarim",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Genasys,genasystech.com,UK,,"Genasys | Insurance Software for Insurers, MGAs and Brokers",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SmartSearch,smartsearch.com,UK,,AML Checks | Anti Money Laundering Solution | SmartSearch,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HyperNym,hypernym.io,UK,,Leading IoT Solutions Provider | HyperNym,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MachineMax,machinemax.io,UK,,MachineMax - Advanced equipment management solution,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ZeroLight,zerolight.com,UK,,ZeroLight | The 3D Product Visualisation Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Street Group,streetgroup.co.uk,UK,,Street Group | Changing the way people move,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Genie AI,genieai.co,UK,,GenieAI - AI Legal Assistant for Contracts & Documents,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+PEXA UK,pexa.co.uk,UK,,PEXA UK | Digital property transactions and completions platform,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+DEMICA,demica.com,UK,,Working Capital Solutions for Corporates | FIS,brightcove,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Definely,definely.com,UK,,Definely – Structured review tools for complex contracts,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Light,light.inc,UK,,Agentic ERP for multi-entity companies | Light,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Manufacture 2030,manufacture2030.com,UK,,Secaro | The Supply Chain Intelligence Network | Secaro,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Dragonpass,dragonpass.com,UK,,Leading Travel & Lifestyle Rewards Platform — Dragonpass,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+nPlan,nplan.io,UK,,nPlan - Forecast and de-risk construction projects with AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ZILO,zilo.co.uk,UK,,ZILO™ | Transfer Agency Software | Cloud-Native TA Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Passionfruit,usepassionfruit.com,UK,,Pip by Passionfruit | Marketing-native vertical AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Nimbus,nimbusmaps.co.uk,UK,,Nimbus Property Data Platform | Source Sites | Mapping Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Valerann,valerann.com,UK,,AI Traffic Management Platform for Road Operators | Valerann,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Wrisk,wrisk.co,UK,,Wrisk – Reengineering the future of automotive insurance,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Concirrus,concirrus.ai,UK,,AI Underwriting Platform for Specialty Insurance,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Weavr.io,weavr.io,UK,,Weavr | Embedded financial solutions for B2B SaaS,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ParentPay,parentpay.com,UK,,Homepage | ParentPay Group | Creating more time for learning,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CommVersion,commversion.com,UK,,CommVersion - Convert More of Your Website Traffic,"vimeo, youtube",apollo-video-tech-1,yes,TRUE,no,"vimeo, youtube video with VideoObject in the rendered page, so Apify was skipped"
+Digital Barriers,digitalbarriers.com,UK,,Unlock the Full Potential of Real-Time Video over Cellular,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Sensat,sensat.co,UK,,Infrastructure Visualisation & Intelligence Platform | Sensat,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+innDex,inndex.co.uk,UK,,The All-in-One Platform for Your Construction Site | innDex,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bromcom,bromcom.com,UK,,Bromcom | Cloud Based School MIS Provider,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vamoos Travel App,vamoos.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Jibble,jibble.io,UK,,Jibble: FREE Time Tracking Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Summize,summize.com,UK,,AI-Powered Contract Intelligence for Legal Teams | Summize,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Igloo Vision,igloovision.com,UK,,Igloo Vision | The Shared Immersive Space Company,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+FilmLight,filmlight.ltd.uk,UK,,FilmLight | Home,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Keepme.ai,keepme.ai,UK,,Antares — The Agent Platform for Multisite Fitness Operators,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Thirdfort,thirdfort.com,UK,,"Thirdfort | ID, AML and Know your business checks | Thirdfort",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Jugo,jugo.io,UK,,Turn Passive Meetings Into High Impact Virtual Events,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Altruistiq,altruistiq.com,UK,,Altruistiq | Climate Intelligence Platform for F&B,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Engage Hub,engagehub.com,UK,,Customer Journey automation and orchestration - Engage Hub - Engage Hub,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Arqit,arqitgroup.com,UK,,Quantum Security Solutions | Arqit,hubspot,apollo-video-tech-1,yes,TRUE,no,"hubspot video with VideoObject in the rendered page, so Apify was skipped"
+iamproperty,iamproperty.com,UK,,Next Gen Agency Solutions - iamproperty,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zap,zap.co.uk,UK,,Zap | Web Design Glasgow | Digital Partner Agency,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Flexzo Ai,flexzo.ai,UK,,AI Healthcare Staffing Platform for the NHS | Flexzo,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+United Fintech,unitedfintech.com,UK,,United Fintech | Global Platform for Finance in the digital age,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TMT ID,tmtid.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Foresight,foresight.works,UK,,Foresight | Predictive Project Delivery,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Patients Know Best,patientsknowbest.com,UK,,World's Largest Personal Health Record - Patients Know Best,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Semble,semble.io,UK,,Private Practice Management Software | Semble,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+OGL Software,ogl.co.uk,UK,,Profit4 ERP Software for UK Businesses | OGL Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PEP Health,pephealth.ai,UK,,Home - PEP Health,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PrimaryBid,primarybid.com,UK,,PrimaryBid,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Gaia,iamgaia.com,UK,,All-in-one recruitment marketing solution | Gaia,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Xiatech,xiatech.io,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Trade Ledger,tradeledger.io,UK,,Home,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PageSuite,pagesuite.com,UK,,Digital Publishing Platform for eEditions & News Apps | PageSuite,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mindflick,mindflick.co.uk,UK,,Mindflick® | The First Performance Psychometric,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MyNewTerm,mynewterm.com,UK,,"Education Job Search | Find Teaching, Leadership & School Support Jobs",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TaxCalc,taxcalc.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+HeadBox,headbox.com,UK,,HeadBox | Meet your global events partner for the AI era,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Gleanin,gleanin.com,UK,,Gleanin | Community Marketing Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Doubleword,doubleword.ai,UK,,"Async & Batch AI Inference, Up to 90% Cheaper | Doubleword",youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+MarktoMarket,marktomarket.io,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Neol,neol.co,UK,,Neol | Transform your data into AI-powered network intelligence,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Netacea,netacea.com,UK,,Home | Netacea,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+AdvantageGo,advantagego.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+RegGenome,reg-genome.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+FairFace,fairface.com,UK,,FAIRFACE.COM | Read Write & Share Best Consumer Reviews,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+elementsuite,elementsuite.com,UK,,"AI-enabled HR, WFM, Payroll, Talent and Benefits software - Zellis",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Sevron Safety Solutions,sevron.co.uk,UK,,Health & Safety Compliance Software for Modern Risk Management | Sevron,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Alphalake Ai,alphalake.ai,UK,,RPA Automation & AI in Health and Human Services - Alphalake AI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Holibob,holibob.tech,UK,,Increase revenue and customer retention effortlessly | Holibob,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+rFpro,rfpro.com,UK,,Automotive Simulation • Driving Simulation • Autonomous Driving • rFpro,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+GSS - Global Screening Services,gss-rose.com,UK,,Global Screening Services - GSS,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Graphnet Health,graphnethealth.com,UK,,Shared Care and Population Health Data Solutions | Graphnet Health,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Pimberly,pimberly.com,UK,,PIM Software for Digital Commerce | Pimberly,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+emotii ltd,emotii.ai,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+FYLD,fyld.ai,UK,,Home,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Stotles,stotles.com,UK,,Stotles: Win public sector contracts & simplify government tendering,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Easol,easol.com,UK,,Easol: Experience Commerce,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+TurinTech AI,turintech.ai,UK,,TurinTech AI · Get more from systems you already run,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Abtrace,abtrace.com,UK,,Abtrace · Proactive Monitoring & Intelligent Recall for Primary Care,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Procentia,procentia.com,UK,,Procentia UK | Procentia GB site,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+AppyWay,appyway.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+POP,wegotpop.com,UK,,Industry Leading Digital Production Tools and Solutions - Entertainment Partners,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Redmill Solutions,redmillsolutions.com,UK,,"Redmill Solutions - Specialist media data management company, providing greater visibility of, and control over, media investments for some of the wor",vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Residently,residently.com,UK,,"Everything renting, all in one place | Residently",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DesignMyNight,designmynight.com,UK,,"UK Nightlife Guide. Discover and book the best bars, restaurants, clubs and pubs in London, Manchester, Glasgow and beyond. | DesignMyNight",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mercaux,mercaux.com,UK,,Mercaux | Empowering In-Store Digital Transformation,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Global Inkjet Systems Ltd (GIS),globalinkjetsystems.com,UK,,Global Inkjet Systems,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fuuse,fuuse.io,UK,,The Flexible Charge Point Management System | Fuuse,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+BR-DGE,br-dge.to,UK,,"Streamlined, leading payment orchestration solution - BR-DGE",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Krotos,krotos.studio,UK,,Krotos Studio | Sound Design Software for Creating Sound Effects,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Resource Guru,resourceguruapp.com,UK,,Resource Guru | Resource management & scheduling software,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+eserv,eserv-int.com,UK,,"Engineering Workflow Efficiency Simplified, Through Digital Twin Innovation - eserv",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+wetracked.io,wetracked.io,UK,,wetracked.io | The #1 Ad Tracking Software for Shopify & WooCommerce,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Crowdhelix,crowdhelix.com,UK,,Building Global Collaboration Networks | Crowdhelix,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Pollinate,pollinate.global,UK,,Digital Experience Platform for Payments & Banking | Pollinate,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MySense,mysense.ai,UK,,MySense Home and Mobile Monitoring For The Elderly | MySense,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+OneUp Sales,oneupsales.com,UK,,Real-Time Recruitment Analytics Software | OneUp Sales,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Meganexus,meganexus.com,UK,,NEC Software Solutions UK completes acquisition of Meganexus to enhance its Justice business - NEC Digital Studio,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+iplicit,iplicit.com,UK,,Cloud-based accounting software | iplicit,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Biorelate,biorelate.com,UK,,"Helping bioinformatics find new targets, validate and prioritise target lists, and understand mechanism of action and target-drug-disease relationship",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Oleeo,oleeo.com,UK,,Talent Acquisition Recruitment Platform | Oleeo,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Wealth Wizards,wealthwizards.com,UK,,Wealth Wizards,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Nomitech,nomitech.com,UK,,Advanced Estimating Software | Nomitech,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Notch,notch.one,UK,,Notch | The Real-time Graphics Tool,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fortris,fortris.com,UK,,Home,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+VU.CITY,vu.city,UK,,"VU.CITY | Visualise, Model and Understand Urban Change in 3D",hubspot,apollo-video-tech-1,yes,TRUE,no,"hubspot video with VideoObject in the rendered page, so Apify was skipped"
+Looper Insights,looperinsights.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Coadjute,coadjute.com,UK,,Coadjute | Overview,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Beekin,beekin.co,UK,,AI Powered Real Estate Revenue Optimization Tools | Beekin,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Limitless,limitlesstech.com,UK,,Limitless — The Modern BPO Built for a More Flexible World,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DeepStream,deep.stream,UK,,DeepStream,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Dye & Durham UK,dyedurham.co.uk,UK,,Dye & Durham – Unified Legal Tech Solutions & Services UK,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+OctaiPipe,octaipipe.ai,UK,,Home - Octaipipe,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Credentially,credentially.io,UK,,Credentially | Healthcare Onboarding & Compliance Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Book Creator,bookcreator.com,UK,,Book Creator - Love Learning - Book Creator app,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+vlayer Labs,vlayer.xyz,UK,,vlayer: Verified user data for businesses that reward users,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+R3 Digital,r3.digital,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (net::ERR_NAME_NOT_RESOLVED)
+Surpass Assessment,surpass.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Treefera,treefera.com,UK,,First-Mile Commodity Intelligence — Treefera,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+autoMEE,automee.uk,UK,,AI Accounting Software Automation Platform | autoMEE,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SpecTec,spectec.net,UK,,SpecTec | Global Leader in Maritime Software Solutions,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Plumerai,plumerai.com,UK,,Plumerai,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kinetic,kineticsoftware.com,UK,,Kinetic homepage - Kinetic,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Marine AI,marineai.co.uk,UK,,"MarineAI Ltd – Smarter Ships, Safer Journeys",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Intellegens,intellegens.com,UK,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Forensic Analytics Ltd,forensicanalytics.io,UK,,Forensic Analytics | Experts in digital forensics,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Monument Technology,monument.tech,UK,,Modular Core Banking Platform | Monument Technology,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fractory,fractory.com,UK,,Metal Fabrication in the UK | Scale Your Production with Fractory,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+PCI Pal,pcipal.com,UK,,PCI Compliance - PCI Pal,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Force24,force24.co.uk,UK,,Force24 AI Marketing Automation Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Education Software Solutions,educationsoftwaresolutions.co.uk,UK,,All products - ParentPay Group,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Thinventory,thinventory.com,UK,,Home - Thinventory,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lenses.io,lenses.io,UK,,Lenses.io | AI-assisted data streaming,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ARKK,arkk.com,UK,,"ARKK | Tax automation, regulatory reporting and digital tagging",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TDX Group,tdxgroup.com,UK,,Collections and Recoveries | Business | Equifax UK,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+4PS by Hilti - UK,4ps.co.uk,UK,,Construction Management Software | 4PS Construct,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rainbird Technologies,rainbird.ai,UK,,Rainbird.ai: Decision automation for regulated work,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+GreenStitch.io,greenstitch.io,UK,,GreenStitch.io - Sustainability Software For Fashion & Lifestyle,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Edenred UK,edenred.co.uk,UK,,Reward Gateway UK | The Employee Engagement Operating System,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Eleco,eleco.com,UK,,Eleco - Smarter Collaboration with Software for the Built Environment,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ortoo,ortooapps.com,UK,,Ortoo Orchestrator,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Eventsforce,eventsforce.com,UK,,Event Management Software Solutions - Manage Events Efficiently - Eventsforce,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Undo,undo.io,UK,,Undo - Runtime context for coding agents,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Bedrock Learning,bedrocklearning.org,UK,,Bedrock Learning,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Advanced Design Technology Ltd.,adtechnology.com,UK,,Advanced Design Technology | Turbomachinery Design Software,"vidyard, hubspot",apollo-video-tech-1,yes,TRUE,no,"vidyard, hubspot video with VideoObject in the rendered page, so Apify was skipped"
+xcd,peoplexcd.com,UK,,Leading HR and Payroll Software | People xcd,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pixaera,pixaera.com,UK,,Safety training built on how people actually learn | Pixaera,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+The Ambassador Platform,theambassadorplatform.com,UK,,The Ambassador Platform | Let your students do the talking,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HSI HandsHQ,handshq.com,UK,,HandsHQ - Smart H&S software to keep your team safe,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+myrecovery,myrecovery.com,UK,,myrecovery,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rolla,rolla.app,UK,,"Rolla, Health Intelligence Platform",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Codeweavers Ltd,codeweavers.net,UK,,Codeweavers | Automotive Retail Software Solutions,vimeo,apollo-video-tech-1,yes,TRUE,no,"vimeo video with VideoObject in the rendered page, so Apify was skipped"
+Thrive Global,thriveglobal.com,US,,Thrive Global | Improving Health and Productivity,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+SevenRooms,sevenrooms.com,US,,Hospitality & Restaurant Marketing & Operations Software | SevenRooms,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Eightfold AI,eightfold.ai,US,,Eightfold AI | AI Native Talent Intelligence Platform,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Atlan,atlan.com,US,,Atlan - The Context Layer for AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Addepar,addepar.com,US,,Home | Addepar,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Checkmate,itsacheckmate.com,US,,Powerful ordering solutions for busy restaurants | Checkmate,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Board,board.com,US,,The Agentic Planning Platform | Board,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Medallion,medallion.co,US,,Automated provider credentialing and enrollment | Medallion,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Atomicwork,atomicwork.com,US,,AI Workforce for Enterprise IT — Agentic ITSM & ESM | Atomicwork,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Altium,altium.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Plivo,plivo.com,US,,Build human-like AI Agents | Plivo,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Sitetracker,sitetracker.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+CrewAI,crewai.com,US,,CrewAI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+GroundTruth,groundtruth.com,US,,GroundTruth | Launch Performance Ads on Every Channel,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bluebeam,bluebeam.com,US,,Construction Collaboration Software - Bluebeam,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+TRM Labs,trmlabs.com,US,,TRM Labs | Agents and intelligence to fight crime,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Mastercam,mastercam.com,US,,Mastercam Software: Your Solution for CNC Programming,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Payscale,payscale.com,US,,Payscale: Compensation Intelligence & Salary Data Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lexia Learning,lexialearning.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+PathAI,pathai.com,US,,PathAI | Pathology Transformed,vidyard,apollo-video-tech-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; vidyard video with no VideoObject schema
+innRoad,innroad.com,US,,Cloud-Based Hotel Management Software | innRoad,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Katalon,katalon.com,US,,Katalon | The AI platform for software quality,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Optibus,optibus.com,US,,Making public transportation better. Together. - Optibus,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+PolyAI,poly.ai,US,,PolyAI: The world's most lifelike voice AI agents,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Copado,copado.com,US,,Copado | Intelligent DevOps Platform for Salesforce,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rithum,rithum.com,US,,Commerce Operations Platform | Rithum,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+EDB,enterprisedb.com,US,,EDB Home - Unleash the Power of Postgres AI at Petabyte Scale,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+"Dragos, Inc.",dragos.com,US,,Your Partner in OT Cybersecurity | Dragos,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Toddle,toddleapp.com,US,,LMS (Learning Management System) for K12 Schools | Toddle,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+DataStax,datastax.com,US,,IBM DataStax,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cresta,cresta.com,US,,AI Agents for Every Customer Conversation | Cresta,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Intellicus Technologies,intellicus.com,US,,Intellicus: Data Engineering and Visualization Platform,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Seesaw Learning,seesaw.com,US,,Elementary Learning Experience Platform | Seesaw,wistia,apollo-video-tech-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Bloomreach,bloomreach.com,US,,The AI Platform for Personalization | Bloomreach,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Netwrix,netwrix.com,US,,Data Security that Starts with Identity™ | Netwrix,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Veracode,veracode.com,US,,Application Risk Management: Secure Your Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Abridge,abridge.com,US,,Generative AI for Clinical Conversations | Abridge,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Docsumo,docsumo.com,US,,Intelligent Document Processing & Document AI Software | Docsumo,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ORO Labs,orolabs.ai,US,,Agentic Procurement Orchestration | ORO Labs,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Total AI Systems,totalaisystems.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Incorta,incorta.com,US,,"Governed Data, Analytics & AI Platform | Incorta",wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Tecsys,tecsys.com,US,,Supply Chain Management Software | Tecsys,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Milestone Inc,milestoneinternet.com,US,,AI-native Digital Experience Platform | Milestone Inc,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Planful,planful.com,US,,Drive Financial Performance with Planful,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Denodo,denodo.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+BEXEL Manager,bexelmanager.com,US,,BIM Project Management Software | BEXEL Manager,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Citeline,citeline.com,US,,"Citeline | Faster, smarter clinical solutions driven by AI",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ZeOmega,zeomega.com,US,,ZeOmega | #1 Best in KLAS | Payer Care Management | Population Health & More,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Persado,persado.com,US,,Persado — The Agentic Creative Agency for Regulated Brands,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Avetta,avetta.com,US,,Contractor Risk Management & Supply Chain Safety | Avetta,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+VitalEdge Technologies,vitaledge.com,US,,"Equipment Dealer Software | ERP, DMS & AI | VitalEdge",vidyard,apollo-video-tech-1,yes,TRUE,no,"vidyard video with VideoObject in the rendered page, so Apify was skipped"
+Keeping Current Matters,keepingcurrentmatters.com,US,,Keeping Current Matters | Real Estate Insights and Content,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Adit,adit.com,US,,All-in-One AI-Powered Practice Management Software | Adit,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Personetics,personetics.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Fundraise Up,fundraiseup.com,US,,The nonprofit digital fundraising platform for online giving | Fundraise Up,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+PriceEasy AI,priceeasy.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Mapbox,mapbox.com,US,,"Mapbox | Maps, Navigation, Search, and Data",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SiteRecon,siterecon.ai,US,,#1 Landscape Mapping Software for Landscapers,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Schrödinger,schrodinger.com,US,,Schrödinger - Physics-based Software Platform for Molecular Discovery & Design,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Owkin,owkin.com,US,,Building the Autonomous AI Scientist | Owkin,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CareStack,carestack.com,US,,All-In-One Dental Practice Management Software | CareStack®,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lookout,lookout.com,US,,Lookout,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Redwood Software,redwood.com,US,,Redwood Software | Autonomous Enterprise AI Orchestration Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Bitwarden,bitwarden.com,US,,"Best Password Manager for Business, Enterprise & Personal | Bitwarden | Bitwarden",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ClearCompany,clearcompany.com,US,,Enterprise Talent Management Software | ClearCo,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Certa,certa.ai,US,,Third Party Risk Management (TPRM) & Compliance | Certa,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+KX,kx.com,US,,The Data Intelligence AI Platform Built For Capital Markets,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+RippleMatch,ripplematch.com,US,,RippleMatch - Your AI Job Matchmaker,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Biz2X,biz2x.com,US,,Successful Business Lending Starts Here - Biz2X,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Reputation,reputation.com,US,,Reputation: The #1 AI-Powered Reputation Management Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Recruit CRM,recruitcrm.io,US,,Recruit CRM | AI-powered ATS & CRM for recruitment firms,youtube,apollo-video-tech-1,yes,TRUE,no,"youtube video with VideoObject in the rendered page, so Apify was skipped"
+Goodera,goodera.com,US,,Scalable Corporate Volunteering Programs - Goodera,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Puppet,puppet.com,US,,Perforce Puppet: Infrastructure Automation & Operations at Scale,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+GRIN,grin.co,US,,Meet Gia | AI for Creator Marketing | GRIN - Influencer Marketing Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Blend,blend.com,US,,"Blend: Digital Lending & Account Opening for Banks, Credit Unions & Mortgage Providers",vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+CommerceIQ,commerceiq.ai,US,,Optimize Your Brand's Visibility in AI Search and Retail Media,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ReversingLabs,reversinglabs.com,US,,Software Supply Chain Security & Threat Intelligence | ReversingLabs,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Extreme Reach,xr.global,US,,XR Extreme Reach | Homepage,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Sonatype,sonatype.com,US,,Sonatype | Secure Software Development with Open Source & AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Avathon,avathon.com,US,,Avathon - Autonomy for Operations,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hyly.AI,hyly.ai,US,,Hyly.AI: True Intelligence for Multifamily,hubspot,apollo-video-tech-1,yes,TRUE,no,"hubspot video with VideoObject in the rendered page, so Apify was skipped"
+Praxie,praxie.com,US,,AI Powered Business Operations Software Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Nooks,nooks.ai,US,,Nooks | Revenue infrastructure for reps and agents,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cofense,cofense.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+EasyGen,easygen.io,US,,EasyGen | AI to write Linkedin posts,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Teachable,teachable.com,US,,"Teachable — Build & Sell Online Courses, Coaching, Memberships & More",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CARTO,carto.com,US,,CARTO - The Agentic GIS Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Agora,agora.io,US,,Real-Time Engagement & Conversational AI Platform | Agora,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+SandboxAQ,sandboxaq.com,US,,Transforming the World with AI and Advanced Computing | SandboxAQ,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Apty,apty.ai,US,,Digital Adoption Platform for Enterprise Software | Apty,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Sendoso,sendoso.com,US,,Sendoso | Gifting & Direct Mail Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+lemlist,lemlist.com,US,,The only platform you need for outbound | lemlist,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PracticeTek,practicetek.com,US,,PracticeTek | Empowering software companies in the retail healthcare market,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+inFeedo AI,infeedo.ai,US,,inFeedo AI™ | Conversational People Experience Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Jumio,jumio.com,US,,Leading AI-Powered Identity Verification Platform | Jumio,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Lytx,lytx.com,US,,Video Telematics and Fleet Management Solutions | Lytx,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Weave,getweave.com,US,,Weave - All-in-one communication platform for small business,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Session AI,sessionai.com,US,,Session AI — Agentic Decisioning for Ecommerce,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Anatomage,anatomage.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (net::ERR_SOCKET_NOT_CONNECTED)
+Carbyne,carbyne.com,US,,Carbyne | Cloud-Native Emergency Communication Response Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Starburst,starburst.io,US,,Enterprise Intelligence Platform | Starburst,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Contentstack,contentstack.com,US,,Agentic Experience Platform | Contentstack,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BuildWitt,buildwitt.com,US,,BuildWitt – BuildWitt Improve,hubspot,apollo-video-tech-1,yes,TRUE,no,"hubspot video with VideoObject in the rendered page, so Apify was skipped"
+illumine,illumine.app,US,,Childcare Management Software for Daycare Centers | Illumine,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MS Shift,msshift.com,US,,"MS SHIFT | The #1 Safety, Security & Operations Platform for Hospitality",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Heartflow,heartflow.com,US,,Heartflow - Decisive Coronary Care,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Edge Impulse,edgeimpulse.com,US,,Edge Impulse | MLOps for Edge AI and Physical AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Anumana,anumana.ai,US,,Anumana - Unlocking the Language of the Heart,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ServiceMax,servicemax.com,US,,Field Service Management Software | ServiceMax | PTC,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Veriff,veriff.com,US,,The Global Leader in Identity Verification Software - Veriff,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Collective Health,collectivehealth.com,US,,Collective Health: Self Funded Employer Health Benefits,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+EverTrue,evertrue.com,US,,Donor Management and Fundraising Software | EverTrue,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Showpad,showpad.com,US,,Showpad | The #1 Revenue Effectiveness & Enablement Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MX,mx.com,US,,#1 Financial Data Platform | MX,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+iVend Retail,ivend.com,US,,Connected Retail Management Solution & POS System | iVend Retail,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Aurora Solar,aurorasolar.com,US,,Homepage | Aurora Solar,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+AssureCare,assurecare.com,US,,AssureCare: Population Health Management,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kintsugi,trykintsugi.com,US,,"Sales Tax Software: Monitor, Collect, File, Stay Compliant | Kintsugi",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Accertify,accertify.com,US,,Accertify | Leading Fraud Prevention & Risk Management Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Bectran,bectran.com,US,,Bectran | Enterprise Connectivity for the Full O2C Lifecycle,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+KUBRA,kubra.com,US,,KUBRA | Expert Customer Experience Management Solutions,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+HSI,hsi.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 307)
+Silverfort,silverfort.com,US,,"Silverfort | Identity Security Platform for AI, AD & Cloud.",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Whova,whova.com,US,,Whova: Award-winning Event Apps & Event Management,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+nTop,ntop.com,US,,nTop • Requirements to design in minutes.,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+EV Connect,evconnect.com,US,,EV Charging Solutions for Your Business | EV Connect,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Zams,zams.com,US,,AI Workers for Business Automation | Zams,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Helium 10,helium10.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 301)
+ClearGov,cleargov.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Voxel51,voxel51.com,US,,Maximize your Physical AI Performance | Try Voxel51,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Empatica,empatica.com,US,,"Empatica | Medical devices, AI and algorithms for remote patient monitoring",vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Certinia,certinia.com,US,,Certinia | Cloud PSA & Financial Management Software Built on Salesforce,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Owner.com,owner.com,US,,Online Ordering and Restaurant Marketing System | Owner.com,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+iBase-t,ibaset.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Attentive.ai,attentive.ai,US,,Attentive.ai | AI that helps construction teams bid more with greater accuracy,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SmartWinnr,smartwinnr.com,US,,The #1 AI Roleplays Platform. Built for Regulated Industries.,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LastPass,lastpass.com,US,,#1 Password Manager with Shadow IT & AI Governance - LastPass,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Valant,valant.io,US,,Behavioral Health EHR | Valant,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Kollx AI,kollx.ai,US,,Kollx AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Locus Technologies,locustec.com,US,,Unified EHS + ESG + Water Software powered by AI,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Incode,incode.com,US,,AI Identity Verification Software & KYC Platform | Incode,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Madison Logic,madisonlogic.com,US,,Account-Based Marketing Platform Solutions | Madison Logic,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rad AI,radai.com,US,,Radiology AI Platform for Reporting & Follow-Up | Rad AI,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Paperflite,paperflite.com,US,,AI-Native Revenue Enablement Platform for Modern Sellers,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+TytoCare,tytocare.com,US,,TytoCare,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Doximity,doximity.com,US,,AI for Doctors,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Earnix,earnix.com,US,,Earnix AIOS | AI Orchestration for Insurance Decisioning,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Harri,harri.com,US,,Harri - HCM & Workforce Management Technology for Service Industries,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Nitrogen,nitrogenwealth.com,US,,Nitrogen | Connected Suite of AI Advisor Products,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Magnite,magnite.com,US,,Magnite - The Largest Independent Sell-Side Advertising Company,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Viant Technology,viantinc.com,US,,Digital Advertising Technology Powered by People l Viant,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Congruent Solutions,congruentsolutions.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+WorkBoard,workboard.com,US,,AI Strategy Execution & OKR Platform | WorkBoardAI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Aera Technology,aeratechnology.com,US,,Aera Technology - The Decision Intelligence Company,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Glider AI,glider.ai,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Qumulo,qumulo.com,US,,Qumulo | Data Simplified Anywhere at Exabyte Scale,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cast AI,cast.ai,US,,Kubernetes Optimization Platform for Performance - Cast AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Skopenow,skopenow.com,US,,Skopenow,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Alkymi,alkymi.io,US,,Alkymi - The Enterprise AI Platform for Private Markets Data,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ImagineSoftware,imagineteam.com,US,,Revenue Cycle Management Software | ImagineSoftware,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Marin Software,marinsoftware.com,US,,Home - Marin Has Been Acquired by Zax Capital,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Rocket.Chat,rocket.chat,US,,Rocket.Chat | Secure CommsOS® for Mission-Critical Operations,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+GumGum,gumgum.com,US,,"GumGum | The Mindset Company™ – CTV, OLV & High Impact Display Advertising",wistia,apollo-video-tech-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Qualia,qualia.com,US,,Digital Real Estate Closing Platform and Settlement Software | Qualia,vidyard,apollo-video-tech-1,yes,TRUE,no,"vidyard video with VideoObject in the rendered page, so Apify was skipped"
+Aderant,aderant.com,US,,"It Starts with the ""A"" - Legal Billing Software - Aderant",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+73 Strings,73strings.com,US,,Valuation & Portfolio Monitoring | 73 Strings,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+ClarisHealth,clarishealth.com,US,,ClarisHealth | Total Payment Integrity Solutions for Health Plans and Payers,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Vetsource,vetsource.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 307)
+Alice,alice.io,US,,"Alice | Secure, Safe, & Trustworthy AI",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Nayya,nayya.com,US,,Meet Nayya: The agentic AI adviser optimizing health and wealth for all,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CHAMP,champtitles.com,US,,CHAMP Titles | Powering Modern Government Through Technology,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Relyance AI,relyance.ai,US,,AI Data Security & Governance Platform | Relyance AI,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lumafield,lumafield.com,US,,Lumafield,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+ParentSquare,parentsquare.com,US,,K-12 Family Engagement Platform for Schools | ParentSquare,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ESO,eso.com,US,,ESO.com | Emergency Management Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ThreatLocker,threatlocker.com,US,,Enterprise Cybersecurity Solutions | ThreatLocker,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ridecell,ridecell.com,US,,Ridecell | Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Glia,glia.com,US,,Banking AI Platform | Glia,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Aerospike,aerospike.com,US,,Aerospike | Aerospike,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cover Genius,covergenius.com,US,,Embedded Protection for Global Digital Brands | Cover Genius,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Exiger,exiger.ai,US,,One platform for end-to-end visibility into your entire supply chain and risk - Exiger,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Zinier,zinier.com,US,,Zinier | No-code customizable field service management software,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Absolute Security,absolute.com,US,,Stop Downtime & Business Disruption | Absolute Security,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Vizcom,vizcom.com,US,,"Vizcom | Turn Sketches into Full-Fidelity 3D Renders, Instantly",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Impact Analytics,impactanalytics.ai,US,,Autonomous AI Agent Orchestration in Retail | Impact Analytics,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zuper,zuper.co,US,,All in One Field Service Management Software & App - Zuper,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Forethought,forethought.ai,US,,The Customer Service AI Platform for Modern Support Teams,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Monetate,monetate.com,US,,Monetate | The Experience Optimization Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Acqueon,acqueon.com,US,,Acqueon - Acqueon Technologies - Acqueon Dialer | Five9,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TransparentBusiness,transparentbusiness.com,US,,TransparentBusiness,vimeo,apollo-video-tech-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; vimeo video with no VideoObject schema
+Nexxen,nexxen.com,US,,Nexxen,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ClassLink,classlink.com,US,,ClassLink | Identity & Access Management for Education,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MINT,mint.ai,US,,MINT | The Agentic System To Control and Govern Your Spend,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Paradox,paradox.ai,US,,Conversational hiring software that gets work done for you — Paradox,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ceipal,ceipal.com,US,,"Unified Talent Platform for Hiring, Vendors & Workforce | Ceipal",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Horizon3.ai,horizon3.ai,US,,Home | Horizon3.ai,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ScienceLogic,sciencelogic.com,US,,ScienceLogic - AI-Driven Observability and ITOps Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Genea,getgenea.com,US,,Genea | Access Control Security - Cloud-Native Software,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Plume,plume.com,US,,Build Better Connections - Plume,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Skyvera,skyvera.com,US,,Welcome to Skyvera - Skyvera,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+BookedBy,bookedby.com,US,,"Salon, Spa & Barber Software",,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Wunderkind,wunderkind.co,US,,Maximize Revenue With AI Decisioning | Unlock Consumer Identity | Wunderkind,hubspot,apollo-video-tech-1,yes,TRUE,no,"hubspot video with VideoObject in the rendered page, so Apify was skipped"
+Casepoint,casepoint.com,US,,"AI-Powered Platform for Government, Legal, and Compliance | Casepoint",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cleerly,cleerly.com,US,,Personalized Analysis and Treatment of Heart Disease | Cleerly,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MealSuite,mealsuite.com,US,,All-in-One Foodservice Software | MealSuite®,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Agora Real,agorareal.com,US,,Agora | Real estate investment management software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cesium,cesium.com,US,,Cesium: The Platform for 3D Geospatial,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PriceLabs,pricelabs.co,US,,Dynamic Pricing & Revenue Management for Vacation Rentals | PriceLabs,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Hyperproof,hyperproof.io,US,,Hyperproof | The GRC Platform That Makes Compliance Easy,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Plex,plex.com,US,,Plex Smart Manufacturing Platform | Rockwell Automation | Plex | US,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+OpenSpace,openspace.ai,US,,OpenSpace: The Visual Intelligence Platform for Builders,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Ottimate,ottimate.com,US,,Ottimate | AI-Powered AP Automation for Profitable Finance Teams,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Siteimprove,siteimprove.com,US,,Agentic Content Intelligence - Siteimprove,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+WebPT,webpt.com,US,,The Leading Physical Therapy Software & Rehab Therapy EMR | WebPT,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Optimove,optimove.com,US,,Optimove | Positionless Marketing Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Vasion,vasion.com,US,,Vasion is Intelligent Print Automation,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zomentum,zomentum.com,US,,The All-in-One Revenue Platform for Service Businesses - Zomentum,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Stellar Cyber,stellarcyber.ai,US,,"SecOps Platform with AI SIEM, NDR, Open XDR & Multi-Layer AI",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ePS (eProductivity Software),epssw.com,US,,ePS CommandCore™ | Unified Packaging Manufacturing Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ensora Health,ensorahealth.com,US,,Ensora Health | EHR & Therapy Practice Management Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Marigold,meetmarigold.com,US,,Marigold | The experts in creating customer loyalty,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Casting Networks,castingnetworks.com,US,,"Casting Networks | Find Auditions, Casting Calls & Acting Jobs",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CallMiner,callminer.com,US,,Conversation Intelligence & Automation Software for CX,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DailyPay,dailypay.com,US,,On-Demand Pay Platform - DailyPay,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Narvar,narvar.com,US,,Narvar | Intelligent Personalization “Beyond Buy”,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+One Network Enterprises,onenetwork.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 522)
+DigiCollect,digicollect.com,US,,DigiCollect | Complex Made Simple!,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Z2Data,z2data.com,US,,Supply Chain Risk Management Platform | Z2Data,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Everlaw,everlaw.com,US,,Everlaw | AI Built for Litigation and Investigations,vimeo,apollo-video-tech-1,yes,TRUE,no,"vimeo video with VideoObject in the rendered page, so Apify was skipped"
+DualEntry,dualentry.com,US,,AI ERP Software | DualEntry,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Front Row,frontrowgroup.com,US,,Front Row | Global Growth Partner for Marketplaces and Commerce,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Campaign Monitor,campaignmonitor.com,US,,Campaign Monitor: Email Marketing Platform & Services,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+WorkSpan,workspan.com,US,,"WorkSpan | Scale revenue processes from Cloud, GSI, and ISV partnerships",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DealRoom,dealroom.net,US,,DealRoom | AI-Powered M&A Operating System for Buyer-Led M&A™,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Click Therapeutics,clicktherapeutics.com,US,,Click Therapeutics - Where Science Meets Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vectorworks,vectorworks.net,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Arize AI,arize.com,US,,"Agent Observability, Evaluation & Improvement Platform | Arize AI",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Tango,tangocard.com,US,,Gift Card Rewards and Services | Tango,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+Trusaic,trusaic.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+Anju Software,anjusoftware.com,US,,Anju: Empowering Life Sciences with Smart Innovation,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DX,getdx.com,US,,DX: Developer Intelligence Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Moxo,moxo.com,US,,Moxo | Human-AI workflow automation for business operations,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+OneSpan,onespan.com,US,,"eSignature, Authentication, Mobile App Security | OneSpan",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Numerix,numerix.com,US,,Homepage | Numerix,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Noodle,noodle.com,US,,Higher Ed Solutions from Ad to Grad and Beyond | Full-Funnel Services and Products by Noodle,vimeo,apollo-video-tech-1,yes,TRUE,no,"vimeo video with VideoObject in the rendered page, so Apify was skipped"
+Modal,modal.com,US,,Modal: High-performance AI infrastructure,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Honeycomb,honeycomb.io,US,,Honeycomb: AI-Ready Observability Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Applause,applausehq.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Persefoni,persefoni.com,US,,Persefoni AI – Carbon Accounting and Sustainability Management Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Catchpoint,catchpoint.com,US,,Catchpoint | Internet Performance Monitoring (IPM),,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Lone Wolf Technologies,lwolf.com,US,,Complete real estate brokerage software | Lone Wolf Technologies,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Zeitview,zeitview.com,US,,Zeitview | AI-Powered Asset Intelligence & Drone Inspections,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+XLSCOUT,xlscout.ai,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+1Kosmos,1kosmos.com,US,,Identity Verification & Passwordless Solutions | 1Kosmos,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Renew Home,renewhome.com,US,,Renew Home | Energy Management Platform & VPP,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Dynatron Software,dynatronsoftware.com,US,,Dynatron Software - Increase Your Fixed Ops Profitability,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Actian,actian.com,US,,CHEQ banner,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Profit.co,profit.co,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 403)
+LeagueApps,leagueapps.com,US,,LeagueApps - The Best Youth Sports Management Software,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Medivis,medivis.com,US,,Medivis | Homepage,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Athelas,athelas.com,US,,Athelas - AI to grow your healthcare business,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+D-ID,d-id.com,US,,D-ID | The #1 Choice for AI Generated Video Creation Platform,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Rubicon,rubicon.com,US,,Rubicon | Waste and Recycling Solutions,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Pricefx,pricefx.com,US,,AI-First Pricing Intelligence Platform | Pricefx,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+VergeSense,vergesense.com,US,,The Workplace AI Platform | VergeSense,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Digistore24,digistore24.com,US,,Automate Your Online Sales & Affiliate Commissions | Digistore24,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Protegrity,protegrity.com,US,,Protegrity | AI Security and Data Protection for Enterprises,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+BuildOps,buildops.com,US,,BuildOps: Commercial Contractor Management Software,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Xenia,xenia.team,US,,Xenia: AI-Powered Frontline Operations Execution App,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cymulate,cymulate.com,US,,Cymulate | AI-Powered Exposure Validation,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fortress Information Security,fortressinfosec.com,US,,Critical Supply Chain Cybersecurity | Fortress,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Apex Fintech Solutions,apexfintechsolutions.com,US,,Modern Wealth Tech for Digital Investing | Apex Fintech Solutions,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+ONCI,onci.com,US,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 404)
+"AGI, Inc.",theagi.company,US,,"AGI, Inc.",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Enlighted,enlightedinc.com,US,,Home - Enlighted,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Cleareye.ai,cleareye.ai,US,,Homepage - Cleareye | Future-Proof Trade Finance Solutions,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Dark Matter Technologies,dmatter.com,US,,Dark Matter Technologies,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ncontracts,ncontracts.com,US,,"Governance, Risk and Compliance Software | Ncontracts",youtube,apollo-video-tech-1,yes,TRUE,no,"youtube video with VideoObject in the rendered page, so Apify was skipped"
+ExploreLearning,explorelearning.com,US,,K-12 STEM Solutions | ExploreLearning,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+RapidFort,rapidfort.com,US,,RapidFort | Software Supply Chain Security Platform for Containers,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Teletrac Navman,teletracnavman.com,US,,GPS Fleet Tracking Systems - Teletrac Navman US,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Invenco,invenco.com,US,,Solutions to Support Your Unique Business Needs,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ceribell,ceribell.com,US,,Ceribell | Home,vimeo,apollo-video-tech-1,yes,,unknown,Apify not run on this site
+Loop,loopreturns.com,US,,Loop Returns | The Operations Platform Built for Retention,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MeridianLink,meridianlink.com,US,,Digital Lending Platform for Every Financial Institution,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Lunit,lunit.io,US,,Early Detection & Precision Oncology Medical AI Software | Lunit,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Leapsome,leapsome.com,US,,Leapsome | AI-powered HR software and people platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CEQUENS,cequens.com,UAE,,CEQUENS - CPaaS & Business Communication Platform | SMS & Voice APIs,html5,apollo-video-tech-1,yes,TRUE,no,"html5 video with VideoObject in the rendered page, so Apify was skipped"
+Marcura,marcura.com,UAE,,"Maritime Solutions for Voyages, Vessels & Crew | Marcura",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Qashio,qashio.com,UAE,,Qashio | Corporate Card & Spend Management Solution in UAE,vimeo,apollo-video-tech-1,yes,TRUE,no,"vimeo video with VideoObject in the rendered page, so Apify was skipped"
+Hubpay,hubpay.io,UAE,,Multi-Currency Business Account UAE | Global Payments | Hubpay,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+TPConnects Technologies,tpconnects.com,UAE,,NDC & IATA Certified | Modern Air Retailing | TPConnects,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+FlapKap,flapkap.com,UAE,,FlapKap - Turbocharge your business growth,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CNTXT AI,cntxt.tech,UAE,,CNTXT AI | Arabic-First AI & Data Solutions for Enterprises,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+SteerAI,steerai.ai,UAE,,AI-Powered Autonomous Mobility Solutions | SteerAI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Wavetec,wavetec.com,UAE,,Digital Transformation Solutions & Services | Wavetec,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Paysky,paysky.io,UAE,,"Paysky Digital Payment Solutions Egypt, for individuals, businesses, financial institutions & Telecom operators, Issuing & acquiring solutions",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+AppliedAI,opus.com,UAE,,Opus by AppliedAI — Automate Regulated Processes with AI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+COINPAYMENTS,coinpayments.net,UAE,,CoinPayments – Next Generation Crypto Payment Gateway,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MONIIFY,moniify.com,UAE,,Moniify | Content That Builds Wealth,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DTEK.ai,dtek.ai,UAE,,DTEK.ai,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Fortis,wefortis.com,UAE,,All-in-One POS Solutions & Smart POS System in UAE | Fortis,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+"DTP, a Veovo company",dtp.ae,UAE,,"DTP | Technology Solutions for Aviation, Transportation, & Logistics – Data-Driven, Tech-Enabled Planning & Operations",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Swyt.,getswyt.com,UAE,,"IT Support, Security & Services in Dubai & GCC | Swyt",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Ahya,ahya.ai,UAE,,Ahya | AI-powered software for the net-zero era.,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Seez,seez.co,UAE,,Seez,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+MoXey,moxey.ai,UAE,,MoXey | Digital payment solution for mobility & logistic sectors,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+iOL,iol.world,UAE,,Streamline bookings. Automate payments. Amplify your reach. | iOL,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+IPRoyal,iproyal.com,UAE,,"IPRoyal | Premium Quality Proxies, Unbeatable Prices",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Sprii,sprii.io,UAE,,Live Shopping Platform | Sprii | Turn Views into Revenue,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Wellows,wellows.com,UAE,,AI Visibility Platform for Brands & Agencies | Wellows,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Property Monitor,propertymonitor.com,UAE,,Home - Property Monitor,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+DANAOS Projects Software Solutions,danaos-projects.com,UAE,,Danaos Projects – Peranti Lunak ProjectVIEW ERP,wistia,apollo-video-tech-1,yes,TRUE,no,"wistia video with VideoObject in the rendered page, so Apify was skipped"
+ONSITE - Construction Management Solutions,onsite.us,UAE,,Intelligence Construction Management Software | Onsite Construction Cloud,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PrimeXM,primexm.com,UAE,,PrimeXM | Leading Financial Technology Provider,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+PoultrySync,poultrysync.com,UAE,,PoultrySync - Al-Powered Poultry Production Platform,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Estative,estative.com,UAE,,Estative | Dubai Real Estate Investment & Project Sales,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Propchain,propchain.com,UAE,,Propchain | Building the Real Estate Investment Structure,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+ALLO,allo.xyz,UAE,,ALLO | The Leading Tokenization Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Democrance,democrance.com,UAE,,Democrance - AI Insurance Core Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Potential,potential.com,UAE,,AI-powered Learning & Engagement Platform | Potential,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Saphyte,saphyte.com,UAE,,CRM Software - Streamlined CRM Solutions Dubai | Saphyte,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+GLEAC,gleac.com,UAE,,"Lovely Humans, The Humans AI Can't Replace",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CASABOT,casabot.com,UAE,,"CASABOT — The AI Home | Smart Home Automation, Reinvented",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Datahash,datahash.com,UAE,,Datahash: first-party data activation platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Vaulsys,vaulsys.net,UAE,,"Vaulsys Company | CREATING VALUE, ADDING QUALITY",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+haifin,haifin.com,UAE,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (Timeout 45000ms exceeded)
+Pronnel,pronnel.com,UAE,,"AI-Powered Omni Channel Customer Engagement, Voice AI & CRM Platform | Pronnel",,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Openfabric AI,openfabric.ai,UAE,,Layer 1 for Artificial Intelligence,,apollo-video-tech-1,no,TRUE,no,"no video on the homepage, so Apify was skipped"
+Olive Gaea,olivegaea.com,UAE,,Smart Sustainability and Carbon Management Solutions | Olive Gaea,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LoadMe,load-me.com,UAE,,LoadMe - manage your supply chain in the entire World,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Shipwaves,shipwaves.com,UAE,,"International Logistics Solution Provider, Digital Freight Forwarder, Freight Calculator, Best freight rates from India, Real time tracking|Shipwaves",youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+icogz,icogz.com,UAE,,icogz | AI-powered Business Intelligence Solutions,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+01Gov,01gov.com,UAE,,01GOV - Future Now,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Avail,availproject.org,UAE,,Avail - Grow Beyond One Chain,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Climaty AI,climaty.ai,UAE,,Climatyai,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Smithii,smithii.io,UAE,,Smithii - El #1 Toolkit para Lanzar y Gestionar Tokens,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Inboxlogy,inboxlogy.com,UAE,,Inboxlogy — Cold Email Infrastructure for Outbound Teams,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+FinFlx,finflx.com,UAE,,FinFlx for Gratuity Management | HR,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+avtra,avtra.com,UAE,,Welcome to Avtra,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Youcloud Paytech,youcloudpay.com,UAE,,"youcloud — POS, Payments & QR Commerce for SMB Merchants",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+GoYzer Technology Solutions,goyzer.com,UAE,,"Real Estate Property Management Software in Dubai, UAE - CRM Software for Real Estate - Goyzer",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Slangit,slangit.ai,UAE,,Slangit - Empowering With Data,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+HappyTenant,happytenant.io,UAE,,AI-Powered Property Management Software | HappyTenant,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Docupath,docupath.ai,UAE,,Docupath — Built to Understand | AI Document Intelligence,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Property Automate,propertyautomate.com,UAE,,Property Management Software | Property Automate,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Reelly.ai,reelly.ai,UAE,,AI Ecosystem For Real Estate Sellers,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+CustomerIK,customerik.com,UAE,,CustomerIK | Braze Experts for Personalization at Scale,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+MeetAlfred.com,meetalfred.com,UAE,,LinkedIn Automation Tool for Multi-Channel Outreach - Meet Alfred,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Revly,gorevly.com,UAE,,Revly - Making delivery app marketing profitable,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+trakMD,trakmd.com,UAE,,,,apollo-video-tech-1,unknown,,unknown,homepage did not load for the video check (HTTP 400)
+iPOS,ipossoft.com,UAE,,POS Software in Dubai & UAE | Retail & Restaurant | iPOS,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Orbii,orbii.ai,UAE,,Orbii | Infrastructure for Modern Lending,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+LogisEye Solutions,logiseye.com,UAE,,"LogisEye — AI-Powered Logistics & Supply Chain Platform | Dubai, UAE",,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Unitecare Software Solutions,unite.care,UAE,,Unite EMR | Cloud-Based Clinic Management & Compliance Platform,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+Inobitec,inobitec.com,UAE,,Inobitec — Medical Imaging Software for Professionals,,apollo-video-tech-1,no,FALSE,no,"no video on the homepage, so Apify was skipped"
+B2B eStore Builder,b2bestorebuilder.com,UAE,,B2B Wholesale eCommerce Solution,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema

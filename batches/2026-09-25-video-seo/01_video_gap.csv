@@ -1,0 +1,179 @@
+companyName,webDomain,country,serviceType,pageTitle,videoPlatform,source,hasVideo,videoSchema,videoSchemaGap,videoNote
+Toggl,toggl.com,US,Time tracking software,Toggl: Time Tracking Software & Capacity Planning Tool,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Vidyard,vidyard.com,US,Video platform for sales,Vidyard - Video Tools for Virtual Sales and Marketing Teams,vidyard,past-candidates,yes,FALSE,yes,vidyard video with no VideoObject schema
+Netlify,netlify.com,US,Web platform,Push your ideas to the web | Netlify,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Zbooni,zbooni.com,UAE,Social commerce payments,Home | The ultimate social commerce platform,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Elai,elai.io,US,AI video generation,Elai.io - The Most Advanced and Intuitive AI Video Generator,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+HireVue,hirevue.com,US,Video interviewing software,Hirevue | Make confident talent decisions,brightcove,past-candidates,yes,FALSE,yes,brightcove video with no VideoObject schema
+ON24,on24.com,US,Webinar platform,AI Webinar & Engagement Platform | ON24,youtube,past-candidates,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; youtube video with no VideoObject schema
+MAGNiTT,magnitt.com,UAE,Startup data platform,Home | MAGNiTT,html5,past-candidates,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; html5 video with no VideoObject schema
+Coda,coda.io,US,Docs and workflow software,Coda: Your all-in-one collaborative workspace.,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+ChurnZero,churnzero.com,US,Customer success software,Customer Success Software for Customer Growth - ChurnZero,youtube,past-candidates,yes,FALSE,yes,youtube video with no VideoObject schema
+Metadata.io,metadata.io,US,B2B ad automation,Metadata | The Execution Layer for B2B Paid Campaigns,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+Mutiny,mutinyhq.com,US,Website personalisation software,Mutiny | The sales assistant built for customer-facing work,vimeo,past-candidates,yes,FALSE,yes,vimeo video with no VideoObject schema
+Cube,cubesoftware.com,US,FP&A software,Agentic finance layer for FP&A | Cube,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+Tribepad,tribepad.com,UK,Recruitment software,"Recruitment Software for Fairer, Faster, Better Hiring | Tribepad",vimeo,past-candidates,yes,FALSE,yes,vimeo video with no VideoObject schema
+Orlo,orlo.tech,UK,Social media management software,Orlo: AI-Optimised Community Engagement Platform,html5,past-candidates,yes,FALSE,yes,html5 video with no VideoObject schema
+Evolving Systems,evolving.com,UK,,Evolving Systems – Advanced Solutions for Telecom and CVM,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+IES Ltd.,iesve.com,UK,,Integrated Environmental Solutions | IES,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Rezolve Ai,rezolve.com,UK,,Home - Rezolve Ai,vimeo,apollo-lookup-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; vimeo video with no VideoObject schema
+Thomas,thomas.co,UK,,Homepage | Thomas.co,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Oneday,oneday.com,UK,,OneDay | Personalized Video Automation,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Trayport,trayport.com,UK,,"Trayport | Energy Trading Solution, Software & Market Access",html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Tyk,tyk.io,UK,,API Management Platform & API Gateway | Tyk.io,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Ideagen,ideagen.com,UK,,GRC Software Management Solutions,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Upstream,upstreamsystems.com,UK,,Upstream - Leading in mobile marketing,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Disguise,disguise.one,UK,,Disguise | The Cutting Edge of Visual Experiences,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+SentiSum,sentisum.com,UK,,AI-native CX Intelligence Software | SentiSum,vidyard,apollo-lookup-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Despatch Cloud,despatchcloud.com,UK,,Helm WMS | AI-Powered Warehouse Management Software,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+DSMN8 - The Employee Advocacy Platform,dsmn8.com,UK,,DSMN8 | The #1 Employee Advocacy Platform Rated By Users,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Mycom,mycom.com,UK,,Mycom - AI + Data + Automation,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Powtoon,powtoon.com,UK,,Powtoon | The Unified AI Video Platform,mux,apollo-lookup-1,yes,FALSE,yes,mux video with no VideoObject schema
+PawaPay,pawapay.io,UK,,Mobile Money Payments API for Africa — PawaPay,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Servme,servmeco.com,UAE,,Servme | Hospitality Guest Platform,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Alpheya,alpheya.com,UAE,,Alpheya,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Syncrow,syncrow.ae,UAE,,IoT Automation Solutions Company in Dubai & Riyadh | Syncrow,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+NEXSYS ONE,nexsysone.com,UAE,,NEXSYS-ONE End-to-End Software Solutions | NEXSYS-ONE,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Transportr,transportr.com,UAE,,"Digital Logistics Solutions in Riyadh, Abu Dhabi, Dubai, & more | Transportr",html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Cartrack Middle East,cartrackme.com,UAE,,Cartrack UAE - Home of Connected Vehicles,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Careo Ai,careo.ai,UAE,,Careo AI,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+WalkMe,walkme.com,US,,WalkMe - Digital Adoption Platform | AI That Delivers Real ROI,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Turnitin,turnitin.com,US,,"Empower Students to Do Their Best, Original Work | Turnitin",brightcove,apollo-lookup-1,yes,FALSE,yes,brightcove video with no VideoObject schema
+SocialPilot,socialpilot.co,US,,Social Media Management and Scheduling Tool | SocialPilot,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Abacus.AI,abacus.ai,US,,Abacus.AI - The World's First Super Assistant For Professionals And Enterprises.,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Harvey,harvey.ai,US,,Harvey | AI software for legal and professional services,mux,apollo-lookup-1,yes,FALSE,yes,mux video with no VideoObject schema
+Articulate,articulate.com,US,,Build effective training for the AI era with Articulate 360 | Articulate,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Seceon Inc.,seceon.com,US,,"Leader in Cybersecurity Solutions and Services in USA, India & Threat Detection for Modern Enterprises | Seceon",youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Visdum,visdum.com,US,,Sales Compensation Software & Commission Management | Visdum,youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Hevo Data,hevodata.com,US,,"Hevo Data | ETL, Data Integration & Data Pipeline Platform",youtube,apollo-lookup-1,yes,FALSE,yes,youtube video with no VideoObject schema
+JumpCloud,jumpcloud.com,US,,"JumpCloud: Unified Platform for Identity, Access, & Devices",wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Tebra,tebra.com,US,,Tebra - EHR and practice management software built for private practices,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Hebbia,hebbia.com,US,,Hebbia | AI built for the rigor of finance,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+RoboMQ,robomq.io,US,,RoboMQ | Workforce Lifecycle Management & Identity Governance,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Checkmarx,checkmarx.com,US,,Agentic Application Security Testing Software Platform | Checkmarx,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Icon,icon.com,US,,The Agency | Icon,mux,apollo-lookup-1,yes,FALSE,yes,mux video with no VideoObject schema
+Zest AI,zest.ai,US,,Zest AI,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Ushur,ushur.ai,US,,Agentic AI Platform for Customer Experience | Ushur,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+PaxeraHealth,paxerahealth.com,US,,Paxera Health | Medical Imaging AI Platform,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ColorTokens Inc.,colortokens.com,US,,Be Breach Ready | ColorTokens,youtube,apollo-lookup-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; youtube video with no VideoObject schema
+Innovapptive Inc,innovapptive.com,US,,Revolutionizing Workforce Efficiency | AI-First Connected Worker Solutions | Innovapptive,vidyard,apollo-lookup-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Fieldwire by Hilti,fieldwire.com,US,,Real-Time Jobsite Management Software | Fieldwire by Hilti | Fieldwire by Hilti,vimeo,apollo-lookup-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Posit PBC,posit.co,US,,Posit | Data Science Platform for Enterprise Teams,wistia,apollo-lookup-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Wand AI,wand.ai,US,,Your Future Workforce | Wand AI,html5,apollo-lookup-1,yes,FALSE,yes,html5 video with no VideoObject schema
+System1,system1group.com,UK,,System1 Group | The Creative Effectiveness Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Hudl Statsbomb,statsbomb.com,UK,,Hudl Statsbomb - The World’s Most Advanced Football Data,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Galytix,galytix.com,UK,,Galytix AI | Specialised AI for FIs,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+XYZ Reality,xyzreality.com,UK,,XYZ Reality | Construction delivery platform for data… | XYZ Reality,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Causaly,causaly.com,UK,,Causaly: The Agentic AI Platform For Life Sciences,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+AmpiFire,ampifire.com,UK,,AmpiFire | Automated Content Creation & Distribution Software,wistia,apollo-video-tech-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Pointr,pointr.tech,UK,,"Pointr - AI Mapping, Wayfinding, & Positioning",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Pinewood.AI,pinewood.ai,UK,,"Pinewood.AI | Designed By Car People, For Car People",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+BigChange,bigchange.com,UK,,BigChange Lightning: AI Field Service Software for Mobile Teams,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Microlise,microlise.com,UK,,Microlise | Telematics & Technology Solutions for Fleet Operators,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Content Guru,contentguru.com,UK,,Cloud CX Solutions - Content Guru Inc.,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ZeroLight,zerolight.com,UK,,ZeroLight | The 3D Product Visualisation Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Genie AI,genieai.co,UK,,GenieAI - AI Legal Assistant for Contracts & Documents,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+PEXA UK,pexa.co.uk,UK,,PEXA UK | Digital property transactions and completions platform,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Manufacture 2030,manufacture2030.com,UK,,Secaro | The Supply Chain Intelligence Network | Secaro,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Digital Barriers,digitalbarriers.com,UK,,Unlock the Full Potential of Real-Time Video over Cellular,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+FilmLight,filmlight.ltd.uk,UK,,FilmLight | Home,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Altruistiq,altruistiq.com,UK,,Altruistiq | Climate Intelligence Platform for F&B,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Semble,semble.io,UK,,Private Practice Management Software | Semble,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Doubleword,doubleword.ai,UK,,"Async & Batch AI Inference, Up to 90% Cheaper | Doubleword",youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Netacea,netacea.com,UK,,Home | Netacea,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Sevron Safety Solutions,sevron.co.uk,UK,,Health & Safety Compliance Software for Modern Risk Management | Sevron,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Alphalake Ai,alphalake.ai,UK,,RPA Automation & AI in Health and Human Services - Alphalake AI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+rFpro,rfpro.com,UK,,Automotive Simulation • Driving Simulation • Autonomous Driving • rFpro,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Graphnet Health,graphnethealth.com,UK,,Shared Care and Population Health Data Solutions | Graphnet Health,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Pimberly,pimberly.com,UK,,PIM Software for Digital Commerce | Pimberly,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+FYLD,fyld.ai,UK,,Home,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Easol,easol.com,UK,,Easol: Experience Commerce,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Abtrace,abtrace.com,UK,,Abtrace · Proactive Monitoring & Intelligent Recall for Primary Care,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+POP,wegotpop.com,UK,,Industry Leading Digital Production Tools and Solutions - Entertainment Partners,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Mercaux,mercaux.com,UK,,Mercaux | Empowering In-Store Digital Transformation,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Fuuse,fuuse.io,UK,,The Flexible Charge Point Management System | Fuuse,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+BR-DGE,br-dge.to,UK,,"Streamlined, leading payment orchestration solution - BR-DGE",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Krotos,krotos.studio,UK,,Krotos Studio | Sound Design Software for Creating Sound Effects,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+eserv,eserv-int.com,UK,,"Engineering Workflow Efficiency Simplified, Through Digital Twin Innovation - eserv",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Crowdhelix,crowdhelix.com,UK,,Building Global Collaboration Networks | Crowdhelix,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+MySense,mysense.ai,UK,,MySense Home and Mobile Monitoring For The Elderly | MySense,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Book Creator,bookcreator.com,UK,,Book Creator - Love Learning - Book Creator app,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+SpecTec,spectec.net,UK,,SpecTec | Global Leader in Maritime Software Solutions,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Kinetic,kineticsoftware.com,UK,,Kinetic homepage - Kinetic,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Fractory,fractory.com,UK,,Metal Fabrication in the UK | Scale Your Production with Fractory,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Undo,undo.io,UK,,Undo - Runtime context for coding agents,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Bedrock Learning,bedrocklearning.org,UK,,Bedrock Learning,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Thrive Global,thriveglobal.com,US,,Thrive Global | Improving Health and Productivity,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Addepar,addepar.com,US,,Home | Addepar,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Board,board.com,US,,The Agentic Planning Platform | Board,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Medallion,medallion.co,US,,Automated provider credentialing and enrollment | Medallion,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+CrewAI,crewai.com,US,,CrewAI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+PathAI,pathai.com,US,,PathAI | Pathology Transformed,vidyard,apollo-video-tech-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; vidyard video with no VideoObject schema
+Optibus,optibus.com,US,,Making public transportation better. Together. - Optibus,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+PolyAI,poly.ai,US,,PolyAI: The world's most lifelike voice AI agents,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+"Dragos, Inc.",dragos.com,US,,Your Partner in OT Cybersecurity | Dragos,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Seesaw Learning,seesaw.com,US,,Elementary Learning Experience Platform | Seesaw,wistia,apollo-video-tech-1,yes,FALSE,yes,wistia video with no VideoObject schema
+Milestone Inc,milestoneinternet.com,US,,AI-native Digital Experience Platform | Milestone Inc,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+BEXEL Manager,bexelmanager.com,US,,BIM Project Management Software | BEXEL Manager,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ZeOmega,zeomega.com,US,,ZeOmega | #1 Best in KLAS | Payer Care Management | Population Health & More,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Adit,adit.com,US,,All-in-One AI-Powered Practice Management Software | Adit,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Certa,certa.ai,US,,Third Party Risk Management (TPRM) & Compliance | Certa,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+RippleMatch,ripplematch.com,US,,RippleMatch - Your AI Job Matchmaker,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Biz2X,biz2x.com,US,,Successful Business Lending Starts Here - Biz2X,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Blend,blend.com,US,,"Blend: Digital Lending & Account Opening for Banks, Credit Unions & Mortgage Providers",vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Extreme Reach,xr.global,US,,XR Extreme Reach | Homepage,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Agora,agora.io,US,,Real-Time Engagement & Conversational AI Platform | Agora,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Jumio,jumio.com,US,,Leading AI-Powered Identity Verification Platform | Jumio,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Heartflow,heartflow.com,US,,Heartflow - Decisive Coronary Care,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Anumana,anumana.ai,US,,Anumana - Unlocking the Language of the Heart,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Aurora Solar,aurorasolar.com,US,,Homepage | Aurora Solar,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Accertify,accertify.com,US,,Accertify | Leading Fraud Prevention & Risk Management Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+EV Connect,evconnect.com,US,,EV Charging Solutions for Your Business | EV Connect,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Certinia,certinia.com,US,,Certinia | Cloud PSA & Financial Management Software Built on Salesforce,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Rad AI,radai.com,US,,Radiology AI Platform for Reporting & Follow-Up | Rad AI,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Paperflite,paperflite.com,US,,AI-Native Revenue Enablement Platform for Modern Sellers,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Harri,harri.com,US,,Harri - HCM & Workforce Management Technology for Service Industries,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Magnite,magnite.com,US,,Magnite - The Largest Independent Sell-Side Advertising Company,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+WorkBoard,workboard.com,US,,AI Strategy Execution & OKR Platform | WorkBoardAI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Alkymi,alkymi.io,US,,Alkymi - The Enterprise AI Platform for Private Markets Data,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Rocket.Chat,rocket.chat,US,,Rocket.Chat | Secure CommsOS® for Mission-Critical Operations,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+GumGum,gumgum.com,US,,"GumGum | The Mindset Company™ – CTV, OLV & High Impact Display Advertising",wistia,apollo-video-tech-1,yes,FALSE,yes,wistia video with no VideoObject schema
+ClarisHealth,clarishealth.com,US,,ClarisHealth | Total Payment Integrity Solutions for Health Plans and Payers,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Alice,alice.io,US,,"Alice | Secure, Safe, & Trustworthy AI",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+ParentSquare,parentsquare.com,US,,K-12 Family Engagement Platform for Schools | ParentSquare,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Exiger,exiger.ai,US,,One platform for end-to-end visibility into your entire supply chain and risk - Exiger,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Zinier,zinier.com,US,,Zinier | No-code customizable field service management software,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Absolute Security,absolute.com,US,,Stop Downtime & Business Disruption | Absolute Security,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+TransparentBusiness,transparentbusiness.com,US,,TransparentBusiness,vimeo,apollo-video-tech-1,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; vimeo video with no VideoObject schema
+MINT,mint.ai,US,,MINT | The Agentic System To Control and Govern Your Spend,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Horizon3.ai,horizon3.ai,US,,Home | Horizon3.ai,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Genea,getgenea.com,US,,Genea | Access Control Security - Cloud-Native Software,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Skyvera,skyvera.com,US,,Welcome to Skyvera - Skyvera,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+MealSuite,mealsuite.com,US,,All-in-One Foodservice Software | MealSuite®,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Hyperproof,hyperproof.io,US,,Hyperproof | The GRC Platform That Makes Compliance Easy,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+OpenSpace,openspace.ai,US,,OpenSpace: The Visual Intelligence Platform for Builders,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Optimove,optimove.com,US,,Optimove | Positionless Marketing Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+DX,getdx.com,US,,DX: Developer Intelligence Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+OneSpan,onespan.com,US,,"eSignature, Authentication, Mobile App Security | OneSpan",vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+1Kosmos,1kosmos.com,US,,Identity Verification & Passwordless Solutions | 1Kosmos,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+LeagueApps,leagueapps.com,US,,LeagueApps - The Best Youth Sports Management Software,html5,apollo-video-tech-1,yes,FALSE,yes,html5 video with no VideoObject schema
+Athelas,athelas.com,US,,Athelas - AI to grow your healthcare business,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+Fortress Information Security,fortressinfosec.com,US,,Critical Supply Chain Cybersecurity | Fortress,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Apex Fintech Solutions,apexfintechsolutions.com,US,,Modern Wealth Tech for Digital Investing | Apex Fintech Solutions,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Cleareye.ai,cleareye.ai,US,,Homepage - Cleareye | Future-Proof Trade Finance Solutions,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+ExploreLearning,explorelearning.com,US,,K-12 STEM Solutions | ExploreLearning,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+RapidFort,rapidfort.com,US,,RapidFort | Software Supply Chain Security Platform for Containers,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Teletrac Navman,teletracnavman.com,US,,GPS Fleet Tracking Systems - Teletrac Navman US,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+MeridianLink,meridianlink.com,US,,Digital Lending Platform for Every Financial Institution,vidyard,apollo-video-tech-1,yes,FALSE,yes,vidyard video with no VideoObject schema
+SteerAI,steerai.ai,UAE,,AI-Powered Autonomous Mobility Solutions | SteerAI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Wavetec,wavetec.com,UAE,,Digital Transformation Solutions & Services | Wavetec,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+AppliedAI,opus.com,UAE,,Opus by AppliedAI — Automate Regulated Processes with AI,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Seez,seez.co,UAE,,Seez,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+MoXey,moxey.ai,UAE,,MoXey | Digital payment solution for mobility & logistic sectors,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+PoultrySync,poultrysync.com,UAE,,PoultrySync - Al-Powered Poultry Production Platform,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Democrance,democrance.com,UAE,,Democrance - AI Insurance Core Platform,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+Potential,potential.com,UAE,,AI-powered Learning & Engagement Platform | Potential,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+Shipwaves,shipwaves.com,UAE,,"International Logistics Solution Provider, Digital Freight Forwarder, Freight Calculator, Best freight rates from India, Real time tracking|Shipwaves",youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+icogz,icogz.com,UAE,,icogz | AI-powered Business Intelligence Solutions,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema
+MeetAlfred.com,meetalfred.com,UAE,,LinkedIn Automation Tool for Multi-Channel Outreach - Meet Alfred,vimeo,apollo-video-tech-1,yes,FALSE,yes,vimeo video with no VideoObject schema
+B2B eStore Builder,b2bestorebuilder.com,UAE,,B2B Wholesale eCommerce Solution,youtube,apollo-video-tech-1,yes,FALSE,yes,youtube video with no VideoObject schema

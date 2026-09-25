@@ -8,8 +8,9 @@ and whether that video has VideoObject structured data. A video with no VideoObj
 detect renders the homepage of every webDomain with crawl4ai (local Playwright Chromium, free)
 and writes
 
-  video/video_check.csv  webDomain, url, hasVideo (yes/no/unknown), videoPlatform, pageVideoObject, error
-  video/apify_todo.csv   webDomain, url of every homepage with a video
+  video/video_check.csv  webDomain, url, pageTitle, hasVideo (yes/no/unknown), videoPlatform, pageVideoObject, error
+  video/apify_todo.csv   webDomain, url of every homepage with a video and no VideoObject in the
+                         rendered page (if the render already shows one, Apify can't change the answer)
 
 Then Claude runs the Apify actor dev00/google-rich-results-checker through the Apify MCP on each
 todo URL and writes video/apify_results.csv with the columns webDomain, videoObject (TRUE or
@@ -109,8 +110,9 @@ class PageScan(HTMLParser):
         for name, pat in PLAYER_CLASSES:
             if pat.search(a.get("class", "")):
                 self.add(name)
-        # A muted clip with no controls can't be watched or heard: it's a background or UI animation.
-        if tag == "video" and ("controls" in a or "muted" not in a):
+        # A plain <video> only counts with player controls. Without them it's a background or UI
+        # animation (React sets muted as a property, so a missing muted attribute proves nothing).
+        if tag == "video" and "controls" in a:
             self.add("html5")
 
     def handle_endtag(self, tag):
@@ -161,7 +163,9 @@ def short_error(msg):
 async def render_all(domains, workers, timeout):
     from crawl4ai import AsyncWebCrawler, BrowserConfig, CacheMode, CrawlerRunConfig
 
-    base = dict(cache_mode=CacheMode.BYPASS, page_timeout=45000, scan_full_page=True, scroll_delay=0.2, verbose=False)
+    # 20 screens of scrolling is plenty for a homepage and stops endless pages from stalling a worker.
+    base = dict(cache_mode=CacheMode.BYPASS, page_timeout=45000, scan_full_page=True, scroll_delay=0.2,
+                max_scroll_steps=20, verbose=False)
     fast = CrawlerRunConfig(wait_until="domcontentloaded", delay_before_return_html=3, **base)
     # Players that add VideoObject by script can be slow to start when several pages render at
     # once, so a video with no VideoObject is rendered again, alone and slowly, before it counts.
@@ -174,16 +178,17 @@ async def render_all(domains, workers, timeout):
             """Renders one homepage and returns its video_check row."""
             async with sem:
                 url = "https://" + domain
-                t, row = time.time(), dict(webDomain=domain, url=url, hasVideo="unknown", videoPlatform="",
-                                           pageVideoObject="", error="")
+                t, row = time.time(), dict(webDomain=domain, url=url, pageTitle="", hasVideo="unknown",
+                                           videoPlatform="", pageVideoObject="", error="")
                 try:
                     r = await asyncio.wait_for(crawler.arun(url, config=cfg), timeout)
                     if not r.success or (r.status_code or 200) >= 400:
                         row["error"] = f"HTTP {r.status_code}" if r.status_code else short_error(r.error_message)
                     else:
                         plats, vo = scan(r.html or "")
-                        row.update(hasVideo="yes" if plats else "no", videoPlatform=", ".join(plats),
-                                   pageVideoObject="yes" if vo else "no")
+                        title = ((r.metadata or {}).get("title") or "").strip()
+                        row.update(pageTitle=" ".join(title.split())[:150], hasVideo="yes" if plats else "no",
+                                   videoPlatform=", ".join(plats), pageVideoObject="yes" if vo else "no")
                 except asyncio.TimeoutError:
                     row["error"] = f"timed out after {timeout}s"
                 except Exception as e:  # one bad page must not stop the batch
@@ -215,12 +220,13 @@ def detect(args):
     os.makedirs(args.out_dir, exist_ok=True)
     rows = asyncio.run(render_all(domains, args.workers, args.timeout))
     write_rows(os.path.join(args.out_dir, "video_check.csv"),
-               ["webDomain", "url", "hasVideo", "videoPlatform", "pageVideoObject", "error"], rows)
-    todo = [r for r in rows if r["hasVideo"] == "yes"]
+               ["webDomain", "url", "pageTitle", "hasVideo", "videoPlatform", "pageVideoObject", "error"], rows)
+    todo = [r for r in rows if r["hasVideo"] == "yes" and r["pageVideoObject"] == "no"]
     write_rows(os.path.join(args.out_dir, "apify_todo.csv"), ["webDomain", "url"], todo)
 
     failed = [r for r in rows if r["hasVideo"] == "unknown"]
-    print(f"\nRendered {len(rows)} homepages: {len(todo)} with a video, "
+    print(f"\nRendered {len(rows)} homepages: {sum(r['hasVideo'] == 'yes' for r in rows)} with a video "
+          f"({len(todo)} of them with no VideoObject, for Apify), "
           f"{sum(r['hasVideo'] == 'no' for r in rows)} without, {len(failed)} did not load.")
     for r in failed:
         print(f"  {r['webDomain']}: {r['error']}")
@@ -272,7 +278,9 @@ def merge(args):
             # "blocked" falls back to the rendered page, which is what Google sees once it renders.
             schema = "TRUE" if vo == "TRUE" or rendered else "FALSE"
             gap = "no" if schema == "TRUE" else "yes"
-            if status != "ok":
+            if rendered and status == "":
+                notes.append(f"{plats} video with VideoObject in the rendered page, so Apify was skipped")
+            elif status != "ok":
                 notes.append(problem + "; schema read from the rendered page")
             elif rendered and vo == "FALSE":
                 notes.append(f"VideoObject is added by script ({plats}): Apify reads raw HTML and missed it, Google renders it")
