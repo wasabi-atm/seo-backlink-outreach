@@ -15,7 +15,7 @@ The workflow, the ledger, the low-DR pool and every batch live in a private repo
 
 **Before anything else**, including the Step 1 interview and any small task such as marking a batch as sent:
 
-1. Run `sh <repo>/skill/mta-backlink-outreach/scripts/sync.sh pull`. If `<repo>` is missing, first run the same script from this skill's own `scripts/` folder; it will clone the repo.
+1. Run `sh <repo>/skill/mta-backlink-outreach/scripts/sync.sh pull`, on every run, first. It always fetches the latest `main` from GitHub and brings it in, also when the session works on its own branch (cloud sessions do). If `<repo>` is missing, first run the same script from this skill's own `scripts/` folder; it will clone the repo.
 2. If it exits with an error (conflict, no network, no access), stop and tell the user. Never run a batch on a ledger that might be out of date, as that is how a company gets emailed twice.
 3. The repo copy of the skill is the source of truth. If `<repo>/skill/mta-backlink-outreach/SKILL.md` differs from the skill you loaded, read the repo version and follow it instead. Tell the user their claude.ai copy is out of date and should be re-uploaded (see README).
 4. From here on, run scripts from `<repo>/skill/mta-backlink-outreach/scripts/`, not from the loaded skill folder.
@@ -24,7 +24,9 @@ The workflow, the ledger, the low-DR pool and every batch live in a private repo
 
 `sh <repo>/skill/mta-backlink-outreach/scripts/sync.sh push "<short message>"`
 
-Examples: "backlink-2026-10-01: 40 prospects to Checkpoint 1", "backlink-2026-10-01: logged 38 emails as queued", "mark backlink-2026-09-23 as sent". Pushing after each ledger change keeps the window small where another device could pick the same company. If the push fails, stop and tell the user. The ledger and pool use git's union merge, so rows added on two devices at once are both kept. After a merge, run `dedupe.py status` to check the ledger still reads cleanly.
+Examples: "backlink-2026-10-01: 40 prospects to Checkpoint 1", "backlink-2026-10-01: logged 38 emails as queued", "mark backlink-2026-09-23 as sent".
+
+On `main` (the user's Mac), push lands on `main` directly. In a session that works on its own branch (cloud sessions), push only publishes that branch: at the end of the run, open a pull request to `main`, mark it ready for review, and tell the user to merge it. The user merges; do not merge it yourself. Until it is merged, other devices do not see the new ledger rows, so say so plainly. Pushing after each ledger change keeps the window small where another device could pick the same company. If the push fails, stop and tell the user. The ledger and pool use git's union merge, so rows added on two devices at once are both kept. After a merge, run `dedupe.py status` to check the ledger still reads cleanly.
 
 Screenshots (`batches/**/shots/`), blog crawls (`batches/**/crawl/`), `.venv`, `.venv-crawl` and the zip are not synced. Each device keeps its own.
 
