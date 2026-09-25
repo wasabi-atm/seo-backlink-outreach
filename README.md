@@ -26,7 +26,7 @@ python3.12 -m venv .venv-crawl
 .venv-crawl/bin/crawl4ai-setup
 ```
 
-The Step 4b video schema check (`video_schema.py`) runs in the same `.venv-crawl`. It calls the Apify actor `dev00/google-rich-results-checker` itself when `APIFY_TOKEN` is set in the environment. Without the token, Claude runs the actor through the Apify connector instead.
+The Step 2c video schema check (`video_schema.py`) runs in the same `.venv-crawl`. The script never calls Apify: Claude runs the actor `dev00/google-rich-results-checker` through the Apify MCP.
 
 ## Sync
 

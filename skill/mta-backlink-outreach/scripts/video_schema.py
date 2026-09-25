@@ -1,40 +1,35 @@
-"""Video schema check for Step 4b. For each picked article it finds out whether the page has a
-video and whether that video carries VideoObject structured data. A video with no VideoObject
-means the SEO work on the page was not finished, which Step 5 can point out in the email.
+"""Video schema check for Step 2c. For each site it finds out whether the homepage has a video
+and whether that video has VideoObject structured data. A video with no VideoObject
+(videoSchemaGap yes) switches on the fixed opening lines of the Step 5 email.
 
-    python video_schema.py detect 03_backlink_targets.csv video/ [--workers 4]
-    python video_schema.py merge  03_backlink_targets.csv video/
+    python video_schema.py detect 01_prospects.csv video/ [--workers 4]
+    python video_schema.py merge  01_prospects.csv video/
 
-detect renders every articleUrl with crawl4ai (local Playwright Chromium, free) and writes
+detect renders the homepage of every webDomain with crawl4ai (local Playwright Chromium, free)
+and writes
 
-  video/video_check.csv  articleUrl, hasVideo (yes/no/unknown), videoPlatform, pageVideoObject, error
-  video/apify_todo.csv   articleUrl of every page with a video, for the Apify check
+  video/video_check.csv  webDomain, url, hasVideo (yes/no/unknown), videoPlatform, pageVideoObject, error
+  video/apify_todo.csv   webDomain, url of every homepage with a video
 
-If APIFY_TOKEN is set, detect then runs the Apify actor dev00/google-rich-results-checker
-($0.002 per URL) on each todo URL itself and writes video/apify_runs.csv. Without a token, run
-the actor through the Apify MCP (one call per URL) and write video/apify_runs.csv yourself, with
-the columns articleUrl,datasetId.
+Then Claude runs the Apify actor dev00/google-rich-results-checker through the Apify MCP on each
+todo URL and writes video/apify_results.csv with the columns webDomain, videoObject (TRUE or
+FALSE) and apifyStatus (ok, blocked or error). This script never calls Apify itself.
 
-merge reads each actor result by datasetId (readable by ID, no token needed) and adds these
-columns to the CSV in place: hasVideo, videoPlatform, videoSchema, videoSchemaGap, videoNote,
-richResultsUrl.
+merge adds hasVideo, videoSchema, videoSchemaGap and videoNote to the CSV in place. Rows that are
+not in video_check.csv keep their values, so swaps can be checked in their own folder and merged
+in later.
 
 The actor reads the raw HTML only. Some players (Wistia, for one) add their VideoObject by
-script, which Google does see, so the rendered page is checked too. A gap is only reported
-when neither finds a VideoObject.
+script, which Google does see, so the rendered page is checked too. A gap is only reported when
+neither finds a VideoObject.
 
 Runs in the crawl4ai venv (<repo>/.venv-crawl), the same one blog_crawl.py uses.
 """
 import argparse, asyncio, csv, json, os, re, sys, time
-import urllib.error, urllib.request
-from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
-from urllib.parse import quote
 
-ACTOR = "dev00~google-rich-results-checker"
-API = "https://api.apify.com/v2"
-RICH_TEST = "https://search.google.com/test/rich-results?url="
-NEW_COLS = ["hasVideo", "videoPlatform", "videoSchema", "videoSchemaGap", "videoNote", "richResultsUrl"]
+ACTOR = "dev00/google-rich-results-checker"
+NEW_COLS = ["hasVideo", "videoSchema", "videoSchemaGap", "videoNote"]
 
 # Embed URLs, matched against src and data-* attributes (never href, so plain links don't count).
 PLAYER_URLS = [
@@ -58,13 +53,20 @@ PLAYER_TAGS = {"lite-youtube": "youtube", "lite-vimeo": "vimeo", "wistia-player"
                "mux-player": "mux", "video-js": "videojs"}
 PLAYER_CLASSES = [("wistia", re.compile(r"\bwistia_(?:async_|embed\b)")),
                   ("vidyard", re.compile(r"\bvidyard-player-embed\b"))]
-# Site chrome: videos here are site-wide promos, not part of the article.
+# Site chrome: videos here are menu or footer promos, not part of the page. <header> is left out on
+# purpose, as some homepages put their hero video in one.
 CHROME_TAGS = {"nav", "footer", "aside"}
 VIDEO_OBJECT_RE = re.compile(r'"@?type"\s*:\s*(?:\[[^\]]*)?"(?:https?://schema\.org/)?VideoObject"')
 
 
+def clean_domain(d):
+    d = d.strip().lower()
+    d = re.sub(r"^https?://", "", d).split("/")[0]
+    return d[4:] if d.startswith("www.") else d
+
+
 def is_video_object(node):
-    """True if a JSON-LD tree (or an Apify detected item) holds a VideoObject anywhere."""
+    """True if a JSON-LD tree holds a VideoObject anywhere."""
     if isinstance(node, dict):
         t = node.get("@type", node.get("type"))
         if any(isinstance(x, str) and x.rsplit("/", 1)[-1] == "VideoObject" for x in (t if isinstance(t, list) else [t])):
@@ -81,8 +83,7 @@ class PageScan(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.platforms, self.video_object = [], False
-        self.chrome = self.content = 0
-        self.headers = []   # per open <header>: whether it counted as chrome
+        self.chrome = 0     # open nav, footer and aside tags
         self.ld = None      # text of the JSON-LD script being read
 
     def add(self, name):
@@ -93,12 +94,6 @@ class PageScan(HTMLParser):
         a = {k: (v or "") for k, v in attrs}
         if tag in CHROME_TAGS:
             self.chrome += 1
-        elif tag in ("article", "main"):
-            self.content += 1
-        elif tag == "header":
-            # A <header> outside the article is the site header; inside it, the post's own header.
-            self.headers.append(self.content == 0)
-            self.chrome += self.headers[-1]
         elif tag == "script" and "ld+json" in a.get("type", "").lower():
             self.ld = ""
         if re.search(r"schema\.org/VideoObject\b", a.get("itemtype", "") + " " + a.get("typeof", ""), re.I) \
@@ -114,17 +109,13 @@ class PageScan(HTMLParser):
         for name, pat in PLAYER_CLASSES:
             if pat.search(a.get("class", "")):
                 self.add(name)
-        # Autoplaying, muted, looping clips with no controls are background or GIF-style, not videos.
-        if tag == "video" and not ({"autoplay", "muted", "loop"} <= a.keys() and "controls" not in a):
+        # A muted clip with no controls can't be watched or heard: it's a background or UI animation.
+        if tag == "video" and ("controls" in a or "muted" not in a):
             self.add("html5")
 
     def handle_endtag(self, tag):
         if tag in CHROME_TAGS:
             self.chrome = max(0, self.chrome - 1)
-        elif tag in ("article", "main"):
-            self.content = max(0, self.content - 1)
-        elif tag == "header" and self.headers:
-            self.chrome = max(0, self.chrome - self.headers.pop())
         elif tag == "script" and self.ld is not None:
             try:
                 self.video_object |= is_video_object(json.loads(self.ld))
@@ -161,23 +152,13 @@ def write_rows(path, cols, rows):
         w.writerows(rows)
 
 
-def article_urls(path):
-    _, rows = read_rows(path)
-    seen = []
-    for r in rows:
-        u = (r.get("articleUrl") or "").strip()
-        if u.startswith("http") and u not in seen:
-            seen.append(u)
-    return seen
-
-
 def short_error(msg):
     msg = msg or "did not load"
     m = re.search(r"net::ERR_[A-Z_]+|Timeout \d+ms exceeded", msg)
     return m.group(0) if m else msg.strip().splitlines()[0][:150]
 
 
-async def render_all(urls, workers, timeout):
+async def render_all(domains, workers, timeout):
     from crawl4ai import AsyncWebCrawler, BrowserConfig, CacheMode, CrawlerRunConfig
 
     base = dict(cache_mode=CacheMode.BYPASS, page_timeout=45000, scan_full_page=True, scroll_delay=0.2, verbose=False)
@@ -189,10 +170,12 @@ async def render_all(urls, workers, timeout):
     out = {}
 
     async with AsyncWebCrawler(config=browser) as crawler:
-        async def one(url, cfg, sem, label=""):
-            """Renders one page and returns its video_check row."""
+        async def one(domain, cfg, sem, label=""):
+            """Renders one homepage and returns its video_check row."""
             async with sem:
-                t, row = time.time(), dict(articleUrl=url, hasVideo="unknown", videoPlatform="", pageVideoObject="", error="")
+                url = "https://" + domain
+                t, row = time.time(), dict(webDomain=domain, url=url, hasVideo="unknown", videoPlatform="",
+                                           pageVideoObject="", error="")
                 try:
                     r = await asyncio.wait_for(crawler.arun(url, config=cfg), timeout)
                     if not r.success or (r.status_code or 200) >= 400:
@@ -205,158 +188,116 @@ async def render_all(urls, workers, timeout):
                     row["error"] = f"timed out after {timeout}s"
                 except Exception as e:  # one bad page must not stop the batch
                     row["error"] = short_error(f"{type(e).__name__}: {e}")
-                print(f"{label}{url}: video {row['hasVideo']} {row['videoPlatform']} "
+                print(f"{label}{domain}: video {row['hasVideo']} {row['videoPlatform']} "
                       f"{'VideoObject ' if row['pageVideoObject'] == 'yes' else ''}{time.time() - t:.0f}s {row['error']}", flush=True)
                 return row
 
         sem = asyncio.Semaphore(workers)
-        for row in await asyncio.gather(*(one(u, fast, sem) for u in urls)):
-            out[row["articleUrl"]] = row
-        again = [u for u in urls if out[u]["hasVideo"] == "yes" and out[u]["pageVideoObject"] == "no"]
+        for row in await asyncio.gather(*(one(d, fast, sem) for d in domains)):
+            out[row["webDomain"]] = row
+        again = [d for d in domains if out[d]["hasVideo"] == "yes" and out[d]["pageVideoObject"] == "no"]
         if again:
-            print(f"\nRechecking {len(again)} video pages with no VideoObject, slowly:", flush=True)
+            print(f"\nRechecking {len(again)} homepages with a video but no VideoObject, slowly:", flush=True)
             sem = asyncio.Semaphore(min(2, workers))
             # A recheck can only add a VideoObject it finds; it never drops the video from the first pass.
-            for row in await asyncio.gather(*(one(u, slow, sem, "recheck ") for u in again)):
+            for row in await asyncio.gather(*(one(d, slow, sem, "recheck ") for d in again)):
                 if row["pageVideoObject"] == "yes":
-                    out[row["articleUrl"]]["pageVideoObject"] = "yes"
-    return [out[u] for u in urls]
-
-
-def api(path, body=None, token=""):
-    req = urllib.request.Request(API + path, data=json.dumps(body).encode() if body is not None else None,
-                                 headers={"Content-Type": "application/json"})
-    if token:
-        req.add_header("Authorization", f"Bearer {token}")
-    with urllib.request.urlopen(req, timeout=120) as r:
-        return json.load(r)
-
-
-def run_actor(url, token):
-    """Starts one actor run and waits for it. Returns the dataset id, or '' on failure."""
-    try:
-        run = api(f"/acts/{ACTOR}/runs?waitForFinish=60&maxTotalChargeUsd=0.05", {"url": url}, token)["data"]
-        for _ in range(3):  # Apify waits 60 seconds at most per request
-            if run["status"] not in ("READY", "RUNNING"):
-                break
-            run = api(f"/actor-runs/{run['id']}?waitForFinish=60", token=token)["data"]
-        print(f"apify {run['status']}: {url}", flush=True)
-        return run["defaultDatasetId"] if run["status"] == "SUCCEEDED" else ""
-    except (urllib.error.URLError, KeyError, ValueError) as e:
-        print(f"apify failed: {url}: {e}", flush=True)
-        return ""
+                    out[row["webDomain"]]["pageVideoObject"] = "yes"
+    return [out[d] for d in domains]
 
 
 def detect(args):
-    urls = article_urls(args.csv)
+    domains = []
+    for r in read_rows(args.csv)[1]:
+        d = clean_domain(r.get("webDomain") or "")
+        if d and d not in domains:
+            domains.append(d)
     os.makedirs(args.out_dir, exist_ok=True)
-    rows = asyncio.run(render_all(urls, args.workers, args.timeout))
+    rows = asyncio.run(render_all(domains, args.workers, args.timeout))
     write_rows(os.path.join(args.out_dir, "video_check.csv"),
-               ["articleUrl", "hasVideo", "videoPlatform", "pageVideoObject", "error"], rows)
-    todo = [r["articleUrl"] for r in rows if r["hasVideo"] == "yes"]
-    write_rows(os.path.join(args.out_dir, "apify_todo.csv"), ["articleUrl"], [{"articleUrl": u} for u in todo])
+               ["webDomain", "url", "hasVideo", "videoPlatform", "pageVideoObject", "error"], rows)
+    todo = [r for r in rows if r["hasVideo"] == "yes"]
+    write_rows(os.path.join(args.out_dir, "apify_todo.csv"), ["webDomain", "url"], todo)
 
     failed = [r for r in rows if r["hasVideo"] == "unknown"]
-    print(f"\nRendered {len(rows)} articles: {len(todo)} with a video, "
+    print(f"\nRendered {len(rows)} homepages: {len(todo)} with a video, "
           f"{sum(r['hasVideo'] == 'no' for r in rows)} without, {len(failed)} did not load.")
     for r in failed:
-        print(f"  {r['articleUrl']}: {r['error']}")
-
-    token = os.environ.get("APIFY_TOKEN", "").strip()
-    runs_file = os.path.join(args.out_dir, "apify_runs.csv")
-    if not todo:
-        write_rows(runs_file, ["articleUrl", "datasetId"], [])
-    elif token:
-        with ThreadPoolExecutor(args.workers) as pool:
-            ids = list(pool.map(lambda u: run_actor(u, token), todo))
-        write_rows(runs_file, ["articleUrl", "datasetId"],
-                   [dict(articleUrl=u, datasetId=i) for u, i in zip(todo, ids) if i])
-        print(f"Apify: {sum(bool(i) for i in ids)} of {len(todo)} checked. Now run: video_schema.py merge")
+        print(f"  {r['webDomain']}: {r['error']}")
+    if todo:
+        print(f"\nNext: run {ACTOR} through the Apify MCP on the {len(todo)} URLs in apify_todo.csv, write "
+              f"apify_results.csv (webDomain,videoObject,apifyStatus), then run: video_schema.py merge")
     else:
-        print(f"No APIFY_TOKEN. Run {ACTOR.replace('~', '/')} through the Apify MCP for the {len(todo)} URLs in "
-              f"apify_todo.csv, write apify_runs.csv (articleUrl,datasetId), then run: video_schema.py merge")
-
-
-def apify_result(dataset_id, token):
-    """Returns (status, has VideoObject, rich results URL, problem) for one actor run.
-    status is "ok", "blocked" (the actor could not load the page) or "error" (no usable result)."""
-    try:
-        items = api(f"/datasets/{dataset_id}/items?format=json&clean=true", token=token)
-    except (urllib.error.URLError, ValueError) as e:
-        return "error", False, "", f"could not read Apify dataset {dataset_id}: {e}"
-    if not items:
-        return "error", False, "", "Apify returned no result"
-    it = items[0]
-    rich = it.get("google_web_ui_url", "")
-    if it.get("http_status") != 200 or it.get("crawl_status") != "Successful":
-        return "blocked", False, rich, f"Apify could not load the page (HTTP {it.get('http_status')}, {it.get('crawl_status')})"
-    return "ok", is_video_object(it.get("detected_items") or []), rich, ""
+        print("\nNo homepage has a video, so there is nothing for Apify. Run: video_schema.py merge")
 
 
 def merge(args):
-    token = os.environ.get("APIFY_TOKEN", "").strip()
     check_file = os.path.join(args.out_dir, "video_check.csv")
     if not os.path.exists(check_file):
         sys.exit(f"{check_file} is missing. Run video_schema.py detect first.")
-    checks = {r["articleUrl"]: r for r in read_rows(check_file)[1]}
-    runs_file = os.path.join(args.out_dir, "apify_runs.csv")
-    runs = {r["articleUrl"]: r["datasetId"].strip() for r in read_rows(runs_file)[1]
-            if r.get("datasetId", "").strip()} if os.path.exists(runs_file) else {}
-    apify = {u: apify_result(d, token) for u, d in runs.items()}
+    checks = {r["webDomain"]: r for r in read_rows(check_file)[1]}
+    res_file = os.path.join(args.out_dir, "apify_results.csv")
+    results = {}
+    if os.path.exists(res_file):
+        for r in read_rows(res_file)[1]:
+            results[clean_domain(r.get("webDomain") or "")] = ((r.get("apifyStatus") or "").strip().lower(),
+                                                              (r.get("videoObject") or "").strip().upper())
 
     cols, rows = read_rows(args.csv)
     cols += [c for c in NEW_COLS if c not in cols]
     counts = {}
     for row in rows:
-        url = (row.get("articleUrl") or "").strip()
-        vc = checks.get(url)
+        domain = clean_domain(row.get("webDomain") or "")
+        vc = checks.get(domain)
         if not vc:
-            row.update({c: "" for c in NEW_COLS})
-            continue
+            continue  # not in this check, keep whatever the row already has
         has, plats = vc["hasVideo"], vc["videoPlatform"]
         rendered = vc["pageVideoObject"] == "yes"
-        status, found, rich, problem = apify.get(url, ("", False, "", "Apify not run on this URL"))
+        status, vo = results.get(domain, ("", ""))
+        if status == "ok" and vo not in ("TRUE", "FALSE"):
+            status = "error"
+        problem = {"": "Apify not run on this site", "blocked": "Apify could not load the page",
+                   "error": "no usable Apify result"}.get(status, f"unknown apifyStatus {status!r}")
         notes = []
         if has == "unknown":
             schema, gap = "", "unknown"
-            notes.append(f"page did not load for the video check ({vc['error']})")
+            notes.append(f"homepage did not load for the video check ({vc['error']})")
         elif has == "no":
             schema, gap = ("TRUE" if rendered else "FALSE"), "no"
-            notes.append("no video on the page, so Apify was skipped")
-        elif status in ("", "error") and not rendered:
+            notes.append("no video on the homepage, so Apify was skipped")
+        elif status not in ("ok", "blocked") and not rendered:
             schema, gap = "", "unknown"
             notes.append(problem)
         else:
             # "blocked" falls back to the rendered page, which is what Google sees once it renders.
-            schema = "TRUE" if found or rendered else "FALSE"
+            schema = "TRUE" if vo == "TRUE" or rendered else "FALSE"
             gap = "no" if schema == "TRUE" else "yes"
             if status != "ok":
                 notes.append(problem + "; schema read from the rendered page")
-            elif rendered and not found:
+            elif rendered and vo == "FALSE":
                 notes.append(f"VideoObject is added by script ({plats}): Apify reads raw HTML and missed it, Google renders it")
             if gap == "yes":
                 notes.append(f"{plats} video with no VideoObject schema")
-        row.update(hasVideo=has, videoPlatform=plats, videoSchema=schema, videoSchemaGap=gap,
-                   videoNote="; ".join(notes), richResultsUrl=rich or (RICH_TEST + quote(url, safe="")))
+        row.update(hasVideo=has, videoSchema=schema, videoSchemaGap=gap, videoNote="; ".join(notes))
         counts[gap] = counts.get(gap, 0) + 1
     write_rows(args.csv, cols, rows)
 
     print(f"Updated {args.csv}: videoSchemaGap yes {counts.get('yes', 0)}, no {counts.get('no', 0)}, "
           f"unknown {counts.get('unknown', 0)}.")
     for row in rows:
-        if row.get("videoSchemaGap") in ("yes", "unknown"):
+        if row.get("videoSchemaGap") in ("yes", "unknown") and clean_domain(row.get("webDomain") or "") in checks:
             print(f"  {row['videoSchemaGap']:7} {row.get('webDomain', '')}: {row['videoNote']}")
 
 
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
-    d = sub.add_parser("detect", help="render each articleUrl, find videos, run Apify if APIFY_TOKEN is set")
+    d = sub.add_parser("detect", help="render each homepage and find videos and VideoObject markup")
     d.add_argument("csv")
     d.add_argument("out_dir")
     d.add_argument("--workers", type=int, default=4, help="pages rendered at once")
     d.add_argument("--timeout", type=int, default=90, help="seconds per page")
-    m = sub.add_parser("merge", help="read the Apify results and add the video columns to the CSV")
+    m = sub.add_parser("merge", help="combine the render and the Apify results into the CSV")
     m.add_argument("csv")
     m.add_argument("out_dir")
     args = ap.parse_args()

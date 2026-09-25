@@ -1,6 +1,6 @@
 ---
 name: "mta-backlink-outreach"
-description: "Run a Motion The Agency SEO backlink outreach batch. Interview, dedupe against every company already contacted, build and visually vet 40 UK/US/UAE sites with webscreenshotter, ask the user about any competitor, check DR and link habits in Ahrefs, crawl each blog for free with crawl4ai to pick one article per site, check each article's video for VideoObject schema with Apify, and draft emails on request."
+description: "Run a Motion The Agency SEO backlink outreach batch. Interview, dedupe against every company already contacted, build and visually vet 40 UK/US/UAE sites with webscreenshotter, ask the user about any competitor, check DR and link habits in Ahrefs, check each homepage video for VideoObject schema with Apify, crawl each blog for free with crawl4ai to pick one article per site, and draft emails on request."
 ---
 
 # MTA backlink outreach
@@ -143,7 +143,44 @@ Keep sites with an average of 3.5 or higher and no hard fail. visualScore is tha
 
 Save `01_prospects.csv` with: companyName, webDomain, country, serviceType, segment, visualScore, visualNotes, competitor, competitorDecision. Only include competitors the user said to include.
 
-**Checkpoint 1.** Show the user the list as a short table (company, domain, country, segment, score) plus the excluded sites with one-line reasons. List the dedupe removals separately with their reason, and flag any `possible` matches so the user can say if they are really a different company. Any swap the user suggests goes through `dedupe.py check` before it joins the list. Wait for approval, and apply any removals or swaps, before Step 3.
+### 2c. Video schema check
+
+A simple yes or no per site: does the homepage have a video but no VideoObject schema? If yes (`videoSchemaGap` = yes), the Step 5 email opens with two fixed lines about it. Nothing else in the email changes.
+
+Run it on `01_prospects.csv`:
+
+```
+<repo>/.venv-crawl/bin/python <repo>/skill/mta-backlink-outreach/scripts/video_schema.py detect 01_prospects.csv video/ --workers 4
+```
+
+`detect` renders each homepage with crawl4ai (free, the same venv as the Step 4 blog crawl) and looks for video players outside the nav, footer and sidebars: YouTube, Vimeo, Wistia, Loom, Vidyard, Brightcove, HubSpot, a plain video tag and others. Plain links to a video don't count, and neither do muted clips with no controls (background and UI animations). It writes `video/video_check.csv` and lists the homepages with a video in `video/apify_todo.csv`. A homepage with a video but no VideoObject is rendered a second time, slowly, because players such as Wistia add their VideoObject by script and often miss the first pass. About 10 seconds per site, plus up to a minute per recheck. The script never calls Apify.
+
+Then check each URL in `apify_todo.csv` with the Apify actor `dev00/google-rich-results-checker`, through the Apify MCP only (never the Apify API). Sites with no video are skipped. One URL per run, $0.002 each, so 40 sites cost at most $0.08.
+
+1. Call the actor with input `{"url": "<url>"}`. Use the actor's own MCP tool if that server is set up (the actor exposed as a tool, `dev00--google-rich-results-checker`). Otherwise use `call-actor` with actor `dev00/google-rich-results-checker`, `callOptions.maxTotalChargeUsd` 0.05 and `waitSecs` 45. Up to 10 calls per message.
+2. Read the result. If the tool did not return the items, call `get-dataset-items` on the run's dataset (`storages.datasets.default.id`) with `fields` "url,http_status,crawl_status,detected_items".
+3. videoObject is TRUE if any entry in `detected_items` has type `VideoObject` (the type can be a list, and a VideoObject can sit inside another item, for example an Article's `video`). Otherwise FALSE.
+4. apifyStatus is `ok` when `http_status` is 200 and `crawl_status` is "Successful", `blocked` when the page did not load for the actor, and `error` when the run failed or returned nothing.
+5. Write one row per URL to `video/apify_results.csv` with the columns webDomain, videoObject, apifyStatus.
+
+Then merge:
+
+```
+<repo>/.venv-crawl/bin/python <repo>/skill/mta-backlink-outreach/scripts/video_schema.py merge 01_prospects.csv video/
+```
+
+It adds these columns to `01_prospects.csv` in place:
+
+- hasVideo: yes, no, or unknown (the homepage did not load).
+- videoSchema: TRUE if the homepage has VideoObject markup, FALSE if not, blank if it could not be checked.
+- videoSchemaGap: yes when hasVideo is yes and videoSchema is FALSE. Otherwise no, or unknown when a check failed.
+- videoNote: the reason in a few words.
+
+The actor reads the raw HTML, so it misses a VideoObject that a player adds by script. Google renders pages and does see those, so `merge` also counts a VideoObject found in the rendered page, and says so in videoNote. A gap is only reported when neither finds one. Do not overrule the result by hand.
+
+In a cloud session `detect` has to reach the sites. If they are blocked there and a folder on the user's computer is connected, run `detect` on the Mac with device_bash. If neither works, skip 2c and leave the columns blank, so no email gets the video lines.
+
+**Checkpoint 1.** Show the user the list as a short table (company, domain, country, segment, score, videoSchemaGap) plus the excluded sites with one-line reasons. List the dedupe removals separately with their reason, and flag any `possible` matches so the user can say if they are really a different company. Any swap the user suggests goes through `dedupe.py check` before it joins the list, then through 2c in its own folder (`detect swaps.csv video_swaps/`, the Apify check, then `merge 01_prospects.csv video_swaps/`, which only touches the swapped rows). Wait for approval, and apply any removals or swaps, before Step 3.
 
 ## Step 3: Check domain rating and link habits
 
@@ -172,7 +209,7 @@ Fallback: if Ahrefs is low on units or returns an out-of-units or limit error, s
 
 The scraper does not show which sites a domain links out to, so on the Apify path check link habits by hand: fetch three to five recent blog posts and count distinct outside business domains they link to in the article body, plus any contributor page or quotes from outside founders.
 
-Split the results into two files. Both use the same columns, in this order: companyName, webDomain, domainRating, country, serviceType, segment, visualScore, backlinkExchange, backlinkEvidence, dataSource, competitor, drStatus.
+Split the results into two files. Both use the same columns, in this order: companyName, webDomain, domainRating, country, serviceType, segment, visualScore, backlinkExchange, backlinkEvidence, dataSource, competitor, drStatus, videoSchemaGap.
 
 - `02_enriched.csv`: domainRating 40 or higher, drStatus "pass". Only these rows go on to Step 4.
 - `02_low_dr.csv`: domainRating under 40 (drStatus "low"), or no DR found by any source (drStatus "unknown", domainRating left blank). Still fill in backlinkExchange and the other columns, so the file is ready if the user wants to use it later. Do not delete these rows or leave them out.
@@ -230,45 +267,11 @@ When Ahrefs units allow, use `site-explorer-top-pages` to break ties by traffic.
 
 For each company, record one article and a hook for Step 5. A hook is something specific and checkable on that page: the article recommends infographics but has none, a broken table of contents, a date error, a spot where a short video would explain a step better. Write down what you saw, not a guess.
 
-Save the final file as `03_backlink_targets.csv` with: companyName, webDomain, domainRating, country, serviceType, segment, offer, articleTitle, articleUrl, articleTopic, linkPlacement (the section where MTA's link fits and suggested anchor text), articleHook.
+Save the final file as `03_backlink_targets.csv` with: companyName, webDomain, domainRating, country, serviceType, segment, offer, articleTitle, articleUrl, articleTopic, linkPlacement (the section where MTA's link fits and suggested anchor text), articleHook, videoSchemaGap.
 
 The offer column comes from the brief. Segment A uses the Segment A offer. Segment B uses whichever picked offer fits the article best (for example a blog graphic if the article asks for visuals).
 
-### 4b. Video schema check
-
-For every picked article, check whether the page has a video and whether that video has VideoObject structured data. A video with no VideoObject means the SEO work on the page was not finished. Step 5 can point that out and offer to fix it, which makes the video offer stronger.
-
-```
-<repo>/.venv-crawl/bin/python <repo>/skill/mta-backlink-outreach/scripts/video_schema.py detect 03_backlink_targets.csv video/ --workers 4
-```
-
-`detect` renders each articleUrl with crawl4ai (free, same venv as the blog crawl) and looks for video players outside the nav, footer and sidebars: YouTube, Vimeo, Wistia, Loom, Vidyard, Brightcove, HubSpot, a plain video tag and others. Background clips that autoplay muted on a loop do not count, and neither do plain links to a video. It writes `video/video_check.csv` and lists the pages with a video in `video/apify_todo.csv`. A page with a video but no VideoObject is rendered a second time, slowly, because players such as Wistia add their VideoObject by script and often miss the first pass. About 10 seconds per page, plus up to a minute per recheck.
-
-Then run the Apify actor `dev00/google-rich-results-checker` on the URLs in `apify_todo.csv` only. Pages with no video are skipped, as the schema does not matter there. It takes one URL per run and costs $0.002 per URL, so 40 articles cost at most $0.08.
-
-- If `APIFY_TOKEN` is set in the environment, `detect` has already run it and written `video/apify_runs.csv`.
-- Otherwise call it through the Apify MCP, one `call-actor` per URL: actor `dev00/google-rich-results-checker`, input `{"url": "<articleUrl>"}`, `callOptions.maxTotalChargeUsd` 0.05, `waitSecs` 45. Up to 10 calls per message. Write each run's dataset ID (`storages.datasets.default.id` in the result) to `video/apify_runs.csv` with the columns articleUrl,datasetId. You do not need to fetch the items; the script reads them by ID.
-
-Then merge the results into the targets file:
-
-```
-<repo>/.venv-crawl/bin/python <repo>/skill/mta-backlink-outreach/scripts/video_schema.py merge 03_backlink_targets.csv video/
-```
-
-It adds these columns to `03_backlink_targets.csv` in place (running it again just refreshes them):
-
-- hasVideo: yes, no, or unknown (the page did not load).
-- videoPlatform: for example "youtube" or "vimeo, wistia".
-- videoSchema: TRUE if the page has VideoObject markup, FALSE if not, blank if it could not be checked.
-- videoSchemaGap: yes when hasVideo is yes and videoSchema is FALSE. This is the gap to point out in the email. Otherwise no, or unknown when a check failed.
-- videoNote: the reason in a few words.
-- richResultsUrl: Google's Rich Results Test for the page, for a manual look.
-
-The actor reads the raw HTML, so it misses a VideoObject that a player adds by script. Google renders pages and does see those, so `merge` also counts a VideoObject found in the rendered page and says so in videoNote. A gap is only reported when neither finds one. Do not overrule the result by hand from the Apify output alone.
-
-In a cloud session `detect` has to reach the sites. If they are blocked there and a folder on the user's computer is connected, run `detect` on the Mac with device_bash. If neither works, skip 4b and leave the columns blank. Do not judge it from crawled markdown, which drops iframes.
-
-Send the CSV to the user and stop. Say how many articles have videoSchemaGap yes. Tell them Step 5 is ready when they want it.
+Send the CSV to the user and stop. Tell them Step 5 is ready when they want it.
 
 ## Step 5: Draft the emails (only when the user asks)
 
@@ -298,9 +301,15 @@ Cheers,
 
 Rules:
 
-- Open with the article, linked by its title. Then one or two specific things you saw on that page, taken from articleHook. Check them again on the live page before writing.
+- If videoSchemaGap is yes, the body opens with these two sentences, word for word, as its own paragraph straight after the greeting:
+
+  ```
+  You're doing it all wrong, your video doesn't get cited by AI & search engine. We noticed you already have video on your website but there's no VideoObject schema.
+  ```
+
+  The rest of the email follows as normal. Do not add anything about fixing it. The two sentences don't count towards the word limit, and the humanizer pass must not change them (if it does, put them back exactly). Rows with videoSchemaGap no, unknown or blank get no video lines.
+- Open with the article (after the video lines, when they apply), linked by its title. Then one or two specific things you saw on that page, taken from articleHook. Check them again on the live page before writing.
 - State the free offer in one line and tie it to the page. For a founder's quote swap, say both founders give a quote for each other's article.
-- If videoSchemaGap is yes, make it one of the page observations: the video on the page has no VideoObject schema, so Google has to guess its title, thumbnail and length. Then fold fixing it into the free offer. It fits the Segment B video offer best (we make the new video and mark up both), and it can sweeten a Segment A quote swap too. One or two short sentences, still within the word limit. For example: "The Vimeo clips in it also have no VideoObject schema, so Google has to guess what they are. We'd add that markup too, free." Leave it out when videoSchemaGap is no, unknown or blank, and for competitors the user chose to include.
 - For a competitor the user chose to include, only offer the founder's quote swap (or paid placement if the brief allows). Do not say "I run a motion studio" as a pitch to make something for them. Say it plainly as context, for example "we're both in motion and video, so a quote swap could work well for both of us".
 - Ask for a credit link back to motiontheagency.com. Only add "or we'll pay for placement instead" if the brief says to offer paid placement.
 - End with "Would you be open to exploring this?" then "Cheers," and the sender name from the brief.
@@ -308,7 +317,7 @@ Rules:
 - Subject lines are short and lower case, and name their article (for example "your content pillars piece").
 - Run every email through the humanizer skill before saving. Invoke it with the Skill tool (`humanizer`) and apply its fixes. Do not skip it or hand-edit instead, even for one email or a test run.
 
-Save `04_backlink_emails.csv` (keep the videoSchemaGap column, so the user can see which emails mention it), send it to the user, and say which rows need a manual check (for example no contact found, or the hook could not be confirmed on the live page).
+Save `04_backlink_emails.csv` (keep the videoSchemaGap column, so the user can see which emails open with the video lines), send it to the user, and say which rows need a manual check (for example no contact found, or the hook could not be confirmed on the live page).
 
 Straight after saving, log the batch in the ledger with `dedupe.py log 04_backlink_emails.csv --ledger <ledger> --status queued --campaign backlink-<YYYY-MM-DD>`. Do this every time, even if the user has not said they will send it. Queued rows block future batches just like sent ones, so a batch is never picked twice. Rows with no email are logged as `not_sent` on their own. Tell the user it is logged, then:
 
