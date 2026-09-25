@@ -28,6 +28,8 @@ python3.12 -m venv .venv-crawl
 
 The Step 2c video schema check (`video_schema.py`) runs in the same `.venv-crawl`. The script never calls Apify: Claude runs the actor `dev00/google-rich-results-checker` through the Apify MCP.
 
+The Step 5 contact waterfall (`contacts.py`: Instantly, then Apollo, then Apify `peakydev/leads-scraper-ppe`, then the website's contact email) also runs in `.venv-crawl` for its website step. The paid sources run through their MCP tools; the script only picks and tracks contacts.
+
 ## Sync
 
 `sh skill/mta-backlink-outreach/scripts/sync.sh pull` before a run, `sh skill/mta-backlink-outreach/scripts/sync.sh push "message"` after. The skill does both on its own.

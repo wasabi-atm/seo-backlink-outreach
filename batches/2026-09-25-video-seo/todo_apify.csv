@@ -1,0 +1,16 @@
+companyName,webDomain,country,pageTitle,videoPlatform,hasVideo,videoSchema,videoSchemaGap,videoNote,source
+Cartrack Middle East,cartrackme.com,UAE,Cartrack UAE - Home of Connected Vehicles,youtube,yes,FALSE,yes,youtube video with no VideoObject schema,apollo-lookup-1
+Careo Ai,careo.ai,UAE,Careo AI,vimeo,yes,FALSE,yes,vimeo video with no VideoObject schema,apollo-lookup-1
+AppliedAI,opus.com,UAE,Opus by AppliedAI — Automate Regulated Processes with AI,vimeo,yes,FALSE,yes,vimeo video with no VideoObject schema,apollo-video-tech-1
+MoXey,moxey.ai,UAE,MoXey | Digital payment solution for mobility & logistic sectors,youtube,yes,FALSE,yes,youtube video with no VideoObject schema,apollo-video-tech-1
+B2B eStore Builder,b2bestorebuilder.com,UAE,B2B Wholesale eCommerce Solution,youtube,yes,FALSE,yes,youtube video with no VideoObject schema,apollo-video-tech-1
+Servme,servmeco.com,UAE,Servme | Hospitality Guest Platform,html5,yes,FALSE,yes,html5 video with no VideoObject schema,apollo-lookup-1
+Transportr,transportr.com,UAE,"Digital Logistics Solutions in Riyadh, Abu Dhabi, Dubai, & more | Transportr",html5,yes,FALSE,yes,html5 video with no VideoObject schema,apollo-lookup-1
+MAGNiTT,magnitt.com,UAE,Home | MAGNiTT,html5,yes,FALSE,yes,Apify could not load the page; schema read from the rendered page; html5 video with no VideoObject schema,past-candidates
+Despatch Cloud,despatchcloud.com,UK,Helm WMS | AI-Powered Warehouse Management Software,youtube,yes,FALSE,yes,youtube video with no VideoObject schema,apollo-lookup-1
+BigChange,bigchange.com,UK,BigChange Lightning: AI Field Service Software for Mobile Teams,vimeo,yes,FALSE,yes,vimeo video with no VideoObject schema,apollo-video-tech-1
+Digital Barriers,digitalbarriers.com,UK,Unlock the Full Potential of Real-Time Video over Cellular,vimeo,yes,FALSE,yes,vimeo video with no VideoObject schema,apollo-video-tech-1
+Sevron Safety Solutions,sevron.co.uk,UK,Health & Safety Compliance Software for Modern Risk Management | Sevron,vimeo,yes,FALSE,yes,vimeo video with no VideoObject schema,apollo-video-tech-1
+POP,wegotpop.com,UK,Industry Leading Digital Production Tools and Solutions - Entertainment Partners,vidyard,yes,FALSE,yes,vidyard video with no VideoObject schema,apollo-video-tech-1
+Coda,coda.io,US,Coda: Your all-in-one collaborative workspace.,youtube,yes,FALSE,yes,youtube video with no VideoObject schema,past-candidates
+BEXEL Manager,bexelmanager.com,US,BIM Project Management Software | BEXEL Manager,vimeo,yes,FALSE,yes,vimeo video with no VideoObject schema,apollo-video-tech-1
