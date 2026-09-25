@@ -1,0 +1,973 @@
+{
+"croud.com": [
+"https://croud.com/resources/"
+],
+"journeyfurther.com": [
+"https://www.journeyfurther.com/en-gb/insights"
+],
+"searchlaboratory.com": [
+"https://www.searchlaboratory.com/blog/",
+"https://www.searchlaboratory.com/insights/"
+],
+"jaywing.com": [
+"https://jaywing.com/insights",
+"https://jaywing.com/blog",
+"https://jaywing.com/news-and-insights"
+],
+"glass.digital": [
+"https://glass.digital/blog/"
+],
+"found.co.uk": [
+"https://www.found.co.uk/blog/"
+],
+"reflectdigital.co.uk": [
+"https://www.reflectdigital.co.uk/blog"
+],
+"embryo.com": [
+"https://embryo.com/blog/"
+],
+"mediaworks.co.uk": [
+"https://www.mediaworks.co.uk/insights"
+],
+"sixandflow.com": [
+"https://www.sixandflow.com/marketing-blog",
+"https://www.sixandflow.com/blog"
+],
+"gripped.io": [
+"https://gripped.io/blog/"
+],
+"ledgerbennett.com": [
+"https://ledgerbennett.com/insights/"
+],
+"fiftyfiveandfive.com": [
+"https://fiftyfiveandfive.com/resources/"
+],
+"themarketingpractice.com": [
+"https://www.themarketingpractice.com/insights",
+"https://www.themarketingpractice.com/blog"
+],
+"gravityglobal.com": [
+"https://www.gravityglobal.com/news"
+],
+"hardnumbers.co.uk": [
+"https://www.hardnumbers.co.uk/blog"
+],
+"axicom.com": [
+"https://axicom.com/insights/",
+"https://axicom.com/blog/"
+],
+"onclusive.com": [
+"https://onclusive.com/resources/blog/"
+],
+"brightlocal.com": [
+"https://www.brightlocal.com/blog/"
+],
+"turtl.co": [
+"https://turtl.co/blog/"
+],
+"sendible.com": [
+"https://www.sendible.com/insights"
+],
+"echobox.com": [
+"https://www.echobox.com/resources/blog/"
+],
+"adzooma.com": [
+"https://adzooma.com/blog/"
+],
+"adthena.com": [
+"https://www.adthena.com/resources/"
+],
+"pure360.com": [
+"https://www.pure360.com/blog/",
+"https://www.pure360.com/learn/"
+],
+"feefo.com": [
+"https://business.feefo.com/resources"
+],
+"reviews.io": [
+"https://blog.reviews.io/"
+],
+"quillpodcasting.com": [
+"https://www.quillpodcasting.com/resources"
+],
+"rephonic.com": [
+"https://rephonic.com/blog"
+],
+"audioboom.com": [
+"https://audioboom.com/blog"
+],
+"leadforensics.com": [
+"https://www.leadforensics.com/blog/"
+],
+"kota.co.uk": [
+"https://kota.co.uk/blog/"
+],
+"codecomputerlove.com": [
+"https://www.codecomputerlove.com/blog"
+],
+"smartinsights.com": [
+"https://smartinsights.com/blog/"
+],
+"vidsy.co": [
+"https://vidsy.co/blog",
+"https://vidsy.co/insights"
+],
+"dubb.com": [
+"https://dubb.com/blog"
+],
+"vidalytics.com": [
+"https://vidalytics.com/blog/"
+],
+"sproutvideo.com": [
+"https://sproutvideo.com/blog"
+],
+"dacast.com": [
+"https://www.dacast.com/blog/"
+],
+"panopto.com": [
+"https://www.panopto.com/blog/"
+],
+"kaltura.com": [
+"https://kaltura.com/blog/"
+],
+"vbrick.com": [
+"https://vbrick.com/blog/"
+],
+"on24.com": [
+"https://www.on24.com/blog/"
+],
+"bigmarker.com": [
+"https://get.bigmarker.com/resources"
+],
+"demio.com": [
+"https://www.demio.com/blog"
+],
+"bizzabo.com": [
+"https://www.bizzabo.com/blog"
+],
+"ziflow.com": [
+"https://www.ziflow.com/blog"
+],
+"brandfolder.com": [
+"https://brandfolder.com/resources/"
+],
+"air.inc": [
+"https://air.inc/resources"
+],
+"loomly.com": [
+"https://blog.loomly.com/"
+],
+"conductor.com": [
+"https://www.conductor.com/blog/"
+],
+"brightedge.com": [
+"https://www.brightedge.com/blog"
+],
+"seoclarity.net": [
+"https://www.seoclarity.net/seo-content-learning-center"
+],
+"botify.com": [
+"https://www.botify.com/blog"
+],
+"optimizely.com": [
+"https://www.optimizely.com/field-notes/articles"
+],
+"mutinyhq.com": [
+"https://www.mutinyhq.com/blog"
+],
+"litmus.com": [
+"https://www.litmus.com/blog"
+],
+"customer.io": [
+"https://customer.io/learn"
+],
+"iterable.com": [
+"https://iterable.com/blog/"
+],
+"braze.com": [
+"https://www.braze.com/resources/articles"
+],
+"terminus.com": [
+"https://terminus.com/blog/"
+],
+"rollworks.com": [
+"https://www.rollworks.com/resources/blog/",
+"https://www.rollworks.com/blog/"
+],
+"metadata.io": [
+"https://metadata.io/resources/blog/"
+],
+"bombora.com": [
+"https://bombora.com/resources/"
+],
+"navattic.com": [
+"https://www.navattic.com/blog"
+],
+"storylane.io": [
+"https://www.storylane.io/blog"
+],
+"walnut.io": [
+"https://www.walnut.io/blog/"
+],
+"arcade.software": [
+"https://www.arcade.software/blog"
+],
+"goconsensus.com": [
+"https://goconsensus.com/blog"
+],
+"typeface.ai": [
+"https://www.typeface.ai/blog"
+],
+"anyword.com": [
+"https://www.anyword.com/blog"
+],
+"duda.co": [
+"https://blog.duda.co/"
+],
+"zencastr.com": [
+"https://zencastr.com/blog"
+],
+"libsyn.com": [
+"https://libsyn.com/blog/"
+],
+"castos.com": [
+"https://castos.com/blog/"
+],
+"highwirepr.com": [
+"https://highwirepr.com/blog/",
+"https://highwirepr.com/insights/"
+],
+"bospar.com": [
+"https://bospar.com/insights/blog/"
+],
+"shiftcomm.com": [
+"https://www.shiftcomm.com/thinking"
+],
+"matternow.com": [
+"https://www.matternow.com/blog/"
+],
+"inkhouse.com": [
+"https://inkhouse.com/insights/"
+],
+"pancommunications.com": [
+"https://www.pancommunications.com/insights"
+],
+"blastmedia.com": [
+"https://blastmedia.com/blog/"
+],
+"barrelny.com": [
+"https://www.barrelny.com/blog/all"
+],
+"digitalsilk.com": [
+"https://www.digitalsilk.com/digital-trends/",
+"https://www.digitalsilk.com/blog/"
+],
+"huemor.rocks": [
+"https://huemor.rocks/blog/"
+],
+"heinzmarketing.com": [
+"https://www.heinzmarketing.com/blog/"
+],
+"revenueriver.co": [
+"https://www.revenueriver.co/blog"
+],
+"hawkemedia.com": [
+"https://hawkemedia.com/insights/"
+],
+"disruptiveadvertising.com": [
+"https://disruptiveadvertising.com/blog/"
+],
+"stratabeat.com": [
+"https://stratabeat.com/resources/articles/"
+],
+"hingemarketing.com": [
+"https://hingemarketing.com/blog"
+],
+"expresswriters.com": [
+"https://expresswriters.com/write-blog/"
+],
+"compose.ly": [
+"https://www.compose.ly/resources"
+],
+"writeraccess.com": [
+"https://www.writeraccess.com/blog/"
+],
+"ceros.com": [
+"https://www.ceros.com/blog/"
+],
+"wave.video": [
+"https://wave.video/blog/"
+],
+"vyond.com": [
+"https://www.vyond.com/blog/"
+],
+"columnfivemedia.com": [
+"https://www.columnfivemedia.com/blog/"
+],
+"redberries.ae": [
+"https://redberries.ae/blog/"
+],
+"volgatigris.com": [
+"https://www.volgatigris.com/blog"
+],
+"redspider.ae": [
+"https://www.redspider.ae/blog/"
+],
+"go-gulf.ae": [
+"https://www.go-gulf.ae/blog/"
+],
+"magnitt.com": [
+"https://magnitt.com/news",
+"https://magnitt.com/research"
+],
+"bitoasis.net": [
+"https://bitoasis.net/en/blog",
+"https://bitoasis.net/blog"
+],
+"beehive.ae": [
+"https://www.beehive.ae/blog"
+],
+"prypco.com": [
+"https://prypco.com/blog",
+"https://www.prypco.com/blogs"
+],
+"trukker.com": [
+"http://blog.trukker.com/"
+],
+"quiqup.com": [
+"https://www.quiqup.com/resources/blog"
+],
+"magnati.com": [
+"https://www.magnati.com/blog",
+"https://www.magnati.com/insights"
+],
+"grubtech.com": [
+"https://grubtech.com/en/blog"
+],
+"sapaad.com": [
+"https://www.sapaad.com/blog/"
+],
+"supy.io": [
+"https://supy.io/blog"
+],
+"creativezone.ae": [
+"https://www.creativezone.ae/news-articles/"
+],
+"shuraa.com": [
+"https://www.shuraa.com/blog/"
+],
+"alefeducation.com": [
+"https://www.alefeducation.com/news"
+],
+"aramex.com": [
+"https://www.aramex.com/us/en/blog",
+"https://www.aramex.com/blog"
+],
+"leantech.me": [
+"https://www.leantech.me/blog"
+],
+"qlub.io": [
+"https://www.qlub.io/blog",
+"https://qlub.io/en/blog"
+],
+"getpluto.com": [
+"https://www.getpluto.com/blog"
+],
+"fuze.finance": [
+"https://fuze.finance/blog"
+],
+"fasset.com": [
+"https://fasset.com/blog/"
+],
+"willo.video": [
+"https://www.willo.video/blog"
+],
+"kayako.com": [
+"https://kayako.com/blog/"
+],
+"cybsafe.com": [
+"https://www.cybsafe.com/blog/"
+],
+"egress.com": [
+"https://www.egress.com/blog"
+],
+"immersivelabs.com": [
+"https://www.immersivelabs.com/resources/blog"
+],
+"intruder.io": [
+"https://www.intruder.io/blog"
+],
+"complyadvantage.com": [
+"https://complyadvantage.com/insights"
+],
+"sumsub.com": [
+"https://sumsub.com/media/news/"
+],
+"featurespace.com": [
+"https://www.featurespace.com/knowledge-hub"
+],
+"allica.bank": [
+"https://www.allica.bank/blog"
+],
+"oaknorth.co.uk": [
+"https://oaknorth.co.uk/blog/",
+"https://oaknorth.co.uk/insights/"
+],
+"clear.bank": [
+"https://clear.bank/learn/insights"
+],
+"railsr.com": [
+"https://www.railsr.com/newsroom"
+],
+"banked.com": [
+"https://banked.com/blog"
+],
+"token.io": [
+"https://token.io/blog"
+],
+"volt.io": [
+"https://www.volt.io/blog/"
+],
+"ecommpay.com": [
+"https://ecommpay.com/blog/"
+],
+"equalsmoney.com": [
+"https://equalsmoney.com/blog",
+"https://equalsmoney.com/resources"
+],
+"capitalontap.com": [
+"https://www.capitalontap.com/en/blog/"
+],
+"codat.io": [
+"https://codat.io/resources/"
+],
+"gosuperscript.com": [
+"https://gosuperscript.com/broker/blog/"
+],
+"hokodo.co": [
+"https://www.hokodo.co/blog"
+],
+"kriya.co": [
+"https://www.kriya.co/blog"
+],
+"du.co": [
+"https://du.co/insights/"
+],
+"sonovate.com": [
+"https://www.sonovate.com/blog/"
+],
+"dojo.tech": [
+"https://dojo.tech/resources/"
+],
+"quantexa.com": [
+"https://www.quantexa.com/blog/"
+],
+"behavox.com": [
+"https://behavox.com/news"
+],
+"ably.com": [
+"https://ably.com/blog"
+],
+"tray.ai": [
+"https://tray.ai/blog/"
+],
+"unily.com": [
+"https://www.unily.com/resources"
+],
+"juro.com": [
+"https://juro.com/blog"
+],
+"legl.com": [
+"https://legl.com/resources"
+],
+"cledara.com": [
+"https://www.cledara.com/blog"
+],
+"capsulecrm.com": [
+"https://capsulecrm.com/blog/"
+],
+"kallidus.com": [
+"https://www.kallidus.com/blog/"
+],
+"learningpool.com": [
+"https://learningpool.com/blog/"
+],
+"filtered.com": [
+"https://filtered.com/blog",
+"https://filtered.com/resources"
+],
+"hive.hr": [
+"https://www.hive.hr/resources/"
+],
+"zincwork.com": [
+"https://zincwork.com/blog"
+],
+"tribepad.com": [
+"https://tribepad.com/resource-hub/"
+],
+"ciphr.com": [
+"https://www.ciphr.com/blog",
+"https://www.ciphr.com/resources"
+],
+"rotacloud.com": [
+"https://rotacloud.com/blog/"
+],
+"fourth.com": [
+"https://www.fourth.com/resources"
+],
+"moneypenny.com": [
+"https://www.moneypenny.com/uk/blog/",
+"https://www.moneypenny.com/blog/"
+],
+"coda.io": [
+"https://coda.io/blog"
+],
+"lucid.co": [
+"https://lucid.co/blog"
+],
+"miro.com": [
+"https://miro.com/blog/"
+],
+"betterworks.com": [
+"https://www.betterworks.com/magazine"
+],
+"bonus.ly": [
+"https://blog.bonus.ly/",
+"https://bonus.ly/blog"
+],
+"smartrecruiters.com": [
+"https://www.smartrecruiters.com/resources/"
+],
+"hirevue.com": [
+"https://www.hirevue.com/blog"
+],
+"sparkhire.com": [
+"https://www.sparkhire.com/learn/"
+],
+"allego.com": [
+"https://www.allego.com/blog/"
+],
+"gainsight.com": [
+"https://www.gainsight.com/blog/"
+],
+"churnzero.com": [
+"https://churnzero.com/blog/"
+],
+"vitally.io": [
+"https://www.vitally.io/blog"
+],
+"crossbeam.com": [
+"https://www.crossbeam.com/resources"
+],
+"kustomer.com": [
+"https://www.kustomer.com/resources/"
+],
+"gladly.com": [
+"https://www.gladly.com/blog/"
+],
+"logrocket.com": [
+"https://blog.logrocket.com/"
+],
+"productboard.com": [
+"https://www.productboard.com/blog/"
+],
+"aha.io": [
+"https://www.aha.io/blog"
+],
+"canny.io": [
+"https://canny.io/blog/"
+],
+"usertesting.com": [
+"https://www.usertesting.com/blog"
+],
+"whatfix.com": [
+"https://whatfix.com/blog"
+],
+"scribehow.com": [
+"https://scribehow.com/library",
+"https://scribehow.com/blog"
+],
+"gitlab.com": [
+"https://about.gitlab.com/blog/"
+],
+"pagerduty.com": [
+"https://www.pagerduty.com/blog/"
+],
+"grafana.com": [
+"https://grafana.com/blog/"
+],
+"supabase.com": [
+"https://supabase.com/blog"
+],
+"airbyte.com": [
+"https://airbyte.com/blog"
+],
+"hex.tech": [
+"https://hex.tech/blog/"
+],
+"metabase.com": [
+"https://www.metabase.com/blog"
+],
+"secureframe.com": [
+"https://secureframe.com/blog"
+],
+"huntress.com": [
+"https://www.huntress.com/blog"
+],
+"withpersona.com": [
+"https://withpersona.com/blog"
+],
+"alloy.com": [
+"https://www.alloy.com/content-library"
+],
+"rho.co": [
+"https://www.rho.co/blog"
+],
+"emburse.com": [
+"https://www.emburse.com/blog"
+],
+"ziphq.com": [
+"https://ziphq.com/blog"
+],
+"routable.com": [
+"https://www.routable.com/resources/"
+],
+"stampli.com": [
+"https://www.stampli.com/blog/"
+],
+"floqast.com": [
+"https://www.floqast.com/blog"
+],
+"mosaic.tech": [
+"https://www.mosaic.tech/blog",
+"https://www.mosaic.tech/resources"
+],
+"cubesoftware.com": [
+"https://www.cubesoftware.com/blog"
+],
+"moderntreasury.com": [
+"https://www.moderntreasury.com/journal"
+],
+"unit.co": [
+"https://www.unit.co/resources"
+],
+"dwolla.com": [
+"https://www.dwolla.com/resources"
+],
+"zuora.com": [
+"https://www.zuora.com/blog/",
+"https://www.zuora.com/resources/"
+],
+"baremetrics.com": [
+"https://baremetrics.com/blog"
+],
+"oysterhr.com": [
+"https://www.oysterhr.com/library"
+],
+"papayaglobal.com": [
+"https://www.papayaglobal.com/blog/"
+],
+"vendr.com": [
+"https://www.vendr.com/blog"
+],
+"ironcladapp.com": [
+"https://ironcladapp.com/resources/articles"
+],
+"simpplr.com": [
+"https://www.simpplr.com/blog/"
+],
+"animoto.com": [
+"https://animoto.com/blog"
+],
+"hippovideo.io": [
+"https://www.hippovideo.io/blog/"
+],
+"sendspark.com": [
+"https://blog.sendspark.com/"
+],
+"clearvoice.com": [
+"https://www.clearvoice.com/blog/"
+],
+"skyword.com": [
+"https://www.skyword.com/resources/"
+],
+"walkersands.com": [
+"https://www.walkersands.com/about/blog/"
+],
+"upliftcontent.com": [
+"https://www.upliftcontent.com/resources/"
+],
+"draft.dev": [
+"https://draft.dev/learn"
+],
+"marketmuse.com": [
+"https://blog.marketmuse.com/"
+],
+"qualified.com": [
+"https://qualified.com/blog"
+],
+"demandbase.com": [
+"https://www.demandbase.com/blog/"
+],
+"6sense.com": [
+"https://6sense.com/blog/"
+],
+"g2.com": [
+"https://learn.g2.com/"
+],
+"trustradius.com": [
+"https://www.trustradius.com/vendor-blog",
+"https://www.trustradius.com/buyer-blog"
+],
+"muckrack.com": [
+"https://muckrack.com/blog"
+],
+"5wpr.com": [
+"https://www.5wpr.com/new/"
+],
+"contentallies.com": [
+"https://contentallies.com/insights"
+],
+"transistor.fm": [
+"https://transistor.fm/blog/"
+],
+"redantler.com": [
+"https://www.redantler.com/news"
+],
+"focuslab.agency": [
+"https://www.focuslab.agency/blog"
+],
+"ramotion.com": [
+"https://www.ramotion.com/blog/"
+],
+"clay.global": [
+"https://clay.global/blog"
+],
+"vezadigital.com": [
+"https://www.vezadigital.com/blog"
+],
+"webflow.com": [
+"https://webflow.com/blog"
+],
+"vervesearch.com": [
+"https://www.vervesearch.com/blog/"
+],
+"bluearray.co.uk": [
+"https://bluearray.co.uk/seo-insights/"
+],
+"digitaloft.co.uk": [
+"https://digitaloft.co.uk/insights"
+],
+"transmissionagency.com": [
+"https://transmissionagency.com/insights/"
+],
+"hotwireglobal.com": [
+"https://www.hotwireglobal.com/insights/"
+],
+"brands2life.com": [
+"https://www.brands2life.com/insights/",
+"https://www.brands2life.com/news/"
+],
+"koto.studio": [
+"https://koto.studio/journal",
+"https://koto.studio/thinking"
+],
+"raggededge.com": [
+"https://raggededge.com/thinking/",
+"https://raggededge.com/blog/"
+],
+"dixonbaxi.com": [
+"https://dixonbaxi.com/journal",
+"https://dixonbaxi.com/news"
+],
+"pearlfisher.com": [
+"https://pearlfisher.com/category/perspectives/"
+],
+"jkrglobal.com": [
+"https://www.jkrglobal.com/thinking"
+],
+"sitebulb.com": [
+"https://sitebulb.com/resources/guides/"
+],
+"audiense.com": [
+"https://www.audiense.com/resources/blog/"
+],
+"copify.com": [
+"https://blog.copify.com/"
+],
+"vadecom.net": [
+"https://vadecom.net/blog"
+],
+"communicateonline.me": [
+"https://communicateonline.me/insights/"
+],
+"campaignme.com": [
+"https://campaignme.com/category/news/"
+],
+"arabadonline.com": [
+"https://arabadonline.com/en/"
+],
+"wamda.com": [
+"https://www.wamda.com/media/news"
+],
+"rippling.com": [
+"https://www.rippling.com/blog"
+],
+"airtable.com": [
+"https://www.airtable.com/articles"
+],
+"pandadoc.com": [
+"https://www.pandadoc.com/blog/"
+],
+"salesloft.com": [
+"https://www.salesloft.com/resources/blog"
+],
+"zoominfo.com": [
+"https://pipeline.zoominfo.com/"
+],
+"apollo.io": [
+"https://www.apollo.io/insights"
+],
+"clari.com": [
+"https://www.clari.com/blog/"
+],
+"chilipiper.com": [
+"https://www.chilipiper.com/resources/articles"
+],
+"highspot.com": [
+"https://www.highspot.com/blog/"
+],
+"seismic.com": [
+"https://www.seismic.com/blog/"
+],
+"mindtickle.com": [
+"https://mindtickle.com/blog/"
+],
+"copper.com": [
+"https://www.copper.com/resources"
+],
+"intercom.com": [
+"https://www.intercom.com/blog/"
+],
+"postman.com": [
+"https://blog.postman.com/"
+],
+"sentry.io": [
+"https://blog.sentry.io/"
+],
+"datadoghq.com": [
+"https://www.datadoghq.com/blog/"
+],
+"circleci.com": [
+"https://circleci.com/blog/"
+],
+"retool.com": [
+"https://retool.com/blog"
+],
+"render.com": [
+"https://render.com/blog"
+],
+"fathom.video": [
+"https://fathom.video/blog"
+],
+"expensify.com": [
+"https://blog.expensify.com/"
+],
+"novo.co": [
+"https://www.novo.co/learn"
+],
+"workable.com": [
+"https://resources.workable.com/blog"
+],
+"surveymonkey.com": [
+"https://www.surveymonkey.com/learn/"
+],
+"ebury.com": [
+"https://ebury.com/resources/blog"
+],
+"iwoca.co.uk": [
+"https://www.iwoca.co.uk/news"
+],
+"fundingcircle.com": [
+"https://www.fundingcircle.com/uk/resources/"
+],
+"beapplied.com": [
+"https://www.beapplied.com/blog"
+],
+"perkbox.com": [
+"https://www.perkbox.com/resources/blog"
+],
+"attio.com": [
+"https://attio.com/blog"
+],
+"onfido.com": [
+"https://onfido.com/blog"
+],
+"cloudsmith.com": [
+"https://cloudsmith.com/blog"
+],
+"luminance.com": [
+"https://www.luminance.com/news/",
+"https://www.luminance.com/blog/"
+],
+"tractable.ai": [
+"https://tractable.ai/news/"
+],
+"signal-ai.com": [
+"https://signal-ai.com/resources"
+],
+"pento.io": [
+"https://www.pento.io/blog"
+],
+"crezco.com": [
+"https://www.crezco.com/blog"
+],
+"meetcleo.com": [
+"https://web.meetcleo.com/news"
+],
+"zego.com": [
+"https://www.zego.com/blog/"
+],
+"thisisbud.com": [
+"https://www.thisisbud.com/en-gb/blog",
+"https://www.thisisbud.com/blog"
+],
+"tabby.ai": [
+"https://tabby.ai/en-AE/blog",
+"https://tabby.ai/blog"
+],
+"huspy.com": [
+"https://www.huspy.com/ae/blog"
+],
+"bayut.com": [
+"https://www.bayut.com/mybayut/"
+],
+"nymcard.com": [
+"https://www.nymcard.com/company/blog"
+],
+"network.ae": [
+"https://www.network.ae/en/insights",
+"https://www.network.ae/en/blog"
+],
+"telr.com": [
+"https://telr.com/blog"
+],
+"getstake.com": [
+"https://blog.getstake.com/"
+],
+"yap.com": [
+"https://www.yap.com/blog"
+],
+"zbooni.com": [
+"https://www.zbooni.com/blog"
+],
+"zenda.com": [
+"https://www.zenda.com/blogs"
+],
+"hubstaff.com": [
+"https://hubstaff.com/blog/"
+],
+"freshbooks.com": [
+"https://www.freshbooks.com/hub"
+]
+}
