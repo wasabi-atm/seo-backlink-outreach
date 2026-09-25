@@ -6,7 +6,7 @@ ones did not cover. Claude runs the first three through their MCP tools and save
 return as a leads CSV; this script picks one contact per company, tracks what is still missing,
 and finds website emails. It never calls Instantly, Apollo or Apify itself.
 
-    python contacts.py pick  leads.csv contacts.csv --source instantly --targets targets.csv
+    python contacts.py pick  leads.csv contacts.csv --source instantly --targets targets.csv [--focus seo] [--upgrade]
     python contacts.py todo  targets.csv contacts.csv -o todo.csv
     python contacts.py site  todo.csv contacts.csv [--workers 4]
     python contacts.py merge targets.csv contacts.csv -o out.csv
@@ -18,10 +18,15 @@ contacts.csv holds one row per company: webDomain, firstName, lastName, jobTitle
 emailSource (instantly, apollo, apify, website), emailType (person or generic), linkedinUrl,
 location. A company already in it is never replaced, so the waterfall order holds.
 
-pick ranks people by role (SEO, then content, then marketing lead, growth, digital marketing,
-founder or CEO, other marketing, marketing operations) and prefers someone based in the company's
-country (targets.csv country column: UK, US or UAE). People outside those roles (engineers, sales,
-finance) are skipped, as the company's own contact inbox reaches the right person more often.
+pick ranks people by role and prefers someone based in the company's country (targets.csv
+country column: UK, US or UAE). The default order suits content and backlink pitches: SEO, content,
+marketing lead, growth, digital marketing, founder or CEO, other marketing, marketing operations.
+--focus seo suits a video SEO or schema pitch, where the person in charge of SEO or of the website
+comes first: SEO lead (manager and up), website owner, marketing lead, content, SEO specialist,
+growth, digital marketing, founder or CEO. Engineers, developers, sales and finance are skipped (a
+web developer is not a website owner), as the company's own contact inbox reaches the right person
+more often. --upgrade lets a better-ranked person replace a company's current contact; without it
+the first source to find someone keeps the company.
 
 site (needs crawl4ai, run it with <repo>/.venv-crawl/bin/python) renders the homepage and up to
 three contact, about or support pages, and keeps addresses on the company's own domain,
@@ -33,6 +38,7 @@ from urllib.parse import urljoin, urlparse
 COLS = ["webDomain", "firstName", "lastName", "jobTitle", "email", "emailSource", "emailType", "linkedinUrl", "location"]
 OUT_COLS = ["firstName", "lastName", "jobTitle", "email", "emailSource", "emailType", "linkedinUrl"]
 
+NOT_MARKETING = r"develop(er|ment engineer)|engineer|\bsales\b|account (executive|manager)|finance|accountant|\bhr\b"
 # Lower is better. The first matching pattern wins.
 ROLES = [
     (0, r"\bseo\b|search engine|organic"),
@@ -43,6 +49,20 @@ ROLES = [
     (4, r"digital marketing|brand|communications|demand gen"),
     (5, r"founder|\bceo\b|chief executive|owner|managing director"),
     (6, r"marketing"),
+]
+SEO_WORD = r"\bseo\b|search engine optimi[sz]ation|organic (search|growth)"
+LEAD_WORD = r"head|director|manager|\blead\b|\bvp\b|vice president|chief"
+ROLES_SEO = [
+    (0, rf"(?=.*({SEO_WORD}))(?=.*({LEAD_WORD}))"),
+    (1, rf"(?=.*(\bweb\b|website|webmaster|digital experience))(?=.*({LEAD_WORD}|webmaster|producer))"),
+    (9, r"marketing op|revops|events?\b"),
+    (2, r"chief marketing|\bcmo\b|(vp|vice president|head|director)\b.*marketing|marketing (director|head)"),
+    (3, r"content(?! design)|editorial"),
+    (4, SEO_WORD),
+    (5, r"growth"),
+    (6, r"digital marketing|brand|communications|demand gen"),
+    (7, r"founder|\bceo\b|chief executive|owner|managing director"),
+    (8, r"marketing"),
 ]
 COUNTRY = {"UK": r"united kingdom|england|scotland|wales|northern ireland|london|\buk\b",
            "US": r"united states|\busa\b|\bus\b",
@@ -103,38 +123,60 @@ def clean_name(name):
     return " ".join(n.split())
 
 
-def role_rank(title):
+def role_rank(title, focus="content"):
+    """Lower is better. Rank 10 (8 in the content order) means outside the wanted roles."""
     t = (title or "").lower()
-    for rank, pat in ROLES:
+    if focus == "seo":
+        if re.search(NOT_MARKETING, t) and not re.search(SEO_WORD, t):
+            return 10
+        roles = ROLES_SEO
+    else:
+        roles = ROLES
+    for rank, pat in roles:
         if re.search(pat, t):
             return rank
-    return 8
+    return 10 if focus == "seo" else 8
 
 
 def pick(args):
     countries = {root(r["webDomain"]): r.get("country", "") for r in read(args.targets)} if args.targets else {}
     contacts = read(args.contacts)
-    have = {root(r["webDomain"]) for r in contacts if r.get("email")}
+    current = {root(r["webDomain"]): r for r in contacts if r.get("email")}
+    max_rank = args.max_rank if args.max_rank is not None else (9 if args.focus == "seo" else 7)
+    rank = lambda title: role_rank(title, args.focus)
     best = {}
     for r in read(args.leads):
         d, email = root(r.get("webDomain")), (r.get("email") or "").strip().lower()
-        if not d or not email or d in have:
+        if not d or not email:
             continue
-        if role_rank(r.get("jobTitle")) > args.max_rank:
+        if d in current and not args.upgrade:
+            continue
+        if rank(r.get("jobTitle")) > max_rank:
             continue
         if not same_company(email, d):
             print(f"  skipped {email} for {d}: email is on another company's domain")
             continue
         away = not re.search(COUNTRY.get(countries.get(d, ""), r"$^"), (r.get("location") or "").lower())
-        score = (role_rank(r.get("jobTitle")), away and bool(countries.get(d)))
+        score = (rank(r.get("jobTitle")), away and bool(countries.get(d)))
+        if d in current:
+            c = current[d]
+            now = 99 if c.get("emailType") == "generic" else rank(c.get("jobTitle"))
+            if score[0] >= now or email == c["email"].lower():
+                continue
         if d not in best or score < best[d][0]:
             best[d] = (score, r)
+    replaced = [d for d in best if d in current]
+    if replaced:
+        contacts = [c for c in contacts if root(c["webDomain"]) not in replaced]
+        for d in replaced:
+            print(f"  upgraded {d}: {current[d].get('jobTitle') or current[d]['email']} -> {best[d][1].get('jobTitle')}")
     for d, (_, r) in best.items():
         contacts.append(dict(webDomain=d, firstName=clean_name(r.get("firstName")), lastName=clean_name(r.get("lastName")),
                              jobTitle=r.get("jobTitle", ""), email=r["email"].strip().lower(), emailSource=args.source,
                              emailType="person", linkedinUrl=r.get("linkedinUrl", ""), location=r.get("location", "")))
     write(args.contacts, COLS, contacts)
-    print(f"{args.source}: added {len(best)} companies, contacts.csv now has {sum(1 for r in contacts if r.get('email'))}")
+    print(f"{args.source}: {len(best) - len(replaced)} added, {len(replaced)} upgraded, "
+          f"contacts.csv now has {sum(1 for r in contacts if r.get('email'))}")
 
 
 def todo(args):
@@ -221,7 +263,10 @@ def main():
     p.add_argument("leads"); p.add_argument("contacts")
     p.add_argument("--source", required=True, choices=["instantly", "apollo", "apify"])
     p.add_argument("--targets", help="CSV with webDomain and country, to prefer people based there")
-    p.add_argument("--max-rank", type=int, default=7, help="worst role rank to accept (8 = any title)")
+    p.add_argument("--focus", choices=["content", "seo"], default="content",
+                   help="role order: content (backlink pitches) or seo (video SEO and schema pitches)")
+    p.add_argument("--upgrade", action="store_true", help="replace a company's contact with a better-ranked person")
+    p.add_argument("--max-rank", type=int, help="worst role rank to accept (default 7 for content, 9 for seo)")
     t = sub.add_parser("todo", help="list companies that still have no email")
     t.add_argument("targets"); t.add_argument("contacts"); t.add_argument("-o", "--out", required=True)
     s = sub.add_parser("site", help="find the public contact email on each remaining company's website")

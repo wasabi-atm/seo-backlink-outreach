@@ -277,9 +277,11 @@ Send the CSV to the user and stop. Tell them Step 5 is ready when they want it.
 
 Do not start this step on your own.
 
-First find one contact per company: the founder for founder's quote swaps, otherwise the head of content, content marketing lead or head of marketing (for a video or SEO pitch: the SEO, content or marketing lead, then the founder or CEO). Work down the contact waterfall below.
+First find one contact per company: the founder for founder's quote swaps, otherwise the head of content, content marketing lead or head of marketing. For a video SEO or schema pitch (the video lines), the right person is whoever is in charge of SEO or of the website: an SEO lead (manager and up), then a website owner (head of web, web or website manager, digital experience), then the marketing lead. A junior SEO specialist or analyst is not in charge, so the marketing lead they report to comes first. Pass `--focus seo` to every `contacts.py pick` for these pitches. Work down the contact waterfall below.
 
 ### Contact waterfall
+
+Search in tiers, top role first. A search that mixes many titles with `show_one_lead_per_company` lets the source pick any matching person, usually a CMO, so the SEO or web owner is never seen. Run the top tier on its own first (for `--focus seo`: SEO titles, then web titles, leaving out analyst, executive, junior, associate and consultant) and only then the wider marketing, founder and CEO titles for the companies still missing. If a list was already built with mixed titles, run a free `enrichment_preview` in Instantly and a free `apollo_mixed_people_api_search` for the top tier, import or reveal just those people (Instantly `name` + `domains` filter, Apollo by id), and run `pick --focus seo --upgrade` so a better-placed person replaces the current contact. Only upgrade to a verified email, never to an extrapolated guess.
 
 Each source only gets the companies the sources above it did not cover. `<repo>/skill/mta-backlink-outreach/scripts/contacts.py` keeps track in `contacts.csv` (one row per company, never overwritten by a later source) and never calls a paid service itself. Run the services through their MCP tools, never their APIs.
 
