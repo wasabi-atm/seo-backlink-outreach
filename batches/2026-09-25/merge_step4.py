@@ -4,6 +4,13 @@ import csv, glob, re
 from collections import Counter
 
 base = {r["webDomain"]: r for r in csv.DictReader(open("02_enriched.csv"))}
+# Flagged in Step 4 (they also sell video or motion work); user chose "Include, quote swap only" on 25 Sep.
+STEP4_COMPETITORS = {"mediaworks.co.uk": "Also sells 2D/3D animation and motion graphics",
+                     "reflectdigital.co.uk": "Lists video production among its services",
+                     "redberries.ae": "Also offers video and motion graphics production",
+                     "fiftyfiveandfive.com": "Also sells video marketing"}
+for d, why in STEP4_COMPETITORS.items():
+    base[d].update(competitor="yes", competitorReason=why, competitorDecision="include")
 picks = {}
 for f in sorted(glob.glob("step4/out_*.csv")):
     for r in csv.DictReader(open(f)):
@@ -11,7 +18,7 @@ for f in sorted(glob.glob("step4/out_*.csv")):
 
 cols = ["companyName", "webDomain", "domainRating", "country", "serviceType", "segment", "offer", "articleTitle",
         "articleUrl", "articleTopic", "linkPlacement", "articleHook",
-        "articleDate", "fit", "status", "hookSource", "notes", "backlinkExchange", "competitorDecision"]
+        "articleDate", "fit", "status", "hookSource", "notes", "backlinkExchange", "competitor", "competitorDecision"]
 out, missing = [], []
 for d, b in base.items():
     p = picks.get(d)
@@ -29,7 +36,8 @@ for d, b in base.items():
                articleHook=p.get("articleHook", ""), articleDate=p.get("articleDate", ""), fit=fit,
                status=("ready" if fit in ("strong", "ok") else "review: weak fit" if fit == "weak" else "no article"),
                hookSource=p.get("hookSource", ""), notes=p.get("notes", ""),
-               backlinkExchange=b["backlinkExchange"], competitorDecision=b.get("competitorDecision", ""))
+               backlinkExchange=b["backlinkExchange"], competitor=b.get("competitor", "no"),
+               competitorDecision=b.get("competitorDecision", ""))
     for k, v in row.items():
         row[k] = re.sub("[–—]", "-", str(v)).strip()
     out.append(row)
