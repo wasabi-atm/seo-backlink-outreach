@@ -20,3 +20,7 @@
 - Farm-word hits on navattic, digitalsilk, bonusly and 5wpr were checked by hand: client case studies and phrases like "betting on", not farm content.
 - Competitors: Vyond and Column Five flagged. User chose "Include, quote swap only" for both (25 Sep). Vyond is in the 150; Column Five is a spare.
 - Selection (select.py): 75 per segment, UK and UAE filled first because 2026-09-23-b was mostly US. 150 in 01_prospects.csv, 113 spares in 01_spares.csv.
+- Checkpoint 1 approved by the user as-is (25 Sep).
+- Step 3 (link habits, Apify path since Ahrefs has 36 units): step3_posts.py picks up to 5 recent posts per site from the crawled blog index; 6 cheerio runs read about 670 posts; step3_analyze.py counts distinct outside business domains linked in the post bodies (social, CDN, search and .gov/.edu/.ac links excluded), outside people quoted (job title "at/of" another company) and guest-post or contributor pages. Yes = 10+ domains, 2+ outside companies quoted, or a guest/contributor page; Some = 3-9 domains or 1 company quoted; No = fewer.
+- Found during Step 3 and swapped for the next spare in the same bucket: JKR (spam pages on subdomain abi.jkrglobal.com) -> Pearlfisher; Egress (blog now served from blog.knowbe4.com after the KnowBe4 acquisition) -> Sumsub; Alef Education (press releases only, no blog) -> Bayut. The Checkpoint 1 list is kept in step3/01_prospects_checkpoint1.csv.
+- 02_low_dr.csv: 38 candidates under DR 40 (Tillo left out: open HubSpot deal). They were never vetted or crawled, so backlinkExchange is blank. Added to low_dr_pool.csv.

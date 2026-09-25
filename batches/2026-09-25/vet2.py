@@ -19,6 +19,10 @@ DROP = {  # acquired or merged: the homepage now belongs to another company
     "pure360.com": "rebranded to Spotler (Dutch parent, spotler.com)",
     "onfido.com": "acquired: homepage is now Entrust",
     "vadecom.net": "not UK/US/UAE: Egypt-based agency serving the Gulf",
+    # Found in Step 3 (25 Sep), after Checkpoint 1; replaced with the next spare in the same bucket.
+    "jkrglobal.com": "spam risk: subdomain abi.jkrglobal.com hosts unrelated spam pages; Thinking page is one report, not a blog",
+    "alefeducation.com": "no blog: News page is press releases only",
+    "egress.com": "blog now served from blog.knowbe4.com (acquired by KnowBe4)",
 }
 # Farm-word hits checked by hand: client case studies or figurative use, not farm content.
 FARM_OK = {"navattic.com": "betting on agentic demos", "digitalsilk.com": "betting on scale (post title)",
