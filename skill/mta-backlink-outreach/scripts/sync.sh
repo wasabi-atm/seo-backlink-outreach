@@ -21,8 +21,14 @@ case "${1:-}" in
       echo "Cloned into $REPO"
       exit 0
     fi
-    git -C "$REPO" pull --rebase --autostash || fail "pull failed. Resolve it in $REPO before running the task."
-    echo "Up to date: $(git -C "$REPO" log -1 --format='%h %s (%cr)')"
+    # Always bring in the latest main from GitHub, also when working on a branch (cloud sessions use one).
+    git -C "$REPO" fetch -q origin main || fail "could not fetch main from GitHub (network or access)."
+    if [ "$(git -C "$REPO" rev-parse --abbrev-ref HEAD)" = "main" ]; then
+      git -C "$REPO" pull -q --rebase --autostash origin main || fail "pull failed. Resolve it in $REPO before running the task."
+    else
+      git -C "$REPO" merge -q --no-edit --autostash origin/main || fail "merging main into this branch failed. Resolve it in $REPO before running the task."
+    fi
+    echo "Up to date with main: $(git -C "$REPO" log -1 --format='%h %s (%cr)' origin/main)"
     ;;
   push)
     [ -n "${2:-}" ] || { echo "usage: sync.sh push \"message\"" >&2; exit 2; }

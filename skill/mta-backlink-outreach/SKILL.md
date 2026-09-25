@@ -15,7 +15,7 @@ The workflow, the ledger, the low-DR pool and every batch live in a private repo
 
 **Before anything else**, including the Step 1 interview and any small task such as marking a batch as sent:
 
-1. Run `sh <repo>/skill/mta-backlink-outreach/scripts/sync.sh pull`. If `<repo>` is missing, first run the same script from this skill's own `scripts/` folder; it will clone the repo.
+1. Run `sh <repo>/skill/mta-backlink-outreach/scripts/sync.sh pull`, on every run, first. It always fetches the latest `main` from GitHub and brings it in, also when the session works on its own branch (cloud sessions do). If `<repo>` is missing, first run the same script from this skill's own `scripts/` folder; it will clone the repo.
 2. If it exits with an error (conflict, no network, no access), stop and tell the user. Never run a batch on a ledger that might be out of date, as that is how a company gets emailed twice.
 3. The repo copy of the skill is the source of truth. If `<repo>/skill/mta-backlink-outreach/SKILL.md` differs from the skill you loaded, read the repo version and follow it instead. Tell the user their claude.ai copy is out of date and should be re-uploaded (see README).
 4. From here on, run scripts from `<repo>/skill/mta-backlink-outreach/scripts/`, not from the loaded skill folder.
