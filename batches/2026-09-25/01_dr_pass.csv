@@ -1,0 +1,313 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,source,domainRating
+Croud,croud.com,UK,Digital marketing agency,A,no,,new,65.0
+Journey Further,journeyfurther.com,UK,Performance marketing agency,A,no,,new,61.0
+Search Laboratory,searchlaboratory.com,UK,Search marketing agency,A,no,,new,53.0
+Jaywing,jaywing.com,UK,Data and search marketing agency,A,no,,new,55.0
+Glass Digital,glass.digital,UK,SEO agency,A,no,,new,52.0
+Found,found.co.uk,UK,Search marketing agency,A,no,,new,60.0
+Reflect Digital,reflectdigital.co.uk,UK,Digital marketing agency,A,no,,new,62.0
+Embryo,embryo.com,UK,Digital marketing agency,A,no,,new,73.0
+Mediaworks,mediaworks.co.uk,UK,Digital marketing agency,A,no,,new,52.0
+Six & Flow,sixandflow.com,UK,B2B growth agency,A,no,,new,50.0
+Gripped,gripped.io,UK,B2B tech marketing agency,A,no,,new,56.0
+Ledger Bennett,ledgerbennett.com,UK,B2B demand gen agency,A,no,,new,53.0
+Fifty Five and Five,fiftyfiveandfive.com,UK,B2B tech marketing agency,A,no,,new,45.0
+The Marketing Practice,themarketingpractice.com,UK,B2B marketing agency,A,no,,new,46.0
+Gravity Global,gravityglobal.com,UK,B2B marketing agency,A,no,,new,63.0
+Hard Numbers,hardnumbers.co.uk,UK,B2B PR agency,A,no,,new,44.0
+AxiCom,axicom.com,UK,Tech PR agency,A,no,,new,46.0
+Onclusive,onclusive.com,UK,PR measurement software,A,no,,new,76.0
+BrightLocal,brightlocal.com,UK,Local SEO software,A,no,,new,90.0
+Turtl,turtl.co,UK,Content format platform,A,no,,new,79.0
+Sendible,sendible.com,UK,Social media management software,A,no,,new,77.0
+Echobox,echobox.com,UK,Social publishing software,A,no,,new,67.0
+Adzooma,adzooma.com,UK,Ad management software,A,no,,new,70.0
+Adthena,adthena.com,UK,Search ad intelligence software,A,no,,new,58.0
+Pure360,pure360.com,UK,Email marketing software,A,no,,new,63.0
+Feefo,feefo.com,UK,Reviews platform,A,no,,new,83.0
+REVIEWS.io,reviews.io,UK,Reviews platform,A,no,,new,88.0
+Quill Podcasting,quillpodcasting.com,UK,Podcast production agency,A,no,,new,59.0
+Rephonic,rephonic.com,UK,Podcast data platform,A,no,,new,67.0
+Audioboom,audioboom.com,UK,Podcast platform,A,no,,new,82.0
+Lead Forensics,leadforensics.com,UK,B2B website visitor tracking software,A,no,,new,74.0
+Kota,kota.co.uk,UK,Web design agency,A,no,,new,62.0
+Code Computerlove,codecomputerlove.com,UK,Digital product agency,A,no,,new,52.0
+Smart Insights,smartinsights.com,UK,Digital marketing training platform,A,no,,new,87.0
+Vidsy,vidsy.co,UK,Creator video ad production,A,yes,Makes short-form video ads for brands,new,63.0
+Dubb,dubb.com,US,Video sales platform,A,no,,new,71.0
+Vidalytics,vidalytics.com,US,Video hosting for marketers,A,no,,new,74.0
+SproutVideo,sproutvideo.com,US,Video hosting platform,A,no,,new,77.0
+Dacast,dacast.com,US,Video streaming platform,A,no,,new,78.0
+Panopto,panopto.com,US,Video platform,A,no,,new,82.0
+Kaltura,kaltura.com,US,Video platform,A,no,,new,84.0
+Vbrick,vbrick.com,US,Enterprise video platform,A,no,,new,71.0
+ON24,on24.com,US,Webinar platform,A,no,,new,90.0
+BigMarker,bigmarker.com,US,Webinar platform,A,no,,new,82.0
+Demio,demio.com,US,Webinar platform,A,no,,new,81.0
+Bizzabo,bizzabo.com,US,Event platform,A,no,,new,83.0
+Ziflow,ziflow.com,US,Creative proofing software,A,no,,new,72.0
+Brandfolder,brandfolder.com,US,Digital asset management,A,no,,new,82.0
+Air,air.inc,US,Creative operations platform,A,no,,new,75.0
+Loomly,loomly.com,US,Social media management software,A,no,,new,75.0
+Conductor,conductor.com,US,SEO platform,A,no,,new,84.0
+BrightEdge,brightedge.com,US,SEO platform,A,no,,new,84.0
+seoClarity,seoclarity.net,US,SEO platform,A,no,,new,77.0
+Botify,botify.com,US,SEO platform,A,no,,new,73.0
+Optimizely,optimizely.com,US,Digital experience platform,A,no,,new,89.0
+Mutiny,mutinyhq.com,US,Website personalisation software,A,no,,new,72.0
+Litmus,litmus.com,US,Email marketing software,A,no,,new,87.0
+Customer.io,customer.io,US,Messaging automation software,A,no,,new,81.0
+Iterable,iterable.com,US,Customer engagement platform,A,no,,new,78.0
+Braze,braze.com,US,Customer engagement platform,A,no,,new,83.0
+Terminus,terminus.com,US,ABM platform,A,no,,new,75.0
+RollWorks,rollworks.com,US,ABM platform,A,no,,new,71.0
+Metadata.io,metadata.io,US,B2B ad automation,A,no,,new,70.0
+Bombora,bombora.com,US,B2B intent data,A,no,,new,76.0
+Navattic,navattic.com,US,Interactive demo software,A,no,,new,79.0
+Storylane,storylane.io,US,Interactive demo software,A,no,,new,81.0
+Walnut,walnut.io,US,Interactive demo software,A,no,,new,59.0
+Arcade,arcade.software,US,Interactive demo software,A,no,,new,78.0
+Consensus,goconsensus.com,US,Video demo automation,A,no,,new,74.0
+Typeface,typeface.ai,US,AI content platform,A,no,,new,75.0
+Anyword,anyword.com,US,AI copywriting software,A,no,,new,75.0
+Duda,duda.co,US,Website builder for agencies,A,no,,new,86.0
+Zencastr,zencastr.com,US,Podcast recording platform,A,no,,new,76.0
+Libsyn,libsyn.com,US,Podcast hosting,A,no,,new,91.0
+Castos,castos.com,US,Podcast hosting,A,no,,new,82.0
+Highwire PR,highwirepr.com,US,Tech PR agency,A,no,,new,43.0
+Bospar,bospar.com,US,Tech PR agency,A,no,,new,53.0
+SHIFT Communications,shiftcomm.com,US,PR agency,A,no,,new,58.0
+Matter Communications,matternow.com,US,Tech PR and marketing agency,A,no,,new,67.0
+Inkhouse,inkhouse.com,US,PR agency,A,no,,new,43.0
+PAN Communications,pancommunications.com,US,B2B tech PR agency,A,no,,new,46.0
+BLASTmedia,blastmedia.com,US,B2B SaaS PR agency,A,no,,new,43.0
+Barrel,barrelny.com,US,Digital agency,A,no,,new,72.0
+Digital Silk,digitalsilk.com,US,Web design agency,A,no,,new,81.0
+Huemor,huemor.rocks,US,Web design agency,A,no,,new,71.0
+Heinz Marketing,heinzmarketing.com,US,B2B marketing consultancy,A,no,,new,69.0
+Revenue River,revenueriver.co,US,B2B marketing agency,A,no,,new,52.0
+Hawke Media,hawkemedia.com,US,Marketing agency,A,no,,new,71.0
+Disruptive Advertising,disruptiveadvertising.com,US,Paid media agency,A,no,,new,75.0
+Stratabeat,stratabeat.com,US,B2B branding and web agency,A,no,,new,63.0
+Hinge Marketing,hingemarketing.com,US,Professional services marketing agency,A,no,,new,73.0
+Express Writers,expresswriters.com,US,Content writing agency,A,no,,new,71.0
+Compose.ly,compose.ly,US,Content writing service,A,no,,new,71.0
+WriterAccess,writeraccess.com,US,Content writing platform,A,no,,new,71.0
+Ceros,ceros.com,US,Interactive content platform,A,no,,new,84.0
+Wave.video,wave.video,US,Online video maker,A,no,,new,76.0
+Vyond,vyond.com,US,Animated video software,A,yes,Sells software for making animated explainer videos,new,77.0
+Column Five,columnfivemedia.com,US,Content and design agency,A,yes,"Creative agency that makes infographics, motion graphics and video",new,76.0
+Red Berries,redberries.ae,UAE,B2B tech PR agency,A,no,,new,48.0
+Volga Tigris,volgatigris.com,UAE,Digital marketing agency,A,no,,new,46.0
+RedSpider,redspider.ae,UAE,Web design agency,A,no,,new,61.0
+GO-Gulf,go-gulf.ae,UAE,Web design and digital agency,A,no,,new,53.0
+MAGNiTT,magnitt.com,UAE,Startup data platform,B,no,,new,64.0
+BitOasis,bitoasis.net,UAE,Crypto exchange,B,no,,new,56.0
+Beehive,beehive.ae,UAE,SME lending platform,B,no,,new,41.0
+PRYPCO,prypco.com,UAE,Proptech platform,B,no,,new,47.0
+TruKKer,trukker.com,UAE,Freight logistics platform,B,no,,new,42.0
+Quiqup,quiqup.com,UAE,Ecommerce logistics,B,no,,new,59.0
+Magnati,magnati.com,UAE,Payments provider,B,no,,new,52.0
+Grubtech,grubtech.com,UAE,Restaurant operations SaaS,B,no,,new,56.0
+Sapaad,sapaad.com,UAE,Restaurant POS software,B,no,,new,46.0
+Supy,supy.io,UAE,Restaurant inventory software,B,no,,new,49.0
+Creative Zone,creativezone.ae,UAE,Company formation services,B,no,,new,46.0
+Shuraa,shuraa.com,UAE,Company formation services,B,no,,new,50.0
+Alef Education,alefeducation.com,UAE,Edtech platform,B,no,,new,61.0
+Aramex,aramex.com,UAE,Logistics,B,no,,new,80.0
+Lean Technologies,leantech.me,UAE,Open banking API,B,no,,new,40.0
+Qlub,qlub.io,UAE,Restaurant payments,B,no,,new,66.0
+Pluto,getpluto.com,UAE,Spend management,B,no,,new,41.0
+Fuze,fuze.finance,UAE,Digital asset infrastructure,B,no,,new,41.0
+Fasset,fasset.com,UAE,Digital asset platform,B,no,,new,46.0
+Willo,willo.video,UK,Video interviewing software,B,no,,new,64.0
+Kayako,kayako.com,UK,Customer support software,B,no,,new,82.0
+CybSafe,cybsafe.com,UK,Security awareness software,B,no,,new,70.0
+Egress,egress.com,UK,Email security software,B,no,,new,78.0
+Immersive Labs,immersivelabs.com,UK,Cyber skills platform,B,no,,new,70.0
+Intruder,intruder.io,UK,Vulnerability scanning software,B,no,,new,73.0
+ComplyAdvantage,complyadvantage.com,UK,AML compliance software,B,no,,new,74.0
+Sumsub,sumsub.com,UK,Identity verification,B,no,,new,80.0
+Featurespace,featurespace.com,UK,Fraud prevention software,B,no,,new,65.0
+Allica Bank,allica.bank,UK,SME bank,B,no,,new,62.0
+OakNorth,oaknorth.co.uk,UK,SME lender,B,no,,new,58.0
+ClearBank,clear.bank,UK,Clearing bank infrastructure,B,no,,new,62.0
+Railsr,railsr.com,UK,Embedded finance platform,B,no,,new,50.0
+Banked,banked.com,UK,Account-to-account payments,B,no,,new,55.0
+Token.io,token.io,UK,Open banking payments,B,no,,new,58.0
+Volt,volt.io,UK,Real-time payments,B,no,,new,59.0
+Ecommpay,ecommpay.com,UK,Payment provider,B,no,,new,62.0
+Equals Money,equalsmoney.com,UK,Business payments,B,no,,new,64.0
+Capital on Tap,capitalontap.com,UK,Business credit cards,B,no,,new,67.0
+Codat,codat.io,UK,Business data API,B,no,,new,65.0
+Superscript,gosuperscript.com,UK,Business insurance,B,no,,new,60.0
+Hokodo,hokodo.co,UK,B2B buy now pay later,B,no,,new,49.0
+Kriya,kriya.co,UK,B2B payments and finance,B,no,,new,60.0
+Duco,du.co,UK,Data reconciliation software,B,no,,new,50.0
+Sonovate,sonovate.com,UK,Recruitment finance,B,no,,new,49.0
+Dojo,dojo.tech,UK,Card payments for business,B,no,,new,72.0
+Quantexa,quantexa.com,UK,Decision intelligence software,B,no,,new,68.0
+Behavox,behavox.com,UK,Compliance AI software,B,no,,new,59.0
+Ably,ably.com,UK,Realtime messaging API,B,no,,new,74.0
+Tray.ai,tray.ai,UK,Integration platform,B,no,,new,78.0
+Unily,unily.com,UK,Employee experience platform,B,no,,new,64.0
+Juro,juro.com,UK,Contract management software,B,no,,new,72.0
+Legl,legl.com,UK,Law firm software,B,no,,new,51.0
+Cledara,cledara.com,UK,SaaS management software,B,no,,new,58.0
+Capsule CRM,capsulecrm.com,UK,CRM software,B,no,,new,76.0
+Kallidus,kallidus.com,UK,Learning and talent software,B,no,,new,70.0
+Learning Pool,learningpool.com,UK,Learning software,B,no,,new,73.0
+Filtered,filtered.com,UK,Learning software,B,no,,new,65.0
+Hive HR,hive.hr,UK,Employee voice software,B,no,,new,48.0
+Zinc,zincwork.com,UK,Background check software,B,no,,new,59.0
+Tribepad,tribepad.com,UK,Recruitment software,B,no,,new,73.0
+Ciphr,ciphr.com,UK,HR software,B,no,,new,73.0
+RotaCloud,rotacloud.com,UK,Staff scheduling software,B,no,,new,60.0
+Fourth,fourth.com,UK,Hospitality workforce software,B,no,,new,72.0
+Moneypenny,moneypenny.com,UK,Outsourced call answering,B,no,,new,71.0
+Coda,coda.io,US,Docs and workflow software,B,no,,new,82.0
+Lucid,lucid.co,US,Visual collaboration software,B,no,,new,83.0
+Miro,miro.com,US,Visual collaboration software,B,no,,new,90.0
+Betterworks,betterworks.com,US,Performance management software,B,no,,new,73.0
+Bonusly,bonus.ly,US,Employee recognition software,B,no,,new,74.0
+SmartRecruiters,smartrecruiters.com,US,Recruiting software,B,no,,new,87.0
+HireVue,hirevue.com,US,Video interviewing software,B,no,,new,77.0
+Spark Hire,sparkhire.com,US,Video interviewing software,B,no,,new,74.0
+Allego,allego.com,US,Sales enablement software,B,no,,new,72.0
+Gainsight,gainsight.com,US,Customer success software,B,no,,new,79.0
+ChurnZero,churnzero.com,US,Customer success software,B,no,,new,74.0
+Vitally,vitally.io,US,Customer success software,B,no,,new,72.0
+Crossbeam,crossbeam.com,US,Partner ecosystem software,B,no,,new,74.0
+Kustomer,kustomer.com,US,Customer service CRM,B,no,,new,79.0
+Gladly,gladly.com,US,Customer service software,B,no,,new,73.0
+LogRocket,logrocket.com,US,Product analytics software,B,no,,new,82.0
+Productboard,productboard.com,US,Product management software,B,no,,new,81.0
+Aha!,aha.io,US,Product roadmap software,B,no,,new,81.0
+Canny,canny.io,US,Feedback management software,B,no,,new,87.0
+UserTesting,usertesting.com,US,User research platform,B,no,,new,84.0
+Whatfix,whatfix.com,US,Digital adoption platform,B,no,,new,77.0
+Scribe,scribehow.com,US,Process documentation software,B,no,,new,84.0
+GitLab,gitlab.com,US,DevOps platform,B,no,,new,92.0
+PagerDuty,pagerduty.com,US,Incident management software,B,no,,new,84.0
+Grafana Labs,grafana.com,US,Observability software,B,no,,new,89.0
+Supabase,supabase.com,US,Database platform,B,no,,new,91.0
+Airbyte,airbyte.com,US,Data integration platform,B,no,,new,78.0
+Hex,hex.tech,US,Data analytics platform,B,no,,new,76.0
+Metabase,metabase.com,US,Business intelligence software,B,no,,new,79.0
+Secureframe,secureframe.com,US,Compliance automation,B,no,,new,80.0
+Huntress,huntress.com,US,Managed security platform,B,no,,new,78.0
+Persona,withpersona.com,US,Identity verification,B,no,,new,79.0
+Alloy,alloy.com,US,Identity and fraud platform,B,no,,new,72.0
+Rho,rho.co,US,Business banking,B,no,,new,70.0
+Emburse,emburse.com,US,Expense management software,B,no,,new,74.0
+Zip,ziphq.com,US,Procurement software,B,no,,new,66.0
+Routable,routable.com,US,Accounts payable automation,B,no,,new,54.0
+Stampli,stampli.com,US,Accounts payable automation,B,no,,new,68.0
+FloQast,floqast.com,US,Accounting close software,B,no,,new,72.0
+Mosaic,mosaic.tech,US,Strategic finance software,B,no,,new,70.0
+Cube,cubesoftware.com,US,FP&A software,B,no,,new,66.0
+Modern Treasury,moderntreasury.com,US,Payment operations software,B,no,,new,72.0
+Unit,unit.co,US,Embedded banking platform,B,no,,new,62.0
+Dwolla,dwolla.com,US,Payments API,B,no,,new,77.0
+Zuora,zuora.com,US,Subscription billing software,B,no,,new,79.0
+Baremetrics,baremetrics.com,US,Subscription analytics,B,no,,new,78.0
+Oyster,oysterhr.com,US,Global employment platform,B,no,,new,72.0
+Papaya Global,papayaglobal.com,US,Global payroll platform,B,no,,new,72.0
+Vendr,vendr.com,US,SaaS buying platform,B,no,,new,76.0
+Ironclad,ironcladapp.com,US,Contract management software,B,no,,new,77.0
+Simpplr,simpplr.com,US,Employee intranet software,B,no,,new,72.0
+Animoto,animoto.com,US,Online video maker,A,no,,2026-09-23-b needs_check,84.0
+Hippo Video,hippovideo.io,US,Video sales platform,A,no,,2026-09-23-b needs_check,71.0
+Sendspark,sendspark.com,US,Personalised video platform,A,no,,2026-09-23-b needs_check,71.0
+ClearVoice,clearvoice.com,US,Content creation platform,A,no,,2026-09-23-b needs_check,76.0
+Skyword,skyword.com,US,Content marketing platform,A,no,,2026-09-23-b needs_check,75.0
+Walker Sands,walkersands.com,US,B2B marketing and PR agency,A,no,,2026-09-23-b needs_check,75.0
+Uplift Content,upliftcontent.com,US,B2B content agency,A,no,,2026-09-23-b needs_check,48.0
+Draft.dev,draft.dev,US,Technical content agency,A,no,,2026-09-23-b needs_check,59.0
+MarketMuse,marketmuse.com,US,Content planning software,A,no,,2026-09-23-b needs_check,77.0
+Qualified,qualified.com,US,Pipeline generation platform,A,no,,2026-09-23-b needs_check,74.0
+Demandbase,demandbase.com,US,ABM platform,A,no,,2026-09-23-b needs_check,80.0
+6sense,6sense.com,US,ABM platform,A,no,,2026-09-23-b needs_check,83.0
+G2,g2.com,US,Software review marketplace,A,no,,2026-09-23-b needs_check,91.0
+TrustRadius,trustradius.com,US,Software review platform,A,no,,2026-09-23-b needs_check,85.0
+Muck Rack,muckrack.com,US,PR software,A,no,,2026-09-23-b needs_check,85.0
+5W Public Relations,5wpr.com,US,PR agency,A,no,,2026-09-23-b needs_check,71.0
+Content Allies,contentallies.com,US,B2B podcast agency,A,no,,2026-09-23-b needs_check,58.0
+Transistor,transistor.fm,US,Podcast hosting,A,no,,2026-09-23-b needs_check,86.0
+Red Antler,redantler.com,US,Brand agency,A,no,,2026-09-23-b needs_check,72.0
+Focus Lab,focuslab.agency,US,Brand agency,A,no,,2026-09-23-b needs_check,63.0
+Ramotion,ramotion.com,US,Brand and web design agency,A,no,,2026-09-23-b needs_check,73.0
+Clay,clay.global,US,UI UX design agency,A,no,,2026-09-23-b needs_check,73.0
+Veza Digital,vezadigital.com,US,Webflow agency for B2B,A,no,,2026-09-23-b needs_check,71.0
+Webflow,webflow.com,US,Website builder,A,no,,2026-09-23-b needs_check,92.0
+Verve Search,vervesearch.com,UK,SEO and digital PR agency,A,no,,2026-09-23-b needs_check,50.0
+Blue Array,bluearray.co.uk,UK,SEO consultancy,A,no,,2026-09-23-b needs_check,61.0
+Digitaloft,digitaloft.co.uk,UK,Digital PR agency,A,no,,2026-09-23-b needs_check,64.0
+Transmission,transmissionagency.com,UK,B2B marketing agency,A,no,,2026-09-23-b needs_check,65.0
+Hotwire,hotwireglobal.com,UK,Tech PR agency,A,no,,2026-09-23-b needs_check,55.0
+Brands2Life,brands2life.com,UK,Tech PR agency,A,no,,2026-09-23-b needs_check,42.0
+Koto,koto.studio,UK,Brand studio,A,no,,2026-09-23-b needs_check,67.0
+Ragged Edge,raggededge.com,UK,Brand agency,A,no,,2026-09-23-b needs_check,57.0
+DixonBaxi,dixonbaxi.com,UK,Brand agency,A,no,,2026-09-23-b needs_check,62.0
+Pearlfisher,pearlfisher.com,UK,Brand design agency,A,no,,2026-09-23-b needs_check,59.0
+JKR,jkrglobal.com,UK,Brand design agency,A,no,,2026-09-23-b needs_check,70.0
+Sitebulb,sitebulb.com,UK,SEO audit software,A,no,,2026-09-23-b needs_check,75.0
+Audiense,audiense.com,UK,Audience intelligence,A,no,,2026-09-23-b needs_check,76.0
+Copify,copify.com,UK,Content writing service,A,no,,2026-09-23-b needs_check,50.0
+Vadecom,vadecom.net,UAE,B2B digital agency,A,no,,2026-09-23-b needs_check,67.0
+Communicate Online,communicateonline.me,UAE,Marketing news,A,no,,2026-09-23-b needs_check,65.0
+Campaign Middle East,campaignme.com,UAE,Marketing news,A,no,,2026-09-23-b needs_check,73.0
+ArabAd,arabadonline.com,UAE,Marketing news,A,no,,2026-09-23-b needs_check,54.0
+Wamda,wamda.com,UAE,Startup media platform,A,no,,2026-09-23-b needs_check,73.0
+Rippling,rippling.com,US,HR and IT SaaS,B,no,,2026-09-23-b needs_check,84.0
+Airtable,airtable.com,US,Work platform,B,no,,2026-09-23-b needs_check,91.0
+PandaDoc,pandadoc.com,US,Document automation SaaS,B,no,,2026-09-23-b needs_check,83.0
+Salesloft,salesloft.com,US,Sales engagement,B,no,,2026-09-23-b needs_check,83.0
+ZoomInfo,zoominfo.com,US,B2B data platform,B,no,,2026-09-23-b needs_check,85.0
+Apollo.io,apollo.io,US,Sales intelligence,B,no,,2026-09-23-b needs_check,84.0
+Clari,clari.com,US,Revenue platform,B,no,,2026-09-23-b needs_check,77.0
+Chili Piper,chilipiper.com,US,Meeting scheduling for revenue teams,B,no,,2026-09-23-b needs_check,81.0
+Highspot,highspot.com,US,Sales enablement,B,no,,2026-09-23-b needs_check,83.0
+Seismic,seismic.com,US,Sales enablement,B,no,,2026-09-23-b needs_check,81.0
+Mindtickle,mindtickle.com,US,Sales readiness,B,no,,2026-09-23-b needs_check,74.0
+Copper,copper.com,US,CRM,B,no,,2026-09-23-b needs_check,76.0
+Intercom,intercom.com,US,Customer service AI,B,no,,2026-09-23-b needs_check,91.0
+Postman,postman.com,US,API platform,B,no,,2026-09-23-b needs_check,91.0
+Sentry,sentry.io,US,Error monitoring,B,no,,2026-09-23-b needs_check,91.0
+Datadog,datadoghq.com,US,Observability,B,no,,2026-09-23-b needs_check,88.0
+CircleCI,circleci.com,US,CI CD platform,B,no,,2026-09-23-b needs_check,85.0
+Retool,retool.com,US,Internal tools builder,B,no,,2026-09-23-b needs_check,80.0
+Render,render.com,US,Cloud hosting,B,no,,2026-09-23-b needs_check,85.0
+Fathom,fathom.video,US,AI meeting notes,B,no,,2026-09-23-b needs_check,76.0
+Expensify,expensify.com,US,Expense management,B,no,,2026-09-23-b needs_check,79.0
+Novo,novo.co,US,Small business banking,B,no,,2026-09-23-b needs_check,71.0
+Workable,workable.com,US,Recruiting software,B,no,,2026-09-23-b needs_check,90.0
+SurveyMonkey,surveymonkey.com,US,Survey software,B,no,,2026-09-23-b needs_check,92.0
+Ebury,ebury.com,UK,FX and payments,B,no,,2026-09-23-b needs_check,72.0
+iwoca,iwoca.co.uk,UK,Business lending,B,no,,2026-09-23-b needs_check,71.0
+Funding Circle,fundingcircle.com,UK,Business lending,B,no,,2026-09-23-b needs_check,74.0
+Applied,beapplied.com,UK,Hiring software,B,no,,2026-09-23-b needs_check,72.0
+Perkbox,perkbox.com,UK,Employee benefits,B,no,,2026-09-23-b needs_check,71.0
+Attio,attio.com,UK,CRM,B,no,,2026-09-23-b needs_check,77.0
+Onfido,onfido.com,UK,Identity verification,B,no,,2026-09-23-b needs_check,76.0
+Cloudsmith,cloudsmith.com,UK,Package management,B,no,,2026-09-23-b needs_check,72.0
+Luminance,luminance.com,UK,Legal AI,B,no,,2026-09-23-b needs_check,67.0
+Tractable,tractable.ai,UK,AI for insurance,B,no,,2026-09-23-b needs_check,60.0
+Signal AI,signal-ai.com,UK,Risk and reputation AI,B,no,,2026-09-23-b needs_check,65.0
+Pento,pento.io,UK,Payroll software,B,no,,2026-09-23-b needs_check,40.0
+Crezco,crezco.com,UK,Account to account payments,B,no,,2026-09-23-b needs_check,50.0
+Cleo,meetcleo.com,UK,AI money assistant,B,no,,2026-09-23-b needs_check,71.0
+Zego,zego.com,UK,Commercial insurance,B,no,,2026-09-23-b needs_check,69.0
+Bud,thisisbud.com,UK,Financial data AI,B,no,,2026-09-23-b needs_check,55.0
+Tabby,tabby.ai,UAE,Buy now pay later,B,no,,2026-09-23-b needs_check,77.0
+Huspy,huspy.com,UAE,Mortgage platform,B,no,,2026-09-23-b needs_check,46.0
+Bayut,bayut.com,UAE,Property portal,B,no,,2026-09-23-b needs_check,76.0
+NymCard,nymcard.com,UAE,Card issuing platform,B,no,,2026-09-23-b needs_check,51.0
+Network International,network.ae,UAE,Payments provider,B,no,,2026-09-23-b needs_check,63.0
+Telr,telr.com,UAE,Payment gateway,B,no,,2026-09-23-b needs_check,62.0
+Stake,getstake.com,UAE,Property investing,B,no,,2026-09-23-b needs_check,52.0
+YAP,yap.com,UAE,Digital banking app,B,no,,2026-09-23-b needs_check,53.0
+Zbooni,zbooni.com,UAE,Social commerce payments,B,no,,2026-09-23-b needs_check,59.0
+Zenda,zenda.com,UAE,School payments,B,no,,2026-09-23-b needs_check,43.0
+Hubstaff,hubstaff.com,US,Time tracking software,B,no,,2026-09-23-b needs_check,79.0
+Freshbooks,freshbooks.com,US,Accounting software,B,no,,2026-09-23-b needs_check,86.0

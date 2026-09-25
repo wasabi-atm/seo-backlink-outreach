@@ -1,0 +1,26 @@
+companyName,webDomain,segment,country,serviceType,domainRating,competitor,competitorDecision,blogUrl,backlinkExchange
+RedSpider,redspider.ae,A,UAE,Web design agency,61,no,,https://www.redspider.ae/blog/,No
+Blue Array,bluearray.co.uk,A,UK,SEO consultancy,61,no,,https://bluearray.co.uk/seo-insights/,Some
+Digitaloft,digitaloft.co.uk,A,UK,Digital PR agency,64,no,,https://digitaloft.co.uk/insights,Yes
+Gravity Global,gravityglobal.com,A,UK,B2B marketing agency,63,no,,https://www.gravityglobal.com/news,No
+Lead Forensics,leadforensics.com,A,UK,B2B website visitor tracking software,74,no,,https://www.leadforensics.com/blog/,Some
+Reflect Digital,reflectdigital.co.uk,A,UK,Digital marketing agency,62,no,,https://www.reflectdigital.co.uk/blog,Some
+Smart Insights,smartinsights.com,A,UK,Digital marketing training platform,87,no,,https://smartinsights.com/blog/,Yes
+Bizzabo,bizzabo.com,A,US,Event platform,83,no,,https://www.bizzabo.com/blog,Yes
+Compose.ly,compose.ly,A,US,Content writing service,71,no,,https://www.compose.ly/resources,Some
+Hawke Media,hawkemedia.com,A,US,Marketing agency,71,no,,https://hawkemedia.com/insights/,Yes
+Skyword,skyword.com,A,US,Content marketing platform,75,no,,https://www.skyword.com/resources/,Yes
+Vyond,vyond.com,A,US,Animated video software,77,yes,include,https://www.vyond.com/blog/,Some
+Bayut,bayut.com,B,UAE,Property portal,76,no,,https://www.bayut.com/mybayut/,No
+Stake,getstake.com,B,UAE,Property investing,52,no,,https://getstake.com/content-hub/blog/articles,No
+Qlub,qlub.io,B,UAE,Restaurant payments,66,no,,https://qlub.io/us/en,
+Zenda,zenda.com,B,UAE,School payments,43,no,,https://www.zenda.com/blogs,No
+Codat,codat.io,B,UK,Business data API,65,no,,https://codat.io/resources/,No
+Ebury,ebury.com,B,UK,FX and payments,72,no,,https://ebury.com/resources/blog,No
+Kallidus,kallidus.com,B,UK,Learning and talent software,70,no,,https://www.kallidus.com/blog/,No
+Signal AI,signal-ai.com,B,UK,Risk and reputation AI,65,no,,https://signal-ai.com/resources,No
+Willo,willo.video,B,UK,Video interviewing software,64,no,,https://www.willo.video/blog,Yes
+Freshbooks,freshbooks.com,B,US,Accounting software,86,no,,https://www.freshbooks.com/hub,No
+LogRocket,logrocket.com,B,US,Product analytics software,82,no,,https://blog.logrocket.com/,Some
+Rho,rho.co,B,US,Business banking,70,no,,https://www.rho.co/blog,No
+Vitally,vitally.io,B,US,Customer success software,72,no,,https://www.vitally.io/blog,Some

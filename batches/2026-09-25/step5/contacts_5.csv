@@ -1,0 +1,26 @@
+webDomain,firstName,lastName,jobTitle,email,emailStatus,apolloId,contactNote
+volgatigris.com,Mathew,V,Managing Director,mathew.v@volgatigris.com,verified,64cf5da7e439d400014c3558,"Managing Director, the most senior person Apollo lists (no founder record). Domain search was empty; found by company name. Apollo holds only the initial of his last name."
+brands2life.com,Emily,Brewer,Head of Marketing and New Business,emily.brewer@brands2life.com,verified,66f412fde0d39b000184067f,"Founders and CEO not in Apollo (only CSO, CFO, COO), so took the head of marketing."
+echobox.com,Antoine,Amann,CEO & Founder,antoine@echobox.com,verified,66f122ffedcade0001442eb5,Founder.
+gripped.io,Ben,Greenwood,Content Lead,ben.greenwood@gripped.io,verified,5db3645821335e0001a10929,"No founder or CEO for gripped.io in Apollo (name search only found other Gripped companies), so took the content lead."
+ledgerbennett.com,Andrea,Sexton,CEO,andrea.sexton@ledgerbennett.com,verified,61081bfd113896000148d223,CEO.
+rephonic.com,,,,,,,no contact found (domain and company name searches both returned nobody in Apollo; founder is James Potter per the article notes)
+tmpb2b.com,James,Clifton,CEO,jclifton@themarketingpractice.com,verified,611cd8c62f7cff000129c039,"CEO. Email is on themarketingpractice.com, the full-name domain of tmp (The Marketing Practice), not tmpb2b.com."
+botify.com,Adrien,Menard,Co-founder & CEO,a.menard@botify.com,verified,66f1747459ebdc0001029972,Co-founder.
+conductor.com,Lindsay,Hagan,Vice President Marketing,lboyajian@conductor.com,verified,66f611931e771c00016b164b,"CEO has no email in Apollo and the founder records look unreliable, so took the VP Marketing. Email uses a different surname (Boyajian), Apollo marks it verified."
+heinzmarketing.com,Matt,Heinz,Founder/President,matt@heinzmarketing.com,verified,66f2456f5abd9e00015ca226,Founder.
+storylane.io,Nalin,Senthamil,Founder & CEO,nalin.s@storylane.io,verified,66f306774b00320001843cfa,Founder.
+walkersands.com,Andrew,Cross,CEO,andrew.cross@walkersands.com,verified,63d8ed7f4c471f0001a4de97,CEO.
+beehive.ae,Peter,Tavener,Chief Executive Officer,peter@beehive.ae,verified,66ed1d1249dda3000197db84,"Small company; the fractional CMO and digital marketing manager have no email in Apollo, so took the CEO."
+grubtech.com,Farah,Hussein,Marketing Manager,farah.hussein@grubtech.com,verified,5f5109f83b53b10001367335,"VP Marketing has no email in Apollo. Based in Cairo, Egypt."
+quiqup.com,Beth,Carter,VP of Growth,beth@quiqup.com,verified,6108d0d252d47000013f37e5,No content or marketing titles in Apollo; VP of Growth is the closest.
+ably.com,Amber,Dawson,Content Marketing Manager,amber.dawson@ably.com,verified,6114639227320600013d8aeb,Content marketing manager.
+complyadvantage.com,Marc,Koskela,"Director, Growth Marketing",marc.koskela@complyadvantage.com,verified,66f73fd4233e2200014a3022,"No head of content or content manager in Apollo (only content executives), so took the growth marketing director."
+fundingcircle.com,Steve,Steinhardt,Growth Director (Sales & Marketing),steve.steinhardt@fundingcircle.com,verified,64907c2db0580b00019b2afa,Fractional SEO content lead and interim head of brand have no email in Apollo; took the growth director. Large company (about 780 staff).
+kayako.com,Brandon,Pizzacalla,CEO,brandon@kayako.com,verified,60ed7d16ee86f600015433a8,Only senior person Apollo lists for Kayako (no marketing or content staff); he is also Group CEO at Trilogy.
+sonovate.com,Richard,Prime,Co-CEO & Founder,richard@sonovate.com,verified,60fe82faa573fa0001097e08,"Head of Growth & Marketing has no email in Apollo; small company, so took the co-founder."
+aha.io,Claire,George,VP of Marketing,claire@aha.io,verified,66efb14d60019600016d5eaf,Senior editor has no email in Apollo; took the VP of Marketing.
+gainsight.com,Caroline,Van Dyke,Content Strategy,cvandyke@gainsight.com,verified,6110b0208a7ad40001935f97,Content strategy lead (previously Head of Content Strategy at Skilljar by Gainsight).
+metabase.com,Jeff,Bruemmer,Editor,jeff@metabase.com,verified,54a487f07468692abfc7a54e,Editor; no head of content listed.
+rippling.com,Lily,Sassoon,"Director, Core HR Marketing & Content",lsassoon@rippling.com,verified,54a5e24674686936769f23b0,"Director of Core HR marketing and content, which covers the training topic. Large company."
+whatfix.com,Levi,Olmstead,"Director, Content & Website",levi.olmstead@whatfix.com,verified,672925620c764e0001a32426,Director of content.
