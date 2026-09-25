@@ -9,3 +9,6 @@ __pycache__/
 skill/*.zip
 # Screenshots are large and only needed while scoring
 batches/**/shots/
+# Step 4 working copies of crawled pages and raw Apify downloads (large, rebuilt on demand)
+batches/**/step4/posts/
+batches/**/step4/raw_*/
