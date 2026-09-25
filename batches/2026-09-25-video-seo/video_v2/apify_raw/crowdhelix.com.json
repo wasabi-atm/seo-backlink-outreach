@@ -1,0 +1,29 @@
+[
+ {
+  "url": "https://crowdhelix.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 11; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5844.71 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Crowdhelix",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Crowdhelix",
+    "url": "https://crowdhelix.com/",
+    "logo": "https://cdn.prod.website-files.com/65c4d910f2d9405473e6d18b/68f22076fcc390cf757e868a_logomark-dark.png",
+    "sameAs": [
+     "https://www.facebook.com/crowdhelix",
+     "https://www.linkedin.com/company/crowdhelix/",
+     "https://bsky.app/profile/crowdhelix.com"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcrowdhelix.com",
+  "timestamp": "2026-09-25T11:20:35.450Z"
+ }
+]

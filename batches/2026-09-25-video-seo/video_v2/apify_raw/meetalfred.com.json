@@ -1,0 +1,46 @@
+[
+ {
+  "url": "https://meetalfred.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5252.172 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "LinkedIn Automation Tool - Meet Alfred",
+    "status": "check_circle",
+    "type": "WebPage",
+    "headline": "LinkedIn Automation Tool - Meet Alfred",
+    "url": "https://meetalfred.com/",
+    "keywords": "linkedin automation",
+    "sameAs": [
+     "https://www.facebook.com/MeetAlfredOfficial/",
+     "https://www.youtube.com/c/alfredsupport",
+     "https://twitter.com/meetalfred",
+     "https://www.linkedin.com/company/meetalfredofficial/"
+    ],
+    "publisher": {
+     "@type": "Organization",
+     "@id": "#organization",
+     "name": "Meet Alfred",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://meetalfred.com/logo.png"
+     }
+    },
+    "mainEntityOfPage": {
+     "@id": "#web_app_homepage"
+    },
+    "applicationCategory": "BusinessApplication",
+    "name": "LinkedIn Automation Tool - Meet Alfred",
+    "teaches": "This software facilitates more B2B lead generation on LinkedIn, Twitter and Email via automation capabilities",
+    "description": "World's Leading Cloud-Based Linkedin Automation tool with CRM for B2B Sales. Drive more meetings, sales & profits completely on autopilot. Generate 200% More Leads. Try Us for Free!"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmeetalfred.com",
+  "timestamp": "2026-09-25T11:20:15.975Z"
+ }
+]

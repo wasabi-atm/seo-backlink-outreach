@@ -1,0 +1,172 @@
+[
+ {
+  "url": "https://optibus.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 13; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6586.186 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 9,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Making public transportation better. Together. - Optibus",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://optibus.com/",
+    "name": "Making public transportation better. Together. - Optibus",
+    "isPartOf": {
+     "@id": "https://optibus.com/#website"
+    },
+    "about": {
+     "@id": "https://optibus.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://optibus.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://optibus.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://media.optibus.com/file/2026/01/03130717/Thumbnail-HP.png",
+    "datePublished": "2021-03-22T11:34:06+00:00",
+    "dateModified": "2026-09-10T14:44:32+00:00",
+    "description": "AI-powered transportation management platform for planning and operating more equitable, sustainable, and efficient public transportation.",
+    "breadcrumb": {
+     "@id": "https://optibus.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://optibus.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://media.optibus.com/file/2026/01/03130717/Thumbnail-HP.png",
+    "contentUrl": "https://media.optibus.com/file/2026/01/03130717/Thumbnail-HP.png",
+    "width": 1200,
+    "height": 630,
+    "caption": "Optibus website hero section featuring \"Making Public Transportation Better. Together\" tagline with Nashville cityscape image and blue curved design elements representing transit routes."
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Optibus",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://optibus.com/",
+    "name": "Optibus",
+    "description": "Transportation Management Software",
+    "publisher": {
+     "@id": "https://optibus.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://optibus.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Optibus",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Optibus",
+    "url": "https://optibus.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://optibus.com/#/schema/logo/image/",
+     "url": "https://optibus.com/file/2019/02/optibus-logo.png",
+     "contentUrl": "https://optibus.com/file/2019/02/optibus-logo.png",
+     "width": 500,
+     "height": 135,
+     "caption": "Optibus"
+    },
+    "image": {
+     "@id": "https://optibus.com/#/schema/logo/image/"
+    }
+   },
+   {
+    "title": "WPHeader",
+    "status": "check_circle",
+    "type": "WPHeader",
+    "url": "https://optibus.com",
+    "headline": "Optibus",
+    "description": "Transportation Management Software"
+   },
+   {
+    "title": "WPFooter",
+    "status": "check_circle",
+    "type": "WPFooter",
+    "url": "https://optibus.com",
+    "headline": "Optibus",
+    "description": "Transportation Management Software",
+    "copyrightYear": "2021"
+   },
+   {
+    "title": "Optibus - Transportation Management Software",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Optibus - Transportation Management Software",
+    "url": "https://optibus.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://media.optibus.com/file/2022/04/03134432/Optibus-Logo.png",
+     "width": 310,
+     "height": 162,
+     "caption": "Optibus logo featuring the company name in blue lowercase letters with a cross symbol above the 'i', representing a transportation software platform for public transit planning and operations.",
+     "@id": "https://optibus.com#logo"
+    },
+    "sameAs": [
+     "https://www.facebook.com/Optibusltd/",
+     "https://twitter.com/optibus",
+     "https://www.linkedin.com/company/optibus-ltd/"
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+       "@id": "https://optibus.com",
+       "name": "Home"
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Foptibus.com",
+  "timestamp": "2026-09-25T11:20:40.407Z"
+ }
+]

@@ -1,0 +1,124 @@
+[
+ {
+  "url": "https://bexelmanager.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 12; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6296.133 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "BIM Project Management Software | BEXEL Manager",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://bexelmanager.com/",
+    "name": "BIM Project Management Software | BEXEL Manager",
+    "isPartOf": {
+     "@id": "https://bexelmanager.com/#website"
+    },
+    "about": {
+     "@id": "https://bexelmanager.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://bexelmanager.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://bexelmanager.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://bexelmanager.com/wp-content/uploads/2026/08/bexel-logo.jpg",
+    "datePublished": "2025-06-03T13:26:18+00:00",
+    "dateModified": "2026-08-25T12:11:44+00:00",
+    "description": "The most extensive integrated 3D, 4D, 5D and 6D BIM software solution for ultimate construction and project management results.",
+    "breadcrumb": {
+     "@id": "https://bexelmanager.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://bexelmanager.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-GB",
+    "url": "https://bexelmanager.com/wp-content/uploads/2026/08/bexel-logo.jpg",
+    "contentUrl": "https://bexelmanager.com/wp-content/uploads/2026/08/bexel-logo.jpg",
+    "width": 696,
+    "height": 696
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "BEXEL Manager",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://bexelmanager.com/",
+    "name": "BEXEL Manager",
+    "description": "BIM Project Management Software",
+    "publisher": {
+     "@id": "https://bexelmanager.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://bexelmanager.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "Bexel Consulting",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Bexel Consulting",
+    "url": "https://bexelmanager.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://bexelmanager.com/#/schema/logo/image/",
+     "url": "https://bexelmanager.com/wp-content/uploads/2026/08/bexel-logo.jpg",
+     "contentUrl": "https://bexelmanager.com/wp-content/uploads/2026/08/bexel-logo.jpg",
+     "width": 696,
+     "height": 696,
+     "caption": "Bexel Consulting"
+    },
+    "image": {
+     "@id": "https://bexelmanager.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://x.com/BexelManager",
+     "https://www.linkedin.com/company/bexel-consulting",
+     "https://www.youtube.com/user/bexelconsulting"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fbexelmanager.com",
+  "timestamp": "2026-09-25T11:20:35.391Z"
+ }
+]

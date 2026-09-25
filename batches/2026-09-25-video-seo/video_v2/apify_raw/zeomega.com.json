@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://zeomega.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "ZeOmega",
+    "status": "check_circle",
+    "type": "Corporation",
+    "description": "ZeOmega empowers health plans and other risk-bearing organizations with the industry's leading technology for simplifying population health management. Clients using ZeOmega's Jiva Healthcare Enterprise Management Platform experience superior workflow and proven results due to exceptional integration capabilities, unmatched clinical content, and a powerful rules engine.",
+    "name": "ZeOmega",
+    "legalName": "ZeOmega Inc.",
+    "award": "#1 Best in KLAS Top Performer for Payer Care Management Solutions 2022, 2023, and 2024",
+    "knowsAbout": [
+     "https://www.wikidata.org/wiki/Q3291156",
+     "https://www.wikidata.org/wiki/Q3045352",
+     "https://www.wikidata.org/wiki/Q67399836",
+     "https://www.wikidata.org/wiki/Q7902865",
+     "https://www.wikidata.org/wiki/Q883708",
+     "https://www.wikidata.org/wiki/Q17514788"
+    ],
+    "sameAs": [
+     "https://twitter.com/zeomega",
+     "https://www.linkedin.com/company/zeomega",
+     "https://www.youtube.com/channel/UCYQRPwEPxweK-VCaydDsmPA",
+     "https://www.google.com/search?kgmid=/g/11dxpwsj1f",
+     "https://g.co/kgs/xp6cGC"
+    ],
+    "telephone": "+1 214-618-9880",
+    "url": "https://www.zeomega.com/",
+    "hasOfferCatalog": "https://www.zeomega.com/resources/solution-trends",
+    "logo": {
+     "@type": "ImageObject",
+     "name": "ZeOmega Logo",
+     "url": "https://cdn.prod.website-files.com/635be4d6c5ea0d3a3bd2d4bc/6398b9e2935e087835ce9074_zeomega-author-logo.jpg"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "6200 Tennyson Parkway, Suite 200",
+     "postalCode": "75024",
+     "addressRegion": "TX",
+     "addressLocality": [
+      "https://www.wikidata.org/wiki/Q51689",
+      "Plano"
+     ],
+     "addressCountry": "http://www.wikidata.org/entity/Q30",
+     "name": "ZeOmega Corporate Headquarters"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "ZeOmega Corporate Headquarters",
+      "telephone": "+1 214-618-9880",
+      "name": "ZeOmega Corporate Headquarters"
+     },
+     {
+      "@type": "ContactPoint",
+      "contactType": "Bangalore Office",
+      "telephone": "+1 91 80 4243 2000",
+      "name": "ZeOmega Infotech Pvt Ltd."
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fzeomega.com",
+  "timestamp": "2026-09-25T11:20:35.389Z"
+ }
+]

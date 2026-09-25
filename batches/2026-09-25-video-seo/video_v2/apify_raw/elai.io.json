@@ -1,0 +1,119 @@
+[
+ {
+  "url": "https://elai.io",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Elai.io - The Most Advanced and Intuitive AI Video Generator",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://elai.io/",
+    "name": "Elai.io - The Most Advanced and Intuitive AI Video Generator",
+    "isPartOf": {
+     "@id": "https://elai.io/#website"
+    },
+    "about": {
+     "@id": "https://elai.io/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://elai.io/#primaryimage"
+    },
+    "image": {
+     "@id": "https://elai.io/#primaryimage"
+    },
+    "thumbnailUrl": "https://elai.io/wp-content/uploads/2025/07/medal__8_.png",
+    "datePublished": "2025-04-01T15:43:27+00:00",
+    "dateModified": "2025-09-01T10:47:09+00:00",
+    "description": "Experience one of the most powerful AI Training Video Generators on the market: Elai, Powered by Panopto. Start creating for free now!",
+    "breadcrumb": {
+     "@id": "https://elai.io/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://elai.io/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://elai.io/wp-content/uploads/2025/07/medal__8_.png",
+    "contentUrl": "https://elai.io/wp-content/uploads/2025/07/medal__8_.png",
+    "width": 869,
+    "height": 1000
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Elai.io",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://elai.io/",
+    "name": "Elai.io",
+    "description": "create AI videos from text",
+    "publisher": {
+     "@id": "https://elai.io/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://elai.io/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Elai.io",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Elai.io",
+    "url": "https://elai.io/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://elai.io/#/schema/logo/image/",
+     "url": "https://elai.io/wp-content/uploads/2024/10/Component-2.svg",
+     "contentUrl": "https://elai.io/wp-content/uploads/2024/10/Component-2.svg",
+     "width": 777,
+     "height": 199,
+     "caption": "Elai.io"
+    },
+    "image": {
+     "@id": "https://elai.io/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Felai.io",
+  "timestamp": "2026-09-25T11:20:55.700Z"
+ }
+]

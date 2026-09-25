@@ -1,0 +1,84 @@
+[
+ {
+  "url": "https://bigchange.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 12; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.4179.114 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "BigChange",
+    "status": "check_circle",
+    "type": "WebPage",
+    "name": "BigChange",
+    "url": "https://www.bigchange.com/",
+    "description": "BigChange's all-in-one job management system helps businesses improve productivity, drive growth and transform customer satisfaction.",
+    "isPartOf": {
+     "@type": "WebSite",
+     "name": "BigChange",
+     "url": "https://www.bigchange.com",
+     "publisher": {
+      "@type": "Organization",
+      "@id": "https://www.bigchange.com/#organization",
+      "name": "BigChange",
+      "legalName": "BigChange Limited",
+      "url": "https://www.bigchange.com",
+      "description": "BigChange Limited provides job management software for field service businesses, streamlining operations with scheduling, CRM, and financial tools.",
+      "logo": "https://cdn.prod.website-files.com/652cf498161daabd6b40ba1b/652d423b1a71fa3f8fdfe789_Main-Logo.svg",
+      "foundingDate": "2012",
+      "founder": {
+       "@type": "Person",
+       "name": "Martin Port",
+       "sameAs": "https://en.wikipedia.org/wiki/Martin_Port"
+      },
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "3150 Century Way, Thorpe Park",
+       "addressLocality": "Leeds",
+       "addressRegion": "West Yorkshire",
+       "postalCode": "LS15 8ZB",
+       "addressCountry": "GB"
+      },
+      "contactPoint": {
+       "@type": "ContactPoint",
+       "contactType": "Customer Service",
+       "telephone": "+44 113 457 1000",
+       "email": "info@bigchange.com",
+       "areaServed": "GB",
+       "availableLanguage": "English"
+      },
+      "knowsAbout": [
+       {
+        "@type": "DefinedTerm",
+        "name": "Field service management",
+        "@id": "https://www.wikidata.org/wiki/Q5447122"
+       },
+       {
+        "@type": "DefinedTerm",
+        "name": "Project management software",
+        "@id": "https://www.wikidata.org/wiki/Q167035"
+       },
+       {
+        "@type": "DefinedTerm",
+        "name": "Facility management",
+        "@id": "https://www.wikidata.org/wiki/Q837060"
+       }
+      ],
+      "sameAs": [
+       "https://www.linkedin.com/company/bigchange/",
+       "https://x.com/bigchangeapps",
+       "https://www.facebook.com/BigChangeApps/",
+       "https://www.youtube.com/c/BigChange",
+       "https://www.instagram.com/bigchangeapps/"
+      ]
+     }
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fbigchange.com",
+  "timestamp": "2026-09-25T11:20:27.775Z"
+ }
+]

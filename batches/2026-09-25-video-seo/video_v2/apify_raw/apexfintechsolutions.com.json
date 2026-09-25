@@ -1,0 +1,105 @@
+[
+ {
+  "url": "https://apexfintechsolutions.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Apex Fintech Solutions",
+    "status": "check_circle",
+    "type": [
+     "Organization",
+     "FinancialService"
+    ],
+    "name": "Apex Fintech Solutions",
+    "legalName": "Apex Fintech Solutions",
+    "url": "https://apexfintechsolutions.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://apexfintechsolutions.com/_app/immutable/assets/APEX_LOGO_AFS_Stacked_RGB.Dj9VePQe.svg",
+     "width": "512",
+     "height": "512"
+    },
+    "description": "Apex Fintech Solutions provides cloud-native technology infrastructure for the financial services industry, enabling fintechs, broker-dealers, wealth management firms, and financial institutions to build and scale digital investing platforms.",
+    "slogan": "Modern Wealth Tech for Digital Investing",
+    "sameAs": [
+     "https://www.linkedin.com/company/apex-fintech/",
+     "https://x.com/apexfintech",
+     "https://www.facebook.com/apexfintechsolutions/",
+     "https://www.instagram.com/apexfintechsolutions/"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "US"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "Sales",
+      "availableLanguage": "English"
+     }
+    ],
+    "knowsAbout": [
+     "Financial Technology",
+     "Wealth Management",
+     "Digital Investing",
+     "Clearing and Custody",
+     "Brokerage Technology",
+     "Trading Platforms",
+     "Investment Technology",
+     "Fintech Solutions"
+    ],
+    "areaServed": {
+     "@type": "Country",
+     "name": "United States"
+    }
+   },
+   {
+    "title": "Apex Fintech Solutions",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://apexfintechsolutions.com",
+    "name": "Apex Fintech Solutions",
+    "publisher": {
+     "@id": "https://apexfintechsolutions.com/#organization"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://apexfintechsolutions.com/search/{search_term_string}/"
+     },
+     "query-input": {
+      "@type": "PropertyValueSpecification",
+      "valueRequired": true,
+      "valueName": "search_term_string"
+     }
+    },
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Modern Wealth Tech for Digital Investing | Apex Fintech Solutions",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://apexfintechsolutions.com/",
+    "name": "Modern Wealth Tech for Digital Investing | Apex Fintech Solutions",
+    "isPartOf": {
+     "@id": "https://apexfintechsolutions.com/#website"
+    },
+    "description": "Uncover cloud-native wealth tech solutions and digital investing platforms from Apex. Power your financial institution\u2019s growth\u2014explore our technology today.",
+    "publisher": {
+     "@id": "https://apexfintechsolutions.com/#organization"
+    },
+    "inLanguage": "en-US",
+    "dateModified": "2026-09-09T19:01:18+00:00"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fapexfintechsolutions.com",
+  "timestamp": "2026-09-25T11:20:58.151Z"
+ }
+]

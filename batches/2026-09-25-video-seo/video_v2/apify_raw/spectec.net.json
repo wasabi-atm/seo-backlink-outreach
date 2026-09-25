@@ -1,0 +1,120 @@
+[
+ {
+  "url": "https://spectec.net",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "SpecTec | Global Leader in Maritime Software Solutions",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://spectec.net/",
+    "name": "SpecTec | Global Leader in Maritime Software Solutions",
+    "isPartOf": {
+     "@id": "https://spectec.net/#website"
+    },
+    "about": {
+     "@id": "https://spectec.net/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://spectec.net/#primaryimage"
+    },
+    "image": {
+     "@id": "https://spectec.net/#primaryimage"
+    },
+    "thumbnailUrl": "https://spectec.net/wp-content/uploads/2024/12/header-image-fan-1-1024x943.webp",
+    "datePublished": "2024-12-13T16:15:57+00:00",
+    "dateModified": "2026-03-09T17:02:47+00:00",
+    "description": "SpecTec delivers leading maritime software solutions with the AMOS\u2122 suite to streamline maintenance, boost reliability, and drive efficiency.",
+    "breadcrumb": {
+     "@id": "https://spectec.net/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://spectec.net/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-GB",
+    "url": "https://spectec.net/wp-content/uploads/2024/12/header-image-fan-1.webp",
+    "contentUrl": "https://spectec.net/wp-content/uploads/2024/12/header-image-fan-1.webp",
+    "width": 1458,
+    "height": 1342,
+    "caption": "Header graphic"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "SpecTec",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://spectec.net/",
+    "name": "SpecTec",
+    "description": "Maritime asset management software for ship and shore fleet operations",
+    "publisher": {
+     "@id": "https://spectec.net/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://spectec.net/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "SpecTec",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "SpecTec",
+    "url": "https://spectec.net/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://spectec.net/#/schema/logo/image/",
+     "url": "https://spectec.net/wp-content/uploads/2024/12/SpecTec-Logo_CMYK_Full-Colour-400x400-1.jpg",
+     "contentUrl": "https://spectec.net/wp-content/uploads/2024/12/SpecTec-Logo_CMYK_Full-Colour-400x400-1.jpg",
+     "width": 400,
+     "height": 400,
+     "caption": "SpecTec"
+    },
+    "image": {
+     "@id": "https://spectec.net/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fspectec.net",
+  "timestamp": "2026-09-25T11:20:37.829Z"
+ }
+]

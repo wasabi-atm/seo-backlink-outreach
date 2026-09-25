@@ -1,0 +1,111 @@
+[
+ {
+  "url": "https://seez.co",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6383.62 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Seez",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Seez",
+    "url": "/",
+    "description": "We're designing a future where AI transforms the automotive journey, building an integrated platform that connects every touchpoint seamlessly.",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://cdn.prod.website-files.com/69622050e51a5ff74939cb50/696d731f485b56639fab771b_Seez%20New%20Logo%20SVG.svg"
+    },
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://cdn.prod.website-files.com/69622050e51a5ff74939cb50/696440af28003170781d31f4_Seez%20new%20Hero%20image%20v2.jpg"
+    },
+    "sameAs": [],
+    "hasOfferCatalog": {
+     "@type": "OfferCatalog",
+     "name": "AI Products for Automotive Retail",
+     "itemListElement": [
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "Connect",
+        "description": "AI assistant turning shoppers into qualified leads",
+        "applicationCategory": "BusinessApplication"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "Assist",
+        "description": "AI agents accelerating workflows & team efficiency",
+        "applicationCategory": "BusinessApplication"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "Reach",
+        "description": "AI agent converting leads & securing renewals",
+        "applicationCategory": "BusinessApplication"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "Serve",
+        "description": "AI agent automating aftersales and service bookings",
+        "applicationCategory": "BusinessApplication"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "Boost",
+        "description": "Full-service marketing, without the agency markup",
+        "applicationCategory": "BusinessApplication"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "SeezPad",
+        "description": "One Platform to Sell Smarter and Faster",
+        "applicationCategory": "BusinessApplication"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "SeezClick",
+        "description": "Sell Cars 24/7 - Online, In-Store, or Both",
+        "applicationCategory": "BusinessApplication"
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "SoftwareApplication",
+        "name": "SeezNitro",
+        "description": "AI-Powered Sales, Inventory & Customer Management",
+        "applicationCategory": "BusinessApplication"
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fseez.co",
+  "timestamp": "2026-09-25T11:20:13.129Z"
+ }
+]

@@ -1,0 +1,49 @@
+[
+ {
+  "url": "https://heartflow.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0_1; rv:118.0) Gecko/20100101 Firefox/118.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Heartflow",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Heartflow",
+    "alternateName": "Heartflow",
+    "description": "Heartflow\u2019s vision is to transform CAD from the leading cause of death into a disease that can be managed for life.",
+    "url": "https://www.heartflow.com"
+   },
+   {
+    "title": "Heartflow",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Heartflow",
+    "url": "https://www.heartflow.com",
+    "alternateName": "Heartflow",
+    "description": "Bringing together human ingenuity and advanced technology to help combat heart disease, the #1 cause of death.",
+    "logo": "https://www.heartflow.com/wp-content/uploads/2025/02/cropped-favicon.png",
+    "sameAs": [
+     "https://x.com/heartflow",
+     "https://www.youtube.com/channel/UCUhcWnIdiPBMlkUGJ2UafCg",
+     "https://www.linkedin.com/company/heartflow-inc",
+     "https://itunes.apple.com/us/app/heartflow/id994343238?mt=8"
+    ],
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "18774783569",
+      "contactOption": "TollFree",
+      "contactType": "customer support"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fheartflow.com",
+  "timestamp": "2026-09-25T11:20:43.227Z"
+ }
+]

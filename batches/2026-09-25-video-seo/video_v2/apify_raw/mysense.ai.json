@@ -1,0 +1,46 @@
+[
+ {
+  "url": "https://mysense.ai",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "MySense ai",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "MySense ai",
+    "alternateName": "MySense",
+    "description": "",
+    "url": "https://mysense.ai"
+   },
+   {
+    "title": "MySense ai Ltd",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "MySense ai Ltd",
+    "url": "https://mysense.ai",
+    "alternateName": "MySense",
+    "description": "MySense",
+    "logo": "https://mysense.ai/wp-content/uploads/2025/08/MySense-colour-Logo.svg",
+    "sameAs": [
+     "https://www.facebook.com/MySenseAI/",
+     "https://uk.linkedin.com/company/mysense"
+    ],
+    "vatID": "GB276055982",
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "020 3322 1838"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmysense.ai",
+  "timestamp": "2026-09-25T11:20:35.926Z"
+ }
+]

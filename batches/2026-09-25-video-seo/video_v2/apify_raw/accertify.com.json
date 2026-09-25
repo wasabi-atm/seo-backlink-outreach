@@ -1,0 +1,106 @@
+[
+ {
+  "url": "https://accertify.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5749.100 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Accertify | Leading Fraud Prevention & Risk Management Platform",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.accertify.com/",
+    "name": "Accertify | Leading Fraud Prevention & Risk Management Platform",
+    "isPartOf": {
+     "@id": "https://www.accertify.com/#website"
+    },
+    "about": {
+     "@id": "https://www.accertify.com/#organization"
+    },
+    "datePublished": "2026-05-07T17:08:05+00:00",
+    "dateModified": "2026-09-01T14:55:59+00:00",
+    "description": "Accertify empowers businesses to stay ahead of emerging threats with a risk management platform that balances client experience and security. Protect your business with AI, machine learning, and community-driven insights.",
+    "breadcrumb": {
+     "@id": "https://www.accertify.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.accertify.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Accertify",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.accertify.com/",
+    "name": "Accertify",
+    "description": "More Yes.  Say it with Confidence.",
+    "publisher": {
+     "@id": "https://www.accertify.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.accertify.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Accertify",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Accertify",
+    "url": "https://www.accertify.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.accertify.com/#/schema/logo/image/",
+     "url": "https://www.accertify.com/wp-content/uploads/2026/05/logo.svg",
+     "contentUrl": "https://www.accertify.com/wp-content/uploads/2026/05/logo.svg",
+     "width": 160,
+     "height": 24,
+     "caption": "Accertify"
+    },
+    "image": {
+     "@id": "https://www.accertify.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://x.com/accertifyinc",
+     "https://www.linkedin.com/company/accertify-inc-/"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Faccertify.com",
+  "timestamp": "2026-09-25T11:20:46.076Z"
+ }
+]

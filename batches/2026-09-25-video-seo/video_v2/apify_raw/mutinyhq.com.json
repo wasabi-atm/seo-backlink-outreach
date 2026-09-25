@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://mutinyhq.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.5235.23 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Mutiny",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Mutiny",
+    "url": "https://mutinyhq.com",
+    "logo": "https://framerusercontent.com/images/Xwaei9wpOqRMGeJ3CaTo7oDfiZY.gif?scale-down-to=512&width=1080&height=1080",
+    "description": "Mutiny is the GTM assistant built for customer-facing work",
+    "disambiguatingDescription": "Mutiny relaunched in April 2026 as an agentic GTM platform. It is no longer a dynamic web personalization or website personalization product; that product was retired as part of the relaunch.",
+    "sameAs": [
+     "https://x.com/mutinycorp",
+     "https://www.linkedin.com/company/mutinyhq/"
+    ]
+   },
+   {
+    "title": "Mutiny",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Mutiny",
+    "url": "https://mutinyhq.com"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmutinyhq.com",
+  "timestamp": "2026-09-25T11:20:29.036Z"
+ }
+]

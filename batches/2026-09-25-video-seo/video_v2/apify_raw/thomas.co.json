@@ -1,0 +1,35 @@
+[
+ {
+  "url": "https://thomas.co",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Thomas International",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Thomas International",
+    "url": "https://thomas.co/"
+   },
+   {
+    "title": "WebPage",
+    "status": "check_circle",
+    "type": "WebPage"
+   },
+   {
+    "title": "Thomas",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Thomas",
+    "url": "https://www.thomas.co/homepage"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fthomas.co",
+  "timestamp": "2026-09-25T11:20:18.015Z"
+ }
+]

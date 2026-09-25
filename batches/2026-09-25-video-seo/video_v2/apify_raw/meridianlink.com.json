@@ -1,0 +1,135 @@
+[
+ {
+  "url": "https://meridianlink.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Digital Lending Platform for Every Financial Institution",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.meridianlink.com/",
+    "name": "Digital Lending Platform for Every Financial Institution",
+    "isPartOf": {
+     "@id": "https://meridianlink.wpengine.com/#website"
+    },
+    "about": {
+     "@id": "https://meridianlink.wpengine.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.meridianlink.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.meridianlink.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.meridianlink.com/wp-content/uploads/2026/03/ML_background_image_1200x675.png",
+    "datePublished": "2023-07-14T15:37:59+00:00",
+    "dateModified": "2026-09-14T18:27:57+00:00",
+    "description": "Explore MeridianLink's industry-leading suite of digital lending platform for banks, credit unions, fintechs, and more.",
+    "breadcrumb": {
+     "@id": "https://www.meridianlink.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.meridianlink.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.meridianlink.com/wp-content/uploads/2026/03/ML_background_image_1200x675.png",
+    "contentUrl": "https://www.meridianlink.com/wp-content/uploads/2026/03/ML_background_image_1200x675.png",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "MeridianLink",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://meridianlink.wpengine.com/",
+    "name": "MeridianLink",
+    "description": "",
+    "publisher": {
+     "@id": "https://meridianlink.wpengine.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://meridianlink.wpengine.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "MeridianLink",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "MeridianLink",
+    "url": "https://meridianlink.wpengine.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://meridianlink.wpengine.com/#/schema/logo/image/",
+     "url": "https://www.meridianlink.com/wp-content/uploads/2026/03/ML_logo_horz_stack_COLOR.svg",
+     "contentUrl": "https://www.meridianlink.com/wp-content/uploads/2026/03/ML_logo_horz_stack_COLOR.svg",
+     "width": 843,
+     "height": 176,
+     "caption": "MeridianLink"
+    },
+    "image": {
+     "@id": "https://meridianlink.wpengine.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/MeridianLink/",
+     "https://x.com/meridianlink",
+     "https://www.linkedin.com/company/meridianlink/",
+     "https://www.youtube.com/channel/UCyVPMyn9wVB43b896Qtt9Hg/videos"
+    ],
+    "description": "MeridianLink\u00ae provides cloud-based solutions for digital lending, account opening, background screening, and data verification. Our integrated platform enables financial institutions of all sizes to unlock growth potential, scale seamlessly, and support compliance, while enhancing the experience for staff and consumers.",
+    "email": "info@meridianlink.com",
+    "telephone": "866-417-5130",
+    "legalName": "MeridianLink, Inc.",
+    "foundingDate": "1998-01-01",
+    "numberOfEmployees": {
+     "@type": "QuantitativeValue",
+     "minValue": "501",
+     "maxValue": "1000"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmeridianlink.com",
+  "timestamp": "2026-09-25T11:20:56.151Z"
+ }
+]

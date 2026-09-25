@@ -1,0 +1,124 @@
+[
+ {
+  "url": "https://contentguru.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.4013.158 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Cloud CX Solutions - Content Guru Inc.",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.contentguru.com/en-us/",
+    "name": "Cloud CX Solutions - Content Guru Inc.",
+    "isPartOf": {
+     "@id": "https://www.contentguru.com/en-us/#website"
+    },
+    "about": {
+     "@id": "https://www.contentguru.com/en-us/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.contentguru.com/en-us/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.contentguru.com/en-us/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.contentguru.com/en-us/wp-content/uploads/sites/10/2026/06/Homepage-v2-20260610.png",
+    "datePublished": "2025-01-29T10:09:29+00:00",
+    "dateModified": "2026-09-23T10:14:03+00:00",
+    "description": "We\u2019re Big in CX, we Lead in AI. Content Guru\u2019s world-leading cloud CX solution brings the full power of AI to your customer communications.",
+    "breadcrumb": {
+     "@id": "https://www.contentguru.com/en-us/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.contentguru.com/en-us/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.contentguru.com/en-us/wp-content/uploads/sites/10/2026/06/Homepage-v2-20260610.png",
+    "contentUrl": "https://www.contentguru.com/en-us/wp-content/uploads/sites/10/2026/06/Homepage-v2-20260610.png",
+    "width": 2069,
+    "height": 733,
+    "caption": "Homepage v2 20260610"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "USA - Content Guru",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.contentguru.com/en-us/",
+    "name": "USA - Content Guru",
+    "description": "",
+    "publisher": {
+     "@id": "https://www.contentguru.com/en-us/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.contentguru.com/en-us/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Content Guru",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Content Guru",
+    "url": "https://www.contentguru.com/en-us/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.contentguru.com/en-us/#/schema/logo/image/",
+     "url": "https://www.contentguru.com/en-us/wp-content/uploads/sites/10/2025/02/CG-Logo-Dark-Blue_Outlines-1.svg",
+     "contentUrl": "https://www.contentguru.com/en-us/wp-content/uploads/sites/10/2025/02/CG-Logo-Dark-Blue_Outlines-1.svg",
+     "width": "1024",
+     "height": "1024",
+     "caption": "Content Guru"
+    },
+    "image": {
+     "@id": "https://www.contentguru.com/en-us/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/ContentGuruLtd",
+     "https://x.com/cgchirp"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcontentguru.com",
+  "timestamp": "2026-09-25T11:20:25.841Z"
+ }
+]

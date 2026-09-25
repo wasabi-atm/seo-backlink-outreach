@@ -1,0 +1,86 @@
+[
+ {
+  "url": "https://horizon3.ai",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_8; rv:127.0) Gecko/20100101 Firefox/127.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Horizon3",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://horizon3.ai/",
+    "name": "Horizon3",
+    "description": "Offense Informs Defense",
+    "inLanguage": "en-US",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://horizon3.ai/search/{search_term_string}/"
+     },
+     "query-input": "required name=search_term_string"
+    },
+    "publisher": {
+     "@id": "https://horizon3.ai/#/schema/Organization"
+    }
+   },
+   {
+    "title": "Home | Horizon3.ai",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://horizon3.ai/",
+    "name": "Home | Horizon3.ai",
+    "description": "Horizon3 uses real-world attacks to safely show what attackers can actually do in your environment\u2014so you can fix and prove what matters.",
+    "inLanguage": "en-US",
+    "isPartOf": {
+     "@id": "https://horizon3.ai/#/schema/WebSite"
+    },
+    "breadcrumb": {
+     "@type": "BreadcrumbList",
+     "@id": "https://horizon3.ai/#/schema/BreadcrumbList",
+     "itemListElement": {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Horizon3"
+     }
+    },
+    "potentialAction": {
+     "@type": "ReadAction",
+     "target": "https://horizon3.ai/"
+    },
+    "about": {
+     "@id": "https://horizon3.ai/#/schema/Organization"
+    }
+   },
+   {
+    "title": "Horizon3",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Horizon3",
+    "url": "https://horizon3.ai/",
+    "sameAs": [
+     "https://www.facebook.com/Horizon3ai/",
+     "https://x.com/Horizon3ai",
+     "https://www.instagram.com/horizon3.ai/?hl=en",
+     "https://www.youtube.com/channel/UCruHUp4feksCLYU6CbNvdlw",
+     "https://www.linkedin.com/company/horizon3ai"
+    ],
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://horizon3.ai/wp-content/uploads/2026/07/FavIcon_rebrand-2026.png",
+     "contentUrl": "https://horizon3.ai/wp-content/uploads/2026/07/FavIcon_rebrand-2026.png",
+     "width": 32,
+     "height": 32,
+     "contentSize": "1130"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fhorizon3.ai",
+  "timestamp": "2026-09-25T11:20:48.557Z"
+ }
+]

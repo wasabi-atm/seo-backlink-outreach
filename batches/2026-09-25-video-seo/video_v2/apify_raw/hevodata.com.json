@@ -1,0 +1,87 @@
+[
+ {
+  "url": "https://hevodata.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "HEVO",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "HEVO",
+    "description": "Hevo is an Automated Unified Data Platform that helps companies understand their users and customers better. Using Hevo, companies can build a 360-degree view of their customers by combining data from multiple disparate data sources and applications including sales CRM, advertising channels, marketing tech, financial system software, and customer support products. Data and information stored in these applications are often siloed, and it's difficult for companies to get a complete view of their customers and business metrics. Hevo solves this problem for its customers",
+    "image": "https://res.cloudinary.com/hevo/image/upload/v1762429163/hevo-website-v2/logo/hevo-logo-v2-dark.svg",
+    "logo": "https://res.cloudinary.com/hevo/image/upload/v1762429163/hevo-website-v2/logo/hevo-logo-v2-dark.svg",
+    "url": "https://hevodata.com",
+    "telephone": "+91-9513073947",
+    "sameAs": [
+     "https://twitter.com/HevoData",
+     "https://www.linkedin.com/company/hevodata",
+     "https://www.facebook.com/HevoData/",
+     "https://www.youtube.com/@hevodata4171",
+     "https://www.instagram.com/life_at_hevo/?hl=en"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "1177, 5th Main Rd, Sector 6, HSR Layout",
+     "addressLocality": "Bengaluru, Karnataka",
+     "postalCode": "560102",
+     "addressCountry": "India"
+    }
+   },
+   {
+    "title": "Hevo",
+    "status": "check_circle",
+    "type": "Product",
+    "name": "Hevo",
+    "image": "https://res.cloudinary.com/hevo/image/upload/v1762429163/hevo-website-v2/logo/hevo-logo-v2-dark.svg",
+    "description": "Hevo provides Automated Unified Data Platform, ETL Platform that allows you to load data from 150+ sources into your warehouse, transform,and integrate the data into any target database.",
+    "brand": {
+     "@type": "Brand",
+     "name": "Hevo"
+    },
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "worstRating": "",
+     "ratingCount": "200"
+    }
+   },
+   {
+    "title": "Hevo",
+    "status": "check_circle",
+    "type": "Corporation",
+    "name": "Hevo",
+    "alternateName": "Hevo product",
+    "url": "https://hevodata.com/",
+    "logo": "https://res.cloudinary.com/hevo/image/upload/v1762429163/hevo-website-v2/logo/hevo-logo-v2-dark.svg",
+    "sameAs": [
+     "https://www.linkedin.com/company/hevodata",
+     "https://hevodata.com/",
+     "https://twitter.com/HevoData"
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://hevodata.com/"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fhevodata.com",
+  "timestamp": "2026-09-25T11:20:30.460Z"
+ }
+]

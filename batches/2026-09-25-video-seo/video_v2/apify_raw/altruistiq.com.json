@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://altruistiq.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5626.132 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Home Draft",
+    "status": "check_circle",
+    "type": "WebPage",
+    "name": "Home Draft",
+    "description": "Measure, manage, and reduce your company's carbon footprint with Altruistiq's climate intelligence platform. Automate emissions tracking, engage suppliers, calculate product carbon footprints, and achieve your sustainability goals.",
+    "url": "/home-draft",
+    "about": {
+     "@type": "SoftwareApplication",
+     "name": "Altruistiq",
+     "applicationCategory": "BusinessApplication",
+     "description": "Enterprise sustainability platform built for food and beverage to quantify and forecast climate impact and risks with corporate footprinting, product footprinting, and supply chain engagement capabilities.",
+     "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock"
+     },
+     "featureList": [
+      "Corporate Carbon Footprint measurement",
+      "Product Carbon Footprint calculation",
+      "Supply Chain Engagement",
+      "CSRD & Regulatory Reporting",
+      "SBTi & CDP Disclosures",
+      "B2B PCF Reports",
+      "On-Pack Claims Product Labelling",
+      "AI Agent for Climate Busywork",
+      "Net Zero Planning",
+      "Product Eco-Design"
+     ],
+     "provider": {
+      "@type": "Organization",
+      "name": "Altruistiq"
+     }
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Faltruistiq.com",
+  "timestamp": "2026-09-25T11:20:24.260Z"
+ }
+]

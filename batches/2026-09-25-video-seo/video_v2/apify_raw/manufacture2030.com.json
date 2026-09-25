@@ -1,0 +1,53 @@
+[
+ {
+  "url": "https://manufacture2030.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3_1; rv:120.0) Gecko/20100101 Firefox/120.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Secaro | The Supply Chain Intelligence Network",
+    "status": "check_circle",
+    "type": "WebPage",
+    "name": "Secaro | The Supply Chain Intelligence Network",
+    "description": "Secaro helps organizations decarbonize. It transforms complex data into clear insights, reducing business risk and lowering environmental impact.",
+    "url": "https:secaro.io",
+    "publisher": {
+     "@id": "https:secaro.io/#organization",
+     "@type": "Organization",
+     "name": "Secaro"
+    },
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "Secaro",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Secaro",
+    "url": "https:secaro.io",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https:secaro.io/#/schema/logo/image/",
+     "url": "//146401220.fs1.hubspotusercontent-eu1.net/hubfs/146401220/raw_assets/public/secaro/images/logo.png",
+     "contentUrl": "//146401220.fs1.hubspotusercontent-eu1.net/hubfs/146401220/raw_assets/public/secaro/images/logo.png",
+     "width": 126,
+     "height": 28,
+     "caption": "Secaro"
+    },
+    "image": {
+     "@type": "ImageObject",
+     "url": "//146401220.fs1.hubspotusercontent-eu1.net/hubfs/146401220/raw_assets/public/secaro/images/logo.png",
+     "width": 126,
+     "height": 28
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmanufacture2030.com",
+  "timestamp": "2026-09-25T11:20:39.271Z"
+ }
+]

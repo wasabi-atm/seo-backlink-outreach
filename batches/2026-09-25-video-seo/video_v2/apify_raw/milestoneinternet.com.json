@@ -1,0 +1,130 @@
+[
+ {
+  "url": "https://milestoneinternet.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:116.0) Gecko/20100101 Firefox/116.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+       "@id": "https://www.milestoneinternet.com/",
+       "name": "Milestone Inc."
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+       "@id": "",
+       "name": "Home"
+      }
+     }
+    ]
+   },
+   {
+    "title": "AI-native Digital Experience Platform | Milestone Inc",
+    "status": "check_circle",
+    "type": [
+     "WebPage"
+    ],
+    "speakable": {
+     "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+     ],
+     "@type": "SpeakableSpecification"
+    },
+    "dateCreated": "2026-09-09",
+    "dateModified": "2026-09-14",
+    "datePublished": "2026-09-19",
+    "name": "AI-native Digital Experience Platform | Milestone Inc",
+    "description": "Milestone Inc. offers the fastest & only SEO-friendly CMS, advanced schema markup, local, reviews & FAQs to help businesses have digital experience across industries",
+    "url": "https://www.milestoneinternet.com/",
+    "primaryImageOfPage": [
+     {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.milestoneinternet.com/resourcefiles//enhance-customer-engagement.jpg?version=9222026122335",
+      "name": "",
+      "caption": ""
+     }
+    ],
+    "breadcrumb": [],
+    "text": "",
+    "hasPart": null,
+    "mainEntity": null
+   },
+   {
+    "title": "Milestone Inc.",
+    "status": "check_circle",
+    "type": [
+     "ProfessionalService",
+     "LocalBusiness",
+     "Organization"
+    ],
+    "name": "Milestone Inc.",
+    "alternateName": "1000.1 Milestone Internet Marketing, Inc.",
+    "url": "https://www.milestoneinternet.com/",
+    "sameAs": [
+     "https://www.facebook.com/MilestoneInc",
+     "https://twitter.com/milestonemktg",
+     "https://www.youtube.com/user/MilestoneInternet",
+     "https://www.linkedin.com/company/milestone-internet-marketing",
+     "https://www.instagram.com/milestonemktg"
+    ],
+    "logo": "https://www.milestoneinternet.com/images/milestone-internet-marketing-inc-santa-clara-california-logo.svg",
+    "image": "https://www.milestoneinternet.com/images/milestone-internet-marketing-inc-santa-clara-california-logo.svg",
+    "description": null,
+    "award": "Search Engine Land Awards, HSMAI Adrian Awards Winner, US 2018 Search Awards, US Search Awards, Inc 5000, Interactive Media Awards, Web Awards, \"Fastest Growing Bulldog Businesses Award\", The Communicator Awards, Davey Awards, Fast Private Awards, The stevies awards, Horizon Interactive Awards, Internet Advertising Competition Awards, Sia - Summit International Awards, Hermes Creative Awards",
+    "legalName": "Milestone Inc.",
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+1-(408) 200-2211",
+     "faxNumber": "4084929053",
+     "email": "sales@milestoneinternet.com",
+     "contactType": "Inquiry, Reservations or Business"
+    },
+    "telephone": "+1-(408) 200-2211",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "2010 El Camino Real, Suite 926",
+     "addressLocality": "Santa Clara",
+     "addressRegion": "CA",
+     "postalCode": "95050",
+     "addressCountry": "United States"
+    },
+    "geo": null,
+    "aggregateRating": null,
+    "brand": null,
+    "photo": null,
+    "review": null,
+    "starRating": null,
+    "priceRange": null,
+    "subOrganization": null,
+    "parentOrganization": null,
+    "hasOfferCatalog": null,
+    "petsAllowed": null
+   },
+   {
+    "title": "Milestone Inc.",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Milestone Inc.",
+    "alternateName": "Milestone Inc.",
+    "url": "https://www.milestoneinternet.com/"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmilestoneinternet.com",
+  "timestamp": "2026-09-25T11:20:34.530Z"
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "url": "https://crewai.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 15; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.5730.146 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "CrewAI",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "CrewAI",
+    "url": "https://crewai.com",
+    "logo": "https://www.crewai.com/logo-square.png",
+    "sameAs": [
+     "https://x.com/crewaiinc",
+     "https://www.linkedin.com/company/crewai-inc/",
+     "https://github.com/crewaiinc/"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcrewai.com",
+  "timestamp": "2026-09-25T11:20:34.216Z"
+ }
+]

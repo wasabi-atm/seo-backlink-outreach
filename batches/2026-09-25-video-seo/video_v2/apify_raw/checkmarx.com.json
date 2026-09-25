@@ -1,0 +1,144 @@
+[
+ {
+  "url": "https://checkmarx.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:119.0) Gecko/20100101 Firefox/119.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Agentic Application Security Testing Software Platform | Checkmarx",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://checkmarx.com/",
+    "name": "Agentic Application Security Testing Software Platform | Checkmarx",
+    "isPartOf": {
+     "@id": "https://checkmarx.com/#website"
+    },
+    "about": {
+     "@id": "https://checkmarx.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://checkmarx.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://checkmarx.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://checkmarx.com/wp-content/uploads/2026/06/Preview-image-CXHomepage.jpg",
+    "datePublished": "2026-06-02T11:03:26+00:00",
+    "dateModified": "2026-09-08T14:11:59+00:00",
+    "description": "Checkmarx agentic application security software platform Combines Hybrid scanning, AI-powered agents, and unified risk intelligence across every attack surface",
+    "breadcrumb": {
+     "@id": "https://checkmarx.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://checkmarx.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://checkmarx.com/wp-content/uploads/2026/06/Preview-image-CXHomepage.jpg",
+    "contentUrl": "https://checkmarx.com/wp-content/uploads/2026/06/Preview-image-CXHomepage.jpg",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Checkmarx",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://checkmarx.com/",
+    "name": "Checkmarx",
+    "description": "The world runs on code. We secure it.",
+    "publisher": {
+     "@id": "https://checkmarx.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://checkmarx.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Checkmarx",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Checkmarx",
+    "url": "https://checkmarx.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://checkmarx.com/#/schema/logo/image/",
+     "url": "https://checkmarx.com/wp-content/uploads/2024/02/logo-dark.svg",
+     "contentUrl": "https://checkmarx.com/wp-content/uploads/2024/02/logo-dark.svg",
+     "width": 1,
+     "height": 1,
+     "caption": "Checkmarx"
+    },
+    "image": {
+     "@id": "https://checkmarx.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/Checkmarx.Source.Code.Analysis",
+     "https://x.com/checkmarx",
+     "https://www.youtube.com/user/CheckmarxResearchLab",
+     "https://www.linkedin.com/company/checkmarx"
+    ]
+   },
+   {
+    "title": "Review",
+    "status": "check_circle",
+    "type": "Review",
+    "reviewBody": "Checkmarx identified false positives and also gave developers the opportunity for human review. It was exactly what we wanted.",
+    "author": {
+     "@type": "Person",
+     "name": "Femi Oyesanya, PatientPoint"
+    },
+    "itemReviewed": {
+     "@type": "Organization",
+     "name": "Checkmarx"
+    },
+    "reviewRating": {
+     "@type": "Rating",
+     "ratingValue": "5",
+     "bestRating": "5"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcheckmarx.com",
+  "timestamp": "2026-09-25T11:20:31.436Z"
+ }
+]

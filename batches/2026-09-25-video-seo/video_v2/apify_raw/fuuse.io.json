@@ -1,0 +1,146 @@
+[
+ {
+  "url": "https://fuuse.io",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Fuuse",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Fuuse",
+    "url": "https://fuuse.io",
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://fuuse.io/#logo",
+     "url": "https://fuuse.io/hubfs/Fuuse%202022/Images/Fuuse_Logo_Blue_Red_F.svg"
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/fuuseev"
+    ]
+   },
+   {
+    "title": "Fuuse",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://fuuse.io",
+    "name": "Fuuse",
+    "publisher": {
+     "@id": "https://fuuse.io/#org"
+    }
+   },
+   {
+    "title": "The Flexible Charge Point Management System | Fuuse",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://fuuse.io",
+    "name": "The Flexible Charge Point Management System | Fuuse",
+    "description": "Manage, monitor and grow your EV charging network with Fuuse's charge point management software. Open, scalable EV charging platform for fleets, workplaces and public networks.",
+    "isPartOf": {
+     "@id": "https://fuuse.io/#website"
+    },
+    "about": {
+     "@id": "https://fuuse.io/#org"
+    }
+   },
+   {
+    "title": "Fuuse Charge Point Management System",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Fuuse Charge Point Management System",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web",
+    "url": "https://fuuse.io",
+    "publisher": {
+     "@id": "https://fuuse.io/#org"
+    }
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is charge point management software?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Charge point management software is a platform that allows organisations to monitor, control and optimise EV chargers from one place. It provides live visibility of charger status, charging sessions, users, payments, reporting and energy usage across an entire charging network."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How does Fuuse charge point management software work?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Fuuse connects directly to compatible EV chargers using open standards, allowing organisations to manage charging infrastructure, users, payments and reporting from one platform."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can Fuuse manage chargers from different manufacturers?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Fuuse supports multiple hardware vendors, allowing organisations to manage mixed charger estates through one central charge point management platform."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is Fuuse suitable for fleet charging management?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Fuuse helps fleet operators manage charging, monitor energy use, optimise charging schedules and gain detailed operational reporting."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can workplace EV chargers be managed through one platform?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Workplace chargers can be managed centrally, providing control over access, energy usage, reporting and charging policies."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does Fuuse support public EV charging networks?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Fuuse enables operators to manage public charging infrastructure, tariffs, availability and charging sessions from one platform."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Why choose an open charge point management platform?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Open platforms provide flexibility, reduce hardware lock-in and allow organisations to expand their charging infrastructure using compatible hardware."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What reporting is available in Fuuse?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Fuuse provides reporting on charger utilisation, charging sessions, energy consumption, revenue and network performance."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can Fuuse scale as my EV charging network grows?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Fuuse is designed to support organisations from small installations through to large multi-site charging networks."
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ffuuse.io",
+  "timestamp": "2026-09-25T11:20:27.642Z"
+ }
+]

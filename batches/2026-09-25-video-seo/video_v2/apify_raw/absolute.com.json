@@ -1,0 +1,48 @@
+[
+ {
+  "url": "https://absolute.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.4335.128 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Absolute Security",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Absolute Security",
+    "alternateName": "Absolute Security",
+    "url": "https://www.absolute.com/",
+    "logo": "https://cdn.prod.website-files.com/66459e52a38339f2998b9eef/667548f9f9b9c64fd0340c00_absolute-brand-webclip.png",
+    "sameAs": [
+     "https://www.linkedin.com/company/absolute-software",
+     "https://www.youtube.com/user/absolutesoftware",
+     "https://twitter.com/absolutecorp"
+    ],
+    "description": "Resilient cybersecurity for devices, data, and security controls. Creating an unbreakable connection to every endpoint, ensuring they are visible, protected, and compliant.",
+    "slogan": "Resilience Made Possible",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "Canada"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+1-877-600-2295",
+      "contactType": "sales"
+     },
+     {
+      "@type": "ContactPoint",
+      "url": "https://www.absolute.com/customers/support/",
+      "contactType": "customer service"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fabsolute.com",
+  "timestamp": "2026-09-25T11:20:47.371Z"
+ }
+]

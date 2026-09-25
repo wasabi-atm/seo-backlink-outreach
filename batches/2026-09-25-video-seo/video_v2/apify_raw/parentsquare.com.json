@@ -1,0 +1,142 @@
+[
+ {
+  "url": "https://parentsquare.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Home",
+    "status": "check_circle",
+    "type": "WebPage",
+    "name": "Home",
+    "url": "https://www.parentsquare.com/",
+    "description": null,
+    "datePublished": "2026-04-01T16:43:00",
+    "dateModified": "2026-07-13T16:22:27",
+    "inLanguage": null,
+    "author": {
+     "@type": "Person",
+     "name": "Brock Martin",
+     "url": "https://www.parentsquare.com/author/madeline-pellmanboldworld-co/brockmartin"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "ParentSquare"
+    },
+    "isPartOf": {
+     "@type": "WebSite",
+     "@id": "https://www.parentsquare.com"
+    }
+   },
+   {
+    "title": "ParentSquare",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "ParentSquare",
+    "legalName": "ParentSquare, Inc.",
+    "url": "https://www.parentsquare.com/",
+    "slogan": "The K-12 family engagement platform built to reach every family",
+    "description": "The family engagement platform that reaches every family. Communications, websites, attendance, and payments. Trusted by over 42k schools and 22M students.",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://s39150.pcdn.co/wp-content/themes/parentsquare/assets/img/parentsquare-logo-horizontal.svg",
+     "caption": "ParentSquare"
+    },
+    "image": "https://s39150.pcdn.co/wp-content/themes/parentsquare/assets/img/parentsquare-logo-horizontal.svg",
+    "email": "info@parentsquare.com",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "6144 Calle Real, #200A",
+     "addressLocality": "Goleta",
+     "addressRegion": "CA",
+     "postalCode": "93117",
+     "addressCountry": "US"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "email": "info@parentsquare.com",
+      "url": "https://www.parentsquare.com/demo/"
+     }
+    ],
+    "areaServed": {
+     "@type": "Country",
+     "name": "United States"
+    },
+    "sameAs": [
+     "https://www.facebook.com/Parentsquare/",
+     "https://x.com/parentsquare",
+     "https://www.linkedin.com/company/parentsquare",
+     "https://www.instagram.com/parentsquare/"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "K-12 family engagement"
+     },
+     {
+      "@type": "Thing",
+      "name": "School-to-home communication"
+     },
+     {
+      "@type": "Thing",
+      "name": "Mass alerts and emergency notifications"
+     },
+     {
+      "@type": "Thing",
+      "name": "School websites"
+     },
+     {
+      "@type": "Thing",
+      "name": "Student attendance improvement"
+     },
+     {
+      "@type": "Thing",
+      "name": "School payments"
+     },
+     {
+      "@type": "Thing",
+      "name": "Multilingual translation for school communication"
+     }
+    ]
+   },
+   {
+    "title": "ParentSquare",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.parentsquare.com/",
+    "name": "ParentSquare",
+    "description": "K-12 Family Engagement Platform for Schools",
+    "inLanguage": "en-US",
+    "publisher": {
+     "@id": "https://www.parentsquare.com/#organization"
+    },
+    "copyrightHolder": {
+     "@id": "https://www.parentsquare.com/#organization"
+    }
+   },
+   {
+    "title": "ParentSquare",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "ParentSquare",
+    "url": "https://www.parentsquare.com",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": "https://www.parentsquare.com/?s={search_term_string}",
+      "query-input": "required name=search_term_string"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fparentsquare.com",
+  "timestamp": "2026-09-25T11:20:46.278Z"
+ }
+]

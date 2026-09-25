@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://servmeco.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6459.188 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Home - SerVme",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://servmeco.com/",
+    "name": "Home - SerVme",
+    "isPartOf": {
+     "@id": "https://servmeco.com/#website"
+    },
+    "datePublished": "2026-08-18T19:12:47+00:00",
+    "breadcrumb": {
+     "@id": "https://servmeco.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://servmeco.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "SerVme",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://servmeco.com/",
+    "name": "SerVme",
+    "description": "",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://servmeco.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fservmeco.com",
+  "timestamp": "2026-09-25T11:20:16.656Z"
+ }
+]

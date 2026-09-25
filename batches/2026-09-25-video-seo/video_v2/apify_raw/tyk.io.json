@@ -1,0 +1,53 @@
+[
+ {
+  "url": "https://tyk.io",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5825.127 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Home",
+    "status": "check_circle",
+    "type": "Article",
+    "mainEntityOfPage": "https://tyk.io",
+    "headline": "Home",
+    "name": "Home",
+    "description": "Our API Management platform is fast, scalable, modern. Including an open source API Gateway, Analytics, Dev Portal and Dashboard",
+    "datePublished": "2025-10-28",
+    "dateModified": "2026-07-27",
+    "author": {
+     "@type": "Person",
+     "@id": "https://tyk.io/blog/author/jen/#Person",
+     "name": "Jennifer Craig",
+     "url": "https://tyk.io/blog/author/jen/",
+     "identifier": 59,
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/bac2b79280af8c8d9d9ac391bf0d6dc7058d02597efd6535486b55995355c7f0?s=96&d=mm&r=g",
+      "url": "https://secure.gravatar.com/avatar/bac2b79280af8c8d9d9ac391bf0d6dc7058d02597efd6535486b55995355c7f0?s=96&d=mm&r=g",
+      "height": 96,
+      "width": 96
+     }
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Tyk"
+    },
+    "image": {
+     "@type": "ImageObject",
+     "@id": "https://tyk.io/wp-content/uploads/2025/11/logo-light-deloitte-dark.png",
+     "url": "https://tyk.io/wp-content/uploads/2025/11/logo-light-deloitte-dark.png",
+     "height": "300",
+     "width": "500"
+    },
+    "url": "https://tyk.io"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ftyk.io",
+  "timestamp": "2026-09-25T11:20:18.437Z"
+ }
+]

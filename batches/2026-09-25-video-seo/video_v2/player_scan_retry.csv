@@ -1,0 +1,10 @@
+webDomain,vimeoVerdict,players,error
+ideagen.com,,,Page.goto: Timeout 45000ms exceeded.
+seceon.com,,,Page.goto: Timeout 45000ms exceeded.
+hebbia.com,vimeo hero only,https://player.vimeo.com/video/1196469432?title=0&byline=0&portrait=0&badge=0&vimeo_logo=0&background=1&api=1& (372x209),
+thriveglobal.com,,,Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://thriveglobal.com/
+fractory.com,,,Page.goto: Timeout 45000ms exceeded.
+rocket.chat,,,Page.goto: net::ERR_CONNECTION_CLOSED at https://rocket.chat/
+openspace.ai,,,Page.goto: Timeout 45000ms exceeded.
+teletracnavman.com,vimeo hero only,https://player.vimeo.com/video/450185828?autoplay=1&loop=1&autopause=0&muted=1&background=1&title=0&byline=0&p (hidden); https://player.vimeo.com/video/451932725?autoplay=1&loop=1&autopause=0&muted=1&background=1&title=0&byline=0&p (618x938),
+metadata.io,no vimeo at load,,

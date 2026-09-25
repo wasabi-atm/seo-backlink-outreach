@@ -1,0 +1,487 @@
+[
+ {
+  "url": "https://pinewood.ai",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.6555.63 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Pinewood.AI",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://pinewood.ai/",
+    "name": "Pinewood.AI",
+    "inLanguage": "en-GB",
+    "isFamilyFriendly": "true",
+    "description": "Discover a secure end-to-end cloud-based ecosystem designed to help you unlock automotive business value and drive performance and profitability.",
+    "audience": {
+     "@type": "BusinessAudience",
+     "audienceType": "Automotive Dealerships and OEMs",
+     "description": "Businesses in the automotive retail and manufacturing sectors.",
+     "sameAs": [
+      "https://www.wikidata.org/wiki/Q122789492",
+      "https://www.wikidata.org/wiki/Q122789492"
+     ]
+    },
+    "publisher": {
+     "@type": "Organization",
+     "@id": "https://pinewood.ai/#organization"
+    },
+    "hasPart": [
+     {
+      "@type": "WebPage",
+      "@id": "https://pinewood.ai/#webpage",
+      "url": "https://pinewood.ai/",
+      "name": "Pinewood.AI",
+      "description": "Discover a secure end-to-end cloud-based ecosystem designed to help you unlock automotive business value and drive performance and profitability.",
+      "inLanguage": "en-GB",
+      "isPartOf": {
+       "@id": "https://pinewood.ai/#website"
+      },
+      "significantLink": [
+       "https://pinewood.ai/automotive-intelligence-platform/",
+       "https://pinewood.ai/contact-us/",
+       "https://pinewood.ai/our-story/",
+       "https://pinewood.ai/investors/home/",
+       "https://pinewood.ai/automotive-intelligence-platform/sales-intelligence/",
+       "https://pinewood.ai/automotive-intelligence-platform/service-intelligence/",
+       "https://pinewood.ai/automotive-intelligence-platform/accounting-intelligence/",
+       "https://pinewood.ai/automotive-intelligence-platform/business-intelligence/",
+       "https://pinewood.ai/automotive-intelligence-platform/finance-insurance-intelligence/",
+       "https://pinewood.ai/automotive-intelligence-platform/customer-intelligence/"
+      ],
+      "about": [
+       {
+        "@type": "Thing",
+        "name": "Dealership Management",
+        "sameAs": [
+         "https://en.wikipedia.org/wiki/Dealership_management_system"
+        ]
+       },
+       {
+        "@type": "Organization",
+        "name": "Pinewood.AI",
+        "legalName": "Pinewood Technologies Group PLC",
+        "alternateName": [
+         "Pinewood Technologies",
+         "Pinewood Automotive Intelligence"
+        ],
+        "url": "https://pinewood.ai/",
+        "@id": "https://pinewood.ai/#organization",
+        "parentOrganization": [
+         {
+          "@type": "Corporation",
+          "url": "https://en.wikipedia.org/wiki/Pendragon_PLC",
+          "name": "Pendragon PLC",
+          "foundingDate": "1989",
+          "sameAs": [
+           "https://en.wikipedia.org/wiki/Pendragon_PLC"
+          ]
+         }
+        ],
+        "potentialAction": [
+         {
+          "@type": "QuoteAction",
+          "name": "Book a Demo",
+          "description": "Request a demonstration of the Pinewood Automotive Intelligence Platform.",
+          "sameAs": "https://www.wikidata.org/wiki/Q1395149",
+          "target": {
+           "@type": "EntryPoint",
+           "urlTemplate": "https://pinewood.ai/book-a-demo/"
+          },
+          "provider": {
+           "@type": "Organization",
+           "name": "Pinewood.AI",
+           "legalName": "Pinewood Technologies Group PLC",
+           "alternateName": [
+            "Pinewood Technologies",
+            "Pinewood Automotive Intelligence"
+           ],
+           "url": "https://pinewood.ai/",
+           "@id": "https://pinewood.ai/#organization"
+          }
+         }
+        ],
+        "mainEntityOfPage": "https://pinewood.ai/",
+        "sameAs": [
+         "https://en.wikipedia.org/wiki/Pinewood_Technologies"
+        ],
+        "knowsAbout": [
+         "https://www.wikidata.org/wiki/Q11660",
+         "https://en.wikipedia.org/wiki/Performance_improvement",
+         "https://www.wikidata.org/wiki/Q17141401",
+         "https://www.wikidata.org/wiki/Q5196460",
+         "https://www.wikidata.org/wiki/Q253801",
+         "https://en.wikipedia.org/wiki/Pinewood_Technologies",
+         "https://en.wikipedia.org/wiki/Customer_relationship_management",
+         "https://www.wikidata.org/wiki/Q190117",
+         "https://www.wikidata.org/wiki/Q786803",
+         "https://www.wikidata.org/wiki/Q1254596",
+         "https://www.wikidata.org/wiki/Q4252370",
+         "https://www.wikidata.org/wiki/Q1318054"
+        ],
+        "brand": {
+         "@type": "Brand",
+         "name": "Pinewood.AI"
+        },
+        "telephone": "+44121 697 6600",
+        "contactPoint": {
+         "@type": "ContactPoint",
+         "telephone": "+44 (0)121 697 6600",
+         "contactType": "head office",
+         "areaServed": {
+          "@type": "Country",
+          "name": "United Kingdom"
+         },
+         "hoursAvailable": [
+          {
+           "@type": "OpeningHoursSpecification",
+           "closes": "16:00:00",
+           "dayOfWeek": "https://schema.org/Sunday",
+           "opens": "10:00:00"
+          },
+          {
+           "@type": "OpeningHoursSpecification",
+           "closes": "19:00:00",
+           "dayOfWeek": "https://schema.org/Monday",
+           "opens": "07:00:00"
+          },
+          {
+           "@type": "OpeningHoursSpecification",
+           "closes": "19:00:00",
+           "dayOfWeek": "https://schema.org/Tuesday",
+           "opens": "07:00:00"
+          },
+          {
+           "@type": "OpeningHoursSpecification",
+           "closes": "19:00:00",
+           "dayOfWeek": "https://schema.org/Wednesday",
+           "opens": "07:00:00"
+          },
+          {
+           "@type": "OpeningHoursSpecification",
+           "closes": "19:00:00",
+           "dayOfWeek": "https://schema.org/Thursday",
+           "opens": "07:00:00"
+          },
+          {
+           "@type": "OpeningHoursSpecification",
+           "closes": "19:00:00",
+           "dayOfWeek": "https://schema.org/Friday",
+           "opens": "07:00:00"
+          },
+          {
+           "@type": "OpeningHoursSpecification",
+           "closes": "17:00:00",
+           "dayOfWeek": "https://schema.org/Saturday",
+           "opens": "08:00:00"
+          }
+         ]
+        },
+        "areaServed": [
+         {
+          "@type": "Country",
+          "name": [
+           "United Kingdom"
+          ]
+         }
+        ],
+        "memberOf": [
+         {
+          "@type": "GovernmentOrganization",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/03542925",
+          "name": "Companies House",
+          "sameAs": "https://en.wikipedia.org/wiki/Companies_House",
+          "identifier": {
+           "@type": "PropertyValue",
+           "propertyID": "Registration Number",
+           "value": "03542925"
+          }
+         }
+        ],
+        "identifier": {
+         "@type": "PropertyValue",
+         "propertyID": "Company Registration Number",
+         "value": "03542925",
+         "sameAs": "https://www.wikidata.org/wiki/Q257303"
+        },
+        "logo": {
+         "@type": "ImageObject",
+         "@id": "https://pinewood.ai/wp-content/themes/pinewood-2.0/theme/assets/images/logos/powered-by-seez.svg#logo",
+         "url": "https://pinewood.ai/wp-content/themes/pinewood-2.0/theme/assets/images/logos/powered-by-seez.svg",
+         "caption": "Pinewood.AI",
+         "width": "180",
+         "height": "34.69"
+        },
+        "image": "https://pinewood.ai/wp-content/themes/pinewood-2.0/theme/assets/images/logos/powered-by-seez.svg",
+        "foundingDate": "1981",
+        "founder": [
+         {
+          "@type": "Person",
+          "name": "Paul Hopkinson"
+         }
+        ],
+        "foundingLocation": {
+         "@type": "Place",
+         "name": "Birmingham, England"
+        },
+        "address": {
+         "@type": "PostalAddress",
+         "@id": "#headoffice",
+         "streetAddress": "2960 Trident Court Solihull Parkway, Birmingham Business Park",
+         "addressLocality": "Birmingham",
+         "addressRegion": "England",
+         "postalCode": "B37 7YN"
+        },
+        "hasOfferCatalog": {
+         "@type": "OfferCatalog",
+         "name": "Pinewood Automotive Intelligence Platform Services",
+         "itemListElement": [
+          {
+           "@type": "OfferCatalog",
+           "name": "Platform Modules",
+           "itemListElement": [
+            {
+             "@type": "Offer",
+             "itemOffered": {
+              "@type": "Service",
+              "name": "Service Intelligence",
+              "alternateName": "Aftersales Module",
+              "url": "https://pinewood.ai/automotive-intelligence-platform/service-intelligence/",
+              "@id": "https://pinewood.ai/automotive-intelligence-platform/service-intelligence/#service-intelligence",
+              "description": "Pinewood Service Intelligence transforms your aftersales operation \u2014 streamlining job progress, improving invoicing accuracy, and giving your team the tools to deliver fast, reliable, profitable service.",
+              "potentialAction": {
+               "@type": "QuoteAction",
+               "name": "Book a Service Intelligence Demo",
+               "description": "Request a demo of the Service Intelligence module.",
+               "sameAs": [
+                "https://pinewood.ai/contact-us/"
+               ],
+               "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://pinewood.ai/contact-us/"
+               },
+               "provider": {
+                "@type": "Organization",
+                "name": "Pinewood.AI",
+                "url": "https://pinewood.ai/",
+                "@id": "https://pinewood.ai/#organization"
+               }
+              },
+              "areaServed": {
+               "@type": "Country",
+               "name": "United Kingdom"
+              }
+             }
+            },
+            {
+             "@type": "Offer",
+             "itemOffered": {
+              "@type": "Service",
+              "name": "Sales Intelligence",
+              "url": "https://pinewood.ai/automotive-intelligence-platform/sales-intelligence/",
+              "@id": "https://pinewood.ai/automotive-intelligence-platform/sales-intelligence/#sales-intelligence",
+              "description": "Sales Intelligence from Pinewood.AI helps dealerships sell smarter \u2013 automating processes, engaging customers, and optimizing every step from lead to delivery. With powerful tools built into your DMS, your team can close more deals, faster.",
+              "potentialAction": {
+               "@type": "QuoteAction",
+               "name": "Book a Sales Intelligence Demo",
+               "description": "Request a demo of the Sales Intelligence module.",
+               "sameAs": [
+                "https://pinewood.ai/contact-us/"
+               ],
+               "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://pinewood.ai/contact-us/"
+               },
+               "provider": {
+                "@type": "Organization",
+                "name": "Pinewood.AI",
+                "legalName": "Pinewood Technologies Group PLC",
+                "alternateName": [
+                 "Pinewood Technologies",
+                 "Pinewood Automotive Intelligence"
+                ],
+                "url": "https://pinewood.ai/",
+                "@id": "https://pinewood.ai/#organization"
+               }
+              },
+              "sameAs": [
+               "https://www.wikidata.org/wiki/Q17141401"
+              ],
+              "areaServed": {
+               "@type": "Country",
+               "name": "United Kingdom"
+              }
+             }
+            },
+            {
+             "@type": "Offer",
+             "itemOffered": {
+              "@type": "Service",
+              "name": "Accounting Intelligence",
+              "url": "https://pinewood.ai/automotive-intelligence-platform/accounting-intelligence/",
+              "@id": "https://pinewood.ai/automotive-intelligence-platform/accounting-intelligence/#accounting-intelligence",
+              "description": "From supplier invoices to VAT submissions, we take care of the repetitive processes so your team can focus on what matters. Finance Directors, Accountants, Admin Teams, and Dealer Principals can work smarter \u2014 with clarity, consistency, and control.",
+              "potentialAction": {
+               "@type": "QuoteAction",
+               "name": "Book a Accounting Intelligence Demo",
+               "description": "Request a demo of the Accounting Intelligence module.",
+               "sameAs": [
+                "https://pinewood.ai/contact-us/"
+               ],
+               "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://pinewood.ai/contact-us/"
+               },
+               "provider": {
+                "@type": "Organization",
+                "name": "Pinewood.AI",
+                "legalName": "Pinewood Technologies Group PLC",
+                "alternateName": [
+                 "Pinewood Technologies",
+                 "Pinewood Automotive Intelligence"
+                ],
+                "url": "https://pinewood.ai/",
+                "@id": "https://pinewood.ai/#organization"
+               }
+              },
+              "sameAs": [
+               "https://www.wikidata.org/wiki/Q5449606"
+              ],
+              "areaServed": {
+               "@type": "Country",
+               "name": "United Kingdom"
+              }
+             }
+            },
+            {
+             "@type": "Offer",
+             "itemOffered": {
+              "@type": "Service",
+              "name": "Business Intelligence",
+              "url": "https://pinewood.ai/automotive-intelligence-platform/business-intelligence/",
+              "@id": "https://pinewood.ai/automotive-intelligence-platform/business-intelligence/#business-intelligence",
+              "description": "Pinewood.AI Business Intelligence solution turns everyday data into dealership-wide advantage. From performance dashboards to predictive insights, it gives every team member the clarity to make faster, smarter decisions \u2014 no analyst required.",
+              "potentialAction": {
+               "@type": "QuoteAction",
+               "name": "Book a Business Intelligence Demo",
+               "description": "Request a demo of the Business Intelligence module.",
+               "sameAs": [
+                "https://pinewood.ai/contact-us/"
+               ],
+               "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://pinewood.ai/contact-us/"
+               },
+               "provider": {
+                "@type": "Organization",
+                "name": "Pinewood.AI",
+                "legalName": "Pinewood Technologies Group PLC",
+                "alternateName": [
+                 "Pinewood Technologies",
+                 "Pinewood Automotive Intelligence"
+                ],
+                "url": "https://pinewood.ai/",
+                "@id": "https://pinewood.ai/#organization"
+               }
+              },
+              "sameAs": [
+               "https://www.wikidata.org/wiki/Q3353185/"
+              ],
+              "areaServed": {
+               "@type": "Country",
+               "name": "United Kingdom"
+              }
+             }
+            },
+            {
+             "@type": "Offer",
+             "itemOffered": {
+              "@type": "Service",
+              "name": "F&I Intelligence",
+              "url": "https://pinewood.ai/automotive-intelligence-platform/finance-insurance-intelligence/",
+              "@id": "https://pinewood.ai/automotive-intelligence-platform/finance-insurance-intelligence/#finance-insurance-intelligence",
+              "description": "FCA-ready finance and insurance workflows that boost performance. F&I Intelligence from Pinewood.AI transforms finance and insurance from a compliance headache into a seamless, revenue-driving experience.",
+              "potentialAction": {
+               "@type": "QuoteAction",
+               "name": "Book a F&I Intelligence Demo",
+               "description": "Request a demo of the F&I Intelligence module.",
+               "sameAs": [
+                "https://pinewood.ai/contact-us/"
+               ],
+               "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://pinewood.ai/contact-us/"
+               },
+               "provider": {
+                "@type": "Organization",
+                "name": "Pinewood.AI",
+                "legalName": "Pinewood Technologies Group PLC",
+                "alternateName": [
+                 "Pinewood Technologies",
+                 "Pinewood Automotive Intelligence"
+                ],
+                "url": "https://pinewood.ai/",
+                "@id": "https://pinewood.ai/#organization"
+               }
+              }
+             }
+            },
+            {
+             "@type": "Offer",
+             "itemOffered": {
+              "@type": "Service",
+              "name": "Customer Intelligence",
+              "url": "https://pinewood.ai/automotive-intelligence-platform/customer-intelligence/",
+              "@id": "https://pinewood.ai/automotive-intelligence-platform/customer-intelligence/#customer-intelligence",
+              "description": "Customer Intelligence from Pinewood.AI gives your team a complete view of every customer \u2014 across every location, channel, and department.",
+              "potentialAction": {
+               "@type": "QuoteAction",
+               "name": "Book a Customer Intelligence Demo",
+               "description": "Request a demo of the Customer Intelligence module.",
+               "sameAs": [
+                "https://pinewood.ai/contact-us/"
+               ],
+               "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://pinewood.ai/contact-us/"
+               },
+               "provider": {
+                "@type": "Organization",
+                "name": "Pinewood.AI",
+                "legalName": "Pinewood Technologies Group PLC",
+                "alternateName": [
+                 "Pinewood Technologies",
+                 "Pinewood Automotive Intelligence"
+                ],
+                "url": "https://pinewood.ai/",
+                "@id": "https://pinewood.ai/#organization"
+               }
+              },
+              "sameAs": [
+               "https://www.wikidata.org/wiki/Q5196460"
+              ],
+              "areaServed": {
+               "@type": "Country",
+               "name": "United Kingdom"
+              }
+             }
+            }
+           ]
+          }
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fpinewood.ai",
+  "timestamp": "2026-09-25T11:20:23.038Z"
+ }
+]

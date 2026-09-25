@@ -1,0 +1,111 @@
+[
+ {
+  "url": "https://abtrace.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Abtrace",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Abtrace",
+    "url": "https://www.abtrace.com/",
+    "logo": "https://www.abtrace.com/assets/img/logo.png",
+    "description": "Proactive Monitoring and Intelligent Recall for NHS primary care.",
+    "sameAs": [
+     "https://uk.linkedin.com/company/abtrace",
+     "https://www.youtube.com/watch?v=yJWLOfU_tRo",
+     "https://vimeo.com/abtrace"
+    ]
+   },
+   {
+    "title": "Abtrace",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Abtrace",
+    "url": "https://www.abtrace.com/",
+    "publisher": {
+     "@id": "https://www.abtrace.com/#org"
+    }
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is Abtrace?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Abtrace is a Proactive Monitoring and Intelligent Recall tool for NHS primary care. It reads your clinical record every day, finds the patients who are due or overdue a test, review or vaccination, recalls them automatically with self-booking, and helps your team keep monitoring, coding and QOF up to date, all inside EMIS or SystmOne."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Who is it for?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The whole practice, really. Abtrace is built for everyone involved in patient care: GPs managing chronic disease in a single visit, administrators running recall and protecting QOF, receptionists acting on what a patient is due the moment they call or come to the desk, pharmacists handling repeat prescriptions and drug monitoring, and nurses and HCAs who can see what each patient needs and act without waiting on a GP. It works for a single practice or across a whole PCN or ICB."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which clinical systems does Abtrace work with?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Abtrace integrates directly with EMIS Web and TPP SystmOne, the clinical systems used by almost every GP practice in England. It reads and writes back to the record in real time, so there is no new system to learn and no data migration."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What does Abtrace help with?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Case-finding, automated recall with self-booking, live monitoring dashboards, one-click SNOMED coding correction, automated blood-test forms, a patient portal and performance analytics. Daily smart searches keep your QOF and IIF registers, CQC evidence and local enhanced services (LCS) continuously up to date, and long-term condition and high-risk drug monitoring on track."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is Abtrace clinically validated and regulated?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Abtrace is a UKCA-marked medical device, NHS Digital approved, and independently certified to ISO 27001 (information security) and ISO 13485 (medical device quality management)."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is our patient data secure?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Abtrace is UK GDPR compliant, completes the NHS Data Security and Protection Toolkit and holds Cyber Essentials Plus. Your data stays within your practice's own governance under a data-sharing agreement and DPA, is stored in the UK, and is never shared with third parties."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How is Abtrace bought and funded?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Abtrace is available through NHS-friendly procurement, including the Crown Commercial Service G-Cloud framework, and can be adopted by a single practice or funded at PCN or ICB level. We will help you find the right route during your demo."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do we get started?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Book a 30-minute demo and we will show you how Abtrace fits your clinical system and your team, and what it could mean for your practice, PCN or ICB. Because it runs on your existing record, there is no data migration and onboarding is quick."
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fabtrace.com",
+  "timestamp": "2026-09-25T11:20:39.732Z"
+ }
+]

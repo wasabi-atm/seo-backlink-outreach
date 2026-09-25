@@ -1,0 +1,15 @@
+[
+ {
+  "url": "https://careo.ai",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6150.164 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 0,
+  "is_valid_rich_result": false,
+  "detected_items": [],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcareo.ai",
+  "timestamp": "2026-09-25T11:20:14.497Z"
+ }
+]

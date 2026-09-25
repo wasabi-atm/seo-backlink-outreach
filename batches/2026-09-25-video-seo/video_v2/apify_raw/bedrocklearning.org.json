@@ -1,0 +1,140 @@
+[
+ {
+  "url": "https://bedrocklearning.org",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6303.147 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Bedrock Learning",
+    "status": "check_circle",
+    "type": "WebSite",
+    "description": "Improving literacy for life - Bedrock Learning develops vocabulary, grammar and English skills for all learners aged 6+.",
+    "name": "Bedrock Learning",
+    "url": "https://bedrocklearning.org"
+   },
+   {
+    "title": "Bedrock Learning",
+    "status": "check_circle",
+    "type": "WebPage",
+    "description": "Improving literacy for life - Bedrock Learning develops vocabulary, grammar and English skills for students aged 6+.",
+    "name": "Bedrock Learning",
+    "url": "https://bedrocklearning.org/",
+    "isPartOf": {
+     "@id": "https://bedrocklearning.org/#website"
+    },
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://bedrocklearning.org/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Bedrock Learning",
+    "status": "check_circle",
+    "type": [
+     "EducationalOrganization",
+     "Organization"
+    ],
+    "description": "Improving literacy for life - Bedrock Learning develops vocabulary, grammar and English skills for all learners aged 6+.",
+    "isicV4": "8620",
+    "name": "Bedrock Learning",
+    "telephone": "+44 (0) 203 325 9345",
+    "url": "https://bedrocklearning.org",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Bedrock Learning, Kiln House",
+     "addressLocality": "Norwich",
+     "addressRegion": "Norfolk",
+     "addressCountry": "GB",
+     "postalCode": "NR2 1BZ"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": 52.630275,
+     "longitude": 1.2906946
+    },
+    "hasOfferCatalog": {
+     "@type": "OfferCatalog",
+     "name": "Educational Programs and Services",
+     "itemListElement": [
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Tier 2 Vocabulary and Grammar Curriculum",
+        "description": "Core curriculum explicitly teaching vocabulary and grammar within engaging original fiction and non-fiction texts."
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Tier 3 Vocabulary Curriculum",
+        "description": "Covers over 30,000 subject-specific Tier 3 words across 38 curriculum areas, providing targeted and personalized instruction."
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Comprehensive CPD and Support",
+        "description": "In-house support from qualified teachers through CPD workshops, webinars, free resources, and podcasts."
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "EducationalOccupationalCredential",
+        "name": "GCSE English Support",
+        "description": "Bedrock English provides curriculum schemes specifically designed to support English Literature and English Language study for Years 9-11."
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "Service",
+        "name": "Reading Test",
+        "description": "A simple and flexible reading test with instant data, reporting on Reading Ages, Standardised Age Scores, and subskills."
+       }
+      },
+      {
+       "@type": "Offer",
+       "itemOffered": {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Flexible Subscription Packages",
+        "description": "Subscription options (Basic, Accelerate, Master) that can be mixed by year group, providing different levels of access to content and custom content creation options."
+       }
+      }
+     ]
+    },
+    "image": {
+     "@id": "https://bedrocklearning.org/#/schema/image/1"
+    },
+    "sameAs": [
+     "https://x.com/Bedr0ckLearning",
+     "https://www.facebook.com/BedrockEnglish",
+     "https://www.instagram.com/bedrocklearning/",
+     "https://www.youtube.com/@bedrocklearning9314",
+     "https://uk.linkedin.com/company/bedrock-learning-ltd-"
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "contentUrl": "https://bedrocklearning.org/logo.png",
+    "url": "https://bedrocklearning.org/logo.png"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fbedrocklearning.org",
+  "timestamp": "2026-09-25T11:20:40.372Z"
+ }
+]

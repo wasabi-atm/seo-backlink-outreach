@@ -1,0 +1,125 @@
+[
+ {
+  "url": "https://hyperproof.io",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.4927.80 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Hyperproof | The GRC Platform That Makes Compliance Easy",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://hyperproof.io/",
+    "name": "Hyperproof | The GRC Platform That Makes Compliance Easy",
+    "isPartOf": {
+     "@id": "https://hyperproof.io/#website"
+    },
+    "about": {
+     "@id": "https://hyperproof.io/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://hyperproof.io/#primaryimage"
+    },
+    "image": {
+     "@id": "https://hyperproof.io/#primaryimage"
+    },
+    "thumbnailUrl": "https://hyperproof.io/wp-content/uploads/2023/12/hyperproof-home.png",
+    "datePublished": "2020-03-19T22:16:14+00:00",
+    "dateModified": "2026-09-18T14:50:28+00:00",
+    "description": "Hyperproof's GRC platform turns GRC into a growth engine. Eliminate duplicate work and see 66% reduction in duplicative controls.",
+    "breadcrumb": {
+     "@id": "https://hyperproof.io/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://hyperproof.io/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://hyperproof.io/wp-content/uploads/2023/12/hyperproof-home.png",
+    "contentUrl": "https://hyperproof.io/wp-content/uploads/2023/12/hyperproof-home.png",
+    "width": 2250,
+    "height": 1250
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Hyperproof",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://hyperproof.io/",
+    "name": "Hyperproof",
+    "description": "Compliance and Risk Management Software",
+    "publisher": {
+     "@id": "https://hyperproof.io/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://hyperproof.io/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Hyperproof",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Hyperproof",
+    "url": "https://hyperproof.io/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://hyperproof.io/#/schema/logo/image/",
+     "url": "https://hyperproof.io/wp-content/uploads/2023/07/Hyperproof-logo-flat-fullcolor_2023.png",
+     "contentUrl": "https://hyperproof.io/wp-content/uploads/2023/07/Hyperproof-logo-flat-fullcolor_2023.png",
+     "width": 2560,
+     "height": 640,
+     "caption": "Hyperproof"
+    },
+    "image": {
+     "@id": "https://hyperproof.io/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://business.facebook.com/hyperproof/",
+     "https://x.com/hyperproof",
+     "https://www.instagram.com/hyperproof/",
+     "https://www.linkedin.com/company/hyperproof/"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fhyperproof.io",
+  "timestamp": "2026-09-25T11:20:49.307Z"
+ }
+]

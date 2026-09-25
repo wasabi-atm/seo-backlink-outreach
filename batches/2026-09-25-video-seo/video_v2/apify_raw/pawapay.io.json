@@ -1,0 +1,15 @@
+[
+ {
+  "url": "https://pawapay.io",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.5779.111 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 0,
+  "is_valid_rich_result": false,
+  "detected_items": [],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fpawapay.io",
+  "timestamp": "2026-09-25T11:20:24.975Z"
+ }
+]

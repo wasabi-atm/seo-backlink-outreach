@@ -1,0 +1,127 @@
+[
+ {
+  "url": "https://bookcreator.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Book Creator - Love Learning - Book Creator app",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://bookcreator.com/",
+    "name": "Book Creator - Love Learning - Book Creator app",
+    "isPartOf": {
+     "@id": "https://bookcreator.com/#website"
+    },
+    "about": {
+     "@id": "https://bookcreator.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://bookcreator.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://bookcreator.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://bookcreator.com/wp-content/uploads/2023/10/homepage_thumb-1.jpg",
+    "datePublished": "2016-05-31T04:21:51+00:00",
+    "dateModified": "2026-07-13T14:58:41+00:00",
+    "description": "Teachers love it. Students love it. Book Creator is the simplest way for all learners to create content in the classroom.",
+    "breadcrumb": {
+     "@id": "https://bookcreator.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://bookcreator.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://bookcreator.com/wp-content/uploads/2023/10/homepage_thumb-1.jpg",
+    "contentUrl": "https://bookcreator.com/wp-content/uploads/2023/10/homepage_thumb-1.jpg",
+    "width": 1084,
+    "height": 800
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Book Creator app",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://bookcreator.com/",
+    "name": "Book Creator app",
+    "description": "The simplest, most inclusive way to create content in your classroom.",
+    "publisher": {
+     "@id": "https://bookcreator.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://bookcreator.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Book Creator",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Book Creator",
+    "alternateName": "Tools for Schools, Inc.",
+    "url": "https://bookcreator.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://bookcreator.com/#/schema/logo/image/",
+     "url": "https://bookcreator.com/wp-content/uploads/2015/05/Linkedin-logo.jpg",
+     "contentUrl": "https://bookcreator.com/wp-content/uploads/2015/05/Linkedin-logo.jpg",
+     "width": 200,
+     "height": 120,
+     "caption": "Book Creator"
+    },
+    "image": {
+     "@id": "https://bookcreator.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "http://facebook.com/bookcreator",
+     "https://x.com/BookCreatorApp",
+     "https://www.linkedin.com/company/red-jumper",
+     "http://www.pinterest.com/bookcreator",
+     "https://www.youtube.com/channel/UCdd03RqXQlCVFjWn9i3TaMQ"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fbookcreator.com",
+  "timestamp": "2026-09-25T11:20:36.011Z"
+ }
+]

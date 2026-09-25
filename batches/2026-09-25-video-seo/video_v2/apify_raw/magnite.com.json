@@ -1,0 +1,130 @@
+[
+ {
+  "url": "https://magnite.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.5963.39 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Magnite - The Largest Independent Sell-Side Advertising Company",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.magnite.com/",
+    "name": "Magnite - The Largest Independent Sell-Side Advertising Company",
+    "isPartOf": {
+     "@id": "https://www.magnite.com/#website"
+    },
+    "about": {
+     "@id": "https://www.magnite.com/#organization"
+    },
+    "datePublished": "2023-06-26T21:10:00+00:00",
+    "dateModified": "2026-09-16T13:19:58+00:00",
+    "description": "The world's top publishers trust Magnite to help them drive more advertising revenue across every channel and format, including CTV.",
+    "breadcrumb": {
+     "@id": "https://www.magnite.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.magnite.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Magnite",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.magnite.com/",
+    "name": "Magnite",
+    "description": "The Largest Independent Sell-Side Ad Platform",
+    "publisher": {
+     "@id": "https://www.magnite.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.magnite.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Magnite",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Magnite",
+    "url": "https://www.magnite.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.magnite.com/#/schema/logo/image/",
+     "url": "https://www.magnite.com/wp-content/uploads/2023/04/Logo.svg",
+     "contentUrl": "https://www.magnite.com/wp-content/uploads/2023/04/Logo.svg",
+     "caption": "Magnite"
+    },
+    "image": {
+     "@id": "https://www.magnite.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://x.com/magnite",
+     "https://www.instagram.com/heymagnite/",
+     "https://www.linkedin.com/company/magnite/",
+     "https://www.youtube.com/c/Magnite"
+    ]
+   },
+   {
+    "title": "Magnite",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Magnite",
+    "alternateName": "magnite.com",
+    "url": "https://www.magnite.com/",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.magnite.com/?swp_form%5Bform_id%5D=1&s={search_term_string}"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Magnite",
+     "url": "https://www.magnite.com/",
+     "logo": "https://www.magnite.com/wp-content/uploads/2023/04/Logo.svg",
+     "sameAs": [
+      "https://twitter.com/magnite",
+      "https://www.instagram.com/heymagnite/",
+      "https://www.youtube.com/c/Magnite",
+      "https://www.linkedin.com/company/magnite"
+     ]
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmagnite.com",
+  "timestamp": "2026-09-25T11:20:44.548Z"
+ }
+]

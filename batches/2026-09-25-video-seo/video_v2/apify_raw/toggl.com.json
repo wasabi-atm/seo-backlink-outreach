@@ -1,0 +1,15 @@
+[
+ {
+  "url": "https://toggl.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 0,
+  "is_valid_rich_result": false,
+  "detected_items": [],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ftoggl.com",
+  "timestamp": "2026-09-25T11:20:27.796Z"
+ }
+]

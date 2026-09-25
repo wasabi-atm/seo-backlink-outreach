@@ -1,0 +1,191 @@
+[
+ {
+  "url": "https://harvey.ai",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.4491.78 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Harvey",
+    "status": "check_circle",
+    "type": "Corporation",
+    "name": "Harvey",
+    "legalName": "Harvey AI Corporation",
+    "url": "https://www.harvey.ai/",
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://www.harvey.ai/#logo",
+     "url": "https://www.harvey.ai/downloadable/press/harvey_logo.svg",
+     "contentUrl": "https://www.harvey.ai/downloadable/press/harvey_logo.svg",
+     "caption": "Harvey"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "201 3rd St, Suite 600",
+     "addressLocality": "San Francisco",
+     "addressRegion": "CA",
+     "postalCode": "94103",
+     "addressCountry": "US"
+    },
+    "foundingDate": "2022",
+    "sameAs": [
+     "https://x.com/harvey",
+     "https://www.linkedin.com/company/harvey-ai/",
+     "https://www.youtube.com/@harvey-ai",
+     "https://www.instagram.com/askharvey/",
+     "https://en.wikipedia.org/wiki/Harvey_(software)",
+     "https://www.wikidata.org/wiki/Q132249659"
+    ]
+   },
+   {
+    "title": "Harvey",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.harvey.ai/",
+    "name": "Harvey",
+    "publisher": {
+     "@id": "https://www.harvey.ai/#organization"
+    },
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Corporation",
+    "status": "check_circle",
+    "type": "Corporation",
+    "alternateName": "Harvey AI",
+    "slogan": "Build a Frontier Legal Organization",
+    "description": "Harvey is AI designed for legal and professional services, built to meet the standards of the world's leading law firms and in-house legal teams.",
+    "image": {
+     "@id": "https://www.harvey.ai/#logo"
+    },
+    "knowsAbout": [
+     "Legal artificial intelligence",
+     "Legal research",
+     "Contract analysis",
+     "Due diligence",
+     "Deal management",
+     "Fund formation",
+     "Litigation support",
+     "Regulatory and tax research",
+     "Legal document management"
+    ],
+    "hasCertification": [
+     {
+      "@type": "Certification",
+      "name": "SOC 2 Type II",
+      "url": "https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services"
+     },
+     {
+      "@type": "Certification",
+      "name": "ISO/IEC 27001",
+      "url": "https://www.iso.org/standard/27001"
+     },
+     {
+      "@type": "Certification",
+      "name": "ISO/IEC 27701",
+      "url": "https://www.iso.org/standard/27701"
+     },
+     {
+      "@type": "Certification",
+      "name": "ISO/IEC 42001",
+      "url": "https://www.iso.org/standard/42001"
+     }
+    ],
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "url": "https://www.harvey.ai/contact-sales",
+      "availableLanguage": [
+       "en"
+      ]
+     },
+     {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "url": "https://help.harvey.ai/",
+      "availableLanguage": [
+       "en"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Harvey | AI software for legal and professional services",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.harvey.ai/",
+    "name": "Harvey | AI software for legal and professional services",
+    "description": "Legal AI tailored for leading law firms and corporate legal teams worldwide. Harvey streamlines contract analysis, due diligence, compliance, and litigation.",
+    "isPartOf": {
+     "@id": "https://www.harvey.ai/#website"
+    },
+    "mentions": [
+     {
+      "@id": "https://www.harvey.ai/#usecases"
+     }
+    ],
+    "about": {
+     "@id": "https://www.harvey.ai/#organization"
+    },
+    "primaryImageOfPage": {
+     "@type": "ImageObject",
+     "url": "https://cdn.sanity.io/images/07s0r5r6/production/acf4a0772c068016f3d3312b1bf191a0e2727114-3296x1796.png?q=95&auto=format&dpr=2"
+    },
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Product Innovation for the Best Legal Minds",
+    "status": "check_circle",
+    "type": "ItemList",
+    "name": "Product Innovation for the Best Legal Minds",
+    "itemListOrder": "https://schema.org/ItemListUnordered",
+    "numberOfItems": 6,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Agents",
+      "description": "Orchestrate complex legal work, with tasks automatically routed to the right agent."
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Spaces",
+      "description": "Bring firms, clients, and co-counsel into one shared workspace, with the governance and ethical walls that sensitive legal work demands."
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Vault",
+      "description": "Organize thousands of documents in one secure place, then extract the insights that matter with a single query."
+     },
+     {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Contract Intelligence",
+      "description": "Accelerate routine reviews, sharpen negotiations, and surface portfolio-wide insights."
+     },
+     {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Command Center",
+      "description": "See who\u2019s using Harvey, on what work, across teams, practice groups, and offices. Benchmark usage against comparable organizations to guide your rollout."
+     },
+     {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "Research",
+      "description": "Explore the models, benchmarks, and methods behind Harvey\u2019s AI work. We publish our findings and build alongside the open-source community."
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fharvey.ai",
+  "timestamp": "2026-09-25T11:20:30.430Z"
+ }
+]

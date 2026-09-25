@@ -1,0 +1,77 @@
+[
+ {
+  "url": "https://xyzreality.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.6512.170 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "XYZ Reality",
+    "status": "check_circle",
+    "type": "WebPage",
+    "author": {
+     "@id": "#identity"
+    },
+    "copyrightHolder": {
+     "@id": "#identity"
+    },
+    "copyrightYear": "2020",
+    "creator": {
+     "@id": "#creator"
+    },
+    "dateCreated": "2023-12-20T11:36:15+00:00",
+    "dateModified": "2026-07-28T10:53:45+01:00",
+    "datePublished": "2020-06-30T14:08:00+01:00",
+    "description": "XYZ Reality is an all-in-one construction delivery platform that provides unmatched visibility and control. XYZ proactively de-risks projects, enabling faster, more informed decisions and seamless collaboration to build it right, first time.",
+    "headline": "XYZ Reality | Construction delivery platform for data centres projects",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://xyz-reality.transforms.svdcdn.com/production/assets/Page-Images/Onsite-deployment/Ontime-delivery-3.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1738945418&s=9a14dac00700f9b0f5a72140d5d5c816"
+    },
+    "inLanguage": "en-gb",
+    "mainEntityOfPage": "https://www.xyzreality.com/",
+    "name": "XYZ Reality",
+    "publisher": {
+     "@id": "#creator"
+    },
+    "url": "https://www.xyzreality.com/"
+   },
+   {
+    "title": "Corporation",
+    "status": "check_circle",
+    "type": "Corporation",
+    "sameAs": [
+     "https://twitter.com/xyz_reality",
+     "https://www.linkedin.com/company/xyz-reality/",
+     "https://www.instagram.com/xyzreality/"
+    ]
+   },
+   {
+    "title": "Organization",
+    "status": "check_circle",
+    "type": "Organization"
+   },
+   {
+    "title": "Breadcrumbs",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "description": "Breadcrumbs list",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": "https://www.xyzreality.com/",
+      "name": "XYZ Reality | all-in-one construction delivery platform",
+      "position": 1
+     }
+    ],
+    "name": "Breadcrumbs"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fxyzreality.com",
+  "timestamp": "2026-09-25T11:20:21.472Z"
+ }
+]

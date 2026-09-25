@@ -1,0 +1,104 @@
+[
+ {
+  "url": "https://netacea.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:132.0) Gecko/20100101 Firefox/132.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Home | Netacea",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://netacea.com/",
+    "name": "Home | Netacea",
+    "isPartOf": {
+     "@id": "https://netacea.com/#website"
+    },
+    "about": {
+     "@id": "https://netacea.com/#organization"
+    },
+    "datePublished": "2024-02-15T15:37:05+00:00",
+    "dateModified": "2026-06-03T09:40:50+00:00",
+    "description": "Enterprise bot protection to stop account takeover, credential stuffing, web scraping, and API abuse. Agentless, AI-driven detection.",
+    "breadcrumb": {
+     "@id": "https://netacea.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://netacea.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Netacea",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://netacea.com/",
+    "name": "Netacea",
+    "description": "",
+    "publisher": {
+     "@id": "https://netacea.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://netacea.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Netacea Limited",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Netacea Limited",
+    "alternateName": "Netacea",
+    "url": "https://netacea.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://netacea.com/#/schema/logo/image/",
+     "url": "https://netacea.com/wp-content/uploads/2024/05/netacea-icon-box-blue600.svg",
+     "contentUrl": "https://netacea.com/wp-content/uploads/2024/05/netacea-icon-box-blue600.svg",
+     "width": 1,
+     "height": 1,
+     "caption": "Netacea Limited"
+    },
+    "image": {
+     "@id": "https://netacea.com/#/schema/logo/image/"
+    },
+    "vatID": "GB339164782"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fnetacea.com",
+  "timestamp": "2026-09-25T11:20:24.894Z"
+ }
+]

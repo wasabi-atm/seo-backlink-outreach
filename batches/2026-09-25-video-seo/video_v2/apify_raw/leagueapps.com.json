@@ -1,0 +1,123 @@
+[
+ {
+  "url": "https://leagueapps.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "LeagueApps - The Best Youth Sports Management Software",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://leagueapps.com/",
+    "name": "LeagueApps - The Best Youth Sports Management Software",
+    "isPartOf": {
+     "@id": "https://leagueapps.com/#website"
+    },
+    "about": {
+     "@id": "https://leagueapps.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://leagueapps.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://leagueapps.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://leagueapps.com/wp-content/uploads/2020/10/LeagueApps-Logo-Green_gradient.png",
+    "datePublished": "2022-02-25T13:10:17+00:00",
+    "dateModified": "2025-12-28T12:07:46+00:00",
+    "description": "The leading youth sports management platform and online registration software to manage waivers, payments, schedules, facilities, teams, and more.",
+    "breadcrumb": {
+     "@id": "https://leagueapps.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://leagueapps.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://leagueapps.com/wp-content/uploads/2020/10/LeagueApps-Logo-Green_gradient.png",
+    "contentUrl": "https://leagueapps.com/wp-content/uploads/2020/10/LeagueApps-Logo-Green_gradient.png",
+    "width": 1000,
+    "height": 1000
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "LeagueApps",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://leagueapps.com/",
+    "name": "LeagueApps",
+    "description": "Sports League Management Registration Software Website Apps",
+    "publisher": {
+     "@id": "https://leagueapps.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://leagueapps.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "LeagueApps",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "LeagueApps",
+    "url": "https://leagueapps.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://leagueapps.com/#/schema/logo/image/",
+     "url": "https://leagueapps.com/wp-content/uploads/2020/10/LeagueApps-Logo-Green_gradient.png",
+     "contentUrl": "https://leagueapps.com/wp-content/uploads/2020/10/LeagueApps-Logo-Green_gradient.png",
+     "width": 1000,
+     "height": 1000,
+     "caption": "LeagueApps"
+    },
+    "image": {
+     "@id": "https://leagueapps.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/LeagueApps/",
+     "https://x.com/leagueapps"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fleagueapps.com",
+  "timestamp": "2026-09-25T11:20:57.331Z"
+ }
+]

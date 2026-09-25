@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://fortressinfosec.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Fortress",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Fortress",
+    "url": "https://www.fortressinfosec.com/",
+    "logo": "https://www.fortressinfosec.com/hubfs/Fortress%20Featured%20Image%20%E2%80%93%20Black-1.jpg",
+    "sameAs": [
+     "https://x.com/FortressInfoSec",
+     "https://www.linkedin.com/company/fortress-information-security/",
+     "https://www.youtube.com/@FortressAI"
+    ],
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+1-407-573-6800",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": [
+       "English"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Critical Supply Chain Cybersecurity | Fortress",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Critical Supply Chain Cybersecurity | Fortress",
+    "url": "https://www.fortressinfosec.com/",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.fortressinfosec.com/hs-search-results?term={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "Homepage",
+    "status": "check_circle",
+    "type": "WebPage",
+    "name": "Homepage",
+    "headline": "Homepage",
+    "description": "Fortress cybersecurity solutions defend organizations across government and the energy &amp; utilities sectors from nation-state threats.",
+    "url": "https://www.fortressinfosec.com",
+    "breadcrumb": {
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://www.fortressinfosec.com/"
+      }
+     ]
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ffortressinfosec.com",
+  "timestamp": "2026-09-25T11:20:50.213Z"
+ }
+]

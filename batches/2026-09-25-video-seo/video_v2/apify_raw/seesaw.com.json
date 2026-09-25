@@ -1,0 +1,130 @@
+[
+ {
+  "url": "https://seesaw.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 12; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5547.68 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Elementary Learning Experience Platform | Seesaw",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://seesaw.com/",
+    "name": "Elementary Learning Experience Platform | Seesaw",
+    "isPartOf": {
+     "@id": "https://seesaw.com/#website"
+    },
+    "about": {
+     "@id": "https://seesaw.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://seesaw.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://seesaw.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://seesaw.com/wp-content/uploads/2025/02/8610-Social-Cards_R2-06.webp",
+    "datePublished": "2025-02-16T17:23:24+00:00",
+    "dateModified": "2026-09-14T09:29:36+00:00",
+    "description": "Seesaw is a Learning Experience Platform with 25M+ users, enhancing elementary education, engagement, and school culture while improving academic success.",
+    "breadcrumb": {
+     "@id": "https://seesaw.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://seesaw.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://seesaw.com/wp-content/uploads/2025/02/8610-Social-Cards_R2-06.webp",
+    "contentUrl": "https://seesaw.com/wp-content/uploads/2025/02/8610-Social-Cards_R2-06.webp",
+    "width": 601,
+    "height": 600,
+    "caption": "Trusted by over 25 million educators"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Elementary Learning Experience Platform | Seesaw",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://seesaw.com/",
+    "name": "Elementary Learning Experience Platform | Seesaw",
+    "description": "",
+    "publisher": {
+     "@id": "https://seesaw.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://seesaw.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Seesaw | Elementary Learning Experience Platform",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Seesaw | Elementary Learning Experience Platform",
+    "url": "https://seesaw.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://seesaw.com/#/schema/logo/image/",
+     "url": "https://seesaw.com/wp-content/uploads/2025/09/Seesaw-Logotype-PMS2090.png",
+     "contentUrl": "https://seesaw.com/wp-content/uploads/2025/09/Seesaw-Logotype-PMS2090.png",
+     "width": 1920,
+     "height": 482,
+     "caption": "Seesaw | Elementary Learning Experience Platform"
+    },
+    "image": {
+     "@id": "https://seesaw.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/seesawlearning/",
+     "https://x.com/seesaw",
+     "https://www.linkedin.com/company/seesaw-learning/",
+     "https://www.instagram.com/seesawlearning/",
+     "https://www.pinterest.com/SeesawEdu/",
+     "https://www.youtube.com/@SeesawEdu/featured"
+    ],
+    "description": "Seesaw is a learning experience platform used by over 25 million educators to support elementary teaching and student engagement.",
+    "foundingDate": "2014-01-01"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fseesaw.com",
+  "timestamp": "2026-09-25T11:20:34.244Z"
+ }
+]

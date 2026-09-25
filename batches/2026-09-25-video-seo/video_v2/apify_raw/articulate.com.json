@@ -1,0 +1,117 @@
+[
+ {
+  "url": "https://articulate.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_8) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Build effective training for the AI era with Articulate 360 | Articulate",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.articulate.com/",
+    "name": "Build effective training for the AI era with Articulate 360 | Articulate",
+    "isPartOf": {
+     "@id": "https://www.articulate.com/#website"
+    },
+    "about": {
+     "@id": "https://www.articulate.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.articulate.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.articulate.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.articulate.com/wp-content/uploads/2026/08/Open_Graph_Image_homepage-scaled.png",
+    "datePublished": "2026-09-10T13:38:50+00:00",
+    "dateModified": "2026-09-11T15:35:43+00:00",
+    "description": "Empower every team to transform knowledge into custom online training with the #1 AI-powered platform for workplace learning.",
+    "breadcrumb": {
+     "@id": "https://www.articulate.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.articulate.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.articulate.com/wp-content/uploads/2026/08/Open_Graph_Image_homepage-scaled.png",
+    "contentUrl": "https://www.articulate.com/wp-content/uploads/2026/08/Open_Graph_Image_homepage-scaled.png",
+    "width": 2560,
+    "height": 1436
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": []
+   },
+   {
+    "title": "Articulate",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.articulate.com/",
+    "name": "Articulate",
+    "description": "The World&#039;s Best Creator Platform for Online Workplace Learning",
+    "publisher": {
+     "@id": "https://www.articulate.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.articulate.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Articulate Global Inc.",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Articulate Global Inc.",
+    "alternateName": "Articulate",
+    "url": "https://www.articulate.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.articulate.com/#/schema/logo/image/",
+     "url": "https://www.articulate.com/wp-content/uploads/2023/06/articulate-logo.svg",
+     "contentUrl": "https://www.articulate.com/wp-content/uploads/2023/06/articulate-logo.svg",
+     "caption": "Articulate Global Inc."
+    },
+    "image": {
+     "@id": "https://www.articulate.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/Articulate",
+     "https://x.com/Articulate",
+     "https://www.linkedin.com/company/articulate"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Farticulate.com",
+  "timestamp": "2026-09-25T11:20:30.512Z"
+ }
+]

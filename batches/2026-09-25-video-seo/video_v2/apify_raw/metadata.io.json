@@ -1,0 +1,113 @@
+[
+ {
+  "url": "https://metadata.io",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6161.66 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Metadata",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Metadata",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web",
+    "url": "https://metadata.io",
+    "description": "AI-powered demand generation platform for B2B SaaS. 7 AI specialists build audiences, generate creatives, launch campaigns across LinkedIn, Meta, Google, Bing, X, Reddit & LLM.",
+    "offers": {
+     "@type": "Offer",
+     "category": "B2B SaaS"
+    },
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.6",
+     "reviewCount": "299",
+     "bestRating": "5"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Metadata",
+     "url": "https://metadata.io",
+     "logo": "/images/metadataone-icon.jpeg"
+    }
+   },
+   {
+    "title": "Metadata",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Metadata",
+    "legalName": "Metadata, Inc.",
+    "url": "https://metadata.io",
+    "logo": "/images/metadataone-icon.jpeg",
+    "description": "AI-powered demand generation platform for B2B SaaS. Autonomous AI agents manage audience targeting, bid optimization, creative testing, and budget allocation across LinkedIn, Meta, Google, Bing, X, Reddit and LLM.",
+    "foundingDate": "2015",
+    "founder": {
+     "@type": "Person",
+     "name": "Gil Allouche"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "San Francisco",
+     "addressRegion": "CA",
+     "addressCountry": "US"
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/metadata-io/",
+     "https://twitter.com/metaborhq",
+     "https://www.g2.com/products/metadata-io/reviews",
+     "https://www.crunchbase.com/organization/metadata-io"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "sales",
+     "url": "https://metadata.io/book-a-demo"
+    }
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is Metadata?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Metadata is an AI agency for enterprise paid media. Seven AI agents build audiences, creative, offers, campaigns, and budgets across every channel, and your team reviews and approves every object before anything goes live."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How is Metadata different from an agency?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Every customer gets AI that carries the experience of $1B+ in managed ad spend, a decade in production, and 263,554 experiments run across accounts. Agencies keep those learnings siloed; with Metadata, what works stays in your account, and bid and budget agents optimize 24/7."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which channels and systems does Metadata support?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "LinkedIn, Google, Meta, X, Microsoft Advertising, Reddit, and ChatGPT Ads, connected to your CRM, marketing automation, and data warehouse."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do the AI agents run campaigns without oversight?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. The agents prepare and optimize the work, but your team reviews and approves audiences, creative, budgets, and launches. Humans keep control of strategy and spend."
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmetadata.io",
+  "timestamp": "2026-09-25T11:20:55.771Z"
+ }
+]

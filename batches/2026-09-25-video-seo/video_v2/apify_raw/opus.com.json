@@ -1,0 +1,43 @@
+[
+ {
+  "url": "https://opus.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 15; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5718.10 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Opus",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Opus",
+    "alternateName": "Opus by AppliedAI",
+    "legalName": "Applied AI Corporation Limited",
+    "url": "https://www.opus.com/",
+    "logo": "https://www.opus.com/images/opus-wordmark-navbar-black.svg",
+    "sameAs": [
+     "https://www.linkedin.com/company/appliedaico/",
+     "https://x.com/AppliedAICo",
+     "https://www.youtube.com/@AppliedAICo",
+     "https://discord.com/invite/M5nBqhkUYH"
+    ]
+   },
+   {
+    "title": "Opus",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.opus.com/",
+    "name": "Opus",
+    "publisher": {
+     "@id": "https://www.opus.com/#organization"
+    },
+    "inLanguage": "en"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fopus.com",
+  "timestamp": "2026-09-25T11:20:15.199Z"
+ }
+]

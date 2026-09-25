@@ -1,0 +1,180 @@
+[
+ {
+  "url": "https://dsmn8.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.5647.16 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Place",
+    "status": "check_circle",
+    "type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "51 Eastcheap",
+     "addressLocality": "London",
+     "postalCode": "EC3M 1DT",
+     "addressCountry": "United Kingdom"
+    }
+   },
+   {
+    "title": "DSMN8",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "DSMN8",
+    "url": "https://dsmn8.com",
+    "sameAs": [
+     "https://www.facebook.com/dsmn8/",
+     "https://twitter.com/DSMN8",
+     "https://linkedin.com/company/dsmn8",
+     "https://instagram.com/dsmn8",
+     "https://www.youtube.com/@dsmn8"
+    ],
+    "email": "support@dsmn8.com",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "51 Eastcheap",
+     "addressLocality": "London",
+     "postalCode": "EC3M 1DT",
+     "addressCountry": "United Kingdom"
+    },
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://dsmn8.com/#logo",
+     "url": "https://dsmn8.com/wp-content/uploads/2025/03/cropped-DSMN8-Favicon-2.png",
+     "contentUrl": "https://dsmn8.com/wp-content/uploads/2025/03/cropped-DSMN8-Favicon-2.png",
+     "caption": "DSMN8",
+     "inLanguage": "en-US",
+     "width": "512",
+     "height": "512"
+    },
+    "description": "DSMN8 is an employee advocacy platform, trusted by global enterprise brands. Our software makes it easy for employees to become authentic brand advocates, social sellers, and thought leaders on social media.",
+    "location": {
+     "@id": "https://dsmn8.com/#place"
+    }
+   },
+   {
+    "title": "DSMN8",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://dsmn8.com",
+    "name": "DSMN8",
+    "publisher": {
+     "@id": "https://dsmn8.com/#organization"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://dsmn8.com/?s={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://dsmn8.com/wp-content/uploads/2024/03/dsmn8-platform-desktop-mobile.png",
+    "width": "1526",
+    "height": "958",
+    "caption": "dsmn8 employee advocacy platform desktop mobile",
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "DSMN8 | The #1 Employee Advocacy Platform Rated By Users",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://dsmn8.com/",
+    "name": "DSMN8 | The #1 Employee Advocacy Platform Rated By Users",
+    "datePublished": "2017-09-03T02:41:49+00:00",
+    "dateModified": "2026-08-25T11:19:00+00:00",
+    "about": {
+     "@id": "https://dsmn8.com/#organization"
+    },
+    "isPartOf": {
+     "@id": "https://dsmn8.com/#website"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://dsmn8.com/wp-content/uploads/2024/03/dsmn8-platform-desktop-mobile.png"
+    },
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is employee advocacy?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Employee advocacy involves employees sharing content on LinkedIn and other social networks. Instead of relying only on your company page or ads, your people amplify the message to their own networks, building trust and boosting reach."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How does DSMN8 work?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "DSMN8 provides your employees with a desktop dashboard and mobile app of ready-to-share content. Admins can pre-approve posts and let employees suggest content and add their own voice. With built-in scheduling, automation, and analytics, it's easy to launch and scale an advocacy program without adding extra workload."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What results can I expect from DSMN8?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most clients see a significant lift in reach and engagement within weeks of launching. Employee-shared posts consistently outperform branded content. DSMN8 customers report increased website traffic, social media reach and engagement, increased applicants for roles, and higher quality leads \u2014 all while reducing reliance on ads."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How secure is DSMN8?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Security is a top priority. DSMN8 supports enterprise-grade security including Single Sign-On (SSO), ISO-27001 certification, and strict data protection standards. You can be confident that your brand and employee data are safe."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What tools does DSMN8 integrate with?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "DSMN8 connects with tools like Slack, Salesforce, Microsoft Teams, Google Analytics, HubSpot, Adobe Analytics, and more. This makes it easy to keep advocacy aligned with your marketing and sales stack, while making adoption smooth for employees."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do you measure success with DSMN8?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "DSMN8's analytics suite shows you exactly what's working: shares, clicks, engagement, earned media value, and more. You'll know which content drives results and how engaged your employee advocates are."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What support does DSMN8 provide?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "From onboarding to strategy guidance, training resources, and templates, DSMN8's customer success team is with you every step of the way. Whether you're new to advocacy or scaling globally, you'll always have expert support."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does DSMN8 offer managed content curation services?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. DSMN8 offers managed services for time-poor teams who need help curating and scheduling content. This is available as an add-on to the platform subscription. Learn more at dsmn8.com/employee-advocacy-managed-services/."
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fdsmn8.com",
+  "timestamp": "2026-09-25T11:20:38.692Z"
+ }
+]

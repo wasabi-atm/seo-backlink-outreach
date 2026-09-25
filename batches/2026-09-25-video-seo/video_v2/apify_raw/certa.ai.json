@@ -1,0 +1,313 @@
+[
+ {
+  "url": "https://certa.ai",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.4428.14 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Certa",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Certa",
+    "legalName": "Certa, Inc.",
+    "alternateName": [
+     "Certa AI",
+     "Certa.ai",
+     "GetCerta",
+     "Certa Third Party OS"
+    ],
+    "url": "https://www.certa.ai/",
+    "logo": "https://cdn.prod.website-files.com/6820bfdc9a298d11ce76fdd3/68222c5172e33a7aa0b6c925_logo.svg",
+    "image": "https://cdn.prod.website-files.com/6820bfdc9a298d11ce76fdd3/68222c5172e33a7aa0b6c925_logo.svg",
+    "description": "Certa is the leading AI-powered third-party lifecycle management platform that helps enterprises manage risk, compliance, and ESG across their vendor, partner, and client ecosystems. Founded in 2013 by Jag Lamba, Certa automates third-party onboarding, due diligence, KYC/AML, contract lifecycle management, and ongoing monitoring through a no-code SaaS platform trusted by Fortune 500 companies. Certa leverages generative AI to streamline workflows, enrich data from trusted sources, and surface actionable risk intelligence \u2014 enabling organizations to onboard third parties 3x faster while maintaining comprehensive risk coverage across InfoSec, Privacy, Financial, Fraud, and ESG domains.",
+    "slogan": "The Third Party OS",
+    "foundingDate": "2013",
+    "foundingLocation": {
+     "@type": "Place",
+     "name": "San Francisco, California, US"
+    },
+    "naics": "511210",
+    "numberOfEmployees": {
+     "@type": "QuantitativeValue",
+     "minValue": 200,
+     "maxValue": 300
+    },
+    "areaServed": [
+     "North America",
+     "Europe",
+     "Asia",
+     "Global"
+    ],
+    "knowsAbout": [
+     "Third Party Risk Management",
+     "TPRM Software",
+     "Vendor Risk Management",
+     "Compliance Automation",
+     "KYC/AML",
+     "ESG Management",
+     "Contract Lifecycle Management",
+     "Supply Chain Risk",
+     "Generative AI for Risk Management",
+     "No-Code Workflow Automation",
+     "Third Party Due Diligence",
+     "Regulatory Compliance"
+    ],
+    "keywords": [
+     "third party risk management",
+     "TPRM software",
+     "vendor management platform",
+     "compliance automation",
+     "AI risk management",
+     "third party onboarding",
+     "KYC AML software",
+     "ESG management platform",
+     "contract lifecycle management",
+     "supply chain risk",
+     "third party due diligence",
+     "regulatory compliance software",
+     "no-code workflow automation",
+     "enterprise risk management",
+     "procurement automation",
+     "vendor onboarding",
+     "third party monitoring",
+     "GRC software"
+    ],
+    "knowsLanguage": "English",
+    "sameAs": [
+     "https://www.facebook.com/certanetwork/",
+     "https://www.linkedin.com/company/getcerta/",
+     "https://twitter.com/certa",
+     "https://www.instagram.com/getcerta/",
+     "https://www.crunchbase.com/organization/certa"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+1-646-207-3000",
+     "contactType": "customer support",
+     "email": "hello@getcerta.com"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "20824 Pamela Way",
+     "addressLocality": "Saratoga",
+     "addressRegion": "CA",
+     "postalCode": "95070",
+     "addressCountry": "US"
+    },
+    "founder": {
+     "@type": "Person",
+     "name": "Jag Lamba",
+     "jobTitle": "CEO & Founder",
+     "url": "https://www.linkedin.com/in/jlamba",
+     "sameAs": [
+      "https://www.linkedin.com/in/jlamba",
+      "https://www.crunchbase.com/person/jagmeet-lamba"
+     ],
+     "alumniOf": [
+      {
+       "@type": "EducationalOrganization",
+       "name": "The Wharton School, University of Pennsylvania"
+      },
+      {
+       "@type": "Organization",
+       "name": "McKinsey & Company"
+      }
+     ]
+    },
+    "employee": [
+     {
+      "@type": "Person",
+      "name": "Jag Lamba",
+      "jobTitle": "CEO & Founder",
+      "url": "https://www.linkedin.com/in/jlamba"
+     },
+     {
+      "@type": "Person",
+      "name": "Alan Kambili",
+      "jobTitle": "Chief Revenue Officer"
+     }
+    ],
+    "brand": {
+     "@type": "Brand",
+     "name": "Certa",
+     "logo": "https://cdn.prod.website-files.com/6820bfdc9a298d11ce76fdd3/68222c5172e33a7aa0b6c925_logo.svg"
+    },
+    "makesOffer": [
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "SoftwareApplication",
+       "name": "Certa AI Platform",
+       "description": "AI-powered connected system of intelligent agents for third-party risk and compliance management, featuring automated workflow creation, smart fills for questionnaires, and AI-powered risk assessments.",
+       "applicationCategory": "BusinessApplication"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "SoftwareApplication",
+       "name": "Third Party Risk Management (TPRM)",
+       "description": "Comprehensive TPRM suite that automates third-party onboarding, risk assessment, and ongoing monitoring across InfoSec, Privacy, Financial, Fraud, and ESG domains.",
+       "applicationCategory": "BusinessApplication"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "SoftwareApplication",
+       "name": "KYC/AML & Due Diligence",
+       "description": "Automated Know Your Customer and Anti-Money Laundering workflows with integrated data enrichment from trusted sources for thorough third-party due diligence.",
+       "applicationCategory": "BusinessApplication"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "SoftwareApplication",
+       "name": "Contract Lifecycle Management",
+       "description": "End-to-end contract management with AI-powered clause analysis, expiration tracking, and jurisdiction-aware risk intelligence.",
+       "applicationCategory": "BusinessApplication"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "SoftwareApplication",
+       "name": "ESG & Diversity Management",
+       "description": "Environmental, Social, and Governance management for third-party ecosystems, enabling organizations to monitor and report on ESG compliance across their vendor networks.",
+       "applicationCategory": "BusinessApplication"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "SoftwareApplication",
+       "name": "CertaAssist AI Companion",
+       "description": "Intuitive AI companion for faster, simpler third-party interactions, delivering a 30% reduction in implementation time with over 90% accuracy.",
+       "applicationCategory": "BusinessApplication"
+      }
+     }
+    ],
+    "hasOfferCatalog": {
+     "@type": "OfferCatalog",
+     "name": "Certa Platform Suite",
+     "url": "https://www.certa.ai/platform"
+    },
+    "award": [
+     "2024 ProcureTech100",
+     "2024 ProcureTech100 \u2014 Advanced AI Category Winner",
+     "2024 ProcureTech100 \u2014 Risk Management Category Winner",
+     "Forbes Best Startup Employers 2024",
+     "Gartner Market Guide \u2014 Representative Vendor for Third-Party Risk Management Solutions",
+     "Top 50 Procurement Provider to Watch",
+     "2024 Supply and Demand Chain Executive Pro to Know (CEO Jag Lamba)"
+    ],
+    "hasCredential": [
+     {
+      "@type": "EducationalOccupationalCredential",
+      "name": "SOC 2 Compliance",
+      "description": "Certa meets SOC 2 compliance standards for security, availability, and confidentiality."
+     },
+     {
+      "@type": "EducationalOccupationalCredential",
+      "name": "ISO 27001 Certification",
+      "description": "Certa maintains ISO 27001 certification for information security management."
+     },
+     {
+      "@type": "EducationalOccupationalCredential",
+      "name": "AWS Marketplace Listed",
+      "description": "Certa is listed on AWS Marketplace as a verified workflow automation and third-party lifecycle management solution.",
+      "url": "https://aws.amazon.com/marketplace/pp/prodview-e4e6asfkupuby"
+     }
+    ],
+    "ownershipFundingInfo": "Certa is a privately held, venture-backed company that has raised over $50 million in total funding. Key investors include Fin Capital (Series B lead), Vertex Ventures, and Point72 Ventures. The company was founded in 2013 and is led by CEO and Founder Jag Lamba.",
+    "funder": [
+     {
+      "@type": "Organization",
+      "name": "Fin Capital",
+      "url": "https://www.fincap.com/"
+     },
+     {
+      "@type": "Organization",
+      "name": "Vertex Ventures",
+      "url": "https://www.vertexventures.com/"
+     },
+     {
+      "@type": "Organization",
+      "name": "Point72 Ventures",
+      "url": "https://www.point72.com/ventures/"
+     }
+    ],
+    "ethicsPolicy": "https://www.certa.ai/ethics",
+    "subjectOf": [
+     {
+      "@type": "NewsArticle",
+      "headline": "Certa Brings Generative AI-Powered Third Party Management to Enterprises",
+      "url": "https://www.businesswire.com/news/home/20240611254447/en/Certa-Brings-Generative-AI-Powered-Third-Party-Management-to-Enterprises",
+      "datePublished": "2024-06-11",
+      "publisher": {
+       "@type": "Organization",
+       "name": "Business Wire"
+      }
+     },
+     {
+      "@type": "NewsArticle",
+      "headline": "Certa Raises $35M to Bring AI to Third-Party Risk Management",
+      "url": "https://www.bankinfosecurity.com/certa-raises-35m-to-bring-ai-to-third-party-risk-management-a-23041",
+      "datePublished": "2023-09-07",
+      "publisher": {
+       "@type": "Organization",
+       "name": "BankInfoSecurity"
+      }
+     },
+     {
+      "@type": "NewsArticle",
+      "headline": "Certa Revolutionizes Third Party Management with CertaAssist",
+      "url": "https://www.businesswire.com/news/home/20231026667294/en/Certa-Revolutionizes-Third-Party-Management-with-CertaAssist-An-Intuitive-AI-Companion-For-Faster-Simpler-Third-Party-Interactions",
+      "datePublished": "2023-10-26",
+      "publisher": {
+       "@type": "Organization",
+       "name": "Business Wire"
+      }
+     }
+    ]
+   },
+   {
+    "title": "Certa - AI-Enhanced Third-Party Management",
+    "status": "check_circle",
+    "type": "WebPage",
+    "name": "Certa - AI-Enhanced Third-Party Management",
+    "url": "https://www.certa.ai/",
+    "description": "Certa's homepage introduces CertaAssist, an AI-enhanced platform for managing third-party relationships. The site focuses on compliance, risk, and ESG solutions, indicating a comprehensive toolkit for third-party lifecycle management.",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Certa",
+     "url": "https://www.certa.ai/"
+    },
+    "about": {
+     "@type": "Thing",
+     "name": "Third-Party Management Solutions"
+    },
+    "audience": {
+     "@type": "Audience",
+     "audienceType": "Businesses and Organizations Seeking Third-Party Management Solutions"
+    },
+    "potentialAction": {
+     "@type": "ReadAction",
+     "target": {
+      "urlTemplate": "https://www.getcerta.com/"
+     },
+     "description": "Explore Certa's AI-enhanced solutions for third-party management"
+    },
+    "inLanguage": "en"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcerta.ai",
+  "timestamp": "2026-09-25T11:20:55.155Z"
+ }
+]

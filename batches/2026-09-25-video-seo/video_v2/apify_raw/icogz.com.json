@@ -1,0 +1,134 @@
+[
+ {
+  "url": "https://icogz.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.4750.146 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "iCogz",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "iCogz",
+    "legalName": "iCogz Technologies Pvt Ltd",
+    "alternateName": [
+     "iCogz AI",
+     "iCogz Intelligence"
+    ],
+    "url": "https://www.icogz.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://framerusercontent.com/images/hSumY2Dlnl26xLbw3lhQgJazUM.png",
+     "width": 1200,
+     "height": 630
+    },
+    "image": "https://framerusercontent.com/images/hSumY2Dlnl26xLbw3lhQgJazUM.png",
+    "description": "iCogz transforms fragmented enterprise data into real-time, actionable insights using Autonomous Intelligence Architecture (AIA\u2122) and Neuro-Symbolic AI engine Aryabot\u2122.",
+    "foundingDate": "2019",
+    "foundingLocation": {
+     "@type": "Place",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Dubai",
+      "addressCountry": "AE"
+     }
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "Dubai",
+     "addressCountry": "AE"
+    },
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "customer service",
+     "email": "contact@icogz.com",
+     "availableLanguage": [
+      "English",
+      "Arabic"
+     ]
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/icogz"
+    ],
+    "knowsAbout": [
+     "Artificial Intelligence",
+     "Business Intelligence",
+     "Neuro-Symbolic AI",
+     "Enterprise Analytics",
+     "Answer Engine Optimization",
+     "Data Integration",
+     "Predictive Analytics"
+    ],
+    "hasOfferCatalog": {
+     "@type": "OfferCatalog",
+     "name": "iCogz Platform Solutions",
+     "itemListElement": [
+      {
+       "@type": "OfferCatalog",
+       "name": "Industry Solutions",
+       "itemListElement": [
+        {
+         "@type": "ListItem",
+         "position": 1,
+         "name": "Retail Intelligence",
+         "url": "https://www.icogz.com/solutions/retail"
+        },
+        {
+         "@type": "ListItem",
+         "position": 2,
+         "name": "BFSI Analytics",
+         "url": "https://www.icogz.com/solutions/bfsi"
+        },
+        {
+         "@type": "ListItem",
+         "position": 3,
+         "name": "FMCG Intelligence",
+         "url": "https://www.icogz.com/solutions/fmcg"
+        },
+        {
+         "@type": "ListItem",
+         "position": 4,
+         "name": "E-Commerce Optimization",
+         "url": "https://www.icogz.com/solutions/ecommerce"
+        },
+        {
+         "@type": "ListItem",
+         "position": 5,
+         "name": "Grocery Analytics",
+         "url": "https://www.icogz.com/solutions/grocery"
+        }
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "title": "iCogz - Autonomous AI Business Intelligence",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.icogz.com",
+    "name": "iCogz - Autonomous AI Business Intelligence",
+    "alternateName": "iCogz AI Platform",
+    "description": "Enterprise AI platform that transforms fragmented data into real-time, actionable insights using Neuro-Symbolic AI and agentic reasoning.",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.icogz.com/search?q={search_term_string}",
+     "query-input": "required name=search_term_string"
+    },
+    "inLanguage": "en-US",
+    "isPartOf": {
+     "@id": "https://www.icogz.com/#organization"
+    },
+    "publisher": {
+     "@id": "https://www.icogz.com/#organization"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ficogz.com",
+  "timestamp": "2026-09-25T11:20:13.430Z"
+ }
+]

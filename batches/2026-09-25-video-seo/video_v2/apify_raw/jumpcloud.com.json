@@ -1,0 +1,134 @@
+[
+ {
+  "url": "https://jumpcloud.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6837.118 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "JumpCloud: Unified Platform for Identity, Access, & Devices",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://jumpcloud.com/",
+    "name": "JumpCloud: Unified Platform for Identity, Access, & Devices",
+    "isPartOf": {
+     "@id": "https://jumpcloud.com/#website"
+    },
+    "about": {
+     "@id": "https://jumpcloud.com/#organization"
+    },
+    "datePublished": "2019-10-24T15:09:27+00:00",
+    "dateModified": "2026-08-26T15:48:22+00:00",
+    "description": "JumpCloud makes it simple to manage Windows, Apple, Linux, and Android devices and to deliver secure access with SSO, MFA, Zero Trust, RADIUS, and more.",
+    "breadcrumb": {
+     "@id": "https://jumpcloud.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://jumpcloud.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "JumpCloud",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://jumpcloud.com/",
+    "name": "JumpCloud",
+    "description": "Daily insights on directory services, IAM, LDAP, identity security, SSO, system management (Mac, Windows, Linux), networking, and the cloud.",
+    "publisher": {
+     "@id": "https://jumpcloud.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://jumpcloud.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "JumpCloud",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "JumpCloud",
+    "url": "https://jumpcloud.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://jumpcloud.com/#/schema/logo/image/",
+     "url": "https://jumpcloud.com/wp-content/uploads/2021/01/jc-logo-brand-2021.png",
+     "contentUrl": "https://jumpcloud.com/wp-content/uploads/2021/01/jc-logo-brand-2021.png",
+     "width": 598,
+     "height": 101,
+     "caption": "JumpCloud"
+    },
+    "image": {
+     "@id": "https://jumpcloud.com/#/schema/logo/image/"
+    }
+   },
+   {
+    "title": "Unified Platform for Identity, Access, &amp; Devices",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "Unified Platform for Identity, Access, &amp; Devices",
+    "serviceType": "Open Directory Services",
+    "provider": {
+     "@type": "LocalBusiness",
+     "name": "JumpCloud",
+     "image": {
+      "@type": "ImageObject",
+      "url": "https://jumpcloud.com/wp-content/uploads/2017/01/JumpCloud-Logo-One-Color-scaled.png",
+      "width": 2560,
+      "height": 714
+     },
+     "telephone": "+1-720-240-5005",
+     "priceRange": "Varies",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": null,
+      "addressRegion": null,
+      "streetAddress": "361 Centennial Pkwy, Suite 300  Louisville, CO 80027",
+      "addressCountry": null,
+      "postalCode": null
+     }
+    },
+    "areaServed": {
+     "@type": "State",
+     "name": ""
+    },
+    "description": "All in one directory, SSO, MDM, MFA, PAM, and more"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fjumpcloud.com",
+  "timestamp": "2026-09-25T11:20:30.473Z"
+ }
+]

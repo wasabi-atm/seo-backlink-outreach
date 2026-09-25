@@ -1,0 +1,125 @@
+[
+ {
+  "url": "https://evolving.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.4761.78 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Evolving Systems \u2013 Advanced Solutions for Telecom and CVM",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.evolving.com/",
+    "name": "Evolving Systems \u2013 Advanced Solutions for Telecom and CVM",
+    "isPartOf": {
+     "@id": "https://www.evolving.com/#website"
+    },
+    "about": {
+     "@id": "https://www.evolving.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.evolving.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.evolving.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.evolving.com/wp-content/uploads/2023/12/Home-page-fetured-image.jpg",
+    "datePublished": "2023-08-10T10:20:56+00:00",
+    "dateModified": "2026-09-24T06:31:49+00:00",
+    "description": "Transform telecom operations with cutting-edge CVM & loyalty solutions. Manage engagement, optimize service, & drive revenue with AI insights",
+    "breadcrumb": {
+     "@id": "https://www.evolving.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.evolving.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.evolving.com/wp-content/uploads/2023/12/Home-page-fetured-image.jpg",
+    "contentUrl": "https://www.evolving.com/wp-content/uploads/2023/12/Home-page-fetured-image.jpg",
+    "width": 720,
+    "height": 720
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Evolving Systems",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.evolving.com/",
+    "name": "Evolving Systems",
+    "description": "The World\u2019s #1 Revenue Accelerator for Mobile Operators",
+    "publisher": {
+     "@id": "https://www.evolving.com/#organization"
+    },
+    "alternateName": "Evolving Systems",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.evolving.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Evolving Systems",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Evolving Systems",
+    "url": "https://www.evolving.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.evolving.com/#/schema/logo/image/",
+     "url": "https://www.evolving.com/wp-content/uploads/2023/12/evol-new-logo-prpl.png",
+     "contentUrl": "https://www.evolving.com/wp-content/uploads/2023/12/evol-new-logo-prpl.png",
+     "width": 603,
+     "height": 172,
+     "caption": "Evolving Systems"
+    },
+    "image": {
+     "@id": "https://www.evolving.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/EvolvingSystems/",
+     "https://x.com/EvolvingSystems",
+     "https://www.linkedin.com/company/evolving-systems"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fevolving.com",
+  "timestamp": "2026-09-25T11:20:38.125Z"
+ }
+]

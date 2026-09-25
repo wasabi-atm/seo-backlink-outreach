@@ -1,0 +1,140 @@
+[
+ {
+  "url": "https://netlify.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.4499.173 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Netlify",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Netlify",
+    "legalName": "Netlify, Inc.",
+    "url": "https://www.netlify.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.netlify.com/favicon/icon-512.png",
+     "width": 512,
+     "height": 512
+    },
+    "description": "Netlify is an AI-native, full-stack cloud platform for building, deploying, and scaling modern web applications with serverless functions, edge logic, and AI-driven workflows.",
+    "foundingDate": "2014",
+    "founders": [
+     {
+      "@type": "Person",
+      "name": "Matt Biilmann"
+     },
+     {
+      "@type": "Person",
+      "name": "Christian Bach"
+     }
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "101 2nd St, Suite 575",
+     "addressLocality": "San Francisco",
+     "addressRegion": "CA",
+     "postalCode": "94105",
+     "addressCountry": "US"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "url": "https://www.netlify.com/contact/sales/",
+      "availableLanguage": [
+       "English"
+      ]
+     },
+     {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "url": "https://www.netlify.com/support/",
+      "availableLanguage": [
+       "English"
+      ]
+     }
+    ],
+    "sameAs": [
+     "https://github.com/netlify",
+     "https://x.com/Netlify",
+     "https://www.linkedin.com/company/netlify",
+     "https://www.youtube.com/@NetlifyApp",
+     "https://bsky.app/profile/netlify.com",
+     "https://answers.netlify.com/"
+    ]
+   },
+   {
+    "title": "Netlify",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Netlify",
+    "url": "https://www.netlify.com",
+    "publisher": {
+     "@id": "https://www.netlify.com/#organization"
+    }
+   },
+   {
+    "title": "Push your ideas to the web | Netlify",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.netlify.com/",
+    "name": "Push your ideas to the web | Netlify",
+    "description": "Create with AI or code, deploy instantly on production infrastructure. One platform to build and ship.",
+    "isPartOf": {
+     "@id": "https://www.netlify.com/#website"
+    },
+    "inLanguage": "en",
+    "breadcrumb": {
+     "@id": "https://www.netlify.com/#breadcrumb"
+    },
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "cssSelector": [
+      "h1",
+      "main"
+     ]
+    }
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.netlify.com/"
+     }
+    ]
+   },
+   {
+    "title": "Netlify",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Netlify",
+    "applicationCategory": "DeveloperApplication",
+    "operatingSystem": "Web",
+    "url": "https://www.netlify.com",
+    "description": "A composable web platform for building, deploying, and scaling modern web applications and AI agents \u2014 with serverless functions, edge logic, and continuous deployment.",
+    "publisher": {
+     "@id": "https://www.netlify.com/#organization"
+    },
+    "offers": {
+     "@type": "Offer",
+     "price": "0",
+     "priceCurrency": "USD",
+     "description": "Free tier available; paid plans for teams and enterprises."
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fnetlify.com",
+  "timestamp": "2026-09-25T11:21:34.383Z"
+ }
+]

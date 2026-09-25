@@ -1,0 +1,127 @@
+[
+ {
+  "url": "https://fractory.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Metal Fabrication in the UK | Scale Your Production with Fractory",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://fractory.com/",
+    "name": "Metal Fabrication in the UK | Scale Your Production with Fractory",
+    "isPartOf": {
+     "@id": "https://fractory.com/#website"
+    },
+    "about": {
+     "@id": "https://fractory.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://fractory.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://fractory.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://fractory.com/wp-content/uploads/2023/01/WP_thumbnail_ENG_v2.jpg",
+    "datePublished": "2022-12-20T11:35:00+00:00",
+    "dateModified": "2026-08-17T14:28:57+00:00",
+    "description": "Custom metal fabrication services | Prototyping, project & volume production | 1-1 engineering support, flexible payment terms, instant quotes & lead times.",
+    "breadcrumb": {
+     "@id": "https://fractory.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://fractory.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-GB",
+    "url": "https://fractory.com/wp-content/uploads/2023/01/WP_thumbnail_ENG_v2.jpg",
+    "contentUrl": "https://fractory.com/wp-content/uploads/2023/01/WP_thumbnail_ENG_v2.jpg",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Fractory",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://fractory.com/",
+    "name": "Fractory",
+    "description": "The Partner for Online Manufacturing",
+    "publisher": {
+     "@id": "https://fractory.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://fractory.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "Fractory",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Fractory",
+    "url": "https://fractory.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://fractory.com/#/schema/logo/image/",
+     "url": "https://fractory.com/wp-content/uploads/2026/09/fractory-logo.svg",
+     "contentUrl": "https://fractory.com/wp-content/uploads/2026/09/fractory-logo.svg",
+     "width": 576,
+     "height": 118,
+     "caption": "Fractory"
+    },
+    "image": {
+     "@id": "https://fractory.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/fractoryint",
+     "https://x.com/Fractory_int",
+     "https://www.linkedin.com/company/fractoryint/",
+     "https://www.instagram.com/fractory_int/"
+    ],
+    "description": "Fractory is a leading cloud-manufacturing platform that provides instant access to a global network of metal fabrication services. By integrating a vetted network of manufacturing partners into a single platform, Fractory provides instant quotes, automated design-for-manufacture feedback, and end-to-end project management. Fractory eliminates the administrative overhead of traditional sourcing, allowing engineers to focus on innovation rather than logistics.",
+    "email": "info@fractory.com"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ffractory.com",
+  "timestamp": "2026-09-25T11:20:38.367Z"
+ }
+]

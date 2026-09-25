@@ -1,0 +1,108 @@
+[
+ {
+  "url": "https://easol.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Easol: Experience Commerce",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://easol.com/",
+    "name": "Easol: Experience Commerce",
+    "isPartOf": {
+     "@id": "https://easol.com/#website"
+    },
+    "about": {
+     "@id": "https://easol.com/#organization"
+    },
+    "datePublished": "2025-11-26T10:17:42+00:00",
+    "dateModified": "2026-03-06T08:34:45+00:00",
+    "description": "Easol powers experience businesses to move beyond rigid systems and legacy ticketing to your own all-in-one platform and AI digital workforce to sell more and scale faster.",
+    "breadcrumb": {
+     "@id": "https://easol.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://easol.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Easol",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://easol.com/",
+    "name": "Easol",
+    "description": "",
+    "publisher": {
+     "@id": "https://easol.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://easol.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "Easol",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Easol",
+    "url": "https://easol.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://easol.com/#/schema/logo/image/",
+     "url": "https://easol.com/wp-content/uploads/2025/12/easol.jpg",
+     "contentUrl": "https://easol.com/wp-content/uploads/2025/12/easol.jpg",
+     "width": 1200,
+     "height": 900,
+     "caption": "Easol"
+    },
+    "image": {
+     "@id": "https://easol.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/Easol.Official",
+     "https://x.com/easol_",
+     "https://www.instagram.com/easol.official/",
+     "https://www.linkedin.com/company/easolhq/"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Feasol.com",
+  "timestamp": "2026-09-25T11:20:28.059Z"
+ }
+]

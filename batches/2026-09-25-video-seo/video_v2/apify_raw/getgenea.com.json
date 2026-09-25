@@ -1,0 +1,125 @@
+[
+ {
+  "url": "https://getgenea.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.5196.123 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Genea | Access Control Security - Cloud-Native Software",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.getgenea.com/",
+    "name": "Genea | Access Control Security - Cloud-Native Software",
+    "isPartOf": {
+     "@id": "https://www.getgenea.com/#website"
+    },
+    "about": {
+     "@id": "https://www.getgenea.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.getgenea.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.getgenea.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.getgenea.com/wp-content/uploads/2024/12/Genea-Featured-Image@2x.jpg",
+    "datePublished": "2020-03-02T13:56:03+00:00",
+    "dateModified": "2026-03-10T20:58:58+00:00",
+    "description": "Genea delivers cloud-native access control and proptech software for modern enterprises - manage credentials, visitors, and security operations.",
+    "breadcrumb": {
+     "@id": "https://www.getgenea.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.getgenea.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.getgenea.com/wp-content/uploads/2024/12/Genea-Featured-Image@2x.jpg",
+    "contentUrl": "https://www.getgenea.com/wp-content/uploads/2024/12/Genea-Featured-Image@2x.jpg",
+    "width": 1200,
+    "height": 1200,
+    "caption": "A modern, multi-story building with large windows is illuminated from within, standing against a twilight sky. The structure features a mix of wood and glass, with a ground-level entrance."
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Genea",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.getgenea.com/",
+    "name": "Genea",
+    "description": "Genea Cloud-Based Property Technology Solutions",
+    "publisher": {
+     "@id": "https://www.getgenea.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.getgenea.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Genea",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Genea",
+    "url": "https://www.getgenea.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.getgenea.com/#/schema/logo/image/",
+     "url": "https://www.getgenea.com/wp-content/uploads/2024/12/Genea-Featured-Image@2x.jpg",
+     "contentUrl": "https://www.getgenea.com/wp-content/uploads/2024/12/Genea-Featured-Image@2x.jpg",
+     "width": 1200,
+     "height": 1200,
+     "caption": "Genea"
+    },
+    "image": {
+     "@id": "https://www.getgenea.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/GetGenea/",
+     "https://x.com/getgenea",
+     "https://www.linkedin.com/company/getgenea"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fgetgenea.com",
+  "timestamp": "2026-09-25T11:20:49.017Z"
+ }
+]

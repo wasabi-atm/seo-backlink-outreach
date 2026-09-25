@@ -1,0 +1,71 @@
+[
+ {
+  "url": "https://dragos.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 15; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.4815.81 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Your Partner in OT Cybersecurity | Dragos",
+    "status": "check_circle",
+    "type": "WebPage",
+    "potentialAction": {
+     "@context": "http://schema.org",
+     "@type": "SearchAction",
+     "query-input": "required name=search_term_string",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.dragos.com/search?q={search_term_string}"
+     }
+    },
+    "url": "https://www.dragos.com/",
+    "publisher": {
+     "@type": "Organization",
+     "name": "",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://dragos.brightspotcdn.com/dims4/default/f9875bd/2147483647/strip/false/crop/2030x460+0+0/resize/265x60!/quality/90/?url=https%3A%2F%2Fdragos-production-dragos.s3.us-west-2.amazonaws.com%2Fbrightspot%2F5b%2F42%2F9ed3293f4035bdff8a1d4cba84c1%2Fdragos-logo-ko.png",
+      "width": 265,
+      "height": 60
+     }
+    },
+    "description": "Secure your critical infrastructure with Dragos, our industrial cybersecurity solutions provide unmatched visibility and threat detection for OT environments.",
+    "name": "Your Partner in OT Cybersecurity | Dragos"
+   },
+   {
+    "title": "Organization",
+    "status": "check_circle",
+    "type": "Organization"
+   },
+   {
+    "title": "Website",
+    "status": "check_circle",
+    "type": "Website",
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Dragos Homepage",
+    "status": "check_circle",
+    "type": "WebPage",
+    "potentialAction": [
+     {
+      "@context": "http://schema.org",
+      "@type": "ReadAction",
+      "target": "https://www.dragos.com/"
+     }
+    ],
+    "inLanguage": "en-US",
+    "name": "Dragos Homepage",
+    "datePublished": "2025-08-06T18:37:47.252Z",
+    "dateModified": "2026-09-21T12:10:01.556Z",
+    "url": "https://www.dragos.com/"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fdragos.com",
+  "timestamp": "2026-09-25T11:20:35.530Z"
+ }
+]

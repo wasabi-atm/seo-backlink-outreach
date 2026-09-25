@@ -1,0 +1,109 @@
+[
+ {
+  "url": "https://paxerahealth.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_8; rv:127.0) Gecko/20100101 Firefox/127.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Paxera Health | Medical Imaging AI Platform",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://paxerahealth.com/",
+    "name": "Paxera Health | Medical Imaging AI Platform",
+    "isPartOf": {
+     "@id": "https://paxerahealth.com/#website"
+    },
+    "about": {
+     "@id": "https://paxerahealth.com/#organization"
+    },
+    "datePublished": "2014-11-13T13:22:00+00:00",
+    "dateModified": "2026-09-23T14:34:14+00:00",
+    "description": "PaxeraHealth Corp. is a medical imaging AI Platform based in Boston, MA. We provide imaging AI platforms to enable management of imaging AI datasets",
+    "breadcrumb": {
+     "@id": "https://paxerahealth.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://paxerahealth.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "PaxeraHealth",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://paxerahealth.com/",
+    "name": "PaxeraHealth",
+    "description": "Transforming Healthcare Through Innovation",
+    "publisher": {
+     "@id": "https://paxerahealth.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://paxerahealth.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "PaxeraHealth",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "PaxeraHealth",
+    "url": "https://paxerahealth.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://paxerahealth.com/#/schema/logo/image/",
+     "url": "https://paxerahealth.com/wp-content/uploads/2016/08/Logo-circle.jpg",
+     "contentUrl": "https://paxerahealth.com/wp-content/uploads/2016/08/Logo-circle.jpg",
+     "width": 500,
+     "height": 500,
+     "caption": "PaxeraHealth"
+    },
+    "image": {
+     "@id": "https://paxerahealth.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "http://www.facebook.com/paxerahealth",
+     "https://x.com/paxerahealth",
+     "https://www.instagram.com/paxerahealth/",
+     "http://www.linkedin.com/company/paxerahealth-corp",
+     "http://www.youtube.com/user/PaxeramedCorp"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fpaxerahealth.com",
+  "timestamp": "2026-09-25T11:20:32.391Z"
+ }
+]

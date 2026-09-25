@@ -1,0 +1,130 @@
+[
+ {
+  "url": "https://exiger.ai",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 11; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6856.11 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "One platform for end-to-end visibility into your entire supply chain and risk - Exiger",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.exiger.com/",
+    "name": "One platform for end-to-end visibility into your entire supply chain and risk - Exiger",
+    "isPartOf": {
+     "@id": "https://www.exiger.com/#website"
+    },
+    "about": {
+     "@id": "https://www.exiger.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.exiger.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.exiger.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.exiger.com/wp-content/uploads/2026/09/7D4A2072_HR-150x150.jpg",
+    "datePublished": "2023-08-09T01:42:34+00:00",
+    "dateModified": "2026-09-21T08:58:21+00:00",
+    "description": "AI-powered supply chain management technology that's changing the way corporations, government agencies and banks navigate risk and compliance",
+    "breadcrumb": {
+     "@id": "https://www.exiger.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.exiger.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.exiger.com/wp-content/uploads/2026/09/7D4A2072_HR-150x150.jpg",
+    "contentUrl": "https://www.exiger.com/wp-content/uploads/2026/09/7D4A2072_HR-150x150.jpg"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "One platform for end-to-end visibility into your entire supply chain and risk"
+     }
+    ]
+   },
+   {
+    "title": "Exiger",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.exiger.com/",
+    "name": "Exiger",
+    "description": "Making the World a Safe and Transparent Place to Succeed",
+    "publisher": {
+     "@id": "https://www.exiger.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.exiger.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Exiger",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Exiger",
+    "url": "https://www.exiger.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.exiger.com/#/schema/logo/image/",
+     "url": "https://www.exiger.com/wp-content/uploads/2026/03/Exiger-LLC.png",
+     "contentUrl": "https://www.exiger.com/wp-content/uploads/2026/03/Exiger-LLC.png",
+     "width": 443,
+     "height": 443,
+     "caption": "Exiger"
+    },
+    "image": {
+     "@id": "https://www.exiger.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://x.com/exiger",
+     "https://www.linkedin.com/company/exiger"
+    ],
+    "description": "Exiger transforms supply chain management from a complex challenge into a strategic advantage\u2014driving savings and operational excellence in today\u2019s volatile market. Exiger\u2019s single, intuitive 1Exiger platform provides instant visibility into vast supplier ecosystems through a single pane of glass. Leveraging proprietary data and advanced agentic AI, 1Exiger proactively surfaces risks, automates compliance, accelerates procurement, and reveals opportunities to gain efficiencies and reduce costs to strengthen long-term resilience. With a mission to make the world a safe and transparent place to succeed, Exiger empowers 550+ global customers, including 150 Fortune 500 and 60+ government and Defense Industrial Base organizations, with supply chain AI. Exiger is FedRAMP\u00ae authorized and the largest provider of supply chain technology to the U.S. Federal Government. Named a Leader in the Gartner\u00ae Magic Quadrant\u2122 for Supplier Risk Management, twice selected as one of Fast Company\u2019s \u2018Brands That Matter,\u2019 and recipient of the Third Party Risk Association\u2019s Innovator Award, Exiger\u2019s technology has been recognized by leading analyst evaluations and 50+ awards.",
+    "telephone": "+12124559400",
+    "legalName": "Exiger LLC",
+    "foundingDate": "2013-07-18",
+    "numberOfEmployees": {
+     "@type": "QuantitativeValue",
+     "minValue": "501",
+     "maxValue": "1000"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fexiger.ai",
+  "timestamp": "2026-09-25T11:20:46.060Z"
+ }
+]

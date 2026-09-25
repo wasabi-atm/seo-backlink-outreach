@@ -1,0 +1,156 @@
+[
+ {
+  "url": "https://vidyard.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4946.25 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Vidyard - Video Tools for Virtual Sales and Marketing Teams",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.vidyard.com/",
+    "name": "Vidyard - Video Tools for Virtual Sales and Marketing Teams",
+    "isPartOf": {
+     "@id": "https://www.vidyard.com/#website"
+    },
+    "about": {
+     "@id": "https://www.vidyard.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.vidyard.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.vidyard.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.vidyard.com/wp-content/uploads/Website-Sharing-3-1-1.jpg",
+    "datePublished": "2018-08-31T13:59:04+00:00",
+    "dateModified": "2026-09-14T18:15:23+00:00",
+    "description": "Vidyard is an online video platform for business which allows you to increase leads, accelerate your pipeline and delight your customers. Learn more!",
+    "breadcrumb": {
+     "@id": "https://www.vidyard.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.vidyard.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.vidyard.com/wp-content/uploads/Website-Sharing-3-1-1.jpg",
+    "contentUrl": "https://www.vidyard.com/wp-content/uploads/Website-Sharing-3-1-1.jpg",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Vidyard",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.vidyard.com/",
+    "name": "Vidyard",
+    "description": "",
+    "publisher": {
+     "@id": "https://www.vidyard.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.vidyard.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Vidyard",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Vidyard",
+    "url": "https://www.vidyard.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.vidyard.com/#/schema/logo/image/",
+     "url": "https://www.vidyard.com/wp-content/uploads/vidyard-logo-generations-03.png",
+     "contentUrl": "https://www.vidyard.com/wp-content/uploads/vidyard-logo-generations-03.png",
+     "width": 688,
+     "height": 413,
+     "caption": "Vidyard"
+    },
+    "image": {
+     "@id": "https://www.vidyard.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/teamvidyard/",
+     "https://x.com/vidyard",
+     "https://www.instagram.com/teamvidyard/",
+     "https://www.youtube.com/user/vidyard",
+     "https://www.linkedin.com/company/vidyard",
+     "https://github.com/Vidyard",
+     "https://pt.wikipedia.org/wiki/Vidyard",
+     "https://www.wikidata.org/wiki/Q7928214"
+    ]
+   },
+   {
+    "title": "Vidyard",
+    "status": "check_circle",
+    "type": [
+     "SoftwareApplication",
+     "Product"
+    ],
+    "name": "Vidyard",
+    "url": "https://www.vidyard.com/",
+    "description": "Vidyard is an AI-powered video platform for revenue teams that lets sales, marketing, and customer success professionals record, host, and automate personalized video across the customer journey. It includes AI-generated avatars, agentic video automation (Video Agent), and video hosting with engagement analytics.",
+    "applicationCategory": "Video platform",
+    "operatingSystem": "Web-based, Windows, macOS, iOS, Android",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.5",
+     "ratingCount": "800",
+     "bestRating": "5",
+     "worstRating": "1",
+     "url": "https://www.g2.com/products/vidyard/reviews"
+    },
+    "brand": {
+     "@id": "https://www.vidyard.com/#organization"
+    },
+    "publisher": {
+     "@id": "https://www.vidyard.com/#organization"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fvidyard.com",
+  "timestamp": "2026-09-25T11:20:27.750Z"
+ }
+]

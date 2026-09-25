@@ -1,0 +1,124 @@
+[
+ {
+  "url": "https://churnzero.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 14; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5011.190 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Customer Success Software for Customer Growth - ChurnZero",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://churnzero.com/",
+    "name": "Customer Success Software for Customer Growth - ChurnZero",
+    "isPartOf": {
+     "@id": "https://churnzero.com/#website"
+    },
+    "about": {
+     "@id": "https://churnzero.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://churnzero.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://churnzero.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://churnzero.com/wp-content/uploads/2025/01/ChurnZero-Newsroom-Logo-Feat.png",
+    "datePublished": "2021-05-23T15:00:28+00:00",
+    "dateModified": "2026-09-23T19:40:58+00:00",
+    "description": "Deliver digital first customer success with ChurnZero software that helps businesses improve the customer experience and drive revenue.",
+    "breadcrumb": {
+     "@id": "https://churnzero.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://churnzero.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://churnzero.com/wp-content/uploads/2025/01/ChurnZero-Newsroom-Logo-Feat.png",
+    "contentUrl": "https://churnzero.com/wp-content/uploads/2025/01/ChurnZero-Newsroom-Logo-Feat.png",
+    "width": 717,
+    "height": 450
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "ChurnZero",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://churnzero.com/",
+    "name": "ChurnZero",
+    "description": "Top-rated, most-loved customer success software",
+    "publisher": {
+     "@id": "https://churnzero.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://churnzero.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "ChurnZero",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "ChurnZero",
+    "url": "https://churnzero.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://churnzero.com/#/schema/logo/image/",
+     "url": "https://churnzero.com/wp-content/uploads/2021/08/ChurnZero-Logo-Dark-on-Light-Stacked-LARGE-300x175-1.png",
+     "contentUrl": "https://churnzero.com/wp-content/uploads/2021/08/ChurnZero-Logo-Dark-on-Light-Stacked-LARGE-300x175-1.png",
+     "width": 300,
+     "height": 175,
+     "caption": "ChurnZero"
+    },
+    "image": {
+     "@id": "https://churnzero.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/churnzero/",
+     "https://x.com/churnzero",
+     "https://www.linkedin.com/company/churnzero"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fchurnzero.com",
+  "timestamp": "2026-09-25T11:20:28.822Z"
+ }
+]

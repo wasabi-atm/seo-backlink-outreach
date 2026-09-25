@@ -1,0 +1,79 @@
+[
+ {
+  "url": "https://visdum.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.4437.117 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Visdum",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Visdum",
+    "url": "https://www.visdum.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://cdn.prod.website-files.com/6877b6e0a877ff873dafda57/687886c1c637c2fdc6ad246c_Logo.svg"
+    },
+    "description": "Visdum is the easiest-to-use sales commission software, combining AI-adaptive comp plan modeling with fast implementation and best-in-class support to help finance and revenue teams streamline commission calculations.",
+    "foundingDate": "2020",
+    "areaServed": "Global",
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "sales",
+     "email": "info@visdum.com",
+     "telephone": "+1-312-586-8696"
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/visdum",
+     "https://x.com/VisdumHQ",
+     "https://www.youtube.com/@visdumHQ"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "1007 Orange St 4th Floor Ste 683",
+     "addressLocality": "Wilmington",
+     "addressRegion": "DE",
+     "postalCode": "19801",
+     "addressCountry": "US"
+    }
+   },
+   {
+    "title": "Visdum",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.visdum.com/",
+    "name": "Visdum",
+    "publisher": {
+     "@id": "https://www.visdum.com/#organization"
+    }
+   },
+   {
+    "title": "Visdum",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Visdum",
+    "url": "https://www.visdum.com/",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web",
+    "description": "Visdum is the easiest-to-use sales commission software, combining AI-adaptive comp plan modeling with fast implementation and best-in-class support to help finance and revenue teams streamline commission calculations.",
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": 4.9,
+     "bestRating": 5,
+     "worstRating": 1,
+     "ratingCount": 600
+    },
+    "publisher": {
+     "@id": "https://www.visdum.com/#organization"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fvisdum.com",
+  "timestamp": "2026-09-25T11:20:31.030Z"
+ }
+]

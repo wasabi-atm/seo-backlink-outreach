@@ -1,0 +1,38 @@
+[
+ {
+  "url": "https://turnitin.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Turnitin",
+    "status": "check_circle",
+    "type": "Organization",
+    "url": "https://www.turnitin.com",
+    "logo": "https://www.turnitin.com/system/favicon/turnitin-tm-logo.png",
+    "name": "Turnitin",
+    "description": "Turnitin is dedicated to serving the global education community since 1998, through technology that promotes honesty, consistency, and fairness across all areas of education and academic research.",
+    "foundingDate": "1998",
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "Customer Support",
+     "telephone": "+1-866-816-5046"
+    },
+    "sameAs": [
+     "https://www.facebook.com/TurnitinSoftware",
+     "https://x.com/turnitin",
+     "https://www.linkedin.com/company/turnitin",
+     "https://www.instagram.com/turnitinco/",
+     "https://www.pinterest.com/turnitin/"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fturnitin.com",
+  "timestamp": "2026-09-25T11:20:29.746Z"
+ }
+]

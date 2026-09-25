@@ -1,0 +1,76 @@
+[
+ {
+  "url": "https://zest.ai",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Home - Zest AI",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.zest.ai/",
+    "name": "Home - Zest AI",
+    "isPartOf": {
+     "@id": "https://www.zest.ai/#website"
+    },
+    "datePublished": "2024-06-26T16:18:33+00:00",
+    "dateModified": "2026-06-05T23:40:28+00:00",
+    "description": "Accurately assess, confidently decision, and perpetually optimize your lending business with proven AI technology. Zest AI is for lenders that want to create a smarter, inclusive, and more efficient lending process, to be agile and confident through any economic conditions.",
+    "breadcrumb": {
+     "@id": "https://www.zest.ai/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.zest.ai/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Zest AI",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.zest.ai/",
+    "name": "Zest AI",
+    "description": "Proven AI",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.zest.ai/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fzest.ai",
+  "timestamp": "2026-09-25T11:20:31.365Z"
+ }
+]

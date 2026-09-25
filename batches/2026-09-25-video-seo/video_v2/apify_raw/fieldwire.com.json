@@ -1,0 +1,80 @@
+[
+ {
+  "url": "https://fieldwire.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 11; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.5724.139 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Fieldwire by Hilti",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Fieldwire by Hilti",
+    "legalName": "FieldWireLabs, Inc.",
+    "description": "Fieldwire's construction app connects you and your subs on site. Blueprints, tasks &amp; punchlist management. Available on the Android and iOS app stores. Sign up for free",
+    "url": "https://www.fieldwire.com/",
+    "logo": "https://www.fieldwire.com/images/Fieldwire_icon.svg",
+    "foundingDate": "2013",
+    "founders": [
+     {
+      "@type": "Person",
+      "name": "Yves Frinault"
+     },
+     {
+      "@type": "Person",
+      "name": "Javed Singha"
+     }
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "301 Howard St 13th floor",
+     "addressLocality": "San Francisco",
+     "addressRegion": "CA",
+     "postalCode": "94105",
+     "addressCountry": "USA"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+1-415-801-3530",
+      "contactType": "Customer Service",
+      "areaServed": "US",
+      "availableLanguage": [
+       "English",
+       "French"
+      ]
+     },
+     {
+      "@type": "ContactPoint",
+      "telephone": "+1-415-801-3530",
+      "contactType": "Sales",
+      "areaServed": "US",
+      "availableLanguage": [
+       "English",
+       "French"
+      ]
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/fieldwirebyhilti/",
+     "https://www.linkedin.com/company/fieldwirebyhilti/",
+     "https://www.instagram.com/fieldwirebyhilti/",
+     "https://www.youtube.com/channel/UCOlp1Dtff8G60nUL7W8JDaQ"
+    ]
+   },
+   {
+    "title": "Fieldwire by Hilti",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Fieldwire by Hilti",
+    "url": "https://www.fieldwire.com/"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ffieldwire.com",
+  "timestamp": "2026-09-25T11:20:32.203Z"
+ }
+]

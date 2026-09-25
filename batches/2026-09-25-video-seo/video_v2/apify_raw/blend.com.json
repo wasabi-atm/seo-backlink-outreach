@@ -1,0 +1,126 @@
+[
+ {
+  "url": "https://blend.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6581.132 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Blend: Digital Lending & Account Opening for Banks, Credit Unions & Mortgage Providers",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://blend.com/",
+    "name": "Blend: Digital Lending & Account Opening for Banks, Credit Unions & Mortgage Providers",
+    "isPartOf": {
+     "@id": "https://blend.com/#website"
+    },
+    "about": {
+     "@id": "https://blend.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://blend.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://blend.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://blend.com/wp-content/uploads/2025/05/Homepage_OG_Image-1.jpg",
+    "datePublished": "2024-10-22T19:47:02+00:00",
+    "dateModified": "2026-08-18T14:35:21+00:00",
+    "description": "Blend: Modernize lending & account opening for banks, credit unions, & mortgage providers. Streamline operations, enhance digital experience, and drive growth across all accounts.",
+    "breadcrumb": {
+     "@id": "https://blend.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://blend.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://blend.com/wp-content/uploads/2025/05/Homepage_OG_Image-1.jpg",
+    "contentUrl": "https://blend.com/wp-content/uploads/2025/05/Homepage_OG_Image-1.jpg",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Blend",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://blend.com/",
+    "name": "Blend",
+    "description": "Better lending, for all",
+    "publisher": {
+     "@id": "https://blend.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://blend.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Blend",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Blend",
+    "url": "https://blend.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://blend.com/#/schema/logo/image/",
+     "url": "https://blend.com/wp-content/uploads/2023/03/blend_logo_2023.png",
+     "contentUrl": "https://blend.com/wp-content/uploads/2023/03/blend_logo_2023.png",
+     "width": 151,
+     "height": 57,
+     "caption": "Blend"
+    },
+    "image": {
+     "@id": "https://blend.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/BlendLabs",
+     "https://x.com/blendlabsinc",
+     "https://www.instagram.com/blendlabs/",
+     "https://www.linkedin.com/company/blend-",
+     "https://www.youtube.com/@BlendLabs"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fblend.com",
+  "timestamp": "2026-09-25T11:20:40.729Z"
+ }
+]

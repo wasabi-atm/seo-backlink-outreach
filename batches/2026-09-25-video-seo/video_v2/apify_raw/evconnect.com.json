@@ -1,0 +1,310 @@
+[
+ {
+  "url": "https://evconnect.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 8,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "EV Connect",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "EV Connect",
+    "alternateName": "EV Connect",
+    "description": "",
+    "url": "https://www.evconnect.com"
+   },
+   {
+    "title": "EV Connect",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "EV Connect",
+    "url": "https://www.evconnect.com",
+    "alternateName": "EV Connect",
+    "description": "Delivers trusted EV charging software, hardware and services for businesses.",
+    "logo": "https://www.evconnect.com/wp-content/uploads/2025/11/evc-logo-social-org.png",
+    "sameAs": [
+     "https://www.facebook.com/evconnect",
+     "https://x.com/EVConnect",
+     "https://www.linkedin.com/company/ev-connect/"
+    ],
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+18668167584",
+      "email": "driver_support@evconnect.com",
+      "contactType": "customer support"
+     }
+    ]
+   },
+   {
+    "title": "Article",
+    "status": "check_circle",
+    "type": "Article",
+    "headline": "EV Charging Solutions for Your Business",
+    "datePublished": "2025-09-03T15:55:28-04:00",
+    "dateModified": "2026-08-24T12:25:22-04:00",
+    "description": "EV charging software & charging solutions for businesses. EV Connect is the leading EV charging management software for multifamily, fleet, retail, workplace and more.",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://www.evconnect.com/wp-content/uploads/2025/11/ev-charging-software-platform-by-ev-connect-scaled-1.jpg",
+     "height": "960",
+     "width": "1200"
+    },
+    "mainEntityOfPage": {
+     "@type": "WebPage",
+     "@id": "https://www.evconnect.com/"
+    },
+    "author": {
+     "@type": "Person",
+     "@id": "https://www.evconnect.com/blog/author/glenn/#person",
+     "name": "EV Connect",
+     "url": "https://wordpress-927647-5829761.cloudwaysapps.com",
+     "sameAs": [
+      "https://wordpress-927647-5829761.cloudwaysapps.com"
+     ]
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "EV Connect",
+     "url": "https://www.evconnect.com",
+     "alternateName": "EV Connect",
+     "description": "Delivers trusted EV charging software, hardware and services for businesses.",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.evconnect.com/wp-content/uploads/2025/11/evc-logo-schema.svg",
+      "height": "146",
+      "width": "146"
+     },
+     "sameAs": [
+      "https://www.facebook.com/evconnect",
+      "https://x.com/EVConnect",
+      "https://www.linkedin.com/company/ev-connect/"
+     ],
+     "contactPoint": [
+      {
+       "@type": "ContactPoint",
+       "telephone": "+18668167584",
+       "email": "driver_support@evconnect.com",
+       "contactType": "customer support"
+      }
+     ]
+    },
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "cssSelector": [
+      "post"
+     ]
+    }
+   },
+   {
+    "title": "EV Charging Software Solutions",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "EV Charging Software Solutions",
+    "serviceType": "EV charging management",
+    "description": "We simplify the management and optimization of open-standard EV charging stations with our industry-leading EV Connect management platform.",
+    "image": "https://www.evconnect.com/wp-content/uploads/2025/11/evc-hero-mobile.png",
+    "areaServed": "United States",
+    "provider": {
+     "@context": "https://schema.org",
+     "@type": "LocalBusiness",
+     "image": "https://www.evconnect.com/wp-content/uploads/2025/11/evc-hero-mobile.png",
+     "name": "EV Connect",
+     "telephone": "(866) 816-7584",
+     "priceRange": "$",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "26521 Rancho Parkway S.",
+      "addressLocality": "Lake Forest",
+      "addressRegion": "CA",
+      "postalCode": "92630",
+      "addressCountry": "US"
+     }
+    }
+   },
+   {
+    "title": "EV Connect",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "EV Connect",
+    "url": "https://www.evconnect.com/",
+    "logo": "https://www.evconnect.com/wp-content/uploads/2023/07/evconnect-logo.svg",
+    "description": "EV Connect is a leading provider of electric vehicle charging solutions, offering drivers access to a nationwide charging network, seamless payment options, and 24/7 support.",
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+1-866-816-7584",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": [
+       "English"
+      ]
+     }
+    ],
+    "sameAs": [
+     "https://www.linkedin.com/company/evconnect",
+     "https://twitter.com/evconnect",
+     "https://www.facebook.com/EVConnectInc",
+     "https://apps.apple.com/us/app/ev-connect/id1038241290",
+     "https://play.google.com/store/apps/details?id=com.evconnect"
+    ]
+   },
+   {
+    "title": "EV Connect Driver App",
+    "status": "check_circle",
+    "type": "DriverApplication",
+    "name": "EV Connect Driver App",
+    "operatingSystem": "iOS, Android",
+    "applicationCategory": "Utility",
+    "description": "The EV Connect Driver App provides access to 140,000+ Level 2 and DC Fast Charging stations through the EV Connect Network and roaming partners. Features include locating and reserving chargers, real-time session tracking, seamless payments, saving favorites, and 24/7 support.",
+    "url": "https://www.evconnect.com/drivers/",
+    "downloadUrl": "https://www.evconnect.com/drivers/",
+    "offers": {
+     "@type": "Offer",
+     "price": "0",
+     "priceCurrency": "USD"
+    },
+    "featureList": [
+     "Locate & Reserve Chargers with real-time availability",
+     "Track charging sessions in real time",
+     "Pay seamlessly via credit card or digital wallet",
+     "Save favorite charging stations",
+     "Access 24/7 driver support"
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.5",
+     "ratingCount": "1000"
+    },
+    "applicationSuite": "EV Connect Charging Network",
+    "softwareVersion": "Latest",
+    "author": {
+     "@id": "https://www.evconnect.com/#organization"
+    },
+    "publisher": {
+     "@id": "https://www.evconnect.com/#organization"
+    },
+    "sameAs": [
+     "https://apps.apple.com/us/app/ev-connect/id1038241290",
+     "https://play.google.com/store/apps/details?id=com.evconnect"
+    ]
+   },
+   {
+    "title": "EV Connect Charging Network",
+    "status": "check_circle",
+    "type": "Service",
+    "serviceType": "Electric Vehicle Charging Service",
+    "name": "EV Connect Charging Network",
+    "description": "EV Connect provides drivers with access to over 140,000 Level 2 and DC Fast Charging stations across the United States through its network and roaming partners. The service includes real-time station availability, reservation options, seamless payments, and 24/7 driver support.",
+    "provider": {
+     "@id": "https://www.evconnect.com/#organization"
+    },
+    "areaServed": {
+     "@type": "Country",
+     "name": "United States"
+    },
+    "offers": {
+     "@type": "Offer",
+     "price": "Varies",
+     "priceCurrency": "USD",
+     "description": "Pricing depends on station operator and charging session duration."
+    }
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "url": "",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "url": "#when-was-ev-connect-founded",
+      "name": "When was EV Connect founded?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>EV Connect was founded in 2009, making us one of the first charging station management system (CSMS) providers. We\u2019ve been simplifying commercial EV charging since the dawn of the EV revolution.</p>"
+      }
+     },
+     {
+      "@type": "Question",
+      "url": "#who-owns-ev-connect",
+      "name": "Who owns EV Connect?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>Our parent company is Schneider Electric, a global leader in energy management that has been named the world\u2019s most sustainable company by multiple neutral third parties.<sup>1</sup></p>"
+      }
+     },
+     {
+      "@type": "Question",
+      "url": "#where-is-ev-connect-based",
+      "name": "Where is EV Connect based?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>EV Connect is headquartered in Lake Forest, CA, not far from the city where we were founded (El Segundo). Our platform has been deployed across the globe.</p>"
+      }
+     },
+     {
+      "@type": "Question",
+      "url": "#what-makes-ev-connect-different-from-other-ev-software-companies",
+      "name": "What makes EV Connect different from other EV software companies?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>EV Connect combines a proven, open software platform with dependable hardware options and the most complete suite of deployment and value-added services. Backed by Schneider Electric\u2014the world\u2019s most sustainable company<sup>1</sup>\u2014we deliver the long-term reliability, flexibility and support that businesses need to scale confidently in a fast-changing EV landscape.</p>"
+      }
+     },
+     {
+      "@type": "Question",
+      "url": "#how-is-ev-connects-charging-platform-unique",
+      "name": "How is EV Connect\u2019s charging platform unique?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>Our comprehensive CSMS gives you all the tools to manage your charging program, whether you\u2019re operating a few stations or a nationwide network. Our platform is open and OCPP-compatible so you never have to worry about vendor lock-in, and it\u2019s optimized for leading charging station brands for seamless integration.</p>"
+      }
+     },
+     {
+      "@type": "Question",
+      "url": "#who-are-ev-connects-customers",
+      "name": "Who are EV Connect\u2019s customers?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>Thousands of businesses rely on EV Connect for charging solutions\u2014from local enterprises to Fortune 500s and national charging network operators.</p>"
+      }
+     },
+     {
+      "@type": "Question",
+      "url": "#how-does-schneider-electrics-commitment-support-ev-connect-customers",
+      "name": "How does Schneider Electric\u2019s commitment support EV Connect customers?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>Schneider Electric\u2019s commitment strengthens EV Connect\u2019s resources and expertise while assuring customers of reliable charging solutions for the long term.</p>"
+      }
+     },
+     {
+      "@type": "Question",
+      "url": "#what-industries-does-ev-connect-serve",
+      "name": "What industries does EV Connect serve?",
+      "answerCount": 1,
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "<p>EV Connect helps all kinds of businesses unlock the value of EV charging\u2014from charge point operators and fleet owners to utility companies, multifamily communities, commercial and workplace properties, retailers, restaurants and hospitality brands.</p>"
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fevconnect.com",
+  "timestamp": "2026-09-25T11:20:42.936Z"
+ }
+]

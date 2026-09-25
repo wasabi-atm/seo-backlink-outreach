@@ -1,0 +1,29 @@
+[
+ {
+  "url": "https://athelas.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.5570.93 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Athelas",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Athelas",
+    "url": "/",
+    "description": "Athelas is the AI-driven RCM, EHR, and ambient AI platform to grow your healthcare business.",
+    "sameAs": [
+     "https://www.instagram.com/joinathelas/",
+     "https://twitter.com/athelas",
+     "https://www.linkedin.com/company/athelas"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fathelas.com",
+  "timestamp": "2026-09-25T11:20:51.097Z"
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "url": "https://seceon.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6889.117 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Leader in Cybersecurity Solutions and Services in USA, India & Threat Detection for Modern Enterprises | Seceon",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://seceon.com/",
+    "name": "Leader in Cybersecurity Solutions and Services in USA, India & Threat Detection for Modern Enterprises | Seceon",
+    "isPartOf": {
+     "@id": "https://seceon.com/#website"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://seceon.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://seceon.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://seceon.com/wp-content/uploads/2026/04/Figure_1._Voice_of_the_Customer_for_Security_Information_and_Event_Management.png",
+    "datePublished": "2024-08-01T23:37:25+00:00",
+    "dateModified": "2026-09-22T10:53:48+00:00",
+    "description": "Implement AI-driven threat detection and secure your cloud, network, and hybrid workforce in the USA and India. Seceon offers Zero Trust architecture, real-time threat intelligence, and comprehensive cybersecurity services for CISOs, Security Architects, SOC Managers, and IT Leaders.",
+    "breadcrumb": {
+     "@id": "https://seceon.com/#breadcrumb"
+    },
+    "inLanguage": "en",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://seceon.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en",
+    "url": "https://seceon.com/wp-content/uploads/2026/04/Figure_1._Voice_of_the_Customer_for_Security_Information_and_Event_Management.png",
+    "contentUrl": "https://seceon.com/wp-content/uploads/2026/04/Figure_1._Voice_of_the_Customer_for_Security_Information_and_Event_Management.png",
+    "width": 1400,
+    "height": 1562
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Seceon Inc",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://seceon.com/",
+    "name": "Seceon Inc",
+    "description": "Cyber Security Company",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://seceon.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fseceon.com",
+  "timestamp": "2026-09-25T11:20:32.432Z"
+ }
+]

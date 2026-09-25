@@ -1,0 +1,93 @@
+[
+ {
+  "url": "https://clarishealth.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.4006.174 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "ClarisHealth | Total Payment Integrity Solutions for Health Plans and Payers",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.clarishealth.com/",
+    "name": "ClarisHealth | Total Payment Integrity Solutions for Health Plans and Payers",
+    "isPartOf": {
+     "@id": "https://www.clarishealth.com/#website"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.clarishealth.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.clarishealth.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.clarishealth.com/wp-content/uploads/2025/12/CH_Homepage-Featured-Image400.webp",
+    "datePublished": "2025-11-18T15:55:39+00:00",
+    "dateModified": "2026-08-11T16:23:52+00:00",
+    "description": "ClarisHealth offers Pareo enterprise technology for health plans. Its total payment integrity approach includes claims inventory management and tech-enabled services.",
+    "breadcrumb": {
+     "@id": "https://www.clarishealth.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.clarishealth.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.clarishealth.com/wp-content/uploads/2025/12/CH_Homepage-Featured-Image400.webp",
+    "contentUrl": "https://www.clarishealth.com/wp-content/uploads/2025/12/CH_Homepage-Featured-Image400.webp",
+    "width": 400,
+    "height": 400
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "ClarisHealth",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.clarishealth.com/",
+    "name": "ClarisHealth",
+    "description": "A Better Way to Drive Payment Accuracy",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.clarishealth.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fclarishealth.com",
+  "timestamp": "2026-09-25T11:20:47.084Z"
+ }
+]

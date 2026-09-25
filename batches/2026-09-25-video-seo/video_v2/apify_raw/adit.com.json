@@ -1,0 +1,178 @@
+[
+ {
+  "url": "https://adit.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5233.118 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Adit",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Adit",
+    "url": "https://adit.com/",
+    "sameAs": [
+     "https://www.facebook.com/aditadv",
+     "https://www.instagram.com/get_adit/",
+     "https://www.linkedin.com/company/grow-with-adit",
+     "https://www.youtube.com/@aditsoftware",
+     "https://x.com/aditadv"
+    ],
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://adit.com/#logo",
+     "inLanguage": "en-US",
+     "url": "https://adit.com/storage/settings/logo.png",
+     "contentUrl": "https://adit.com/storage/settings/logo.png",
+     "width": 194,
+     "height": 97,
+     "caption": "Adit"
+    },
+    "image": {
+     "@id": "https://adit.com/#logo"
+    },
+    "founder": {
+     "@type": "Person",
+     "name": "Ali Jhaver",
+     "url": "https://adit.com/author/ali",
+     "sameAs": "https://adit.com/author/ali"
+    },
+    "foundingDate": "2011-01-01",
+    "numberOfEmployees": 450,
+    "slogan": "One Software To Manage Your Entire Practice",
+    "description": "Adit is the only practice management platform that integrates Calls, Texts, Emails, Patient Forms, Online Scheduling, Analytics, Reviews, Payments, and more, all in one place. Manage everything within Adit\u2019s centralized platform to streamline communication, simplify workflows, and automate front-desk operations. Adit helps practices attract and retain more patients by improving efficiency and enhancing the overall patient experience. Please visit www.adit.com",
+    "legalName": "Adit Advertising Inc."
+   },
+   {
+    "title": "Adit",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://adit.com/",
+    "name": "Adit",
+    "description": "All-in-One AI-Powered Practice Management Software | Adit",
+    "publisher": {
+     "@id": "https://adit.com/#organization"
+    },
+    "inLanguage": "en-US",
+    "copyrightHolder": {
+     "@id": "https://adit.com/#organization"
+    }
+   },
+   {
+    "title": "All-in-One AI-Powered Practice Management Software | Adit",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://adit.com/",
+    "name": "All-in-One AI-Powered Practice Management Software | Adit",
+    "isPartOf": {
+     "@id": "https://adit.com/#website"
+    },
+    "about": {
+     "@id": "https://adit.com/#organization"
+    },
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "xpath": [
+      "/html/head/title",
+      "//meta[@name='description']/@content",
+      "//div[@class='hmbanner-content']/p"
+     ]
+    }
+   },
+   {
+    "title": "Adit Practice Management Software",
+    "status": "check_circle",
+    "type": [
+     "Product",
+     "SoftwareApplication"
+    ],
+    "mainEntityOfPage": {
+     "@id": "https://adit.com/#webpage"
+    },
+    "name": "Adit Practice Management Software",
+    "brand": {
+     "@id": "https://adit.com/#organization"
+    },
+    "description": "Adit is the only practice management platform that integrates Calls, Texts, Emails, Patient Forms, Online Scheduling, Analytics, Reviews, Payments, and more, all in one place.",
+    "applicationCategory": "BusinessApplication",
+    "applicationSubCategory": [
+     "Healthcare Practice Management Software",
+     "Dental Practice Management Software",
+     "Optometry Practice Management Software",
+     "Chiropractic Practice Management Software",
+     "Orthodontic Practice Management Software"
+    ],
+    "audience": [
+     {
+      "@type": "Audience",
+      "audienceType": "Healthcare Practices"
+     },
+     {
+      "@type": "Audience",
+      "audienceType": "Dental Practices"
+     },
+     {
+      "@type": "Audience",
+      "audienceType": "Optometry Practices"
+     },
+     {
+      "@type": "Audience",
+      "audienceType": "Chiropractic Clinics"
+     },
+     {
+      "@type": "Audience",
+      "audienceType": "Orthodontic Practices"
+     }
+    ],
+    "operatingSystem": "Apple, Android, OSX, Windows 7, 8, 10, 11, Linux, iOS",
+    "url": "https://adit.com/",
+    "image": {
+     "@id": "https://adit.com/#secondaryimage-1"
+    },
+    "featureList": [
+     "Call Tracking and Recording",
+     "Two-way Text Messaging",
+     "Email Marketing and Automation",
+     "Online Appointment Scheduling",
+     "Digital Patient Forms",
+     "Reputation Management and Reviews",
+     "Payment Processing",
+     "Analytics and Reporting",
+     "AI Call Intelligence",
+     "AI Front Desk Automation"
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "worstRating": 3,
+     "bestRating": 5,
+     "ratingValue": 4.7,
+     "ratingCount": 1316,
+     "reviewCount": 280
+    },
+    "offers": {
+     "@type": "Offer",
+     "price": 399,
+     "priceCurrency": "USD"
+    },
+    "manufacturer": {
+     "@id": "https://adit.com/#organization"
+    }
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://adit.com/images/home-v3/home-front-desk-img.webp",
+    "contentUrl": "https://adit.com/images/home-v3/home-front-desk-img.webp",
+    "width": 526,
+    "height": 319
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fadit.com",
+  "timestamp": "2026-09-25T11:20:36.371Z"
+ }
+]

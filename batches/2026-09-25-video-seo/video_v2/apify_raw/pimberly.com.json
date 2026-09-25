@@ -1,0 +1,76 @@
+[
+ {
+  "url": "https://pimberly.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Pimberly Software",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Pimberly Software",
+    "operatingSystem": "Windows, OSX",
+    "applicationCategory": "BusinessApplication",
+    "datePublished": "2017-07-03T20:16:54+00:00",
+    "dateModified": "2024-10-01T09:28:47+00:00",
+    "offers": {
+     "@type": "Offer",
+     "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "price": "36000",
+      "priceCurrency": "USD"
+     },
+     "availability": "http://schema.org/InStock"
+    },
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.8",
+     "bestRating": "5.0",
+     "ratingCount": "1920"
+    }
+   },
+   {
+    "title": "Pimberly",
+    "status": "check_circle",
+    "type": "WebSite",
+    "headline": "Pimberly",
+    "name": "Pimberly",
+    "url": "https://pimberly.com",
+    "description": "Pimberly PIM - the leading enterprise Product Information Management platform. Drive amazing product experiences with quality product data.",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://pimberly.com?s={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "Pimberly",
+    "status": "check_circle",
+    "type": "Corporation",
+    "name": "Pimberly",
+    "url": "https://pimberly.com",
+    "sameAs": [],
+    "legalName": "Pimberly Software Development Limited",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://pimberly.com/wp-content/uploads/2017/03/pimberly_text_2017.png",
+     "width": "2024",
+     "height": "720"
+    },
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "customer support",
+     "telephone": "+44 161 804 1865",
+     "url": "https://pimberly.com/contact/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fpimberly.com",
+  "timestamp": "2026-09-25T11:20:27.092Z"
+ }
+]

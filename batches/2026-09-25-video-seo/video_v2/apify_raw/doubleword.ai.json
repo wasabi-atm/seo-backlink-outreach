@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://doubleword.ai",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 12; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4932.190 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Doubleword",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Doubleword",
+    "url": "https://doubleword.ai",
+    "logo": "https://doubleword.ai/favicon.ico",
+    "sameAs": [
+     "https://github.com/doublewordai",
+     "https://twitter.com/doublewordai"
+    ]
+   },
+   {
+    "title": "Doubleword Batch",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Doubleword Batch",
+    "url": "https://doubleword.ai"
+   },
+   {
+    "title": "Doubleword Batch",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Doubleword Batch",
+    "applicationCategory": "DeveloperApplication",
+    "operatingSystem": "Web",
+    "description": "Batch inference platform for LLMs. Up to 75% cheaper than real-time with 1-hour SLA guarantees.",
+    "offers": {
+     "@type": "Offer",
+     "price": "0",
+     "priceCurrency": "USD",
+     "description": "Pay per token with up to 75% savings vs real-time"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fdoubleword.ai",
+  "timestamp": "2026-09-25T11:20:25.074Z"
+ }
+]

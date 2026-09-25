@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://genieai.co",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 12; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.5944.162 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "GenieAI",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.genieai.co/",
+    "name": "GenieAI",
+    "publisher": {
+     "@id": "https://www.genieai.co/#organization"
+    }
+   },
+   {
+    "title": "GenieAI",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "GenieAI",
+    "alternateName": "Genie AI",
+    "url": "https://www.genieai.co/",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.genieai.co/icon-512.png"
+    },
+    "description": "GenieAI provides AI-powered legal document drafting, review, negotiation and legal research tools, along with customizable legal templates.",
+    "sameAs": [
+     "https://x.com/genieai",
+     "https://www.linkedin.com/company/genie-ai",
+     "https://www.instagram.com/genieai.co/",
+     "https://www.youtube.com/@genieai"
+    ],
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": "community@genieai.co",
+      "availableLanguage": [
+       "English",
+       "French",
+       "Portuguese"
+      ],
+      "areaServed": "Worldwide"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fgenieai.co",
+  "timestamp": "2026-09-25T11:20:23.258Z"
+ }
+]

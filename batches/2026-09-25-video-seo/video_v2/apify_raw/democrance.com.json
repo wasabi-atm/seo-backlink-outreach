@@ -1,0 +1,76 @@
+[
+ {
+  "url": "https://democrance.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Democrance - AI Insurance Core Platform",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.democrance.com/",
+    "name": "Democrance - AI Insurance Core Platform",
+    "isPartOf": {
+     "@id": "https://www.democrance.com/#website"
+    },
+    "datePublished": "2023-02-22T16:25:50+00:00",
+    "dateModified": "2026-09-23T06:52:00+00:00",
+    "description": "A lightweight insurance core platform to grow digital sales of Life, Health and P&C products through any distribution channel.",
+    "breadcrumb": {
+     "@id": "https://www.democrance.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.democrance.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Democrance",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.democrance.com/",
+    "name": "Democrance",
+    "description": "Next Generation Insurance Platform",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.democrance.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fdemocrance.com",
+  "timestamp": "2026-09-25T11:20:16.962Z"
+ }
+]

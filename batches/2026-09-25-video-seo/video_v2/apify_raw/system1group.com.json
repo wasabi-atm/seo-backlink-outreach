@@ -1,0 +1,76 @@
+[
+ {
+  "url": "https://system1group.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7; rv:134.0) Gecko/20100101 Firefox/134.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "System1 Group | The Creative Effectiveness Platform",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://system1group.com/",
+    "name": "System1 Group | The Creative Effectiveness Platform",
+    "isPartOf": {
+     "@id": "https://system1group.com/#website"
+    },
+    "datePublished": "2026-08-25T08:19:05+00:00",
+    "dateModified": "2026-09-24T14:59:29+00:00",
+    "description": "System1: the creative effectiveness platform that predicts & improves the commercial impact of ads & ideas. We help the world\u2019s leading brands to create with confidence.",
+    "breadcrumb": {
+     "@id": "https://system1group.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://system1group.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "System1 Group",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://system1group.com/",
+    "name": "System1 Group",
+    "description": "We&#039;re System1 Group (formerly BrainJuicer), a global marketing research and effectiveness company.",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://system1group.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fsystem1group.com",
+  "timestamp": "2026-09-25T11:20:25.333Z"
+ }
+]

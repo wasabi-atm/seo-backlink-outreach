@@ -1,0 +1,43 @@
+[
+ {
+  "url": "https://rocket.chat",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.4316.71 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Rocket.Chat",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Rocket.Chat",
+    "url": "https://www.rocket.chat",
+    "logo": "https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/63e686c220f67bfffd09065f_rocket-chat-logo.svg",
+    "sameAs": [
+     "https://twitter.com/RocketChat",
+     "https://www.linkedin.com/company/rocket-chat/",
+     "https://github.com/RocketChat",
+     "https://www.facebook.com/RocketChatApp",
+     "https://www.youtube.com/c/RocketChat"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "Sales",
+     "url": "https://www.rocket.chat/sales-contact",
+     "availableLanguage": [
+      "English",
+      "Portuguese",
+      "Spanish",
+      "German",
+      "French"
+     ]
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Frocket.chat",
+  "timestamp": "2026-09-25T11:20:44.399Z"
+ }
+]

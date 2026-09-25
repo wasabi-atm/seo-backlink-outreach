@@ -1,0 +1,102 @@
+[
+ {
+  "url": "https://board.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 14; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.4453.160 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "The Agentic Planning Platform | Board",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.board.com/",
+    "name": "The Agentic Planning Platform | Board",
+    "isPartOf": {
+     "@id": "https://www.board.com/#website"
+    },
+    "about": {
+     "@id": "https://www.board.com/#organization"
+    },
+    "datePublished": "2024-08-15T12:47:04+00:00",
+    "dateModified": "2026-09-14T08:50:07+00:00",
+    "description": "The Board Agentic Planning Platform brings business context, Continuous Planning, and governed agentic AI together to connect financial and operational planning.",
+    "breadcrumb": {
+     "@id": "https://www.board.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.board.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Board",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.board.com/",
+    "name": "Board",
+    "description": "The Enterprise Planning Platform",
+    "publisher": {
+     "@id": "https://www.board.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.board.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Board",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Board",
+    "url": "https://www.board.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.board.com/#/schema/logo/image/",
+     "url": "https://www.board.com/wp-content/uploads/2024/08/board-footer-logo-grey-0-1.png",
+     "contentUrl": "https://www.board.com/wp-content/uploads/2024/08/board-footer-logo-grey-0-1.png",
+     "width": 297,
+     "height": 103,
+     "caption": "Board"
+    },
+    "image": {
+     "@id": "https://www.board.com/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fboard.com",
+  "timestamp": "2026-09-25T11:20:33.006Z"
+ }
+]

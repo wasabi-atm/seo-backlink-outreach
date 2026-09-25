@@ -1,0 +1,64 @@
+[
+ {
+  "url": "https://innovapptive.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3_1; rv:115.0) Gecko/20100101 Firefox/115.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Innovapptive, Inc",
+    "status": "check_circle",
+    "type": "Organization",
+    "mainEntityOfPage": {
+     "@type": "WebPage",
+     "@id": "https://www.innovapptive.com",
+     "headline": "Revolutionizing Workforce Efficiency | AI-First Connected Worker Solutions | Innovapptive ",
+     "description": "Innovapptive\u2019s AI-powered solutions boost maintenance, operations, and warehousing\u2014enhancing productivity and driving digital transformation."
+    },
+    "url": "https://www.innovapptive.com",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.innovapptive.com/search?q={search_term_string}"
+     },
+     "query-input": "required name=search_term_string"
+    },
+    "logo": "https://cdn2.hubspot.net/hubfs/4483341/RGB-blue.svg",
+    "image": "https://www.innovapptive.com/hubfs/RGB-blue-brandmark.png",
+    "name": "Innovapptive, Inc",
+    "description": "Innovapptive&rsquo;s AI-powered solutions boost maintenance, operations, and warehousing&mdash;enhancing productivity and driving digital transformation.",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "24 Greenway Plaza, Suite 1501 ",
+     "addressLocality": "Houston",
+     "addressRegion": "TX",
+     "addressCountry": "",
+     "postalCode": "77046"
+    },
+    "areaServed": {
+     "@type": "GeoCircle",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": "17.453531",
+      "longitude": "78.370087"
+     }
+    },
+    "telephone": "",
+    "email": "",
+    "sameAs": [
+     "https://www.facebook.com/innovapptive",
+     "https://twitter.com/innovapptive",
+     "https://www.linkedin.com/company/innovapptive-inc/",
+     "https://www.youtube.com/user/Innovapptive"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Finnovapptive.com",
+  "timestamp": "2026-09-25T11:20:31.762Z"
+ }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "url": "https://openspace.ai",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 11; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5293.148 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "OpenSpace",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "OpenSpace",
+    "url": "https://www.openspace.ai",
+    "sameAs": [
+     "https://www.instagram.com/openspace.ai/",
+     "https://www.youtube.com/channel/UCXWJ9jUYTSq3wwZ7hvhGfFw",
+     "https://www.linkedin.com/company/openspace.ai",
+     "https://twitter.com/openspaceai",
+     "https://www.youtube.com/c/OpenSpaceAi",
+     "https://www.crunchbase.com/organization/openspace-ai"
+    ]
+   },
+   {
+    "title": "OpenSpace",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "OpenSpace",
+    "url": "https://www.openspace.ai",
+    "logo": "https://www.openspace.ai/wp-content/uploads/openspace-logo.png",
+    "description": "OpenSpace is the Visual Intelligence Platform for builders. Capture the reality of your sites with smartphones, 360 cameras, and drones, and turn that reality into real-time, actionable intelligence. One platform integrated with Procore and Autodesk.",
+    "foundingDate": "2017",
+    "sameAs": [
+     "https://www.linkedin.com/company/openspace-ai",
+     "https://twitter.com/openspace_ai",
+     "https://www.g2.com/products/openspace/reviews",
+     "https://www.capterra.com/p/openspace"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "sales",
+     "url": "https://www.openspace.ai/contact"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "San Francisco",
+     "addressRegion": "CA",
+     "addressCountry": "US"
+    }
+   },
+   {
+    "title": "OpenSpace",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "OpenSpace",
+    "applicationCategory": "ConstructionSoftware",
+    "operatingSystem": "iOS, Android, Web",
+    "description": "OpenSpace is the Visual Intelligence Platform for builders. Capture reality with smartphones, 360 cameras, and drones, and turn it into real-time, actionable intelligence. One platform integrating reality capture, progress tracking, field execution, and BIM verification, integrated with Procore and Autodesk Construction Cloud.",
+    "url": "https://www.openspace.ai",
+    "featureList": [
+     "360 reality capture via smartphone, 360 camera, or drone",
+     "Spatial AI auto-mapping to floor plans",
+     "AI-powered field execution and issue logging",
+     "Planned vs. actual progress tracking",
+     "BIM and design coordination",
+     "Procore and Autodesk integration",
+     "90,000+ projects across 130+ countries"
+    ],
+    "offers": {
+     "@type": "Offer",
+     "priceCurrency": "USD",
+     "availability": "https://schema.org/InStock",
+     "url": "https://www.openspace.ai/contact"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "OpenSpace",
+     "url": "https://www.openspace.ai"
+    }
+   },
+   {
+    "title": "OpenSpace",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "OpenSpace",
+    "url": "https://www.openspace.ai",
+    "publisher": {
+     "@type": "Organization",
+     "name": "OpenSpace",
+     "url": "https://www.openspace.ai"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.openspace.ai/?s={search_term_string}"
+     },
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.openspace.ai"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fopenspace.ai",
+  "timestamp": "2026-09-25T11:20:49.483Z"
+ }
+]

@@ -1,0 +1,118 @@
+[
+ {
+  "url": "https://skyvera.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.4903.185 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Welcome to Skyvera - Skyvera",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://skyvera.com/",
+    "name": "Welcome to Skyvera - Skyvera",
+    "isPartOf": {
+     "@id": "https://skyvera.com/#website"
+    },
+    "about": {
+     "@id": "https://skyvera.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://skyvera.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://skyvera.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://skyvera.com/wp-content/uploads/2021/08/section-1-1024x642.png",
+    "datePublished": "2021-08-06T00:38:54+00:00",
+    "dateModified": "2021-10-29T15:59:48+00:00",
+    "breadcrumb": {
+     "@id": "https://skyvera.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://skyvera.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://skyvera.com/wp-content/uploads/2021/08/section-1.png",
+    "contentUrl": "https://skyvera.com/wp-content/uploads/2021/08/section-1.png",
+    "width": 1897,
+    "height": 1189
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Skyvera",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://skyvera.com/",
+    "name": "Skyvera",
+    "description": "",
+    "publisher": {
+     "@id": "https://skyvera.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://skyvera.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Skyvera",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Skyvera",
+    "url": "https://skyvera.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://skyvera.com/#/schema/logo/image/",
+     "url": "https://skyvera.com/wp-content/uploads/2021/08/Skyvera-logo-navy.png",
+     "contentUrl": "https://skyvera.com/wp-content/uploads/2021/08/Skyvera-logo-navy.png",
+     "width": 3588,
+     "height": 675,
+     "caption": "Skyvera"
+    },
+    "image": {
+     "@id": "https://skyvera.com/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fskyvera.com",
+  "timestamp": "2026-09-25T11:20:48.639Z"
+ }
+]

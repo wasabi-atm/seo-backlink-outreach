@@ -1,0 +1,245 @@
+[
+ {
+  "url": "https://orlo.tech",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.4651.37 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Orlo: AI-Optimised Community Engagement Platform",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://orlo.tech/",
+    "name": "Orlo: AI-Optimised Community Engagement Platform",
+    "isPartOf": {
+     "@id": "https://orlo.tech/#website"
+    },
+    "about": {
+     "@id": "https://orlo.tech/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://orlo.tech/#primaryimage"
+    },
+    "image": {
+     "@id": "https://orlo.tech/#primaryimage"
+    },
+    "thumbnailUrl": "https://i0.wp.com/orlo.tech/wp-content/uploads/orlofeaturedimagestandard.png?fit=1200%2C628&ssl=1",
+    "datePublished": "2023-02-14T10:59:22+00:00",
+    "dateModified": "2026-08-27T09:24:00+00:00",
+    "description": "Trusted by 400+ Councils, NHS trusts, Police forces, and Charities. Orlo is an AI-optimised community engagement platform built for public sector organisations.",
+    "breadcrumb": {
+     "@id": "https://orlo.tech/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://orlo.tech/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-GB",
+    "url": "https://i0.wp.com/orlo.tech/wp-content/uploads/orlofeaturedimagestandard.png?fit=1200%2C628&ssl=1",
+    "contentUrl": "https://i0.wp.com/orlo.tech/wp-content/uploads/orlofeaturedimagestandard.png?fit=1200%2C628&ssl=1",
+    "width": 1200,
+    "height": 628,
+    "caption": "Orlo logo and strapline: the community engagement platform for the public sector"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Orlo",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://orlo.tech/",
+    "name": "Orlo",
+    "description": "Online community engagement platform for the public sector",
+    "publisher": {
+     "@id": "https://orlo.tech/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://orlo.tech/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "Orlo",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Orlo",
+    "url": "https://orlo.tech/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://orlo.tech/#/schema/logo/image/",
+     "url": "https://i0.wp.com/orlo.tech/wp-content/uploads/cropped-Favicon-transparent.png?fit=512%2C512&ssl=1",
+     "contentUrl": "https://i0.wp.com/orlo.tech/wp-content/uploads/cropped-Favicon-transparent.png?fit=512%2C512&ssl=1",
+     "width": 512,
+     "height": 512,
+     "caption": "Orlo"
+    },
+    "image": {
+     "@id": "https://orlo.tech/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/helloOrlo",
+     "https://x.com/HelloOrlo"
+    ],
+    "description": "Orlo is an online community engagement platform for the public sector. We aim to help public sector organisations in the UK, and local government in the US, build trust through meaningful conversations via our social media management platform and community engagement tools.",
+    "email": "hello@orlo.tech",
+    "telephone": "+44 (0)121 368 1420",
+    "legalName": "Socialsignin Ltd",
+    "foundingDate": "2012-10-01",
+    "numberOfEmployees": {
+     "@type": "QuantitativeValue",
+     "minValue": "11",
+     "maxValue": "50"
+    }
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is a community engagement platform?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A community engagement platform is a software solution that helps organisations manage communication, participation, and feedback with their communities in one place. It combines tools for social media management, surveys, social listening, and analytics to help teams listen, respond, and act on community insight. Orlo is the only community engagement platform built exclusively for the UK public sector, combining all of these capabilities alongside a unique public Trust Score metric."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is Orlo?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orlo is a community engagement platform built exclusively for public sector organisations. It combines social media management, Voice of the Community survey tools and customer service capabilities in a single platform, helping local government, healthcare, housing, policing and other public sector bodies build trust, engage residents and deliver better outcomes."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the best community engagement platform for local government?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orlo is the leading community engagement platform for local government in the UK. It is the only platform purpose-built for public sector organisations, combining social media management, surveys, social listening, and community insights in one place. Orlo is trusted by over 150 local councils and is an approved supplier on Crown Commercial Service (CCS) and G-Cloud, with all data held securely within the UK."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the best community engagement platform for the public sector?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orlo is the only community engagement platform built exclusively for UK public sector organisations including local and central government, NHS trusts, policing, housing associations, fire and rescue services, and higher education. Unlike generic tools, Orlo is designed around the specific compliance, safeguarding, and engagement needs of public bodies, and includes a unique Trust Score that measures public trust over time."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What features does a community engagement platform include?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A community engagement platform typically includes social media management and scheduling, a unified inbox for managing community conversations, social listening and media monitoring, surveys and consultation tools, community analytics and reporting, and live chat or chatbot capabilities. Orlo's community engagement platform includes all of these features alongside AI-powered insights, a public Trust Score, and integrations with channels including Nextdoor and Bluesky \u2014 all built specifically for the public sector."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How does a community engagement platform help public sector organisations?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A community engagement platform helps public sector organisations listen to residents at scale, respond to enquiries faster, surface emerging issues before they escalate, and demonstrate that feedback leads to real change. For councils, NHS trusts, police forces, and other public bodies, the right platform centralises all community communication in one place \u2014 reducing workload, improving response times, and building measurable public trust over time."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What makes Orlo different from other community engagement platforms?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orlo is the only community engagement platform in the world that combines social media management, surveys, social listening, and a unique public Trust Score metric \u2014 all built exclusively for the public sector. Unlike generic engagement tools, Orlo is designed around the compliance, safeguarding, and accountability requirements of UK public bodies. It holds Cyber Essentials Plus certification, is a CCS and G-Cloud approved supplier, and stores all data within the UK."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What makes Orlo different from other social media management tools?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Unlike generic social media tools built for private sector marketing, Orlo is designed specifically for the unique needs of public sector organisations. It includes built-in social archiving as standard, a Trust Indicator to measure public confidence, sector-specific benchmarking, and compliance credentials including ISO27001, Cyber Essentials Plus and G-Cloud listing - making it the only community engagement platform purpose-built to measure and improve public trust."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which public sector organisations use Orlo?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orlo is trusted by over 400 public sector organisations across the UK, including local and central government councils, NHS trusts and healthcare providers, housing associations, police forces, fire and rescue services, higher education institutions and charities. Customers include Surrey County Council, Greater Manchester Police, Devon County Council, Birmingham Women's and Children's NHS Foundation Trust and Wakefield Council."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the Voice of the Community?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Voice of the Community is Orlo's suite of tools for gathering and understanding public feedback. It includes surveys and consultations, social listening, media monitoring and AI-powered insights - enabling public sector teams to understand what their communities are really saying, identify emerging concerns early and use that intelligence to inform decisions and service delivery."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How does Orlo help public sector organisations build community trust?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orlo helps public sector organisations build trust by enabling them to listen to residents at scale, respond quickly and consistently across all digital channels, and demonstrate transparency and accountability in every interaction. The platform's Trust Indicator gives organisations a real-time measure of public confidence, helping teams understand where trust is growing and where it is at risk."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is Orlo compliant with public sector procurement requirements?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Orlo is listed on the Crown Commercial Service framework, the Digital Marketplace and G-Cloud, and is the only approved supplier on the Police Digital Framework. The platform is ISO27001 certified, Cyber Essentials Plus accredited and fully GDPR compliant, with UK-based servers ensuring all data stays in the UK."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What social media platforms does Orlo integrate with?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orlo integrates with all major social media platforms including Facebook, Instagram, LinkedIn, X (Twitter), YouTube, TikTok, Nextdoor, Bluesky, Threads and WhatsApp and SMS. It also integrates with CRM systems including Salesforce and Microsoft Dynamics 365, and business intelligence tools including Power BI, Tableau and Looker Studio."
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Forlo.tech",
+  "timestamp": "2026-09-25T11:20:38.824Z"
+ }
+]

@@ -1,0 +1,184 @@
+[
+ {
+  "url": "https://jumio.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.4343.67 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Jumio",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Jumio",
+    "url": "https://www.jumio.com/",
+    "logo": "https://www.jumio.com/wp-content/themes/understrap-child/images/logo-dark-23.svg",
+    "description": "Jumio is a leading provider of AI-driven identity verification, KYC, and compliance solutions for businesses worldwide.",
+    "slogan": "End-to-End Identity Verification & Compliance Solutions",
+    "foundingDate": "2010",
+    "sameAs": [
+     "https://www.linkedin.com/company/jumio-corporation",
+     "https://twitter.com/Jumio",
+     "https://www.facebook.com/jumiocorp",
+     "https://www.youtube.com/channel/UCpr1H0Ph0ydvhvhR3esKVWA"
+    ],
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+1-650-424-8545",
+      "contactType": "Customer Support",
+      "availableLanguage": [
+       "English"
+      ]
+     },
+     {
+      "@type": "ContactPoint",
+      "email": "sales@jumio.com",
+      "contactType": "sales",
+      "availableLanguage": [
+       "English",
+       "Spanish",
+       "Portuguese",
+       "French",
+       "German",
+       "Chinese"
+      ]
+     }
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "100 Mathilda Place, Suite 100",
+     "addressLocality": "Sunnyvale",
+     "addressRegion": "CA",
+     "postalCode": "94086",
+     "addressCountry": "US"
+    },
+    "serviceArea": {
+     "@type": "Country",
+     "name": "Global"
+    },
+    "department": [
+     {
+      "@type": "Organization",
+      "name": "Jumio Sales",
+      "url": "https://www.jumio.com/contact/request-information/"
+     },
+     {
+      "@type": "Organization",
+      "name": "Jumio Support",
+      "url": "https://www.jumio.com/contact/support/"
+     }
+    ],
+    "skills": [
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/selfie-done/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/cross-transaction-risk/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "Identity Verification Software & Solutions",
+      "description": "Identity verification is how a business confirms a new customer is who they say they are. Jumio automates this process using AI to evaluate an ID check, a selfie with liveness detection, and a risk-based decision to stop fraud and meet KYC and AML compliance. ",
+      "url": "https://www.jumio.com/products/identity-verification/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "Selfie Verification",
+      "description": "Ensure your users are who they say they are \u2014 with the ease of taking a selfie",
+      "url": "https://www.jumio.com/products/selfie-verification/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "Premium Liveness Detection",
+      "description": "Protect against modern fraud, such as deepfakes and injection attacks, with Jumio\u2019s most advanced liveness detection technology. ",
+      "url": "https://www.jumio.com/products/liveness-detection/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "ID Verification Software",
+      "description": "Jumio's automated ID verification confirms physical and digital IDs are authentic, helping you catch fake IDs and meet global KYC, AML, and regulatory standards.\r\n",
+      "url": "https://www.jumio.com/products/id-verification/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/go/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "Document Verification Software",
+      "description": "Jumio Doc Proof is document verification software that confirms a customer's details using supporting documents, such as utility bills, bank statements, and other proof of address, captured on a smartphone.",
+      "url": "https://www.jumio.com/products/document-verification/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "Authentication",
+      "description": "Protect against account takeovers, strengthen security measures and deliver dramatically higher levels of identity assurance with biometric verification technology.",
+      "url": "https://www.jumio.com/products/authentication/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/address-services/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "Jumio Video Verification",
+      "description": "Safely and securely onboard remote banking customers online with two-way video-based verification while ensuring Know Your Customer (KYC) and anti-money laundering (AML) compliance.",
+      "url": "https://www.jumio.com/products/video-verification/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/jumio-watch/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/risk-signals/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/government-database-checks/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/screening/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "End-to-End AML Compliance Solutions",
+      "description": "...",
+      "url": "https://www.jumio.com/products/aml-solutions/"
+     },
+     {
+      "@type": "DefinedTerm",
+      "name": "",
+      "description": "",
+      "url": "https://www.jumio.com/products/fastfill/"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fjumio.com",
+  "timestamp": "2026-09-25T11:20:44.198Z"
+ }
+]

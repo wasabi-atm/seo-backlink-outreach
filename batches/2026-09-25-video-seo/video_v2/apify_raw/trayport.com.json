@@ -1,0 +1,71 @@
+[
+ {
+  "url": "https://trayport.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Trayport Limited",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Trayport Limited",
+    "alternateName": "Trayport",
+    "url": "https://trayport.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://trayport.com/#logo",
+     "url": "http://trayport.local/app/themes/trayport/public/images/id/tmx-trayport-logo-white.svg",
+     "width": 300,
+     "height": 70
+    },
+    "description": "Trayport connects traders, brokers and exchanges in global power, gas and carbon markets with its Joule trading platform and data network.",
+    "parentOrganization": {
+     "@type": "Organization",
+     "name": "TMX Group Limited"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "2 Gresham Street",
+     "addressLocality": "London",
+     "postalCode": "EC2V 7AD",
+     "addressCountry": "GB"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+44-20-7960-5500",
+      "contactType": "customer support",
+      "areaServed": "GB"
+     }
+    ],
+    "sameAs": [
+     "https://uk.linkedin.com/company/trayport",
+     "https://twitter.com/Trayport"
+    ]
+   },
+   {
+    "title": "Trayport",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://trayport.com/",
+    "name": "Trayport",
+    "publisher": {
+     "@id": "https://trayport.com/#organization"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://trayport.com/?s={search_term_string}",
+     "query-input": "required name=search_term_string"
+    },
+    "inLanguage": "en-GB"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ftrayport.com",
+  "timestamp": "2026-09-25T11:20:38.524Z"
+ }
+]

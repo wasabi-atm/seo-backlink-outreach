@@ -1,0 +1,134 @@
+[
+ {
+  "url": "https://semble.io",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4151.181 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Semble",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.semble.io/",
+    "name": "Semble",
+    "publisher": {
+     "@id": "https://www.semble.io/#organization"
+    },
+    "inLanguage": "en"
+   },
+   {
+    "title": "Private Practice Management Software | Semble",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.semble.io/",
+    "name": "Private Practice Management Software | Semble",
+    "description": "Semble is a complete healthcare management platform for private healthcare providers, bringing together practice management, electronic health records, payments, workflows, reporting and integrations in one connected system.",
+    "isPartOf": {
+     "@id": "https://www.semble.io/#website"
+    },
+    "about": {
+     "@id": "https://www.semble.io/#software"
+    },
+    "inLanguage": "en"
+   },
+   {
+    "title": "Semble",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Semble",
+    "legalName": "Semble Technology Limited",
+    "url": "https://www.semble.io/",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "7 Bell Yard",
+     "addressLocality": "London",
+     "postalCode": "WC2A 2JR",
+     "addressCountry": "GB"
+    }
+   },
+   {
+    "title": "Semble",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Semble",
+    "url": "https://www.semble.io/",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Web, Mobile",
+    "description": "A healthcare management platform for private healthcare providers, combining practice management, electronic health records, intelligent workflows, payments, reporting and integrations.",
+    "featureList": [
+     "Practice management system",
+     "Electronic health record",
+     "Online patient booking",
+     "Appointment scheduling",
+     "Patient communications",
+     "Automated workflows",
+     "Electronic prescribing",
+     "Clinical documentation",
+     "Payments and invoicing",
+     "Healthcare reporting and analytics",
+     "Multi-site management",
+     "Role-based access controls",
+     "Audit logs",
+     "Semble Connect integrations with over 1,200 external tools"
+    ],
+    "offers": {
+     "@type": "Offer",
+     "availability": "https://schema.org/InStock",
+     "url": "https://www.semble.io/book-a-demo"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "itemReviewed": {
+       "@id": "https://www.semble.io/#software"
+      },
+      "author": {
+       "@type": "Person",
+       "name": "Dr Daniel Masud",
+       "jobTitle": "Consultant Psychiatrist"
+      },
+      "reviewBody": "I look back in horror. I can\u2019t believe we used to work that way."
+     },
+     {
+      "@type": "Review",
+      "itemReviewed": {
+       "@id": "https://www.semble.io/#software"
+      },
+      "author": {
+       "@type": "Organization",
+       "name": "Capterra"
+      },
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "4.5",
+       "bestRating": "5",
+       "worstRating": "1"
+      }
+     },
+     {
+      "@type": "Review",
+      "itemReviewed": {
+       "@id": "https://www.semble.io/#software"
+      },
+      "author": {
+       "@type": "Organization",
+       "name": "Google"
+      },
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "4.3",
+       "bestRating": "5",
+       "worstRating": "1"
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fsemble.io",
+  "timestamp": "2026-09-25T11:20:24.855Z"
+ }
+]

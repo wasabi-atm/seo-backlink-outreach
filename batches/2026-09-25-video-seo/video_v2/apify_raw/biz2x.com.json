@@ -1,0 +1,101 @@
+[
+ {
+  "url": "https://biz2x.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 14; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.4108.74 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Successful Business Lending Starts Here - Biz2X",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.biz2x.com/",
+    "name": "Successful Business Lending Starts Here - Biz2X",
+    "isPartOf": {
+     "@id": "https://www.biz2x.com/#website"
+    },
+    "about": {
+     "@id": "https://www.biz2x.com/#organization"
+    },
+    "datePublished": "2021-05-25T08:41:00+00:00",
+    "dateModified": "2025-10-06T05:09:07+00:00",
+    "description": "Biz2X offers a Digital Business Lending platform equipped with ultramodern technology to automate your business lending process.",
+    "breadcrumb": {
+     "@id": "https://www.biz2x.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.biz2x.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Biz2X",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.biz2x.com/",
+    "name": "Biz2X",
+    "description": "Biz2X",
+    "publisher": {
+     "@id": "https://www.biz2x.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.biz2x.com/?s={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Biz2X",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Biz2X",
+    "url": "https://www.biz2x.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.biz2x.com/#/schema/logo/image/",
+     "url": "https://cdn-biz2x.biz2credit.com/wp-content/uploads/2022/03/video_thumbnail-e1652898160391.png",
+     "contentUrl": "https://cdn-biz2x.biz2credit.com/wp-content/uploads/2022/03/video_thumbnail-e1652898160391.png",
+     "width": 408,
+     "height": 211,
+     "caption": "Biz2X"
+    },
+    "image": {
+     "@id": "https://www.biz2x.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/biz2x-platform/"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fbiz2x.com",
+  "timestamp": "2026-09-25T11:20:42.059Z"
+ }
+]

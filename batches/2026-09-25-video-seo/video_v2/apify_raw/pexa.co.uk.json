@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://pexa.co.uk",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6362.61 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "PEXA UK",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "PEXA UK",
+    "alternateName": "PEXA UK Ltd.",
+    "url": "https://www.pexa.co.uk/",
+    "logo": "https://www.pexa.co.uk/images/logo.svg",
+    "sameAs": [
+     "https://www.facebook.com/Property.Exchange.Australia",
+     "https://twitter.com/PEXA_Group",
+     "https://instagram.com/pexa_group",
+     "https://www.youtube.com/channel/UCoGmv8nUIYfrjqKsPDAc1Ww",
+     "https://www.linkedin.com/company/1839652"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fpexa.co.uk",
+  "timestamp": "2026-09-25T11:20:27.426Z"
+ }
+]

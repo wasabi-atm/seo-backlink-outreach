@@ -1,0 +1,616 @@
+[
+ {
+  "url": "https://gumgum.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 12,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "GumGum",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "GumGum",
+    "legalName": "GumGum, Inc.",
+    "url": "https://gumgum.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://cdn.prod.website-files.com/69eee532313396005f3a101b/6a289d0ea608a668faabaf6b_GG_Primary_Logo_color.svg"
+    },
+    "description": "GumGum is The Mindset Company\u2122 \u2014 a global advertising technology company that identifies the moments consumers are most receptive to brand messages, delivering mindset-driven campaigns across CTV, online video, and high-impact display at scale.",
+    "slogan": "The Mindset Company\u2122",
+    "foundingDate": "2008",
+    "foundingLocation": {
+     "@type": "Place",
+     "name": "Santa Monica, California",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Monica",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+     }
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/gumgum",
+     "https://www.facebook.com/gumgum",
+     "https://www.instagram.com/gumgum",
+     "https://twitter.com/gumgum",
+     "https://www.youtube.com/user/GumGumInc"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "2419 Michigan Ave, Suite A",
+     "addressLocality": "Santa Monica",
+     "addressRegion": "CA",
+     "postalCode": "90404",
+     "addressCountry": "US"
+    },
+    "numberOfEmployees": {
+     "@type": "QuantitativeValue",
+     "minValue": 500,
+     "maxValue": 600
+    },
+    "areaServed": "Worldwide",
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "name": "Request a Demo",
+      "description": "Connect with the GumGum team to discuss how mindset-driven advertising can work for your brand.",
+      "url": "https://gumgum.com/contact",
+      "areaServed": "Worldwide",
+      "availableLanguage": "English"
+     },
+     {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "name": "Publisher Partnerships",
+      "description": "Apply to join GumGum's premium publisher network and unlock targeted demand for your inventory.",
+      "url": "https://gumgum.com/publishers"
+     },
+     {
+      "@type": "ContactPoint",
+      "contactType": "media",
+      "name": "Media & Press",
+      "description": "Press and media enquiries for GumGum.",
+      "url": "https://gumgum.com/contact"
+     }
+    ],
+    "knowsAbout": [
+     "CTV advertising",
+     "connected TV advertising",
+     "contextual advertising",
+     "contextual targeting",
+     "programmatic advertising",
+     "display advertising",
+     "digital advertising",
+     "high-impact display advertising",
+     "video advertising",
+     "omnichannel advertising",
+     "consumer mindset",
+     "receptivity intelligence",
+     "artificial intelligence advertising",
+     "Computer Vision for Advertising",
+     "Attention Measurement",
+     "Mindset-Driven Advertising",
+     "Video Content Analysis",
+     "Real-Time Bidding",
+     "Brand Safety Technology",
+     "Consumer Receptivity Analysis",
+     "sports advertising",
+     "sports sponsorship activation",
+     "conquesting advertising",
+     "sports audience targeting",
+     "verified sports viewership",
+     "automatic content recognition (ACR)"
+    ],
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Monthly Impressions",
+      "value": "500000000000"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Monthly Unique Reach",
+      "value": "1000000000"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "MFA-Free Publisher Partners",
+      "value": "40000"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Proprietary AI Origin",
+      "value": "GumGum built its own contextual intelligence engine in 2010, analyzing content across text, image, and video \u2014 predating the AI advertising category by over a decade and forming the technological foundation of the Mindset Graph\u2122."
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Brands Served",
+      "value": "3,000+ brands worldwide"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Markets",
+      "value": "19+ markets worldwide"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Job Functions",
+      "value": "Engineering, Sales, Client Solutions, Account Management, Marketing, Design, Operations, Data Science, Product Management"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Industry",
+      "value": "Advertising Technology (Adtech), Digital Media, Artificial Intelligence"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Employee Development Program",
+      "value": "GROW \u2014 GumGum's People Program focused on Growth, Recognition, Opportunity, and Winning. Provides tools, mentorship, and a culture of belonging for all employees."
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Culture Principles",
+      "value": "Customer Obsessed, Make It Happen, Always Innovate, Foster Belonging"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Employee Programs",
+      "value": "Women of GumGum, GumGum Gives Back, GumGum Fit, Virtual Leadership Bites, Life Skills Series, Coffee Walk"
+     }
+    ],
+    "brand": {
+     "@type": "Brand",
+     "name": "GumGum"
+    },
+    "makesOffer": [
+     {
+      "@type": "Offer",
+      "@id": "https://gumgum.com/#offer-mindset-graph",
+      "itemOffered": {
+       "@id": "https://gumgum.com/#service-mindset-graph"
+      }
+     },
+     {
+      "@type": "Offer",
+      "@id": "https://gumgum.com/#offer-contextual",
+      "itemOffered": {
+       "@id": "https://gumgum.com/#product-contextual"
+      }
+     },
+     {
+      "@type": "Offer",
+      "@id": "https://gumgum.com/#offer-ctv",
+      "itemOffered": {
+       "@id": "https://gumgum.com/#product-ctv"
+      }
+     },
+     {
+      "@type": "Offer",
+      "@id": "https://gumgum.com/#offer-omnichannel",
+      "itemOffered": {
+       "@id": "https://gumgum.com/#service-omnichannel"
+      }
+     },
+     {
+      "@type": "Offer",
+      "@id": "https://gumgum.com/#offer-display",
+      "itemOffered": {
+       "@id": "https://gumgum.com/#product-display"
+      }
+     },
+     {
+      "@type": "Offer",
+      "@id": "https://gumgum.com/#offer-sports-media",
+      "itemOffered": {
+       "@id": "https://gumgum.com/#service-sports-media"
+      }
+     }
+    ]
+   },
+   {
+    "title": "GumGum",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://gumgum.com/",
+    "name": "GumGum",
+    "inLanguage": "en-US",
+    "publisher": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://gumgum.com/search?query={search_term_string}"
+     },
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "GumGum | The Mindset Company\u2122 \u2014 CTV & Contextual Advertising",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://gumgum.com/",
+    "name": "GumGum | The Mindset Company\u2122 \u2014 CTV & Contextual Advertising",
+    "description": "GumGum identifies the exact moment your audience is open to your message \u2014 delivering mindset-driven campaigns across CTV, contextual, and high-impact display at scale.",
+    "inLanguage": "en-US",
+    "isPartOf": {
+     "@id": "https://gumgum.com/#website"
+    },
+    "about": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "breadcrumb": {
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Home",
+       "item": "https://gumgum.com/"
+      }
+     ]
+    },
+    "significantLink": [
+     "https://gumgum.com/mindset",
+     "https://gumgum.com/omnichannel",
+     "https://gumgum.com/ctv-advertising",
+     "https://gumgum.com/contextual-advertising"
+    ],
+    "speakable": {
+     "@type": "SpeakableSpecification",
+     "cssSelector": [
+      ".s-header_heading_text",
+      ".s-header_subtext_text"
+     ]
+    },
+    "primaryImageOfPage": {
+     "@type": "ImageObject",
+     "url": "https://cdn.prod.website-files.com/69eee532313396005f3a101b/6a332287fbe7e4cb30bb3ad4_gumgum-metadata-image.jpg"
+    }
+   },
+   {
+    "title": "Mindset Graph\u2122",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "Mindset Graph\u2122",
+    "serviceType": "AI-powered advertising data engine",
+    "description": "The Mindset Graph\u2122 is GumGum's AI-powered data engine, purpose-built to process the ever-expanding universe of historical, creative, contextual, and environmental data points in real time \u2014 determining the best combinations to drive outcomes for every campaign.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/mindset",
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#product-contextual"
+     },
+     {
+      "@id": "https://gumgum.com/#product-ctv"
+     },
+     {
+      "@id": "https://gumgum.com/#product-display"
+     }
+    ]
+   },
+   {
+    "title": "GumGum Contextual",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "GumGum Contextual",
+    "category": "Contextual advertising",
+    "description": "AI-powered contextual advertising that analyzes content, imagery, and signals across the page to deliver privacy-forward, cookie-free targeting \u2014 without relying on audience data. GumGum reads the full content of every environment \u2014 text, images, video, and audio \u2014 across the open web and CTV, to identify brand-suitable, high-receptivity moments before every bid.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/contextual-advertising",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Incremental Inventory vs Traditional Contextual",
+      "value": "Up to 473% more available inventory (MAGNA Global)"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Brand Favorability Lift Among Undecided Audiences",
+      "value": "+23 points vs +7 points from traditional contextual (MAGNA Global)"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Video Ad Memorability in Contextually Aligned Placements",
+      "value": "2.3x more memorable"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Years of Contextual Leadership",
+      "value": "15"
+     }
+    ],
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#service-mindset-graph"
+     },
+     {
+      "@id": "https://gumgum.com/#product-ctv"
+     },
+     {
+      "@id": "https://gumgum.com/#product-display"
+     },
+     {
+      "@id": "https://gumgum.com/#service-omnichannel"
+     }
+    ]
+   },
+   {
+    "title": "CTV & Video Advertising",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "CTV & Video Advertising",
+    "category": "CTV and online video advertising",
+    "description": "CTV, connected TV, and online video advertising solutions that apply mindset intelligence to reach audiences at the moment they are most receptive \u2014 across premium streaming inventory and web and mobile video environments. Real-time signals including context, viewing environment, content sentiment, and engagement are evaluated before every bid.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/ctv-advertising",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Channels",
+      "value": "Connected TV (CTV) and Online Video (OLV)"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Targeting Intelligence",
+      "value": "Mindset Graph\u2122 \u2014 real-time evaluation of context, sentiment, relevance, and engagement before bid"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Streaming Platforms",
+      "value": "Roku, Peacock, Paramount+, Tubi, and connected streaming environments"
+     }
+    ],
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#service-mindset-graph"
+     },
+     {
+      "@id": "https://gumgum.com/#product-contextual"
+     },
+     {
+      "@id": "https://gumgum.com/#product-display"
+     },
+     {
+      "@id": "https://gumgum.com/#service-omnichannel"
+     }
+    ]
+   },
+   {
+    "title": "High-Impact Display Advertising",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "High-Impact Display Advertising",
+    "category": "Display advertising",
+    "description": "High-impact display formats that combine premium creative, contextual intelligence, and mindset data to capture attention and drive stronger brand outcomes.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/omnichannel",
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#service-mindset-graph"
+     },
+     {
+      "@id": "https://gumgum.com/#product-contextual"
+     }
+    ]
+   },
+   {
+    "title": "GumGum Omnichannel Advertising",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "GumGum Omnichannel Advertising",
+    "serviceType": "Omnichannel advertising",
+    "description": "GumGum's omnichannel advertising service activates CTV, online video, and high-impact display under unified mindset intelligence \u2014 reaching audiences in the right receptive moment across every screen.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/omnichannel",
+    "areaServed": "Worldwide",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "MFA-Free Publisher Partners",
+      "value": "40000"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Markets with Direct Inventory Access",
+      "value": "19"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Monthly Unique Reach",
+      "value": "964000000"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Agency Holding Company Partners",
+      "value": "Big 5"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Interbrand Best Global Brands Coverage",
+      "value": "77%"
+     }
+    ],
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#service-mindset-graph"
+     },
+     {
+      "@id": "https://gumgum.com/#product-ctv"
+     },
+     {
+      "@id": "https://gumgum.com/#product-display"
+     }
+    ]
+   },
+   {
+    "title": "GumGum Sports Media",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "GumGum Sports Media",
+    "serviceType": "Sports advertising and sponsorship activation",
+    "description": "GumGum Sports Media turns verified sports viewership and on-screen sponsorship exposure into addressable audiences advertisers can activate across web, CTV, and online video. Powered by Relo Metrics sponsorship exposure data and VideoAmp deterministic viewership data, it offers three targeting products: Replay, Counterplay, and GumGum Sports Audiences.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/sports-advertising",
+    "areaServed": "United States",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Targeting Products",
+      "value": "Replay, Counterplay, and GumGum Sports Audiences"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Leagues Covered for Sponsorship Exposure",
+      "value": "NFL, NBA, WNBA, MLB, NHL, MLS, NWSL, Formula 1, and NCAA Football"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Activation Channels",
+      "value": "Web, Connected TV (CTV), and Online Video (OLV)"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Sponsorship Exposure Data",
+      "value": "Relo Metrics \u2014 on-screen sponsorship detection with broadcast timestamps"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Viewership Data",
+      "value": "VideoAmp \u2014 deterministic, ACR-based household viewership"
+     },
+     {
+      "@type": "PropertyValue",
+      "name": "Campaign Availability",
+      "value": "United States"
+     }
+    ],
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#product-replay"
+     },
+     {
+      "@id": "https://gumgum.com/#product-counterplay"
+     },
+     {
+      "@id": "https://gumgum.com/#product-sports-audiences"
+     },
+     {
+      "@id": "https://gumgum.com/#service-mindset-graph"
+     },
+     {
+      "@id": "https://gumgum.com/#product-ctv"
+     },
+     {
+      "@id": "https://gumgum.com/#service-omnichannel"
+     }
+    ]
+   },
+   {
+    "title": "Replay",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "Replay",
+    "category": "Sponsorship activation",
+    "description": "Replay is sponsorship activation in sports. GumGum matches Relo Metrics' record of when a brand's sponsorship appeared on screen against VideoAmp's verified viewership data, building an audience of the households that were watching when the placement aired, then re-engaging them across web, CTV, and online video.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/sports-advertising#replay",
+    "areaServed": "United States",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Requirement",
+      "value": "Brand must hold a sponsorship in a league covered by Relo Census"
+     }
+    ],
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#service-sports-media"
+     },
+     {
+      "@id": "https://gumgum.com/#product-counterplay"
+     }
+    ]
+   },
+   {
+    "title": "Counterplay",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "Counterplay",
+    "category": "Conquesting advertising",
+    "description": "Counterplay is conquesting advertising for live sports. GumGum identifies the households verified to have been watching when a competitor's sponsorship appeared on screen and turns them into an addressable audience a brand can reach across web, CTV, and online video.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/sports-advertising#counterplay",
+    "areaServed": "United States",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Requirement",
+      "value": "Competitor must hold a sponsorship in a league covered by Relo Census"
+     }
+    ],
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#service-sports-media"
+     },
+     {
+      "@id": "https://gumgum.com/#product-replay"
+     }
+    ]
+   },
+   {
+    "title": "GumGum Sports Audiences",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "GumGum Sports Audiences",
+    "category": "Sports audience targeting",
+    "description": "GumGum Sports Audiences reaches verified fans of specific sports and leagues using VideoAmp's deterministic viewership data, with no sponsorship required. Audiences are built from what households actually watched rather than modeled interests, and activated across display, online video, and CTV.",
+    "provider": {
+     "@id": "https://gumgum.com/#organization"
+    },
+    "url": "https://gumgum.com/sports-advertising#sports-audiences",
+    "areaServed": "United States",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Requirement",
+      "value": "No sponsorship required"
+     }
+    ],
+    "isRelatedTo": [
+     {
+      "@id": "https://gumgum.com/#service-sports-media"
+     },
+     {
+      "@id": "https://gumgum.com/#service-mindset-graph"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fgumgum.com",
+  "timestamp": "2026-09-25T11:20:44.403Z"
+ }
+]

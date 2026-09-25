@@ -1,0 +1,120 @@
+[
+ {
+  "url": "https://ushur.ai",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4177.19 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Ushur \u2013 Customer Experience Automation Platform",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://ushur.ai/",
+    "name": "Ushur \u2013 Customer Experience Automation Platform",
+    "description": "The most complete customer experience automation platform, delivering proactive outbound and inbound engagement, with compliance and auditability embedded into every interaction.",
+    "inLanguage": "en",
+    "isPartOf": {
+     "@type": "WebSite",
+     "name": "Ushur",
+     "url": "https://ushur.ai"
+    }
+   },
+   {
+    "title": "Ushur CXA Platform",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Ushur CXA Platform",
+    "operatingSystem": "Web",
+    "applicationCategory": "Customer Experience Automation",
+    "description": "AI-driven automation platform combining no-code workflow builder, domain-specific AI Agents, and enterprise integrations to deliver seamless self-service engagement across email, SMS, voice, and web.",
+    "author": {
+     "@type": "Organization",
+     "name": "Ushur, Inc."
+    },
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.5",
+     "reviewCount": "48"
+    },
+    "featureList": [
+     "Browser-based Invisible App micro-engagements\u2122",
+     "Secure Agentic AI platform for healthcare, insurance, and finance",
+     "Compliant Inbound and Outbound Engagements",
+     "No-code Studio for citizen developers",
+     "Enterprise-grade governance and compliance (HIPAA, SOC 2, GDPR, HITRUST and more)",
+     "API integration with Salesforce, ServiceNow, Zendesk, Slack, Dynamics 365 and more"
+    ],
+    "url": "https://ushur.ai/"
+   },
+   {
+    "title": "Ushur, Inc.",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Ushur, Inc.",
+    "legalName": "Ushur, Inc.",
+    "url": "https://ushur.ai/",
+    "logo": "https://cdn.prod.website-files.com/66b170e39e75a071ecd6a1e1/66b1b5e5e9b48a9abaa3fcf6_Ushur%20Logo_White_Tagline.svg",
+    "sameAs": [
+     "https://twitter.com/ushurInc/",
+     "https://www.youtube.com/channel/UCR8YLxDwWWN-Yvvs42qEAEQ",
+     "https://www.linkedin.com/company/ushur-me"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "3975 Freedom Circle #870",
+     "addressLocality": "Santa Clara",
+     "addressRegion": "CA",
+     "postalCode": "95054",
+     "addressCountry": "US"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "contactType": "technical support",
+      "url": "https://docs.ushur.com",
+      "availableLanguage": [
+       "en"
+      ]
+     },
+     {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "url": "https://ushur.ai/contact-us",
+      "availableLanguage": [
+       "en"
+      ]
+     },
+     {
+      "@type": "ContactPoint",
+      "contactType": "media relations",
+      "url": "https://ushur.ai/newsroom",
+      "availableLanguage": [
+       "en"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Ushur",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://ushur.ai/",
+    "name": "Ushur",
+    "publisher": {
+     "@id": "https://ushur.ai/#org"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://ushur.ai/search?query={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fushur.ai",
+  "timestamp": "2026-09-25T11:20:32.169Z"
+ }
+]

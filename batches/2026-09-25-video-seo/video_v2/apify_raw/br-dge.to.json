@@ -1,0 +1,122 @@
+[
+ {
+  "url": "https://br-dge.to",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64; rv:119.0) Gecko/20100101 Firefox/119.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Streamlined, leading payment orchestration solution - BR-DGE",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://br-dge.to/",
+    "name": "Streamlined, leading payment orchestration solution - BR-DGE",
+    "isPartOf": {
+     "@id": "https://br-dge.to/#website"
+    },
+    "about": {
+     "@id": "https://br-dge.to/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://br-dge.to/#primaryimage"
+    },
+    "image": {
+     "@id": "https://br-dge.to/#primaryimage"
+    },
+    "thumbnailUrl": "https://br-dge.to/wp-content/uploads/2024/06/icon-modular-3.svg",
+    "datePublished": "2024-05-02T13:27:31+00:00",
+    "dateModified": "2025-01-29T14:58:43+00:00",
+    "description": "BR-DGE offers innovative payment orchestration solutions, empowering merchants, payment providers, and platforms.",
+    "breadcrumb": {
+     "@id": "https://br-dge.to/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://br-dge.to/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-GB",
+    "url": "https://br-dge.to/wp-content/uploads/2024/06/icon-modular-3.svg",
+    "contentUrl": "https://br-dge.to/wp-content/uploads/2024/06/icon-modular-3.svg",
+    "caption": "Icon Modular"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "BR-DGE",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://br-dge.to/",
+    "name": "BR-DGE",
+    "description": "Payment orchestration for the whole ecosystem",
+    "publisher": {
+     "@id": "https://br-dge.to/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://br-dge.to/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "BR-DGE",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "BR-DGE",
+    "url": "https://br-dge.to/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://br-dge.to/#/schema/logo/image/",
+     "url": "https://br-dge.to/wp-content/uploads/2024/07/br-dge-logo-for-yoast.png",
+     "contentUrl": "https://br-dge.to/wp-content/uploads/2024/07/br-dge-logo-for-yoast.png",
+     "width": 164,
+     "height": 90,
+     "caption": "BR-DGE"
+    },
+    "image": {
+     "@id": "https://br-dge.to/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/brdgeorch",
+     "https://x.com/bridgeorch"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fbr-dge.to",
+  "timestamp": "2026-09-25T11:20:36.691Z"
+ }
+]

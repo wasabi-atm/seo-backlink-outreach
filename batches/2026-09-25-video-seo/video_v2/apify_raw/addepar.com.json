@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://addepar.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Home",
+    "status": "check_circle",
+    "type": "WebPage",
+    "name": "Home",
+    "description": "Addepar is a global data and AI company serving the financial services ecosystem. Powering more than 9T in assets across 1,400+ clients and 60+ countries.",
+    "url": "https://addepar.com",
+    "publisher": {
+     "@type": "Organization",
+     "name": "Addepar",
+     "logo": {
+      "@type": "ImageObject",
+      "url": "https://addepar.com/assets/logo/addepar-logo-dark.png"
+     }
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Faddepar.com",
+  "timestamp": "2026-09-25T11:20:34.674Z"
+ }
+]

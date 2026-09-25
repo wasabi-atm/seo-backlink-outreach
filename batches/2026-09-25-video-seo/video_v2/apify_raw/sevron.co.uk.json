@@ -1,0 +1,196 @@
+[
+ {
+  "url": "https://sevron.co.uk",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5274.99 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Sevron",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Sevron",
+    "url": "https://www.sevron.co.uk",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.sevron.co.uk/landing/sevron-logo-black.webp"
+    },
+    "description": "Sevron provides industry-leading chemical safety and risk assessment software solutions.",
+    "founder": {
+     "@id": "https://www.sevron.co.uk/blog/author/dale-allen/#person"
+    },
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+44-28-4378-0470",
+     "contactType": "customer service",
+     "email": "support@sevron.co.uk",
+     "availableLanguage": "English"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Room 2, Floor 3, Maybrook House, 27-35 Grainger Street",
+     "addressLocality": "Newcastle Upon Tyne",
+     "postalCode": "NE1 5JE",
+     "addressCountry": "GB"
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/sevron",
+     "https://x.com/SevronLtd",
+     "https://www.facebook.com/sevronltd/"
+    ],
+    "openingHoursSpecification": {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:00",
+     "closes": "17:00"
+    }
+   },
+   {
+    "title": "Sevron",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.sevron.co.uk",
+    "name": "Sevron",
+    "publisher": {
+     "@id": "https://www.sevron.co.uk/#organization"
+    }
+   },
+   {
+    "title": "Health & Safety Software for COSHH Compliance",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.sevron.co.uk",
+    "name": "Health & Safety Software for COSHH Compliance",
+    "description": "Streamline COSHH and chemical safety compliance with Sevron's health and safety software. Manage risk assessments and SDS easily. Trusted by UK businesses",
+    "inLanguage": "en-GB",
+    "isPartOf": {
+     "@id": "https://www.sevron.co.uk/#website"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.sevron.co.uk/landing/revamp/5-step-wizard.webp#primaryimage"
+    },
+    "publisher": {
+     "@id": "https://www.sevron.co.uk/#organization"
+    }
+   },
+   {
+    "title": "Sevron Safety365 health and safety compliance software | Sevron",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://www.sevron.co.uk/landing/revamp/5-step-wizard.webp",
+    "name": "Sevron Safety365 health and safety compliance software | Sevron",
+    "description": "Product still of Sevron\u2019s Safety365 platform, the preferred homepage preview for search and social sharing.",
+    "caption": "Manage risk assessments, Safety Data Sheets and compliance from one platform with Safety365.",
+    "width": 1200,
+    "height": 600
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is Sevron's Safety365?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Safety365 is the complete health and safety management service from Sevron Ltd. It covers SDS and MSDS management, COSHH risk assessments, incident reporting, equipment tracking, and safety compliance monitoring in one platform. Rather than handling these as separate tasks, the system uses our online risk wizard to create compliant assessments and keeps everything connected so nothing falls through the gaps."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What does Sevron's Safety365 include?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Safety365 from Sevron Ltd includes access to the UK's largest SDS database, with millions of sheets from over 7,000 manufacturers. It also includes Spot AI, our COSHH risk assessment tool that can produce risk assessments in several seconds, along with incident reporting, equipment management, real-time compliance dashboards, and free safety training through the Knights of Safety Academy with 70+ courses. Spot AI guides users through a five-step process with tailored recommendations. The platform helps organisations identify workplace hazards and ensure effective control measures are in place."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Who is Sevron's Safety365 designed for?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Any company with workers exposed to hazardous substances or managing health and safety obligations. We work with businesses across every sector, from manufacturing floor groups to enterprise clients like Coca-Cola, GKN Aerospace, and EDF Energy. Over 685,800 safety professionals use Sevron to create and review their COSHH risk assessments and manage SDS data."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How is Safety365 different from one-time SDS services?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "One-time services give a company a snapshot, then leave. Safety365 is a continuous service that keeps SDS data current, flags regulatory changes, and makes sure COSHH compliance stays on track year-round. We review and update safety data sheets as manufacturers release new versions, so the business is never working from outdated information. That is the ground-level problem with one-off services: the moment they deliver, the data starts ageing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does Safety365 cover regulatory changes throughout the year?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Sevron monitors updates to REACH, GHS, HSE guidance, and other standards, then applies them across the platform. Our team review changes and update SDS records, COSHH risk assessments, and regulatory rules automatically. We continue to track these shifts so organisations don't have to assign someone to watch regulatory updates full time. Sevron is certified to ISO 9001 and ISO 27001, ensuring quality management and information security standards are maintained."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are SDS updates included in the Safety365 software?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "They are. Sevron's software pulls from our MSDS database of millions of sheets covering 135+ countries and 55+ languages. When a manufacturer issues a revised sheet, we amend it in the system. Users get clear alerts when an SDS linked to their COSHH assessments has changed, making it simple to review and act. If your team is unable to locate a specific sheet, our team will source it."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does Safety365 support multi-region compliance?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sevron covers 135+ countries and 55+ languages, so multi-region safety compliance is built in. The software aligns with ISO 45001, REACH, GHS, and local regulatory frameworks. For any company operating across borders, Safety365 removes the problem of managing separate compliance systems on the ground in each region."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is Safety365 suitable for small and medium-sized businesses?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Absolutely. Sevron Ltd offers a Small Business Bundle at no cost for companies with fewer than 50 employees. Smaller businesses get easy access to the same COSHH risk assessment tools, SDS management, and compliance dashboards that enterprise clients use. The software is user-friendly and easy to navigate for users with varying expertise. We built it this way because workplace safety should not depend on company size or ability to pay."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can Safety365 replace compliance software?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "In most cases, yes. Safety365 covers COSHH assessments, Safety Data Sheet management, incident reporting, equipment tracking, and action management in one secure platform. Sevron creates easy, compliant risk assessments with 90% fewer errors than manual methods, and our software controls review scheduling, audit trails, and compliance scoring. The step-by-step process helps workers understand their obligations without confusion. For many organisations, that replaces the need for separate tools."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What information is required to get started with Safety365?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We need a list of the hazardous substances used at each site, along with basic company details and worker information. Sevron's Rapid Transfer Service handles data migration, so if a company has existing SDS records or assessments in another system, we move them over. Sevron provides comprehensive onboarding to get teams compliant and running from day one. If there are questions during setup, our service team answer them directly."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Why should companies choose Sevron's Safety365?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Sevron Ltd, primarily known for its COSHH365 and Safety365 platforms, has been helping companies manage health and safety since 2007. We have built the UK's largest SDS database and developed Spot AI to create COSHH risk assessments in several seconds. Over 685,800 safety professionals trust Sevron to reduce risk and keep their groups safe. The outcomes speak for themselves: fewer errors, clear records, and safety compliance that does not consume a person's entire life, lifting the burden of constant manual admin. Learn more about how Sevron can be helpful for your business by getting in touch with our team."
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fsevron.co.uk",
+  "timestamp": "2026-09-25T11:20:25.845Z"
+ }
+]

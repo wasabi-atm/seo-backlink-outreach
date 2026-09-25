@@ -1,0 +1,217 @@
+[
+ {
+  "url": "https://tribepad.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6168.170 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Recruitment Software for Fairer, Faster, Better Hiring | Tribepad",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://tribepad.com/",
+    "name": "Recruitment Software for Fairer, Faster, Better Hiring | Tribepad",
+    "isPartOf": {
+     "@id": "https://tribepad.com/#website"
+    },
+    "about": {
+     "@id": "https://tribepad.com/#organization"
+    },
+    "datePublished": "2023-12-04T13:40:20+00:00",
+    "dateModified": "2026-09-16T13:21:01+00:00",
+    "description": "Discover Tribepad's powerful, multi-award-winning Recruitment Software to help you source, attract, screen, hire, onboard & report with ease.",
+    "breadcrumb": {
+     "@id": "https://tribepad.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://tribepad.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Tribepad",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://tribepad.com/",
+    "name": "Tribepad",
+    "description": "Cloud-based Recruitment Software",
+    "publisher": {
+     "@id": "https://tribepad.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://tribepad.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "Tribepad",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Tribepad",
+    "url": "https://tribepad.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://tribepad.com/#/schema/logo/image/",
+     "url": "https://tribepad.b-cdn.net/app/uploads/2022/04/Tribepad-logo-jpeg-1.jpg",
+     "contentUrl": "https://tribepad.b-cdn.net/app/uploads/2022/04/Tribepad-logo-jpeg-1.jpg",
+     "width": 400,
+     "height": 200,
+     "caption": "Tribepad"
+    },
+    "image": {
+     "@id": "https://tribepad.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/Tribepad/",
+     "https://x.com/tribepad",
+     "https://www.youtube.com/channel/UCfshWg7eu_Q_MIZqYZyr4TA"
+    ]
+   },
+   {
+    "title": "Tribepad Talent Acquisition Platform",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Tribepad Talent Acquisition Platform",
+    "url": "https://tribepad.com/",
+    "image": "https://tribepad.b-cdn.net/app/uploads/2021/10/Tribepad_PnWhite.jpg",
+    "description": "Tribepad is an advanced talent acquisition platform designed to streamline hiring, enhance candidate experience, and provide a powerful recruitment management system.",
+    "applicationCategory": "Hiring Software",
+    "operatingSystem": "Web-based",
+    "audience": [
+     {
+      "@type": "BusinessAudience",
+      "name": "Tribepad for growing teams",
+      "description": "Tribepad helps growing teams to hire faster, build a strong candidate pipeline and manage recruitment in one place."
+     },
+     {
+      "@type": "BusinessAudience",
+      "name": "Tribepad for enterprise businesses",
+      "description": "Tribepad supports complex, high-volume recruitment for enterprise organisations with advanced workflows, compliance and reporting."
+     }
+    ],
+    "offers": {
+     "@type": "Offer",
+     "price": "Contact for pricing",
+     "priceCurrency": "GBP"
+    },
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Results you can hang your hat on",
+      "description": "Tribepad customers achieve measurable improvements in their hiring outcomes, highlighted in the homepage results section."
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "5.0",
+     "reviewCount": "3"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      },
+      "author": {
+       "@type": "Person",
+       "name": "Jo Riley"
+      },
+      "reviewBody": "Tribepad has saved our people team so much time. Now they can focus on the value-added stuff. It\u2019s not just transactional recruitment anymore \u2013 it\u2019s tactical recruitment; strategic recruitment.",
+      "publisher": {
+       "@type": "Organization",
+       "name": "Well Pharmacy"
+      }
+     },
+     {
+      "@type": "Review",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      },
+      "author": {
+       "@type": "Person",
+       "name": "Jason Gracey"
+      },
+      "reviewBody": "I\u2019ve deployed a few recruitment systems over the years, and Tribepad has certainly been the best I\u2019ve worked with. Without a shadow of a doubt.  It\u2019s not only a new system but a totally new way of working.",
+      "publisher": {
+       "@type": "Organization",
+       "name": "Staffordshire County Council"
+      }
+     },
+     {
+      "@type": "Review",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      },
+      "author": {
+       "@type": "Person",
+       "name": "Paul Lundbeck"
+      },
+      "reviewBody": "Recruitment is a real source of accomplishment in the organisation today. We used to be involved with all sorts of firefighting and dealing with escalations but my role is infinitely easier now. It\u2019s so much faster to bring people into the organisation.",
+      "publisher": {
+       "@type": "Organization",
+       "name": "HCRG"
+      }
+     }
+    ]
+   },
+   {
+    "title": "Tribepad",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Tribepad",
+    "url": "https://tribepad.com/",
+    "logo": "https://tribepad.b-cdn.net/app/uploads/2021/10/Tribepad_PnWhite.jpg",
+    "description": "Tribepad offers an advanced talent acquisition platform that simplifies recruitment, enhances candidate experience, and streamlines hiring processes for businesses worldwide.",
+    "sameAs": [
+     "https://www.linkedin.com/company/tribepad",
+     "https://twitter.com/tribepad",
+     "https://www.facebook.com/tribepad"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+44 114 3122 110",
+     "contactType": "customer service",
+     "availableLanguage": "English"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Ftribepad.com",
+  "timestamp": "2026-09-25T11:20:19.864Z"
+ }
+]

@@ -1,0 +1,90 @@
+[
+ {
+  "url": "https://causaly.com",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6839.52 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Causaly",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Causaly",
+    "url": "https://www.causaly.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://www.causaly.com/#logo",
+     "url": "https://cdn.prod.website-files.com/66a8e5ccd2c6460e01d4d385/6718e08fb0203d34b9693190_causaly-logo-footer.svg"
+    },
+    "description": "Causaly is the agentic AI platform for life sciences, helping enterprises accelerate R&D discovery and development with scientific rigor.",
+    "sameAs": [
+     "https://www.linkedin.com/company/causaly/"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "sales",
+     "url": "https://www.causaly.com/contact-us"
+    }
+   },
+   {
+    "title": "Causaly",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.causaly.com/",
+    "name": "Causaly",
+    "publisher": {
+     "@id": "https://www.causaly.com/#organization"
+    },
+    "inLanguage": "en"
+   },
+   {
+    "title": "Causaly",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.causaly.com/",
+    "name": "Causaly",
+    "isPartOf": {
+     "@id": "https://www.causaly.com/#website"
+    },
+    "about": {
+     "@id": "https://www.causaly.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.causaly.com/#homepage-image"
+    },
+    "inLanguage": "en"
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/66a8e5ccd2c6460e01d4d385/672df2a4ee2a2b11a52a6c72_OG%20Image%20-%20Home.png"
+   },
+   {
+    "title": "Causaly",
+    "status": "check_circle",
+    "type": "WebApplication",
+    "name": "Causaly",
+    "url": "https://www.causaly.com/",
+    "description": "Only Causaly combines advanced agentic AI, precision knowledge graphs, and workflow automation to accelerate R&D productivity and decision-making at scale.",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Web",
+    "image": {
+     "@id": "https://www.causaly.com/#homepage-image"
+    },
+    "provider": {
+     "@id": "https://www.causaly.com/#organization"
+    },
+    "isPartOf": {
+     "@id": "https://www.causaly.com/#website"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcausaly.com",
+  "timestamp": "2026-09-25T11:20:21.656Z"
+ }
+]

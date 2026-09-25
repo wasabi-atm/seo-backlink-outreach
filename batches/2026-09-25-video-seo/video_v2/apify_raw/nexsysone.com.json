@@ -1,0 +1,126 @@
+[
+ {
+  "url": "https://nexsysone.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "End-to-End Software Solutions | NEXSYS-ONE",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.nexsysone.com/",
+    "name": "End-to-End Software Solutions | NEXSYS-ONE",
+    "isPartOf": {
+     "@id": "https://www.nexsysone.com/#website"
+    },
+    "about": {
+     "@id": "https://www.nexsysone.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.nexsysone.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.nexsysone.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.nexsysone.com/wp-content/uploads/2025/05/NXO-icon.png",
+    "datePublished": "2025-03-06T06:44:31+00:00",
+    "dateModified": "2026-09-23T11:36:12+00:00",
+    "description": "NEXSYS-ONE offers tailored solutions for network infrastructure companies in the Telecom and Energy sectors. Customers can manage distributed assets efficiently, ensuring clear communication and consistency. The software connects all operations into a modular end-to-end platform, driving unmatched service solutions. NEXSYS-ONE software modules increase efficiency, leverage cost savings, and allow for comprehensive visibility.",
+    "breadcrumb": {
+     "@id": "https://www.nexsysone.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.nexsysone.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.nexsysone.com/wp-content/uploads/2025/05/NXO-icon.png",
+    "contentUrl": "https://www.nexsysone.com/wp-content/uploads/2025/05/NXO-icon.png",
+    "width": 500,
+    "height": 500,
+    "caption": "NEXSYS-ONE"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "NEXSYS-ONE",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.nexsysone.com/",
+    "name": "NEXSYS-ONE",
+    "description": "NEXSYS-ONE",
+    "publisher": {
+     "@id": "https://www.nexsysone.com/#organization"
+    },
+    "alternateName": "NEXSYS-ONE",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.nexsysone.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "NEXSYS-ONE",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "NEXSYS-ONE",
+    "alternateName": "NEXSYS-ONE",
+    "url": "https://www.nexsysone.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.nexsysone.com/#/schema/logo/image/",
+     "url": "https://www.nexsysone.com/wp-content/uploads/2022/02/cropped-logo-nexsys-one.png",
+     "contentUrl": "https://www.nexsysone.com/wp-content/uploads/2022/02/cropped-logo-nexsys-one.png",
+     "width": 240,
+     "height": 51,
+     "caption": "NEXSYS-ONE"
+    },
+    "image": {
+     "@id": "https://www.nexsysone.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/nexsysone/",
+     "https://www.youtube.com/@NEXSYS-ONE"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fnexsysone.com",
+  "timestamp": "2026-09-25T11:20:17.317Z"
+ }
+]

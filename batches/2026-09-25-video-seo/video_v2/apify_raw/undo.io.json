@@ -1,0 +1,117 @@
+[
+ {
+  "url": "https://undo.io",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 15; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.4390.59 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Undo - Runtime context for coding agents",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://undo.io/",
+    "name": "Undo - Runtime context for coding agents",
+    "isPartOf": {
+     "@id": "https://undo.io/#website"
+    },
+    "about": {
+     "@id": "https://undo.io/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://undo.io/#primaryimage"
+    },
+    "image": {
+     "@id": "https://undo.io/#primaryimage"
+    },
+    "thumbnailUrl": "https://undo.io/wp-content/uploads/2024/04/checkmark.svg",
+    "datePublished": "2025-09-22T10:31:42+00:00",
+    "dateModified": "2026-09-17T14:11:11+00:00",
+    "description": "Undo gives coding agents the runtime context to solve the most complex problems on the most complex codebases. Fully automated root-cause analysis, trusted by Nvidia, AWS, Bloomberg and Palo Alto Networks.",
+    "breadcrumb": {
+     "@id": "https://undo.io/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://undo.io/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://undo.io/wp-content/uploads/2024/04/checkmark.svg",
+    "contentUrl": "https://undo.io/wp-content/uploads/2024/04/checkmark.svg"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Runtime Context for Coding Agents \u00a6 Undo",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://undo.io/",
+    "name": "Runtime Context for Coding Agents \u00a6 Undo",
+    "description": "",
+    "publisher": {
+     "@id": "https://undo.io/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://undo.io/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Runtime Context for Coding Agents \u00a6 Undo",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Runtime Context for Coding Agents \u00a6 Undo",
+    "url": "https://undo.io/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://undo.io/#/schema/logo/image/",
+     "url": "https://undo.io/wp-content/uploads/2023/05/image-2023-07-28T061431.668.png",
+     "contentUrl": "https://undo.io/wp-content/uploads/2023/05/image-2023-07-28T061431.668.png",
+     "width": 185,
+     "height": 165,
+     "caption": "Runtime Context for Coding Agents \u00a6 Undo"
+    },
+    "image": {
+     "@id": "https://undo.io/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fundo.io",
+  "timestamp": "2026-09-25T11:20:38.996Z"
+ }
+]

@@ -1,0 +1,689 @@
+[
+ {
+  "url": "https://certinia.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6898.94 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 35,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Certinia | Cloud PSA & Financial Management Software Built on Salesforce",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.certinia.com/",
+    "name": "Certinia | Cloud PSA & Financial Management Software Built on Salesforce",
+    "headline": "Certinia | Cloud PSA & Financial Management Software Built on Salesforce",
+    "description": "Certinia provides AI-powered cloud software for Professional Services Automation, Financial Management, Customer Success, and autonomous services operations built natively on Salesforce.",
+    "inLanguage": "en-US",
+    "isPartOf": {
+     "@id": "https://www.certinia.com/#website"
+    },
+    "publisher": {
+     "@id": "https://www.certinia.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.certinia.com/#primaryimage"
+    },
+    "breadcrumb": {
+     "@id": "https://www.certinia.com/#breadcrumb"
+    },
+    "mainEntity": {
+     "@id": "https://www.certinia.com/#certinia-platform"
+    },
+    "about": [
+     {
+      "@id": "https://www.certinia.com/#organization"
+     },
+     {
+      "@id": "https://www.certinia.com/#veda-ai"
+     },
+     {
+      "@id": "https://www.certinia.com/#psa"
+     },
+     {
+      "@id": "https://www.certinia.com/#erp"
+     },
+     {
+      "@id": "https://www.certinia.com/#crm"
+     },
+     {
+      "@id": "https://www.certinia.com/#financial-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#customer-success"
+     },
+     {
+      "@id": "https://www.certinia.com/#artificial-intelligence"
+     },
+     {
+      "@id": "https://www.certinia.com/#autonomous-services"
+     },
+     {
+      "@id": "https://www.certinia.com/#service-economy"
+     }
+    ],
+    "mentions": [
+     {
+      "@id": "https://www.certinia.com/#salesforce"
+     },
+     {
+      "@id": "https://www.certinia.com/#financialforce"
+     },
+     {
+      "@id": "https://www.certinia.com/#consulting-industry"
+     },
+     {
+      "@id": "https://www.certinia.com/#software-industry"
+     },
+     {
+      "@id": "https://www.certinia.com/#it-services"
+     },
+     {
+      "@id": "https://www.certinia.com/#tax-audit"
+     },
+     {
+      "@id": "https://www.certinia.com/#project-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#resource-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#predictive-analytics"
+     },
+     {
+      "@id": "https://www.certinia.com/#workflow-automation"
+     }
+    ]
+   },
+   {
+    "title": "Certinia",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.certinia.com/",
+    "name": "Certinia",
+    "alternateName": "FinancialForce",
+    "publisher": {
+     "@id": "https://www.certinia.com/#organization"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.certinia.com/search/?q={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "Certinia",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Certinia",
+    "legalName": "Certinia Inc.",
+    "alternateName": [
+     "FinancialForce",
+     "FinancialForce.com"
+    ],
+    "url": "https://www.certinia.com/",
+    "logo": {
+     "@id": "https://www.certinia.com/#logo"
+    },
+    "image": {
+     "@id": "https://www.certinia.com/#primaryimage"
+    },
+    "description": "Certinia delivers AI-powered Professional Services Automation, Financial Management, Customer Success, and autonomous service operations software built natively on Salesforce.",
+    "slogan": "AI-powered autonomous services platform",
+    "foundingDate": "2009",
+    "sameAs": [
+     "https://www.linkedin.com/company/certinia/",
+     "https://www.instagram.com/certiniainc/",
+     "https://www.youtube.com/@Certinia"
+    ],
+    "brand": {
+     "@id": "https://www.certinia.com/#financialforce"
+    },
+    "memberOf": {
+     "@id": "https://www.certinia.com/#salesforce-ecosystem"
+    },
+    "owns": [
+     {
+      "@id": "https://www.certinia.com/#certinia-platform"
+     },
+     {
+      "@id": "https://www.certinia.com/#veda-ai"
+     },
+     {
+      "@id": "https://www.certinia.com/#ps-cloud"
+     },
+     {
+      "@id": "https://www.certinia.com/#fm-cloud"
+     },
+     {
+      "@id": "https://www.certinia.com/#cs-cloud"
+     }
+    ],
+    "knowsAbout": [
+     {
+      "@id": "https://www.certinia.com/#psa"
+     },
+     {
+      "@id": "https://www.certinia.com/#erp"
+     },
+     {
+      "@id": "https://www.certinia.com/#crm"
+     },
+     {
+      "@id": "https://www.certinia.com/#financial-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#customer-success"
+     },
+     {
+      "@id": "https://www.certinia.com/#agentic-ai"
+     },
+     {
+      "@id": "https://www.certinia.com/#artificial-intelligence"
+     },
+     {
+      "@id": "https://www.certinia.com/#predictive-analytics"
+     },
+     {
+      "@id": "https://www.certinia.com/#resource-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#project-management"
+     }
+    ],
+    "hasOfferCatalog": [
+     {
+      "@id": "https://www.certinia.com/#solutions-catalog"
+     },
+     {
+      "@id": "https://www.certinia.com/#industries-catalog"
+     },
+     {
+      "@id": "https://www.certinia.com/#services-catalog"
+     }
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "@id": "https://www.certinia.com/#address",
+     "streetAddress": "301 Congress Avenue, Suite 800",
+     "addressLocality": "Austin",
+     "addressRegion": "TX",
+     "postalCode": "78701",
+     "addressCountry": "US"
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "@id": "https://www.certinia.com/#sales-contact",
+      "contactType": "sales",
+      "telephone": "+1-866-743-2220",
+      "url": "https://www.certinia.com/get-a-demo/",
+      "areaServed": "Global",
+      "availableLanguage": "English"
+     },
+     {
+      "@type": "ContactPoint",
+      "@id": "https://www.certinia.com/#support-contact",
+      "contactType": "customer support",
+      "url": "https://www.certinia.com/customer-support/",
+      "areaServed": "Global",
+      "availableLanguage": "English"
+     }
+    ]
+   },
+   {
+    "title": "Salesforce",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Salesforce",
+    "sameAs": "https://en.wikipedia.org/wiki/Salesforce"
+   },
+   {
+    "title": "FinancialForce",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "FinancialForce",
+    "sameAs": "https://en.wikipedia.org/wiki/FinancialForce.com"
+   },
+   {
+    "title": "Salesforce Ecosystem",
+    "status": "check_circle",
+    "type": "Thing",
+    "name": "Salesforce Ecosystem"
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://assets.certinia.com/images/Zz1jOTFkMjBjZTc0NjkxMWYwYmU1ZmIyZGVlMThhYjBhNw==",
+    "caption": "Certinia Logo"
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://www.certinia.com/contentassets/9081c86f50d547a08afce649880d9d7a/opengraph_certinia.jpg",
+    "caption": "Certinia AI-powered Professional Services Platform"
+   },
+   {
+    "title": "Certinia Platform",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Certinia Platform",
+    "alternateName": [
+     "Certinia Cloud Platform",
+     "Certinia PSA Suite"
+    ],
+    "applicationCategory": "BusinessApplication",
+    "applicationSubCategory": [
+     "Professional Services Automation",
+     "Financial Management",
+     "Customer Success",
+     "AI Operations Platform"
+    ],
+    "operatingSystem": "Cloud",
+    "url": "https://www.certinia.com/",
+    "provider": {
+     "@id": "https://www.certinia.com/#organization"
+    },
+    "isBasedOn": {
+     "@id": "https://www.certinia.com/#salesforce"
+    },
+    "featureList": [
+     "Professional Services Automation",
+     "Financial Management",
+     "Customer Success Management",
+     "Revenue Forecasting",
+     "Project Delivery",
+     "Resource Planning",
+     "AI Workflow Automation",
+     "Agentic AI Operations",
+     "Customer Lifecycle Visibility",
+     "Predictive Analytics",
+     "Services Delivery Intelligence",
+     "Operational Automation",
+     "Autonomous Services Execution"
+    ],
+    "hasPart": [
+     {
+      "@id": "https://www.certinia.com/#veda-ai"
+     },
+     {
+      "@id": "https://www.certinia.com/#ps-cloud"
+     },
+     {
+      "@id": "https://www.certinia.com/#fm-cloud"
+     },
+     {
+      "@id": "https://www.certinia.com/#cs-cloud"
+     }
+    ],
+    "audience": {
+     "@type": "BusinessAudience",
+     "audienceType": [
+      "Professional Services Firms",
+      "Consulting Firms",
+      "Software Companies",
+      "IT Services Companies",
+      "Tax and Audit Firms"
+     ]
+    },
+    "offers": {
+     "@type": "Offer",
+     "url": "https://www.certinia.com/get-a-demo/",
+     "price": "0",
+     "priceCurrency": "USD",
+     "availability": "https://schema.org/InStock"
+    }
+   },
+   {
+    "title": "Veda AI",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Veda AI",
+    "alternateName": [
+     "Certinia Veda AI",
+     "Veda"
+    ],
+    "url": "https://www.certinia.com/solutions/veda-ai/",
+    "applicationCategory": "ArtificialIntelligenceApplication",
+    "applicationSubCategory": [
+     "Agentic AI",
+     "Predictive Analytics",
+     "Enterprise AI",
+     "AI Operations"
+    ],
+    "operatingSystem": "Cloud",
+    "provider": {
+     "@id": "https://www.certinia.com/#organization"
+    },
+    "isPartOf": {
+     "@id": "https://www.certinia.com/#certinia-platform"
+    },
+    "description": "Veda AI is Certinia\u2019s AI-powered autonomous services engine that provides predictive forecasting, workflow automation, resource intelligence, project tracking, customer health analysis, and operational decision support.",
+    "featureList": [
+     "Agentic AI",
+     "Predictive Insights",
+     "Forecast Automation",
+     "Revenue Intelligence",
+     "Project Risk Detection",
+     "Resource Matching",
+     "Operational Intelligence",
+     "Customer Health Monitoring",
+     "Autonomous Workflow Automation",
+     "AI-powered Delivery Optimization",
+     "Real-time Operational Visibility"
+    ],
+    "about": [
+     {
+      "@id": "https://www.certinia.com/#artificial-intelligence"
+     },
+     {
+      "@id": "https://www.certinia.com/#agentic-ai"
+     },
+     {
+      "@id": "https://www.certinia.com/#predictive-analytics"
+     },
+     {
+      "@id": "https://www.certinia.com/#workflow-automation"
+     }
+    ],
+    "offers": {
+     "@type": "Offer",
+     "url": "https://www.certinia.com/get-a-demo/",
+     "price": "0",
+     "priceCurrency": "USD"
+    }
+   },
+   {
+    "title": "Professional Services Cloud",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Professional Services Cloud",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Cloud",
+    "provider": {
+     "@id": "https://www.certinia.com/#organization"
+    }
+   },
+   {
+    "title": "Financial Management Cloud",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Financial Management Cloud",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Cloud",
+    "provider": {
+     "@id": "https://www.certinia.com/#organization"
+    }
+   },
+   {
+    "title": "Customer Success Cloud",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "Customer Success Cloud",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Cloud",
+    "provider": {
+     "@id": "https://www.certinia.com/#organization"
+    }
+   },
+   {
+    "title": "Certinia Solutions Catalog",
+    "status": "check_circle",
+    "type": "OfferCatalog",
+    "name": "Certinia Solutions Catalog",
+    "itemListElement": [
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@id": "https://www.certinia.com/#ps-cloud"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@id": "https://www.certinia.com/#fm-cloud"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@id": "https://www.certinia.com/#cs-cloud"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@id": "https://www.certinia.com/#veda-ai"
+      }
+     }
+    ]
+   },
+   {
+    "title": "Industries Served by Certinia",
+    "status": "check_circle",
+    "type": "OfferCatalog",
+    "name": "Industries Served by Certinia",
+    "itemListElement": [
+     {
+      "@id": "https://www.certinia.com/#consulting-industry"
+     },
+     {
+      "@id": "https://www.certinia.com/#software-industry"
+     },
+     {
+      "@id": "https://www.certinia.com/#it-services"
+     },
+     {
+      "@id": "https://www.certinia.com/#tax-audit"
+     }
+    ]
+   },
+   {
+    "title": "Consulting and Advisory Solutions",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "Consulting and Advisory Solutions",
+    "serviceType": "Professional Services Automation"
+   },
+   {
+    "title": "Software Industry Solutions",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "Software Industry Solutions",
+    "serviceType": "Software Operations Management"
+   },
+   {
+    "title": "IT Services Solutions",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "IT Services Solutions",
+    "serviceType": "IT Services Automation"
+   },
+   {
+    "title": "Tax and Audit Industry Solutions",
+    "status": "check_circle",
+    "type": "Service",
+    "name": "Tax and Audit Industry Solutions",
+    "serviceType": "Compliance and Audit Operations"
+   },
+   {
+    "title": "Certinia Services Catalog",
+    "status": "check_circle",
+    "type": "OfferCatalog",
+    "name": "Certinia Services Catalog",
+    "itemListElement": [
+     {
+      "@type": "Service",
+      "name": "Customer Support",
+      "url": "https://www.certinia.com/customer-support/"
+     },
+     {
+      "@type": "Service",
+      "name": "Implementation Services",
+      "url": "https://www.certinia.com/partners/"
+     },
+     {
+      "@type": "Service",
+      "name": "Integration Services",
+      "url": "https://www.certinia.com/integrations/"
+     }
+    ]
+   },
+   {
+    "title": "Certinia Enterprise AI Knowledge Graph",
+    "status": "check_circle",
+    "type": "DefinedTermSet",
+    "name": "Certinia Enterprise AI Knowledge Graph",
+    "hasDefinedTerm": [
+     {
+      "@id": "https://www.certinia.com/#psa"
+     },
+     {
+      "@id": "https://www.certinia.com/#erp"
+     },
+     {
+      "@id": "https://www.certinia.com/#crm"
+     },
+     {
+      "@id": "https://www.certinia.com/#financial-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#customer-success"
+     },
+     {
+      "@id": "https://www.certinia.com/#artificial-intelligence"
+     },
+     {
+      "@id": "https://www.certinia.com/#agentic-ai"
+     },
+     {
+      "@id": "https://www.certinia.com/#predictive-analytics"
+     },
+     {
+      "@id": "https://www.certinia.com/#project-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#resource-management"
+     },
+     {
+      "@id": "https://www.certinia.com/#workflow-automation"
+     },
+     {
+      "@id": "https://www.certinia.com/#autonomous-services"
+     }
+    ]
+   },
+   {
+    "title": "Professional Services Automation",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Professional Services Automation",
+    "sameAs": "https://en.wikipedia.org/wiki/Professional_services_automation"
+   },
+   {
+    "title": "Enterprise Resource Planning",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Enterprise Resource Planning",
+    "sameAs": "https://en.wikipedia.org/wiki/Enterprise_resource_planning"
+   },
+   {
+    "title": "Customer Relationship Management",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Customer Relationship Management",
+    "sameAs": "https://en.wikipedia.org/wiki/Customer_relationship_management"
+   },
+   {
+    "title": "Financial Management",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Financial Management",
+    "sameAs": "https://en.wikipedia.org/wiki/Financial_management"
+   },
+   {
+    "title": "Customer Success",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Customer Success",
+    "sameAs": "https://en.wikipedia.org/wiki/Customer_success"
+   },
+   {
+    "title": "Artificial Intelligence",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Artificial Intelligence",
+    "sameAs": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+   },
+   {
+    "title": "Agentic AI",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Agentic AI",
+    "sameAs": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+   },
+   {
+    "title": "Predictive Analytics",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Predictive Analytics",
+    "sameAs": "https://en.wikipedia.org/wiki/Predictive_analytics"
+   },
+   {
+    "title": "Project Management",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Project Management",
+    "sameAs": "https://en.wikipedia.org/wiki/Project_management"
+   },
+   {
+    "title": "Resource Management",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Resource Management",
+    "sameAs": "https://en.wikipedia.org/wiki/Resource_management"
+   },
+   {
+    "title": "Workflow Automation",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Workflow Automation",
+    "sameAs": "https://en.wikipedia.org/wiki/Workflow"
+   },
+   {
+    "title": "Autonomous Services Operations",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Autonomous Services Operations",
+    "description": "AI-powered autonomous operational execution and intelligence for services businesses."
+   },
+   {
+    "title": "Service Economy",
+    "status": "check_circle",
+    "type": "DefinedTerm",
+    "name": "Service Economy",
+    "sameAs": "https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.certinia.com/"
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcertinia.com",
+  "timestamp": "2026-09-25T11:20:43.040Z"
+ }
+]

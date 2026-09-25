@@ -1,0 +1,108 @@
+[
+ {
+  "url": "https://rfpro.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6714.181 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Automotive Simulation &#8226; Driving Simulation &#8226; Autonomous Driving &#8226; rFpro",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://rfpro.com/",
+    "name": "Automotive Simulation &#8226; Driving Simulation &#8226; Autonomous Driving &#8226; rFpro",
+    "isPartOf": {
+     "@id": "https://rfpro.com/#website"
+    },
+    "about": {
+     "@id": "https://rfpro.com/#organization"
+    },
+    "datePublished": "2022-02-23T11:11:04+00:00",
+    "dateModified": "2025-02-18T12:06:47+00:00",
+    "description": "Automotive simulation brought to you by rFpro, Engineering grade vehicle simulation and engineering dynamics, discover more call 02380 989235",
+    "breadcrumb": {
+     "@id": "https://rfpro.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://rfpro.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "rFpro",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://rfpro.com/",
+    "name": "rFpro",
+    "description": "Driving simulation for Deep Learning Autonomous Driving, ADAS, Vehicle Dynamics and Motorsport",
+    "publisher": {
+     "@id": "https://rfpro.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://rfpro.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "rFpro",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "rFpro",
+    "url": "https://rfpro.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://rfpro.com/#/schema/logo/image/",
+     "url": "https://rfpro.com/wp-content/uploads/rfpro.jpg",
+     "contentUrl": "https://rfpro.com/wp-content/uploads/rfpro.jpg",
+     "width": "2000",
+     "height": "1250",
+     "caption": "rFpro"
+    },
+    "image": {
+     "@id": "https://rfpro.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://x.com/rFproNews",
+     "https://www.linkedin.com/company/rfpro/",
+     "https://vimeo.com/rfpro",
+     "https://www.youtube.com/channel/UCti_JV3cUujap0i2NVihPXw"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Frfpro.com",
+  "timestamp": "2026-09-25T11:20:26.207Z"
+ }
+]

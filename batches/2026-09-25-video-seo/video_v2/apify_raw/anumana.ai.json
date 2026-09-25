@@ -1,0 +1,107 @@
+[
+ {
+  "url": "https://anumana.ai",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Anumana - Unlocking the Language of the Heart",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://anumana.ai/",
+    "name": "Anumana - Unlocking the Language of the Heart",
+    "isPartOf": {
+     "@id": "https://anumana.ai/#website"
+    },
+    "about": {
+     "@id": "https://anumana.ai/#organization"
+    },
+    "datePublished": "2025-08-21T15:21:08+00:00",
+    "dateModified": "2026-05-06T16:12:20+00:00",
+    "description": "Anumana is a new AI-driven health technology company from nference, developing and delivering ECG algorithms enabling early diagnosis and intervention.",
+    "breadcrumb": {
+     "@id": "https://anumana.ai/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://anumana.ai/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Anumana",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://anumana.ai/",
+    "name": "Anumana",
+    "description": "",
+    "publisher": {
+     "@id": "https://anumana.ai/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://anumana.ai/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Anumana",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Anumana",
+    "url": "https://anumana.ai/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://anumana.ai/#/schema/logo/image/",
+     "url": "https://anumana.ai/wp-content/uploads/2026/01/logo-blue.png",
+     "contentUrl": "https://anumana.ai/wp-content/uploads/2026/01/logo-blue.png",
+     "width": 350,
+     "height": 68,
+     "caption": "Anumana"
+    },
+    "image": {
+     "@id": "https://anumana.ai/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://x.com/anumanainc",
+     "https://www.linkedin.com/company/anumana-inc",
+     "https://www.youtube.com/channel/UCZlMq0PGtuZg3hLPJaVIetA"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fanumana.ai",
+  "timestamp": "2026-09-25T11:20:43.813Z"
+ }
+]

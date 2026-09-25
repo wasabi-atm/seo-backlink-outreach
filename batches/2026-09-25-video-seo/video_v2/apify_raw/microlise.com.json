@@ -1,0 +1,127 @@
+[
+ {
+  "url": "https://microlise.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.5182.172 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Microlise | Telematics & Technology Solutions for Fleet Operators",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.microlise.com/",
+    "name": "Microlise | Telematics & Technology Solutions for Fleet Operators",
+    "isPartOf": {
+     "@id": "https://www.microlise.com/#website"
+    },
+    "about": {
+     "@id": "https://www.microlise.com/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.microlise.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.microlise.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.microlise.com/wp-content/uploads/2020/11/Clear-Hero-Bar-Desktop-update-final.gif",
+    "datePublished": "2014-10-29T14:01:00+00:00",
+    "dateModified": "2026-09-18T16:34:53+00:00",
+    "description": "Microlise creates actionable insights from connected assets, for fleet operators and product manufacturers.",
+    "breadcrumb": {
+     "@id": "https://www.microlise.com/#breadcrumb"
+    },
+    "inLanguage": "en-GB",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.microlise.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-GB",
+    "url": "https://www.microlise.com/wp-content/uploads/2020/11/Clear-Hero-Bar-Desktop-update-final.gif",
+    "contentUrl": "https://www.microlise.com/wp-content/uploads/2020/11/Clear-Hero-Bar-Desktop-update-final.gif",
+    "width": 2048,
+    "height": 785
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Microlise",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.microlise.com/",
+    "name": "Microlise",
+    "description": "Telematics, Transport &amp; Fleet Management Solutions",
+    "publisher": {
+     "@id": "https://www.microlise.com/#organization"
+    },
+    "alternateName": "Microlise",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.microlise.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-GB"
+   },
+   {
+    "title": "Microlise",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Microlise",
+    "alternateName": "Microlise",
+    "url": "https://www.microlise.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-GB",
+     "@id": "https://www.microlise.com/#/schema/logo/image/",
+     "url": "https://www.microlise.com/wp-content/uploads/2024/06/cropped-Microlise-Logo-Primary-Electric-1.png",
+     "contentUrl": "https://www.microlise.com/wp-content/uploads/2024/06/cropped-Microlise-Logo-Primary-Electric-1.png",
+     "width": 235,
+     "height": 30,
+     "caption": "Microlise"
+    },
+    "image": {
+     "@id": "https://www.microlise.com/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/microliseltd/",
+     "https://x.com/microlise",
+     "https://www.linkedin.com/company/microlise",
+     "https://www.youtube.com/user/MicroliseLtd"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmicrolise.com",
+  "timestamp": "2026-09-25T11:20:23.742Z"
+ }
+]

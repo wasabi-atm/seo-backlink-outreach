@@ -1,0 +1,161 @@
+[
+ {
+  "url": "https://robomq.io",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 8,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "RoboMQ",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "RoboMQ",
+    "url": "https://www.robomq.io",
+    "sameAs": [
+     "https://www.facebook.com/robomq/",
+     "https://twitter.com/robomq",
+     "https://www.linkedin.com/company/robomq-io/",
+     "https://www.youtube.com/channel/UCbgGrNg27jzB1z2uuT1FzKw/feed?view_as=public"
+    ],
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://www.robomq.io/#logo",
+     "url": "https://www.robomq.io/wp-content/uploads/2018/11/mainlogo.png",
+     "contentUrl": "https://www.robomq.io/wp-content/uploads/2018/11/mainlogo.png",
+     "caption": "Employee Lifecycle Identity Management - RoboMQ",
+     "inLanguage": "en-US"
+    }
+   },
+   {
+    "title": "Employee Lifecycle Identity Management - RoboMQ",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.robomq.io",
+    "name": "Employee Lifecycle Identity Management - RoboMQ",
+    "publisher": {
+     "@id": "https://www.robomq.io/#organization"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.robomq.io/?s={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://www.robomq.io/wp-content/uploads/2023/11/RoboMQ-Featured-Image.webp",
+    "width": "697",
+    "height": "364",
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "RoboMQ | Workforce Lifecycle Management &amp; Identity Governance",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.robomq.io/",
+    "name": "RoboMQ | Workforce Lifecycle Management &amp; Identity Governance",
+    "datePublished": "2023-02-17T06:52:16-05:00",
+    "dateModified": "2026-09-23T09:25:47-04:00",
+    "about": {
+     "@id": "https://www.robomq.io/#organization"
+    },
+    "isPartOf": {
+     "@id": "https://www.robomq.io/#website"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.robomq.io/wp-content/uploads/2023/11/RoboMQ-Featured-Image.webp"
+    },
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Somya Shrimal",
+    "status": "check_circle",
+    "type": "Person",
+    "name": "Somya Shrimal",
+    "image": {
+     "@type": "ImageObject",
+     "@id": "https://secure.gravatar.com/avatar/f8db46e50e7c377e8e170c13665c2414b83eb04be53ca1b327b08c4d006b6652?s=96&amp;d=identicon&amp;r=g",
+     "url": "https://secure.gravatar.com/avatar/f8db46e50e7c377e8e170c13665c2414b83eb04be53ca1b327b08c4d006b6652?s=96&amp;d=identicon&amp;r=g",
+     "caption": "Somya Shrimal",
+     "inLanguage": "en-US"
+    },
+    "worksFor": {
+     "@id": "https://www.robomq.io/#organization"
+    }
+   },
+   {
+    "title": "RoboMQ | Workforce Lifecycle Management &amp; Identity Governance",
+    "status": "check_circle",
+    "type": "Article",
+    "headline": "RoboMQ | Workforce Lifecycle Management &amp; Identity Governance",
+    "description": "RoboMQ automates workforce lifecycle management, identity governance, onboarding, offboarding, and secure HR system integrations.",
+    "keywords": "Workforce Lifecycle Management,Workforce Lifecycle Identity Management,enterprise application integration,HR System Integration,api integration platforms,api integrations,Employee Onboarding,New Employee Onboarding,Microsoft Integration Services,workforce identity management,workforce identity,workforce lifecycle",
+    "author": {
+     "@id": "https://www.robomq.io/#author",
+     "name": "Somya Shrimal"
+    },
+    "name": "RoboMQ | Workforce Lifecycle Management &amp; Identity Governance",
+    "isPartOf": {
+     "@id": "https://www.robomq.io/#webpage"
+    },
+    "publisher": {
+     "@id": "https://www.robomq.io/#organization"
+    },
+    "image": {
+     "@id": "https://www.robomq.io/wp-content/uploads/2023/11/RoboMQ-Featured-Image.webp"
+    },
+    "inLanguage": "en-US",
+    "mainEntityOfPage": {
+     "@id": "https://www.robomq.io/#webpage"
+    }
+   },
+   {
+    "title": "RoboMQ",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "RoboMQ",
+    "url": "https://www.robomq.io",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.robomq.io/wp-content/uploads/2018/05/RoboMQ-new-logo-01.png"
+    },
+    "sameAs": [
+     "https://www.linkedin.com/company/robomq",
+     "https://twitter.com/RoboMQ",
+     "https://www.facebook.com/robomq"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+1-800-880-3714",
+     "contactType": "Sales",
+     "areaServed": "US",
+     "availableLanguage": "English"
+    }
+   },
+   {
+    "title": "RoboMQ",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.robomq.io",
+    "name": "RoboMQ",
+    "publisher": {
+     "@id": "https://www.robomq.io/#organization"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.robomq.io/?s={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Frobomq.io",
+  "timestamp": "2026-09-25T11:20:32.597Z"
+ }
+]

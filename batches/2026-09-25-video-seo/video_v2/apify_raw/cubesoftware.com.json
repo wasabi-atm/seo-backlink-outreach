@@ -1,0 +1,76 @@
+[
+ {
+  "url": "https://cubesoftware.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 11; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5900.26 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Cube",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Cube",
+    "alternateName": [
+     "Cube Software",
+     "Cube Planning, Inc."
+    ],
+    "url": "https://www.cubesoftware.com/",
+    "logo": "https://8159624.fs1.hubspotusercontent-na1.net/hubfs/8159624/Cube%20website%20-%202024/Logos/cube-logo-navy.svg",
+    "description": "Cube connects spreadsheets, source systems, and teams into a single, no-code FP&A platform so finance can move faster, collaborate more deeply, and guide smarter business decisions in real time. The flexibility of Excel, Google Sheets, Slack, Teams, Cube Workspace, and more, powered by Cube\u2019s connected data infrastructure.",
+    "sameAs": [
+     "https://www.linkedin.com/company/cube-software/",
+     "https://x.com/cubesoftwarehq",
+     "https://pitchbook.com/profiles/company/375610-78",
+     "https://www.g2.com/products/cube-software/reviews",
+     "https://www.trustradius.com/products/cube-software/reviews",
+     "https://www.softwareadvice.com/product/238885-Cube/",
+     "https://financeos.com/cube-software/",
+     "https://research.com/software/reviews/cube-software",
+     "https://softwarefinder.com/project-management-software/cube",
+     "https://appsource.microsoft.com/en-us/product/office/wa200000513?tab=overview",
+     "https://crozdesk.com/software/cube-9842ce6b-7240-4f9c-afe0-4d9375b4d7bb",
+     "https://www.capterra.com/p/206989/Cube/"
+    ],
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "contactType": "Customer Support",
+     "telephone": "+1-212-203-0098",
+     "url": "https://help.cubesoftware.com/hc/en-us",
+     "email": "hello@cubesoftware.com",
+     "availableLanguage": [
+      "en"
+     ]
+    },
+    "foundingDate": "2018",
+    "founders": [
+     {
+      "@type": "Person",
+      "name": "Christina Ross",
+      "jobTitle": "Founder & CEO",
+      "sameAs": [
+       "https://www.linkedin.com/in/cfochristina/",
+       "https://x.com/cfochristina"
+      ]
+     }
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "447 Broadway, 2nd Floor, Suite 108",
+     "addressLocality": "New York",
+     "addressRegion": "NY",
+     "postalCode": "10013",
+     "addressCountry": "US"
+    },
+    "awards": [
+     "SOC 2 Type II compliant"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcubesoftware.com",
+  "timestamp": "2026-09-25T11:20:53.714Z"
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "url": "https://mycom.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.4741.12 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Mycom - AI + Data + Automation",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://mycom.com/",
+    "name": "Mycom - AI + Data + Automation",
+    "isPartOf": {
+     "@id": "https://mycom.com/#website"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://mycom.com/#primaryimage"
+    },
+    "image": {
+     "@id": "https://mycom.com/#primaryimage"
+    },
+    "thumbnailUrl": "https://mycom.com/wp-content/uploads/2025/03/GenAie-WEBSITE.png",
+    "datePublished": "2025-02-10T10:13:54+00:00",
+    "dateModified": "2026-09-11T10:31:59+00:00",
+    "description": "Enabling telcos to offer exceptional service quality for mobile and fiber networks, at scale, through AI, data and automation.",
+    "breadcrumb": {
+     "@id": "https://mycom.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://mycom.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://mycom.com/wp-content/uploads/2025/03/GenAie-WEBSITE.png",
+    "contentUrl": "https://mycom.com/wp-content/uploads/2025/03/GenAie-WEBSITE.png",
+    "width": 966,
+    "height": 970
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Mycom",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://mycom.com/",
+    "name": "Mycom",
+    "description": "AI + Data + Automation",
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://mycom.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmycom.com",
+  "timestamp": "2026-09-25T11:20:21.272Z"
+ }
+]

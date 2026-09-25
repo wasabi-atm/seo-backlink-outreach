@@ -1,0 +1,153 @@
+[
+ {
+  "url": "https://socialpilot.co",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Social Media Management and Scheduling Tool | SocialPilot",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.socialpilot.co/",
+    "name": "Social Media Management and Scheduling Tool | SocialPilot",
+    "isPartOf": {
+     "@id": "https://www.socialpilot.co/#website"
+    },
+    "about": {
+     "@id": "https://www.socialpilot.co/#organization"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.socialpilot.co/#primaryimage"
+    },
+    "image": {
+     "@id": "https://www.socialpilot.co/#primaryimage"
+    },
+    "thumbnailUrl": "https://www.socialpilot.co/wp-content/uploads/2023/04/social-media-management-tool.jpg",
+    "datePublished": "2025-08-08T07:51:28+00:00",
+    "dateModified": "2026-09-23T12:58:37+00:00",
+    "description": "SocialPilot is a social media Scheduling and Management tool that helps agencies and brands to grow their presence on social media.",
+    "breadcrumb": {
+     "@id": "https://www.socialpilot.co/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.socialpilot.co/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "inLanguage": "en-US",
+    "url": "https://www.socialpilot.co/wp-content/uploads/2023/04/social-media-management-tool.jpg",
+    "contentUrl": "https://www.socialpilot.co/wp-content/uploads/2023/04/social-media-management-tool.jpg",
+    "width": 2400,
+    "height": 1260,
+    "caption": "social media management tool"
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "SocialPilot",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.socialpilot.co/",
+    "name": "SocialPilot",
+    "description": "Social Media Management and Scheduling Tools",
+    "publisher": {
+     "@id": "https://www.socialpilot.co/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.socialpilot.co/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "SocialPilot",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "SocialPilot",
+    "url": "https://www.socialpilot.co/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.socialpilot.co/#/schema/logo/image/",
+     "url": "https://www.socialpilot.co/wp-content/uploads/2021/07/1_SocialPilot20logo.png",
+     "contentUrl": "https://www.socialpilot.co/wp-content/uploads/2021/07/1_SocialPilot20logo.png",
+     "width": 300,
+     "height": 300,
+     "caption": "SocialPilot"
+    },
+    "image": {
+     "@id": "https://www.socialpilot.co/#/schema/logo/image/"
+    },
+    "sameAs": [
+     "https://www.facebook.com/socialpilot.co",
+     "https://x.com/socialpilot_co",
+     "https://www.linkedin.com/company/socialpilot/",
+     "https://www.instagram.com/socialpilot_co/",
+     "https://www.youtube.com/@SocialpilotCo",
+     "https://www.g2.com/products/socialpilot/reviews",
+     "https://www.capterra.com/p/144332/SocialPilot/",
+     "https://www.getapp.com/marketing-software/a/socialpilot/",
+     "https://www.softwareadvice.com/marketing/socialpilot-profile/"
+    ]
+   },
+   {
+    "title": "SocialPilot",
+    "status": "check_circle",
+    "type": "SoftwareApplication",
+    "name": "SocialPilot",
+    "url": "https://www.socialpilot.co/",
+    "applicationCategory": "BusinessApplication",
+    "applicationSubCategory": "Social Media Management Software",
+    "operatingSystem": "Web browser, iOS, Android",
+    "description": "SocialPilot is a social media scheduling and management tool that helps agencies and brands grow their presence on social media.",
+    "publisher": {
+     "@id": "https://www.socialpilot.co/#organization"
+    },
+    "offers": {
+     "@type": "AggregateOffer",
+     "price": "30.00",
+     "lowPrice": "30.00",
+     "highPrice": "200.00",
+     "priceCurrency": "USD",
+     "url": "https://www.socialpilot.co/plans"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fsocialpilot.co",
+  "timestamp": "2026-09-25T11:20:31.363Z"
+ }
+]

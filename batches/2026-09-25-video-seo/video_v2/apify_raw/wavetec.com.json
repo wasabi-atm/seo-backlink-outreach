@@ -1,0 +1,93 @@
+[
+ {
+  "url": "https://wavetec.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 15; 2201116SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.4460.171 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Wavetec",
+    "status": "check_circle",
+    "type": [
+     "Person",
+     "Organization"
+    ],
+    "name": "Wavetec",
+    "sameAs": [
+     "https://www.facebook.com/wavetec",
+     "https://twitter.com/wavetec"
+    ],
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://www.wavetec.com/en-US/#logo/",
+     "url": "https://www.wavetec.com/wp-content/uploads/2017/12/waveteclogo.png",
+     "contentUrl": "https://www.wavetec.com/wp-content/uploads/2017/12/waveteclogo.png",
+     "caption": "Wavetec",
+     "inLanguage": "en-US",
+     "width": "228",
+     "height": "32"
+    },
+    "image": {
+     "@type": "ImageObject",
+     "@id": "https://www.wavetec.com/en-US/#logo/",
+     "url": "https://www.wavetec.com/wp-content/uploads/2017/12/waveteclogo.png",
+     "contentUrl": "https://www.wavetec.com/wp-content/uploads/2017/12/waveteclogo.png",
+     "caption": "Wavetec",
+     "inLanguage": "en-US",
+     "width": "228",
+     "height": "32"
+    }
+   },
+   {
+    "title": "Wavetec",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.wavetec.com/en-US/",
+    "name": "Wavetec",
+    "publisher": {
+     "@id": "https://www.wavetec.com/en-US/#person/"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.wavetec.com/en-US/?s={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://www.wavetec.com/wp-content/uploads/2022/07/riyadh.png",
+    "width": "1000",
+    "height": "430",
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Digital Transformation Solutions By Wavetec",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.wavetec.com/en-US/",
+    "name": "Digital Transformation Solutions By Wavetec",
+    "datePublished": "2022-07-13T09:54:09+00:00",
+    "dateModified": "2026-08-06T08:04:55+00:00",
+    "about": {
+     "@id": "https://www.wavetec.com/en-US/#person/"
+    },
+    "isPartOf": {
+     "@id": "https://www.wavetec.com/en-US/#website/"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://www.wavetec.com/wp-content/uploads/2022/07/riyadh.png"
+    },
+    "inLanguage": "en-US"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fwavetec.com",
+  "timestamp": "2026-09-25T11:20:14.170Z"
+ }
+]

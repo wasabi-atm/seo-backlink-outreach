@@ -1,0 +1,122 @@
+[
+ {
+  "url": "https://cleareye.ai",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Cleareye.ai",
+    "status": "check_circle",
+    "type": [
+     "Organization",
+     "Person"
+    ],
+    "name": "Cleareye.ai",
+    "url": "https://cleareye.ai",
+    "logo": {
+     "@type": "ImageObject",
+     "@id": "https://cleareye.ai/#logo",
+     "url": "https://cleareye.ai/wp-content/uploads/2024/03/Main-Logo_03-2-150x84.png",
+     "contentUrl": "https://cleareye.ai/wp-content/uploads/2024/03/Main-Logo_03-2-150x84.png",
+     "caption": "Cleareye.ai",
+     "inLanguage": "en-US"
+    },
+    "image": {
+     "@id": "https://cleareye.ai/#logo"
+    }
+   },
+   {
+    "title": "Cleareye.ai",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://cleareye.ai",
+    "name": "Cleareye.ai",
+    "publisher": {
+     "@id": "https://cleareye.ai/#person"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://cleareye.ai/?s={search_term_string}",
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "ImageObject",
+    "status": "check_circle",
+    "type": "ImageObject",
+    "url": "https://cleareye.ai/wp-content/uploads/elementor/thumbs/Group-8-1-rnrt633ubrrto18or0ilmfhkrcwkp90m4uj5w1v66u.png",
+    "width": "200",
+    "height": "200",
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Homepage - Cleareye | Future-Proof Trade Finance Solutions",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://cleareye.ai/",
+    "name": "Homepage - Cleareye | Future-Proof Trade Finance Solutions",
+    "datePublished": "2026-03-26T04:26:30+00:00",
+    "dateModified": "2026-09-12T06:44:00+00:00",
+    "about": {
+     "@id": "https://cleareye.ai/#person"
+    },
+    "isPartOf": {
+     "@id": "https://cleareye.ai/#website"
+    },
+    "primaryImageOfPage": {
+     "@id": "https://cleareye.ai/wp-content/uploads/elementor/thumbs/Group-8-1-rnrt633ubrrto18or0ilmfhkrcwkp90m4uj5w1v66u.png"
+    },
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Yadhu Yadhu",
+    "status": "check_circle",
+    "type": "Person",
+    "name": "Yadhu Yadhu",
+    "url": "https://cleareye.ai/author/yadhu/",
+    "image": {
+     "@type": "ImageObject",
+     "@id": "https://secure.gravatar.com/avatar/f5110e0a8667bb4799683099e48e739d5299a69383a5e3d7f3e3af0a8a63bc86?s=96&amp;d=mm&amp;r=g",
+     "url": "https://secure.gravatar.com/avatar/f5110e0a8667bb4799683099e48e739d5299a69383a5e3d7f3e3af0a8a63bc86?s=96&amp;d=mm&amp;r=g",
+     "caption": "Yadhu Yadhu",
+     "inLanguage": "en-US"
+    }
+   },
+   {
+    "title": "Homepage - Cleareye | Future-Proof Trade Finance Solutions",
+    "status": "check_circle",
+    "type": "Article",
+    "headline": "Homepage - Cleareye | Future-Proof Trade Finance Solutions",
+    "datePublished": "2026-03-26T04:26:30+00:00",
+    "dateModified": "2026-09-12T06:44:00+00:00",
+    "author": {
+     "@id": "https://cleareye.ai/author/yadhu/",
+     "name": "Yadhu Yadhu"
+    },
+    "publisher": {
+     "@id": "https://cleareye.ai/#person"
+    },
+    "description": "Discover how the ClearTrade\u00ae platform helps trade finance teams overcome operational challenges, ensure compliance, and future-proof their processes today.",
+    "name": "Homepage - Cleareye | Future-Proof Trade Finance Solutions",
+    "isPartOf": {
+     "@id": "https://cleareye.ai/#webpage"
+    },
+    "image": {
+     "@id": "https://cleareye.ai/wp-content/uploads/elementor/thumbs/Group-8-1-rnrt633ubrrto18or0ilmfhkrcwkp90m4uj5w1v66u.png"
+    },
+    "inLanguage": "en-US",
+    "mainEntityOfPage": {
+     "@id": "https://cleareye.ai/#webpage"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fcleareye.ai",
+  "timestamp": "2026-09-25T11:20:50.383Z"
+ }
+]

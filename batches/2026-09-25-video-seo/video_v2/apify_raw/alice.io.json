@@ -1,0 +1,89 @@
+[
+ {
+  "url": "https://alice.io",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_7_2; rv:119.0) Gecko/20100101 Firefox/119.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 5,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Alice",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Alice",
+    "alternateName": "ActiveFence",
+    "url": "https://alice.io",
+    "description": "Security, Safety, and Trust platform for the AI Era. Protect GenAI and UGC platforms with end-to-end trust, safety & security solutions.",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://cdn.prod.website-files.com/69005ca0f0832195cbc1370c/6935051c71a7628e57908360_fixed-icon.svg"
+    },
+    "sameAs": [
+     "https://en.wikipedia.org/wiki/Alice_(company)"
+    ],
+    "slogan": "Innovate Unafraid",
+    "knowsAbout": [
+     "AI Security",
+     "GenAI Safety",
+     "Trust and Safety",
+     "Content Moderation",
+     "Adversarial Intelligence",
+     "AI Governance",
+     "User-Generated Content Protection"
+    ],
+    "areaServed": "Worldwide"
+   },
+   {
+    "title": "Alice",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://alice.io",
+    "name": "Alice",
+    "publisher": {
+     "@id": "https://alice.io/#organization"
+    }
+   },
+   {
+    "title": "Alice (formerly ActiveFence) | Security, Safety & Trust for the GenAI Era",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://alice.io",
+    "name": "Alice (formerly ActiveFence) | Security, Safety & Trust for the GenAI Era",
+    "description": "Protect GenAI and UGC platforms with end-to-end trust, safety & security with Alice, formerly ActiveFence.",
+    "isPartOf": {
+     "@id": "https://alice.io/#website"
+    },
+    "about": {
+     "@id": "https://alice.io/#organization"
+    }
+   },
+   {
+    "title": "Alice",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Alice",
+    "url": "https://alice.io",
+    "logo": "https://alice.io/YOUR-LOGO-URL.png",
+    "sameAs": [
+     "https://en.wikipedia.org/wiki/Alice_(company)"
+    ]
+   },
+   {
+    "title": "Alice",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Alice",
+    "url": "https://alice.io",
+    "logo": "https://alice.io/YOUR-LOGO-URL.png",
+    "sameAs": [
+     "https://en.wikipedia.org/wiki/Alice_(company)"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Falice.io",
+  "timestamp": "2026-09-25T11:20:49.287Z"
+ }
+]

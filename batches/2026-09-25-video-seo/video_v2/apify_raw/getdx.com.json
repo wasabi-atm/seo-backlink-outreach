@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://getdx.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5910.159 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "DX",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "DX",
+    "url": "https://getdx.com"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fgetdx.com",
+  "timestamp": "2026-09-25T11:20:49.766Z"
+ }
+]

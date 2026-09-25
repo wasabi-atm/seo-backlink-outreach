@@ -1,0 +1,94 @@
+[
+ {
+  "url": "https://medallion.co",
+  "user_agent_used": "Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 3,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Medallion",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Medallion",
+    "url": "https://www.medallion.co",
+    "logo": "https://www.medallion.co/assets/media/brand/medallion-logo.svg",
+    "sameAs": [
+     "https://www.linkedin.com/company/medallion-credentials",
+     "https://x.com/medallion",
+     "https://www.facebook.com/profile.php?id=61589422958894"
+    ]
+   },
+   {
+    "title": "Medallion",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Medallion",
+    "url": "https://www.medallion.co",
+    "publisher": {
+     "@id": "https://www.medallion.co/#organization"
+    },
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.medallion.co/search?query={search_term_string}"
+     },
+     "query-input": "required name=search_term_string"
+    }
+   },
+   {
+    "title": "FAQPage",
+    "status": "check_circle",
+    "type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is credentialing in healthcare?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Credentialing in healthcare is the process of verifying a provider's qualifications \u2014 education, training, licensure, and work history \u2014 before they're authorized to treat patients or bill insurance. Health systems, medical groups, and health plans use credentialing to ensure clinical quality, meet regulatory standards (NCQA, The Joint Commission), and maintain payer contracts. Without it, providers can't legally see patients or generate revenue."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is provider credentialing?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Provider credentialing is the formal process of verifying and approving a clinician\u2019s qualifications to practice within a healthcare organization or payer network. It covers primary source verification of licenses, certifications, malpractice history, and education \u2014 and must be repeated on a regular re-credentialing cycle, typically every two to three years. Traditionally a manual, paper-heavy process, credentialing today is increasingly managed through automated platforms to reduce turnaround times and administrative burden."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is provider enrollment and credentialing?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Provider enrollment and credentialing are two related but distinct processes. Credentialing verifies a provider\u2019s qualifications to practice clinically. Enrollment is the separate process of contracting with payers \u2014 Medicare, Medicaid, and commercial health plans \u2014 so a provider can bill for services rendered. Both must be completed before a provider can see patients and generate revenue, and delays in either directly impact an organization\u2019s bottom line."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does it take to credential a provider?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Traditional provider credentialing takes 90 to 120 days on average, though delays from incomplete applications, slow primary source responses, or payer backlogs can stretch timelines further. With automated credentialing platforms, organizations have significantly compressed that window \u2014 Medallion customers like Tampa General Hospital have reduced credentialing turnaround from 30 days to 3 days, and median provider onboarding on the Medallion platform is 2 days."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What documents are needed for provider credentialing?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Provider credentialing typically requires a current state medical license, DEA certificate, malpractice insurance certificate, board certification, education and training records, CV, work history for the past five to ten years, and a completed CAQH profile. Requirements vary by organization and payer, but incomplete or outdated documentation is one of the most common causes of credentialing delays and denials."
+      }
+     }
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fmedallion.co",
+  "timestamp": "2026-09-25T11:20:33.556Z"
+ }
+]

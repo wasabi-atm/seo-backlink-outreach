@@ -1,0 +1,102 @@
+[
+ {
+  "url": "https://aurorasolar.com",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.5565.54 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Homepage | Aurora Solar",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://aurorasolar.com/",
+    "name": "Homepage | Aurora Solar",
+    "isPartOf": {
+     "@id": "https://aurorasolar.com/#website"
+    },
+    "about": {
+     "@id": "https://aurorasolar.com/#organization"
+    },
+    "datePublished": "2026-09-22T13:25:26+00:00",
+    "dateModified": "2026-09-23T18:22:21+00:00",
+    "description": "Residential solar design and sales solutions that are accurate at every stage, from design to signed permit, with physics-based accuracy.",
+    "breadcrumb": {
+     "@id": "https://aurorasolar.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://aurorasolar.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Aurora Solar",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://aurorasolar.com/",
+    "name": "Aurora Solar",
+    "description": "",
+    "publisher": {
+     "@id": "https://aurorasolar.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://aurorasolar.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Aurora Solar",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Aurora Solar",
+    "url": "https://aurorasolar.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://aurorasolar.com/#/schema/logo/image/",
+     "url": "https://aurorasolar.com/wp-content/uploads/2022/06/aurora-logo-light-mode.svg",
+     "contentUrl": "https://aurorasolar.com/wp-content/uploads/2022/06/aurora-logo-light-mode.svg",
+     "width": 1,
+     "height": 1,
+     "caption": "Aurora Solar"
+    },
+    "image": {
+     "@id": "https://aurorasolar.com/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Faurorasolar.com",
+  "timestamp": "2026-09-25T11:20:44.190Z"
+ }
+]

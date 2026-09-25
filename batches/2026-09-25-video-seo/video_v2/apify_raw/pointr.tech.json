@@ -1,0 +1,52 @@
+[
+ {
+  "url": "https://pointr.tech",
+  "user_agent_used": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.4458.142 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 1,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Pointr",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Pointr",
+    "url": "https://www.pointr.tech",
+    "logo": "https://www.pointr.tech/hubfs/pointr-logo.svg",
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "2087207087",
+      "contactType": "customer service",
+      "areaServed": "GB",
+      "availableLanguage": "en"
+     },
+     {
+      "@type": "ContactPoint",
+      "telephone": "978-222-7929",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": "en"
+     },
+     {
+      "@type": "ContactPoint",
+      "telephone": "2087207087",
+      "contactType": "customer service",
+      "areaServed": "AE",
+      "availableLanguage": "en"
+     }
+    ],
+    "sameAs": [
+     "https://www.linkedin.com/company/5364957/",
+     "https://twitter.com/PointrTech",
+     "https://www.youtube.com/channel/UCess6ij9NES9ulENA9DlCRQ"
+    ]
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fpointr.tech",
+  "timestamp": "2026-09-25T11:20:22.295Z"
+ }
+]

@@ -1,0 +1,84 @@
+[
+ {
+  "url": "https://despatchcloud.com",
+  "user_agent_used": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6576.41 Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 2,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Helm WMS",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Helm WMS",
+    "legalName": "The Despatch Company Ltd",
+    "url": "https://helmwms.com/",
+    "description": "Order fulfilment software for retailers and 3PLs. Helm is a fast, multichannel OMS and WMS designed specifically for eCommerce.",
+    "slogan": "Built for Fulfilment",
+    "foundingDate": "2015",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://helmwms.com/logo.png"
+    },
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Unit 76, Kelleythorpe Industrial Estate",
+     "addressLocality": "Driffield",
+     "addressRegion": "East Yorkshire",
+     "postalCode": "YO25 9FQ",
+     "addressCountry": "GB"
+    },
+    "contactPoint": {
+     "@type": "ContactPoint",
+     "telephone": "+441377455180",
+     "contactType": "sales",
+     "areaServed": "GB",
+     "availableLanguage": [
+      "English"
+     ]
+    },
+    "sameAs": [
+     "https://www.linkedin.com/showcase/helm-wms/"
+    ],
+    "numberOfEmployees": {
+     "@type": "QuantitativeValue",
+     "value": "50-100"
+    },
+    "areaServed": {
+     "@type": "Country",
+     "name": "United Kingdom"
+    },
+    "serviceType": [
+     "Warehouse Management System",
+     "Order Management System",
+     "Shipping Management Software",
+     "Inventory Management",
+     "3PL Software"
+    ],
+    "knowsAbout": [
+     "Warehouse Management",
+     "Order Fulfilment",
+     "Inventory Control",
+     "Multi-channel Integration",
+     "Courier Management",
+     "eCommerce Logistics"
+    ]
+   },
+   {
+    "title": "Helm WMS",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://helmwms.com/",
+    "name": "Helm WMS",
+    "publisher": {
+     "@id": "https://helmwms.com/#organization"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fdespatchcloud.com",
+  "timestamp": "2026-09-25T11:20:19.963Z"
+ }
+]

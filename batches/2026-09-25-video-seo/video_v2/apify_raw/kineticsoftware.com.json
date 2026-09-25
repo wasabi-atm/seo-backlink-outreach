@@ -1,0 +1,82 @@
+[
+ {
+  "url": "https://kineticsoftware.com",
+  "user_agent_used": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 6,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "@id": "https://kineticsoftware.com#listItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Kinetic",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Kinetic",
+    "url": "https://kineticsoftware.com/"
+   },
+   {
+    "title": "Kinetic homepage - Kinetic",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://kineticsoftware.com/",
+    "name": "Kinetic homepage - Kinetic",
+    "description": "Kinetic is more than software. We are your dedicated technology partner. We provide innovative software solutions, trusted by industry leaders, helping you efficiently manage student accommodation, PBSA, events, and venues. Get in touch to learn more how. Play Video.",
+    "inLanguage": "en-US",
+    "isPartOf": {
+     "@id": "https://kineticsoftware.com/#website"
+    },
+    "breadcrumb": {
+     "@id": "https://kineticsoftware.com/#breadcrumblist"
+    },
+    "datePublished": "2025-02-05T09:21:09+00:00",
+    "dateModified": "2026-06-30T13:28:17+00:00"
+   },
+   {
+    "title": "Kinetic",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://kineticsoftware.com/",
+    "name": "Kinetic",
+    "inLanguage": "en-US",
+    "publisher": {
+     "@id": "https://kineticsoftware.com/#organization"
+    }
+   },
+   {
+    "title": "Kinetic",
+    "status": "check_circle",
+    "type": "WebSite",
+    "name": "Kinetic",
+    "alternateName": "Kinetic",
+    "description": "",
+    "url": "https://kineticsoftware.com"
+   },
+   {
+    "title": "Kinetic",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Kinetic",
+    "url": "https://kineticsoftware.com",
+    "alternateName": "Kinetic",
+    "description": "Kinetic"
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fkineticsoftware.com",
+  "timestamp": "2026-09-25T11:20:38.492Z"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "url": "https://digitalbarriers.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6692.126 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Unlock the Full Potential of Real-Time Video over Cellular",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://digitalbarriers.com/",
+    "name": "Unlock the Full Potential of Real-Time Video over Cellular",
+    "isPartOf": {
+     "@id": "https://digitalbarriers.com/#website"
+    },
+    "about": {
+     "@id": "https://digitalbarriers.com/#organization"
+    },
+    "datePublished": "2022-10-26T09:19:27+00:00",
+    "dateModified": "2026-07-20T20:13:44+00:00",
+    "description": "Enable real-time video streaming over cellular and deepen business intelligence with our secure, edge-based VSaaS solutions. Access video from any device, any connection and any location.",
+    "breadcrumb": {
+     "@id": "https://digitalbarriers.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://digitalbarriers.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Digital Barriers",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://digitalbarriers.com/",
+    "name": "Digital Barriers",
+    "description": "Real-time video streaming over cellular",
+    "publisher": {
+     "@id": "https://digitalbarriers.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://digitalbarriers.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Digital Barriers",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Digital Barriers",
+    "url": "https://digitalbarriers.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://digitalbarriers.com/#/schema/logo/image/",
+     "url": "https://digitalbarriers.com/wp-content/uploads/2023/01/DigitalBarriers-Symbol-RGB-Pink.png",
+     "contentUrl": "https://digitalbarriers.com/wp-content/uploads/2023/01/DigitalBarriers-Symbol-RGB-Pink.png",
+     "width": 2143,
+     "height": 1709,
+     "caption": "Digital Barriers"
+    },
+    "image": {
+     "@id": "https://digitalbarriers.com/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fdigitalbarriers.com",
+  "timestamp": "2026-09-25T11:20:23.923Z"
+ }
+]

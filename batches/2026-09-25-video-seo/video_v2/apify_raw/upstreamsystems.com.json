@@ -1,0 +1,102 @@
+[
+ {
+  "url": "https://upstreamsystems.com",
+  "user_agent_used": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.4707.134 Mobile Safari/537.36",
+  "crawl_allowed": "Yes",
+  "indexing_allowed": "Yes",
+  "crawl_status": "Successful",
+  "http_status": 200,
+  "detected_items_count": 4,
+  "is_valid_rich_result": true,
+  "detected_items": [
+   {
+    "title": "Upstream - Leading in mobile marketing",
+    "status": "check_circle",
+    "type": "WebPage",
+    "url": "https://www.upstreamsystems.com/",
+    "name": "Upstream - Leading in mobile marketing",
+    "isPartOf": {
+     "@id": "https://www.upstreamsystems.com/#website"
+    },
+    "about": {
+     "@id": "https://www.upstreamsystems.com/#organization"
+    },
+    "datePublished": "2021-05-10T13:08:22+00:00",
+    "dateModified": "2026-09-09T10:26:11+00:00",
+    "description": "Upstream is a leading mobile technology company driving digital acquisitions and sales across every mobile channel available.",
+    "breadcrumb": {
+     "@id": "https://www.upstreamsystems.com/#breadcrumb"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+     {
+      "@type": "ReadAction",
+      "target": [
+       "https://www.upstreamsystems.com/"
+      ]
+     }
+    ]
+   },
+   {
+    "title": "BreadcrumbList",
+    "status": "check_circle",
+    "type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+     }
+    ]
+   },
+   {
+    "title": "Upstream",
+    "status": "check_circle",
+    "type": "WebSite",
+    "url": "https://www.upstreamsystems.com/",
+    "name": "Upstream",
+    "description": "The leading martech company",
+    "publisher": {
+     "@id": "https://www.upstreamsystems.com/#organization"
+    },
+    "potentialAction": [
+     {
+      "@type": "SearchAction",
+      "target": {
+       "@type": "EntryPoint",
+       "urlTemplate": "https://www.upstreamsystems.com/?s={search_term_string}"
+      },
+      "query-input": {
+       "@type": "PropertyValueSpecification",
+       "valueRequired": true,
+       "valueName": "search_term_string"
+      }
+     }
+    ],
+    "inLanguage": "en-US"
+   },
+   {
+    "title": "Upstream",
+    "status": "check_circle",
+    "type": "Organization",
+    "name": "Upstream",
+    "url": "https://www.upstreamsystems.com/",
+    "logo": {
+     "@type": "ImageObject",
+     "inLanguage": "en-US",
+     "@id": "https://www.upstreamsystems.com/#/schema/logo/image/",
+     "url": "https://www.upstreamsystems.com/wp-content/uploads/2021/07/brand.svg",
+     "contentUrl": "https://www.upstreamsystems.com/wp-content/uploads/2021/07/brand.svg",
+     "width": 135,
+     "height": 38,
+     "caption": "Upstream"
+    },
+    "image": {
+     "@id": "https://www.upstreamsystems.com/#/schema/logo/image/"
+    }
+   }
+  ],
+  "google_web_ui_url": "https://search.google.com/test/rich-results?url=https%3A%2F%2Fupstreamsystems.com",
+  "timestamp": "2026-09-25T11:20:18.886Z"
+ }
+]
