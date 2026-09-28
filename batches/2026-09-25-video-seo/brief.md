@@ -35,3 +35,12 @@
   - Validation files for the user: 04_video_seo_all.csv and 05_validate_part1-4.csv (45, 45, 45, 43 rows) with a Rich Results Test link per row and an empty yourCheck column.
   - An Apify Playwright run from the cloud was tried and aborted (too slow with a tall viewport; cost $0.04). google_view.py belonged to it and is unused.
   - The deep render in video_schema.py now matches Google (Googlebot phone, tall viewport, no scrolling), so JumpCloud's scroll-only VideoObject no longer counts.
+- Split files (user asked, 25 Sep): 06_video_schema_false.csv (126), 07_video_true_schema_false.csv (126, the real gaps), 08_video_true_schema_true.csv (84), 09_video_false_schema_false.csv (780), 10_other.csv (130).
+- 07 enrichment (user asked to prioritise 07, 28 Sep). 69 of the 126 already had a contact from the main 100; the other 57 (US 40, UK 17) went through the waterfall in enrich07/, SEO and website owners first (contacts.py pick --focus seo):
+  - Instantly SuperSearch, 2 tiers (SEO and web titles, then marketing): 35 companies, 47 credits.
+  - Apollo people search plus reveals: 14 companies, 14 lead credits. Secaro's contact is mapped back to manufacture2030.com.
+  - Apify peakydev/leads-scraper-ppe by domain: 6 companies (Icon, Skyvera and Book Creator picked by hand), about $0.25.
+  - Website contact email: 2 companies (PathAI, Athelas support inboxes).
+  - contacts.py brand() now treats any unknown ending (.studio, .agency) as the domain ending, so krotos.studio matches krotosaudio.com.
+  - Dedupe against the 480-row ledger: 0 removed. Instantly campaign check on the 57: myu@accertify.com is in "Marketing Leaders Campaign" (completed, last email 28 Aug) and dmillard@eserv-int.com is in "5. CEO - March / Dec leads Campaign" (active, last email 29 Aug).
+  - 11_video_seo_07_contacts.csv (built by build_07_contacts.py): 126 of 126 with an email; 122 named people, 4 company inboxes. Sources: Instantly 73, Apollo 35, Apify 14, website 4. Roles: 4 SEO lead, 1 SEO specialist, 9 website owner, 36 marketing lead, the rest content, growth, digital marketing or founder. 6 contacts are in another Instantly campaign (Harvey, Altruistiq, Alphalake, Mercaux, Eserv, Accertify); 29 rows have a manualCheck note.

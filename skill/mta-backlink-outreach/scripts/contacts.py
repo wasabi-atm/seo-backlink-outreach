@@ -106,6 +106,8 @@ def brand(domain):
         if d.endswith("." + s):
             d = d[: -len(s) - 1]
             break
+    else:
+        d = d.rsplit(".", 1)[0]  # any other ending (.studio, .agency) is still the domain ending
     return re.sub(r"[^a-z0-9]", "", d.split(".")[-1])
 
 
