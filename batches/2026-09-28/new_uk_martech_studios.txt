@@ -1,0 +1,107 @@
+Vuelio|vuelio.com|UK|PR software and media database|A|
+Roxhill Media|roxhillmedia.com|UK|Media database for PR teams|A|
+Majestic|majestic.com|UK|SEO backlink intelligence tool|A|
+Authoritas|authoritas.com|UK|Enterprise SEO platform|A|
+Pi Datametrics|pi-datametrics.com|UK|Enterprise SEO and search intelligence|A|
+Wordtracker|wordtracker.com|UK|Keyword research tool|A|
+SEOTesting|seotesting.com|UK|SEO testing and Search Console software|A|
+SearchPilot|searchpilot.com|UK|SEO A/B testing platform|A|
+InLinks|inlinks.com|UK|Entity SEO and internal linking software|A|
+AlsoAsked|alsoasked.com|UK|Search question research tool|A|
+Keyword Insights|keywordinsights.ai|UK|Keyword clustering and content brief tool|A|
+Hike SEO|hikeseo.co|UK|DIY SEO platform for small businesses|A|
+Little Warden|littlewarden.com|UK|SEO website monitoring tool|A|
+Opteo|opteo.com|UK|Google Ads optimisation software|A|
+Bidnamic|bidnamic.com|UK|Google Shopping PPC technology|A|
+Permutive|permutive.com|UK|Privacy-first audience and ad platform|A|
+Buyapowa|buyapowa.com|UK|Referral marketing platform|A|
+LoyaltyLion|loyaltylion.com|UK|Ecommerce loyalty platform|A|
+Eagle Eye|eagleeye.com|UK|Loyalty and promotions platform|A|
+White Label Loyalty|whitelabel-loyalty.com|UK|Customer loyalty platform|A|
+Stampede|stampede.ai|UK|Hospitality marketing and guest data platform|A|
+Brandworkz|brandworkz.com|UK|Brand management and DAM software|A|
+Asset Bank|assetbank.co.uk|UK|Digital asset management software|A|
+ResourceSpace|resourcespace.com|UK|Open source digital asset management|A|
+Third Light|thirdlight.com|UK|Digital asset management software|A|
+Ruler Analytics|ruleranalytics.com|UK|Marketing attribution software|A|
+Infinity|infinity.co|UK|Call tracking and conversation analytics|A|
+Mediahawk|mediahawk.co.uk|UK|Call tracking and marketing attribution|A|
+Hurree|hurree.co|UK|Marketing analytics dashboards|A|
+Geckoboard|geckoboard.com|UK|KPI dashboard software|A|
+Littledata|littledata.io|UK|Ecommerce analytics and tracking|A|
+Celebrus|celebrus.com|UK|Customer data platform|A|
+Apteco|apteco.com|UK|Marketing analytics and campaign software|A|
+SmartSurvey|smartsurvey.co.uk|UK|Online survey software|A|
+Attest|askattest.com|UK|Consumer research platform|A|
+Zappi|zappi.io|UK|Ad and concept testing platform|A|
+GWI|gwi.com|UK|Audience research and consumer data|A|
+Lumen Research|lumen-research.com|UK|Attention measurement for advertising|A|
+Realeyes|realeyes.ai|UK|Attention and emotion AI for ad testing|A|
+Censuswide|censuswide.com|UK|Market research for PR and marketing|A|
+CoverageBook|coveragebook.com|UK|PR coverage reporting software|A|
+Pressat|pressat.co.uk|UK|Press release distribution|A|
+JournoLink|journolink.com|UK|PR platform for small businesses|A|
+Mentionlytics|mentionlytics.com|UK|Social listening and brand monitoring|A|
+Onalytica|onalytica.com|UK|Influencer marketing software|A|
+Duel|duel.tech|UK|Brand advocacy and UGC platform|A|
+Jacquard|jacquard.com|UK|AI marketing copy platform (formerly Phrasee)|A|
+PageTiger|pagetiger.com|UK|Interactive content platform|A|
+Dianomi|dianomi.com|UK|Native advertising for financial brands|A|
+Blis|blis.com|UK|Location-based adtech|A|
+Silverbullet|wearesilverbullet.com|UK|Contextual targeting and marketing data|A|
+MiQ|wearemiq.com|UK|Programmatic media and adtech|A|
+Vevox|vevox.com|UK|Audience polling and Q&A platform|A|
+CrowdComms|crowdcomms.com|UK|Event app and virtual event platform|A|
+Ticket Tailor|tickettailor.com|UK|Event ticketing platform|A|
+Grip|grip.events|UK|Event networking and matchmaking platform|A|
+ExpoPlatform|expoplatform.com|UK|Event platform for trade shows|A|
+Grabyo|grabyo.com|UK|Cloud video production and clipping software|A|
+StreamAMG|streamamg.com|UK|Video streaming and OTT platform|A|
+Blackbird|blackbird.video|UK|Cloud video editing platform|A|
+VideoScribe (Sparkol)|videoscribe.co|UK|Whiteboard animation software|A|
+Podcast.co|podcast.co|UK|Podcast hosting platform|A|
+Cleanfeed|cleanfeed.net|UK|Remote audio recording for podcasts|A|
+Message Heard|messageheard.com|UK|Podcast production studio|A|
+Pentagram|pentagram.com|UK|Brand and graphic design studio|A|
+Wolff Olins|wolffolins.com|UK|Brand consultancy|A|
+Design Bridge and Partners|designbridge.com|UK|Brand design agency|A|
+Turner Duckworth|turnerduckworth.com|UK|Brand identity and packaging design|A|
+SomeOne|someoneinlondon.com|UK|Branding studio|A|
+Studio Output|studio-output.com|UK|Brand and digital design studio|A|
+Bulletproof|wearebulletproof.com|UK|Brand design agency|A|
+Elmwood|elmwood.com|UK|Brand design consultancy|A|
+Mytton Williams|myttonwilliams.co.uk|UK|Brand design studio|A|
+Johnson Banks|johnsonbanks.co.uk|UK|Brand identity design studio|A|
+Spin|spin.co.uk|UK|Brand and graphic design studio|A|
+Moving Brands|movingbrands.com|UK|Brand and digital experience studio|A|
+Saffron|saffron-consultants.com|UK|Brand consultancy|A|
+Studio Blackburn|studioblackburn.com|UK|Brand identity design studio|A|
+Dn&co|dnco.com|UK|Place and culture branding studio|A|
+Radley Yeldar|ry.com|UK|Brand and communications agency|A|Also produces film and animation for clients alongside brand work
+Bibliotheque|bibliothequedesign.com|UK|Brand and graphic design studio|A|
+Nomensa|nomensa.com|UK|UX and digital design agency|A|
+Experience UX|experienceux.co.uk|UK|UX research and design agency|A|
+Userfocus|userfocus.co.uk|UK|UX consultancy and training|A|
+ustwo|ustwo.com|UK|Digital product studio|A|
+Red Badger|red-badger.com|UK|Digital product consultancy|A|
+Box UK|boxuk.com|UK|Digital product and web development agency|A|
+hedgehog lab|hedgehoglab.com|UK|Digital product and app studio|A|
+Adtrak|adtrak.co.uk|UK|Web design and marketing agency|A|
+Parallax|parall.ax|UK|Digital product and web agency|A|
+Liquid Light|liquidlight.co.uk|UK|Web design and development agency|A|
+Mixd|mixd.co.uk|UK|Web design and UX agency|A|
+Fifteen|fifteendesign.co.uk|UK|Web design and digital agency|A|
+Engage|engage.agency|UK|Web design and development agency|A|
+Wholegrain Digital|wholegraindigital.com|UK|Sustainable web design agency|A|
+Reason Digital|reasondigital.com|UK|Digital agency for charities|A|
+Manifesto|manifesto.co.uk|UK|Digital experience agency for purpose-led organisations|A|
+Great State|greatstate.co|UK|Brand and digital experience agency|A|
+Human Made|humanmade.com|UK|Enterprise WordPress agency|A|
+Moove Agency|mooveagency.com|UK|Web design and development agency|A|
+Spindogs|spindogs.co.uk|UK|Web design and digital agency|A|
+Swanky|swankyagency.com|UK|Shopify web design agency|A|
+Eastside Co|eastsideco.com|UK|Shopify web design and ecommerce agency|A|
+Charle|charle.co.uk|UK|Shopify web design agency|A|
+The Writer|thewriter.com|UK|Language and tone of voice consultancy|A|
+Quietroom|quietroom.co.uk|UK|Copywriting and plain language agency|A|
+Definition|thisisdefinition.com|UK|B2B content and copywriting agency|A|

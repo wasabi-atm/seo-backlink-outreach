@@ -10,11 +10,25 @@ TODAY = datetime.date(2026, 9, 28)
 DROP = {  # domain -> reason, filled in by hand after review
     "iol.world": "no blog: blog links go to a 404 page",
     "vixio.com": "blog is mostly gambling regulation content (casino, betting, slot machine)",
+    "nomensa.com": "merged: blog now redirects to thisisgain.com (Gain)",
+    "ledgy.com": "not UK based: headquartered in Zurich, Switzerland",
+    "prwd.co.uk": "domain now serves a casino site",
+    "vertical-leap.uk": "merged: redirects to thisisgain.com (Gain)",
+    "reddico.co.uk": "merged: redirects to thisisgain.com (Gain)",
+    "webcredible.com": "acquired: redirects to inviqa.com",
+    "tecmark.co.uk": "rebranded: redirects to sixsearch.co.uk (Six Digital)",
+    "ramarketing.com": "domain belongs to a US furniture advertising agency, not RAmarketing",
+    "fourcommunications.com": "rebranded: redirects to four.agency",
 }
 FARM_OK = {  # farm-word hits checked by hand
     "hackajob.com": "tag for client Sky Betting & Gaming",
     "astrato.io": "demo dashboard of sports betting odds (data app example)",
     "loopme.ai": "case study on sports betting audience research",
+    "pi-datametrics.com": "industry page for gambling SEO clients, not farm content",
+    "duel.tech": "press link: brand is betting on creators",
+    "grabyo.com": "client case study (Vegas Live Casino Network)",
+    "wearebulletproof.com": "press piece: Dove is betting on creators",
+    "teamlewis.com": "post title: banks are betting on blockchain",
 }
 
 rows = list(csv.DictReader(open(sys.argv[1])))
