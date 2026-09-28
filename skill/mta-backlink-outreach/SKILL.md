@@ -335,10 +335,35 @@ Rules:
 - End with "Would you be open to exploring this?" then "Cheers," and the sender name from the brief.
 - For a website contact email (emailType generic) there is no name, so open with "Hey <companyName> team," instead of a first name.
 - Under 110 words. British spelling. No em dashes. Never ask for a call.
-- Subject lines are short and lower case, and name their article (for example "your content pillars piece").
+- Subject lines follow the rules in "Subject lines" below.
 - Run every email through the humanizer skill before saving. Invoke it with the Skill tool (`humanizer`) and apply its fixes. Do not skip it or hand-edit instead, even for one email or a test run.
 
-Save `04_backlink_emails.csv` (keep the videoSchemaGap column, so the user can see which emails open with the video lines), send it to the user, and say which rows need a manual check (for example no contact found, or the hook could not be confirmed on the live page).
+### Subject lines
+
+Every row gets two subjects, so Instantly can A/B test them: `emailSubject` (variant A) and `emailSubjectB` (variant B). Record the type of each in `subjectTypeA` and `subjectTypeB`, so open rates can be compared by type across batches. Background: the old "your X piece" pattern opened at about 20%. In Overloop's link building test a generic subject ("Link building opportunity") opened at 24% and a personalised one at 62%; they test a trigger, a question and a direct-value variant.
+
+Pick two different types per row:
+
+- `trigger`: the most specific detail from articleHook, plus a short name for the article. It reads like a note from someone who actually read the page. For example "step 1 twice in your repurposing post", "the gmb heading in your local video guide", "2021 scam line in your money safety post".
+- `question`: a short question about the offer, tied to the article. For example "a quote for your employer branding guide?", "explainer for your onboarding post?", "swap quotes on your b2b video guide?".
+- `value`: the offer and where it goes, without the word free. For example "an infographic for your five pillars", "a founder quote for your video report".
+
+Rules for both:
+
+- 3 to 8 words and at most 45 characters, so the whole line shows on a phone. Lower case (a brand or acronym may keep its capitals, for example "VideoObject", "AI"). No trailing full stop.
+- The subject must be true and paid off in the first two lines of the body. A trigger subject names something the opening actually mentions. Never a bait subject.
+- Never use: link, backlink, link building, guest post, SEO, opportunity, collaboration, partnership, free, quick question, "following up", fake "re:" or "fwd:", exclamation marks, emoji, all caps, or the recipient's first name. These read as a mass pitch or trip spam filters.
+- No em or en dashes, and no spaced hyphen as a separator. Hyphenated words such as "pre-hire" are fine.
+- Vary the wording across the batch. No more than a third of the rows may share the same opening words (for example "your ... piece"), and never paste the same subject on two rows.
+- For a mistake hook, keep it neutral and specific ("the 2021 line in your fraud post"), never mocking ("mistakes in your post").
+- videoSchemaGap yes rows: variant A is a trigger about their video and AI search, for example "your product videos and AI search". Variant B is any other type.
+- Generic inboxes (emailType generic) use the same rules. The subject must make sense to whoever reads the shared inbox, so always name the article.
+
+Check every file with `python <repo>/skill/mta-backlink-outreach/scripts/subject_check.py <file>` before saving `04_backlink_emails.csv`, and fix whatever it lists. It checks length, banned words, dashes, the first name, the two types and duplicates across the batch. It cannot check that a subject is true, so read each one against its opening lines yourself.
+
+After a batch has sent about 100 emails per variant, look at opens by `subjectTypeA`/`subjectTypeB` in Instantly and tell the user which type is winning, so the next batch can lean on it.
+
+Save `04_backlink_emails.csv` (keep the videoSchemaGap column, so the user can see which emails open with the video lines, and the four subject columns), send it to the user, and say which rows need a manual check (for example no contact found, or the hook could not be confirmed on the live page).
 
 Straight after saving, log the batch in the ledger with `dedupe.py log 04_backlink_emails.csv --ledger <ledger> --status queued --campaign backlink-<YYYY-MM-DD>`. Do this every time, even if the user has not said they will send it. Queued rows block future batches just like sent ones, so a batch is never picked twice. Rows with no email are logged as `not_sent` on their own. Tell the user it is logged, then:
 

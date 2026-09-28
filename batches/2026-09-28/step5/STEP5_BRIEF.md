@@ -47,16 +47,24 @@ Rules:
 - Then the link ask: "In return, just a credit link back to <a href="http://motiontheagency.com">motiontheagency.com</a>, or we'll pay for placement instead." For a quote swap the link is mutual, so phrase it to fit, for example "a credit link back to motiontheagency.com with my quote, and one to yours with your quote on ours, or we'll pay for placement instead." Always keep the paid placement option.
 - End with `<p>Would you be open to exploring this?</p>` then `<p>Cheers,<br>Sam</p>`.
 - Under 110 words in the body, not counting the sign-off. British spelling (optimise, colour, organisation, visualise). No em dashes or en dashes anywhere, in any field. Never ask for a call or meeting. No flattery, no "I hope this finds you well", no "I came across".
-- emailSubject: short, lower case, names their article, for example "your content pillars piece" or "the onboarding videos post". No dashes.
+- Subjects: two per row, for an Instantly A/B test. `emailSubject` is variant A, `emailSubjectB` is variant B, and `subjectTypeA` / `subjectTypeB` say which type each is. Use two different types per row:
+  - `trigger`: the most specific detail from articleHook plus a short name for the article, for example "step 1 twice in your repurposing post" or "the gmb heading in your local video guide".
+  - `question`: a short question about the offer tied to the article, for example "a quote for your employer branding guide?" or "swap quotes on your b2b video guide?".
+  - `value`: the offer and where it goes, for example "an infographic for your five pillars".
+  - 3 to 8 words, at most 45 characters, lower case (brands and acronyms may keep capitals), no full stop, no dashes.
+  - The subject must be true and paid off in the first two lines of the body. No bait.
+  - Never use: link, backlink, link building, guest post, SEO, opportunity, collaboration, partnership, free, quick question, following up, re:, fwd:, exclamation marks, emoji, all caps, or the first name.
+  - Mistake hooks stay neutral and specific, never mocking.
+  - No two rows share a subject, and no more than a third of your rows start with the same words (for example "your ... piece").
 
 ## Output
 
 Write `BATCH/step5/emails_<N>.csv` with columns exactly:
-`webDomain, emailSubject, emailBody, manualCheck`
+`webDomain, emailSubject, emailSubjectB, subjectTypeA, subjectTypeB, emailBody, manualCheck`
 
-One row per company in your input (all 25). If a row has no email, leave emailSubject and emailBody blank and write `no contact found` in manualCheck. Use manualCheck also for: weak fit rows (fit is weak), hooks that need a browser check, founder not reached for a quote swap, and anything else a human should look at before sending. Leave it blank when nothing needs checking.
+One row per company in your input (all 25). If a row has no email, leave both subjects, both subject types and emailBody blank and write `no contact found` in manualCheck. Use manualCheck also for: weak fit rows (fit is weak), hooks that need a browser check, founder not reached for a quote swap, and anything else a human should look at before sending. Leave it blank when nothing needs checking.
 
-Use python's csv module. Check with a script that no field contains an em or en dash (U+2014, U+2013) and that every body is under 110 words (strip the HTML and the sign-off before counting).
+Use python's csv module. Check with a script that no field contains an em or en dash (U+2014, U+2013) and that every body is under 110 words (strip the HTML and the sign-off before counting), and that every subject is 45 characters or fewer, has no banned word and is unique.
 
 Do not edit any other file, do not touch the ledger, do not commit.
 
