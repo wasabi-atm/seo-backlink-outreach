@@ -52,6 +52,45 @@ def subject_c(r):
         return f"{r['companyName']} x Motion: a quote swap"
     return f"{r['firstName'].split()[0]}, spotted something in your {topic(r)}"
 
+# The user's eight subject templates (28 Sep), adapted to each row's offer. Title Case as in the user's list.
+SMALL = {"a", "an", "and", "as", "at", "by", "for", "in", "of", "on", "or", "the", "to", "vs", "with", "al"}
+ROLE = {"Founder's quote swap": "Guest Expert", "Founder's quote": "Guest Expert",
+        "Video for the blog post": "Animator", "Blog graphic or infographic": "Designer", "Internal data": "Data Source"}
+FIT = {"Founder's quote swap": "a Founder Quote Swap", "Founder's quote": "a Founder Quote",
+       "Video for the blog post": "an Animated Explainer", "Blog graphic or infographic": "a Custom Infographic",
+       "Internal data": "Fresh Client Data"}
+IDEA = {"Founder's quote swap": "Founder Quote", "Founder's quote": "Founder Quote",
+        "Video for the blog post": "Explainer Idea", "Blog graphic or infographic": "Infographic Idea",
+        "Internal data": "Client Data"}
+
+def title(t):
+    out = []
+    for i, w in enumerate(t.split()):
+        if w.isupper() or any(c.isupper() for c in w[1:]) or not w[0].isalpha():
+            out.append(w)  # acronyms, goAML, V7, 2025/26 stay as they are
+        elif i and w in SMALL:
+            out.append(w)
+        else:
+            out.append(w[0].upper() + w[1:])
+    return " ".join(out)
+
+def template_subjects(r):
+    site, offer = r["companyName"], r["offer"]
+    editor = r["firstName"].split()[0] if r["firstName"].strip() else f"{site} Team"
+    t = title(topic(r))
+    return {
+        "subject1": f"I Have 2 Ideas for {site}",
+        "subject2": f"I'd Love to Be Your {ROLE[offer]} for a Day, {site}",
+        "subject3": f"Have You Seen This in Your {t}?",
+        "subject4": f"You Have to See This, {editor}!",
+        "subject5": f"I'm a Huge Fan of {site} and Want to Contribute",
+        "subject6": f"Why {site} is the Perfect Platform for {FIT[offer]}",
+        "subject7": f"My {IDEA[offer]} is a Perfect Fit for {site}",
+        "subject8": f"Let's Share Something Fresh with Your Audience, {editor}!",
+    }
+
+TEMPLATE_COLS = [f"subject{i}" for i in range(1, 9)]
+
 def follow_up(r, i):
     if not r["emailBody"].strip():
         return ""
@@ -61,10 +100,12 @@ def follow_up(r, i):
 
 for path in ["04_backlink_emails.csv", "04_backlink_emails_send.csv"]:
     rows = list(csv.DictReader(open(path)))
-    cols = [c for c in rows[0].keys() if c not in ("emailSubjectB", "emailSubjectC", "topic", "followUpBody")]
+    cols = [c for c in rows[0].keys() if c not in ("emailSubjectB", "emailSubjectC", "topic", "followUpBody", *TEMPLATE_COLS)]
     cols.insert(cols.index("emailBody"), "emailSubjectB")
     cols.insert(cols.index("emailBody"), "emailSubjectC")
     cols.insert(cols.index("emailBody"), "topic")
+    for c in TEMPLATE_COLS:
+        cols.insert(cols.index("emailBody"), c)
     cols.insert(cols.index("emailBody") + 1, "followUpBody")
     sent = 0
     for r in rows:
@@ -72,6 +113,7 @@ for path in ["04_backlink_emails.csv", "04_backlink_emails_send.csv"]:
         r["emailSubjectB"] = subj.get(r["webDomain"], "") if live else ""
         r["topic"] = topic(r) if live else ""
         r["emailSubjectC"] = subject_c(r) if live else ""
+        r.update(template_subjects(r) if live else {c: "" for c in TEMPLATE_COLS})
         r["followUpBody"] = follow_up(r, sent)
         sent += bool(r["emailBody"].strip())
     with open(path, "w", newline="") as f:
