@@ -50,7 +50,7 @@ def subject_c(r):
     """Template #6 (proven in March) for quote swaps, #4 (name plus curiosity) for the other offers."""
     if r["offer"] == "Founder's quote swap" or not r["firstName"].strip():
         return f"{r['companyName']} x Motion: a quote swap"
-    return f"{r['firstName'].split()[0]}, spotted something in your {topic(r)}"
+    return f"Spotted something in your {topic(r)}"  # user, 28 Sep: no recipient name in subjects
 
 # The user's eight subject templates (28 Sep), adapted to each row's offer. Title Case as in the user's list.
 SMALL = {"a", "an", "and", "as", "at", "by", "for", "in", "of", "on", "or", "the", "to", "vs", "with", "al"}
@@ -76,17 +76,16 @@ def title(t):
 
 def template_subjects(r):
     site, offer = r["companyName"], r["offer"]
-    editor = r["firstName"].split()[0] if r["firstName"].strip() else f"{site} Team"
     t = title(topic(r))
     return {
         "subject1": f"I Have 2 Ideas for {site}",
         "subject2": f"I'd Love to Be Your {ROLE[offer]} for a Day, {site}",
         "subject3": f"Have You Seen This in Your {t}?",
-        "subject4": f"You Have to See This, {editor}!",
+        "subject4": "You Have to See This!",
         "subject5": f"I'm a Huge Fan of {site} and Want to Contribute",
         "subject6": f"Why {site} is the Perfect Platform for {FIT[offer]}",
         "subject7": f"My {IDEA[offer]} is a Perfect Fit for {site}",
-        "subject8": f"Let's Share Something Fresh with Your Audience, {editor}!",
+        "subject8": "Let's Share Something Fresh with Your Audience!",
     }
 
 TEMPLATE_COLS = [f"subject{i}" for i in range(1, 9)]
