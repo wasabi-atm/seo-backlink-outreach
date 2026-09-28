@@ -34,7 +34,7 @@ DROP_IN_CAMPAIGN = True
 
 cols = ["companyName", "webDomain", "country", "segment", "offer", "firstName", "lastName", "jobTitle", "email",
         "emailSource", "emailType", "linkedinUrl", "articleTitle", "articleUrl", "articleDate", "linkPlacement",
-        "articleHook", "videoSchemaGap", "fit", "emailSubject", "emailBody", "manualCheck", "instantlyCampaign"]
+        "articleHook", "videoSchemaGap", "fit", "emailSubject", "emailSubjectB", "subjectTypeA", "subjectTypeB", "emailBody", "manualCheck", "instantlyCampaign"]
 out = []
 for t in T:
     d = t["webDomain"]
@@ -54,7 +54,7 @@ for t in T:
     if email in camp:
         notes = [f"dropped by the user (28 Sep): already in Instantly campaign {camp[email]}"] if dropped else notes + [f"already in Instantly campaign: {camp[email]}"]
     row = {**{k: t.get(k, "") for k in cols}, **{k: c.get(k, "") for k in ("firstName", "lastName", "jobTitle", "email", "emailSource", "emailType", "linkedinUrl")},
-           "emailSubject": "" if dropped else e.get("emailSubject", ""), "emailBody": "" if dropped else e.get("emailBody", ""),
+           **{k: e.get(k, "") for k in ("emailSubject", "emailSubjectB", "subjectTypeA", "subjectTypeB")}, "emailBody": e.get("emailBody", ""),
            "manualCheck": "; ".join(dict.fromkeys(notes)), "instantlyCampaign": camp.get(email, "")}
     out.append(row)
 
@@ -76,3 +76,6 @@ print("no article link:", [r["webDomain"] for r in out if r["emailBody"] and r["
 print("call or meeting:", [r["webDomain"] for r in out if re.search(r"\b(call|meeting|chat)\b", r["emailBody"], re.I)])
 print("US spelling:", [r["webDomain"] for r in out if re.search(r"\b(optimiz|visualiz|organiz|color\b|favorite|analyz)", r["emailBody"], re.I)])
 print("campaign rows:", sum(1 for r in out if r["instantlyCampaign"]))
+
+import subprocess, sys
+subprocess.run([sys.executable, "../../skill/mta-backlink-outreach/scripts/subject_check.py", "04_backlink_emails.csv"])
