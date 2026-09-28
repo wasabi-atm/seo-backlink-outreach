@@ -46,3 +46,8 @@
   - Drop all 11 contacts already in another Instantly campaign (BrightEdge, Propeller, ExpoPlatform, FloQast, ZIWO, Orgvue, BigMarker, Eagle Eye, PAN Communications, Huntress, Lepide). Emails removed from 04_backlink_emails.csv and ledger rows set to not_sent, so they can be picked again later.
   - Neue World, Engage Web and emotii.ai: include, founder's quote swap only. emotii's email was rewritten as a quote swap (humanizer pass, 103 words); merge_step4.py records all three as competitors with decision include, and the ledger offer for emotii is now Founder's quote swap.
 - Final: 137 emails ready to send (queued in the ledger), 13 not_sent (11 dropped for campaign overlap, 2 with no contact).
+- Subject and follow-up test (user asked, 28 Sep, after low opens on the fixed "Mind if I suggest one tweak to your article?" subject: 23 Sep 3%, 24 Sep 13%, 25 Sep 20% opens, 1 reply in 316; the March 3-step campaign had about 60% opens and 7 replies from 99 leads):
+  - emailSubjectB: a second subject per row naming the concrete detail the email points out (three agents, step5/subjects/BRIEF.md). 137 unique subjects, 3 to 7 words. For an A/B test against emailSubject.
+  - followUpBody: one in-thread bump per row, worded by offer (quote first, or a rough outline or sketch first), ending "No worries if the timing's off."
+  - Summize's email quoted a live "{{quote 1}}" placeholder; Instantly would read it as a merge tag, so the body now says "the tag "quote 1" in double curly brackets", and the send file strips double braces from every field.
+  - step5/rebuild.sh rebuilds 04_backlink_emails.csv, 04_backlink_emails_send.csv and the two new columns from the step5 sources.
