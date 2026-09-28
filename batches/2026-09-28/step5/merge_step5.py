@@ -25,6 +25,8 @@ CONTACT_NOTES = {
     "grcsolutions.io": "email on grci.group, the parent GRC International Group",
     "summize.com": "contact is a junior content executive",
 }
+# Possible competitors found after Step 4 (asked the user; not yet decided).
+COMPETITOR_NOTES = {}  # emotii.ai (AI video studio) is already noted by its email writer
 SAME = {"hackajob.co": "hackajob.com"}
 
 cols = ["companyName", "webDomain", "country", "segment", "offer", "firstName", "lastName", "jobTitle", "email",
@@ -38,6 +40,8 @@ for t in T:
     notes = [x.strip() for x in (e.get("manualCheck") or "").split(";") if x.strip()]
     if d in CONTACT_NOTES:
         notes.append(CONTACT_NOTES[d])
+    if d in COMPETITOR_NOTES:
+        notes.append(COMPETITOR_NOTES[d])
     if c.get("emailType") == "generic":
         notes.append("shared inbox from the website")
     edom = email.split("@")[-1] if email else ""

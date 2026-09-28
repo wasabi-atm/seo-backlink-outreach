@@ -38,3 +38,7 @@
   - Website contact email via an Apify crawl of home and contact pages: info@seo.ae, info@digitalsetgo.com, hello@brandfolder.com. No email anywhere for ResourceSpace and Demio.
   - 148 of 150 have an email (145 named people, 3 shared inboxes). Dedupe with emails: 0 removed. Main had no new ledger rows.
   - Instantly campaign check: 11 emails are already in a campaign (BrightEdge, Eagle Eye, BigMarker, Propeller, ExpoPlatform, FloQast, Huntress, ZIWO, Lepide, Orgvue, PAN Communications). Waiting on the user.
+- Emails: six agents wrote one HTML email per company in Sam's voice (step5/STEP5_BRIEF.md, humanizer pass on every email). 148 emails, 2 blank (ResourceSpace, Demio: no contact). All under 110 words, no dashes, every email has the article link, the motiontheagency.com credit link, paid placement, the closing question and "Cheers, Sam". Web Tonic's email was fixed by hand ("we're both in the video space" removed; it is a performance marketing agency).
+- A third possible competitor surfaced while writing: emotii.ai sells an AI video studio (Segment B, email offers a free video). Asked the user with Neue World and Engage Web.
+- 04_backlink_emails.csv saved; 65 rows carry a manualCheck note. Logged in the ledger straight away: 148 queued and 2 not_sent under campaign backlink-2026-09-28.
+- PR #5 (Steps 1 to 4 and contacts) was merged by the user; the rest of Step 5 is in PR #6.
