@@ -47,7 +47,7 @@ Rules:
 - Then the link ask: "In return, just a credit link back to <a href="http://motiontheagency.com">motiontheagency.com</a>, or we'll pay for placement instead." For a quote swap the link is mutual, so phrase it to fit, for example "a credit link back to motiontheagency.com with my quote, and one to yours with your quote on ours, or we'll pay for placement instead." Always keep the paid placement option.
 - End with `<p>Would you be open to exploring this?</p>` then `<p>Cheers,<br>Sam</p>`.
 - Under 110 words in the body, not counting the sign-off. British spelling (optimise, colour, organisation, visualise). No em dashes or en dashes anywhere, in any field. Never ask for a call or meeting. No flattery, no "I hope this finds you well", no "I came across".
-- Subjects: two per row, for an Instantly A/B test. `emailSubject` is variant A, `emailSubjectB` is variant B, and `subjectTypeA` / `subjectTypeB` say which type each is. Use two different types per row:
+- Subject: one per row. No A/B test for this batch (it starts with the next batch). Write it in `emailSubject` and its type in `subjectTypeA`. Pick the strongest type for the row, usually `trigger` when articleHook has a specific detail, and mix types across the batch:
   - `trigger`: the most specific detail from articleHook plus a short name for the article, for example "step 1 twice in your repurposing post" or "the gmb heading in your local video guide".
   - `question`: a short question about the offer tied to the article, for example "a quote for your employer branding guide?" or "swap quotes on your b2b video guide?".
   - `value`: the offer and where it goes, for example "an infographic for your five pillars".
@@ -60,9 +60,9 @@ Rules:
 ## Output
 
 Write `BATCH/step5/emails_<N>.csv` with columns exactly:
-`webDomain, emailSubject, emailSubjectB, subjectTypeA, subjectTypeB, emailBody, manualCheck`
+`webDomain, emailSubject, subjectTypeA, emailBody, manualCheck`
 
-One row per company in your input (all 25). If a row has no email, leave both subjects, both subject types and emailBody blank and write `no contact found` in manualCheck. Use manualCheck also for: weak fit rows (fit is weak), hooks that need a browser check, founder not reached for a quote swap, and anything else a human should look at before sending. Leave it blank when nothing needs checking.
+One row per company in your input (all 25). If a row has no email, leave emailSubject, subjectTypeA and emailBody blank and write `no contact found` in manualCheck. Use manualCheck also for: weak fit rows (fit is weak), hooks that need a browser check, founder not reached for a quote swap, and anything else a human should look at before sending. Leave it blank when nothing needs checking.
 
 Use python's csv module. Check with a script that no field contains an em or en dash (U+2014, U+2013) and that every body is under 110 words (strip the HTML and the sign-off before counting), and that every subject is 45 characters or fewer, has no banned word and is unique.
 
