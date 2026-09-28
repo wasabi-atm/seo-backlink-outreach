@@ -51,3 +51,4 @@
   - followUpBody: one in-thread bump per row, worded by offer (quote first, or a rough outline or sketch first), ending "No worries if the timing's off."
   - Summize's email quoted a live "{{quote 1}}" placeholder; Instantly would read it as a merge tag, so the body now says "the tag "quote 1" in double curly brackets", and the send file strips double braces from every field.
   - step5/rebuild.sh rebuilds 04_backlink_emails.csv, 04_backlink_emails_send.csv and the two new columns from the step5 sources.
+- Subject C and topic (user asked, 28 Sep, for guest-post-style subject templates adapted to our offers): `topic` is the short article name from emailSubject with proper casing (9 shortened by hand); `emailSubjectC` uses "{{companyName}} x Motion: a quote swap" for quote swaps (the March format with about 60% opens) and "{{firstName}}, spotted something in your {{topic}}" for the other offers.
