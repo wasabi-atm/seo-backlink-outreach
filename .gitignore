@@ -12,3 +12,5 @@ batches/**/shots/
 # Step 4 working copies of crawled pages and raw Apify downloads (large, rebuilt on demand)
 batches/**/step4/posts/
 batches/**/step4/raw_*/
+# Step 5 raw tool downloads (Apollo profiles, Instantly list pages, site crawls)
+batches/**/step5/raw/

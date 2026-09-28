@@ -1,0 +1,4 @@
+Apify peakydev/leads-scraper-ppe run W2mvGgjzm2qOLSygh (dataset arcvUUp7EGiDGRdpf), 9 domains, 34 leads, about $0.16.
+Picked: majestic.com Alex Chudnovsky (MD, email is the actor's pattern guess), litmus.com Erik Nierenberg (CEO, pattern guess),
+podcast.co John White (CTO), codeweavers.net Adam Canay (Head of Retail & Partnerships, not marketing).
+No usable person: seo.ae, digitalsetgo.com, resourcespace.com, demio.com, brandfolder.com (only engineering, success and sales staff).
