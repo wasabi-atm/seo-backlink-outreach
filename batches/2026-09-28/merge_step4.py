@@ -8,7 +8,11 @@ p1 = {r["webDomain"]: r for r in csv.DictReader(open("01_prospects.csv"))}
 for d, b in base.items():
     b["competitorDecision"] = p1.get(d, {}).get("competitorDecision", "")
 # Sites the Step 4 agents flag as also selling video or motion work go here after the user decides (webDomain -> reason).
-STEP4_COMPETITORS = {}
+STEP4_COMPETITORS = {
+    "neue.world": "does some motion work itself",
+    "engageweb.co.uk": "sells video production",
+    "emotii.ai": "sells an AI video studio",
+}  # user, 28 Sep: include, founder's quote swap only
 for d, why in STEP4_COMPETITORS.items():
     base[d].update(competitor="yes", competitorReason=why, competitorDecision="include")
 picks = {}
