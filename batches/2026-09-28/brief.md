@@ -42,3 +42,7 @@
 - A third possible competitor surfaced while writing: emotii.ai sells an AI video studio (Segment B, email offers a free video). Asked the user with Neue World and Engage Web.
 - 04_backlink_emails.csv saved; 65 rows carry a manualCheck note. Logged in the ledger straight away: 148 queued and 2 not_sent under campaign backlink-2026-09-28.
 - PR #5 (Steps 1 to 4 and contacts) was merged by the user; the rest of Step 5 is in PR #6.
+- User decisions (28 Sep):
+  - Drop all 11 contacts already in another Instantly campaign (BrightEdge, Propeller, ExpoPlatform, FloQast, ZIWO, Orgvue, BigMarker, Eagle Eye, PAN Communications, Huntress, Lepide). Emails removed from 04_backlink_emails.csv and ledger rows set to not_sent, so they can be picked again later.
+  - Neue World, Engage Web and emotii.ai: include, founder's quote swap only. emotii's email was rewritten as a quote swap (humanizer pass, 103 words); merge_step4.py records all three as competitors with decision include, and the ledger offer for emotii is now Founder's quote swap.
+- Final: 137 emails ready to send (queued in the ledger), 13 not_sent (11 dropped for campaign overlap, 2 with no contact).
