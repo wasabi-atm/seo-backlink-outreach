@@ -4,7 +4,7 @@ Working folder: `/home/user/seo-backlink-outreach/batches/2026-09-29` (BATCH). R
 
 Motion The Agency (MTA, motiontheagency.com) is a motion design and explainer video studio run by its founder, Sam Jupp. Each company below has one article picked (Step 4) and one contact already found and checked against the ledger. You write one email per company in Sam's voice. You do not look for contacts and you do not spend any credits.
 
-Your input: `BATCH/step5/in_<N>.csv` (25 rows). Your output: `BATCH/step5/emails_<N>.csv`.
+Your input: `BATCH/step5/in_<N>.csv` (20 to 27 rows). Your output: `BATCH/step5/emails_<N>.csv`.
 
 Input columns: companyName, webDomain, country, segment, offer, competitorDecision, firstName, lastName, jobTitle, email, emailType, contactIsFounder, articleTitle, articleUrl, articleDate, linkPlacement, articleHook, fit, notes.
 
@@ -65,7 +65,7 @@ Rules:
 Write `BATCH/step5/emails_<N>.csv` with columns exactly:
 `webDomain, emailSubject, emailSubjectB, subjectTypeA, subjectTypeB, emailBody, manualCheck`
 
-One row per company in your input (all 25). If a row has no email, leave both subjects, both subject types and emailBody blank and write `no contact found` in manualCheck. Use manualCheck also for: weak fit rows (fit is weak), hooks that need a browser check, founder not reached for a quote swap, and anything else a human should look at before sending. Leave it blank when nothing needs checking.
+One row per company in your input (all of them). If a row has no email, leave both subjects, both subject types and emailBody blank and write `no contact found` in manualCheck. Use manualCheck also for: weak fit rows (fit is weak), hooks that need a browser check, founder not reached for a quote swap, and anything else a human should look at before sending. Leave it blank when nothing needs checking.
 
 Use python's csv module. Check with a script that no field contains an em or en dash (U+2014, U+2013) and that every body is under 110 words (strip the HTML and the sign-off before counting), and that every subject is 45 characters or fewer, has no banned word and is unique.
 
@@ -74,3 +74,7 @@ Do not edit any other file, do not touch the ledger, do not commit.
 ## When you finish
 
 Reply with: emails written, rows left blank, and the manualCheck rows with a one-line reason each.
+
+## Last check
+
+Before you finish, run `python3 /home/user/seo-backlink-outreach/skill/mta-backlink-outreach/scripts/subject_check.py BATCH/step5/emails_<N>.csv` and fix everything it lists.

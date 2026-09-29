@@ -38,3 +38,4 @@
 - Step 5 contacts: Instantly SuperSearch list "Backlink 2026-09-29 contacts": pass 1 founders/CEO/MD for the 71 quote rows, pass 2 content titles for the 64 Segment B rows.
 - Contacts (agent, step5/CONTACTS_BRIEF.md): 130 of 135 have an email (124 named people: 75 Instantly, 43 Apollo, 6 Apify; 6 shared inboxes from the websites). No email: Monite, InfoSum, myFitApp, Bulb, VideoScribe (last three only list addresses on other domains). Credits: Instantly 197.25 (965.80 left), Apollo 86 by balance (45 reveals by Apollo's own count; 908 left, gap unexplained), Apify about $0.15. Dedupe with emails: 135 clean.
 - Already in another Instantly campaign: Celebrus, InLinks, Zego, DrDoctor, SeedLegals, Velaris. Asked the user.
+- User (29 Sep): drop all 6 campaign overlaps (emails blanked, notes say why). 124 emails to write; step5/in_0..4.csv, targets_final.csv.
