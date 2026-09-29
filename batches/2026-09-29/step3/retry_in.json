@@ -1,0 +1,244 @@
+[
+ {
+  "webDomain": "ourownbrand.co",
+  "blogUrlTried": "https://ourownbrand.co/blog",
+  "note": "Blog index /blog loaded but no post links could be extracted with cheerio or playwright; playwright showed one post title (The OOB Social Media Attention Cost, 23 September 2026) with no URL. /insights returned the homepage. No posts read.",
+  "posts": []
+ },
+ {
+  "webDomain": "showandtell.agency",
+  "blogUrlTried": "https://showandtell.agency/insights",
+  "note": "Index read fine (latest post 6 July 2026), but article bodies did not render in either cheerio or playwright crawls (only title, date, audio player and related links came back). Links and quotes could not be checked. Post list kept for Step 4.",
+  "posts": [
+   {
+    "url": "https://showandtell.agency/insights/opinion/switching-to-value-based-retainers",
+    "title": "Value-based retainers: Making the switch away from selling time",
+    "date": "2026-07-06"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/from-ai-hype-to-business-value-our-takeaways-from-ann-hiatts-talk-at-the-astorg-agm",
+    "title": "From AI hype to business value: our takeaways from Ann Hiatt\u2019s talk at the Astorg AGM",
+    "date": "2026-05-20"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/what-an-ai-ready-website-actually-looks-like-in-webflow",
+    "title": "Building Webflow websites for global scale, localisation and growth",
+    "date": "2026-03-31"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/how-to-get-ai-implemented-embedded-fully-rolled-out-for-your-property-brand",
+    "title": "How To Get AI Implemented & Embedded In Your Property Brand",
+    "date": "2026-02-24"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/3-brand-digital-trends-for-the-energy-utilities-sector-in-2025",
+    "title": "Digital Trends for Energy & Utilities Brands",
+    "date": "2026-02-05"
+   }
+  ]
+ },
+ {
+  "webDomain": "cariadmarketing.com",
+  "blogUrlTried": "https://cariadmarketing.com/insights/",
+  "note": "Insights index returned only an intro paragraph with no post links in both cheerio and playwright crawls; /blog/ redirects back to /insights/. No posts read.",
+  "posts": []
+ },
+ {
+  "webDomain": "anicca.co.uk",
+  "blogUrlTried": "https://anicca.co.uk/blog/",
+  "note": "Blog index lists post teasers (weekly AI and search news roundups, latest mentions September spam update) but no post URLs were present in the crawled markdown with cheerio or playwright; /insights/ is 404. No posts read.",
+  "posts": []
+ },
+ {
+  "webDomain": "ics-digital.com",
+  "blogUrlTried": "https://www.ics-digital.com/blog",
+  "note": "Blog index returned only one headline (HuffPost Dayna McAlpine interview on fake AI experts) and a cookie banner, no post URLs, with cheerio and playwright; /insights/ is 404. No posts read. The headline suggests it interviews journalists.",
+  "posts": []
+ },
+ {
+  "webDomain": "loyaltylion.com",
+  "blogUrlTried": "https://loyaltylion.com/blog",
+  "note": "Blog index returned only one post title (Customer retention metrics) with no URL, then a demo form, in both crawls; /resources redirects to /resources/marketing-resources with no post links. No posts read.",
+  "posts": []
+ },
+ {
+  "webDomain": "lumen-research.com",
+  "blogUrlTried": "https://lumen-research.com/category/blog/",
+  "note": "Blog category page rendered only navigation and footer (Category: Blog with no posts) in both crawls; /blog/ same. No posts read.",
+  "posts": []
+ },
+ {
+  "webDomain": "force24.co.uk",
+  "blogUrlTried": "https://force24.co.uk/blog/",
+  "note": "Blog index returned only a contact block (cheerio) and a cookie banner (playwright); /insights/ is 404. No posts read.",
+  "posts": []
+ },
+ {
+  "webDomain": "iamgaia.com",
+  "blogUrlTried": "https://www.iamgaia.com/resources",
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page only shows a heading and intro; posts load client side). /blog redirects to /resources. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "pentagram.com",
+  "blogUrlTried": "https://www.pentagram.com/news",
+  "note": "News index lists only project pages (/work/, case studies) and links out to press features (fastcompany.com, designweek.co.uk, creativeboom.com, itsnicethat.com, commarts.com, creativereview.co.uk, telegraph.co.uk). The one editorial item (/news/pentagram-papers-52-the-hudson-transparencies) returne",
+  "posts": []
+ },
+ {
+  "webDomain": "visualsoft.co.uk",
+  "blogUrlTried": "https://www.visualsoft.co.uk/blog",
+  "note": "Index returned no post links with cheerio or playwright:adaptive. /insights is 404 and redirects to /resources. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "influencer.com",
+  "blogUrlTried": "https://www.influencer.com/knowledge-hub",
+  "note": "Knowledge hub shows post titles and dates (latest 2026-09-15) but no post links in the crawl with cheerio or playwright:adaptive; /blog is 404. Much of the hub is company news and press coverage. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "greatstate.co",
+  "blogUrlTried": "https://www.greatstate.co/blog/",
+  "note": "Index shows author names and dates (latest 2026-06-24) but no titles or post links, with cheerio and playwright:adaptive; /news redirects to /blog/ and /insights is 404. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "clevermarketing.co.uk",
+  "blogUrlTried": "https://www.clevermarketing.co.uk/blog/",
+  "note": "Cheerio got a bot check page ('One moment, please'). Playwright:adaptive loaded the blog header but no post links. /news is 404. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "alsoasked.com",
+  "blogUrlTried": "https://alsoasked.com/insights",
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page shows only product intro text). /blog is 404. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "loopme.ai",
+  "blogUrlTried": "https://loopme.ai/insights/",
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page shows only intro text). /blog/ is 404. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "turnerduckworth.com",
+  "blogUrlTried": "https://turnerduckworth.com/news",
+  "note": "Index returned only one Smythson project blurb with no links, with cheerio and playwright:adaptive. /insights has no content. Looks like a work and news showcase, not a blog. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "adtrak.co.uk",
+  "blogUrlTried": "https://www.adtrak.co.uk/blog/",
+  "note": "Blog index returned only a generic services block with no post links, with cheerio and playwright:adaptive. /news/ redirects to /blog/. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "searchpilot.com",
+  "blogUrlTried": "https://www.searchpilot.com/resources",
+  "note": "Resources and /resources/blog show post titles and dates (latest 'Buying journeys are conversations, not prompts', 2026-09-23) but the crawl returned no post URLs, with cheerio and playwright:adaptive. Slugs not guessed. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "gwi.com",
+  "blogUrlTried": "https://www.gwi.com/blog",
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page shows only category headings); /blog/all is the same. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "littledata.io",
+  "blogUrlTried": "https://www.littledata.io/blog",
+  "note": "Blog index is script rendered: both cheerio and playwright:adaptive returned only the heading and search box, no post links. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "wearemiq.com",
+  "blogUrlTried": "https://www.wearemiq.com/resources/blog",
+  "note": "Index shows only an intro ('Tech Blog, We're talking tech') with no post links in both cheerio and playwright:adaptive runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "keywordinsights.ai",
+  "blogUrlTried": "https://www.keywordinsights.ai/blog/",
+  "note": "Index shows a single post teaser (Why is Content Marketing Important?) with no link, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "vevox.com",
+  "blogUrlTried": "https://www.vevox.com/blog",
+  "note": "Index returned only headings and a newsletter box, no post links, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "bidnamic.com",
+  "blogUrlTried": "https://www.bidnamic.com/guides",
+  "note": "/guides lists only gated downloadable reports (landing pages, 2021 to 2024), not articles. /blog returns 404. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "eastsideco.com",
+  "blogUrlTried": "https://eastsideco.com/blog",
+  "note": "Blog index failed in both runs (network timeout on the playwright retry). Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "ascensor.com",
+  "blogUrlTried": "https://www.ascensor.com/news",
+  "note": "Index shows only a featured article teaser (Google Marketing Live 2026: it's time to fix your PPC foundations) with no link, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "komododigital.co.uk",
+  "blogUrlTried": "https://www.komododigital.co.uk/insights/",
+  "note": "Index returned only a contact block, no post links, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "parall.ax",
+  "blogUrlTried": "https://parall.ax/insights",
+  "note": "Index returned only an intro and form text, no post links, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "withcandour.co.uk",
+  "blogUrlTried": "https://withcandour.co.uk/about/news",
+  "note": "News page (and /blog, which redirects to it) shows only a newsletter sign up linking to coreupdates.com, no post links. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "vervaunt.com",
+  "blogUrlTried": "https://vervaunt.com/blog",
+  "note": "Index returned only a contact form message, no post links, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "freshegg.co.uk",
+  "blogUrlTried": "https://www.freshegg.co.uk/blog/",
+  "note": "Index returned only images and a contact prompt, no post links, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "littlewarden.com",
+  "blogUrlTried": "https://littlewarden.com/blog",
+  "note": "Page is titled 'Guides to Using Little Warden' and returned only the footer, no post links, in both runs. Nothing read.",
+  "posts": []
+ },
+ {
+  "webDomain": "paysend.com",
+  "blogUrlTried": "https://paysend.com/news",
+  "note": "/news showed only a \"Press release\" heading and /blog showed category headings with no post links, even with the playwright crawler and a link extraction. No posts could be read.",
+  "posts": []
+ },
+ {
+  "webDomain": "parentpay.com",
+  "blogUrlTried": "https://www.parentpaygroup.com/resources/",
+  "note": "www.parentpaygroup.com/resources/ and /news/ both return a holding page (\"This is the new home for ParentPay Group\" with a Login link). No blog or posts found.",
+  "posts": []
+ },
+ {
+  "webDomain": "arbor-education.com",
+  "blogUrlTried": "https://arbor-education.com/library/",
+  "note": "Given URL /library/ lists ebooks and whitepapers, not articles; /blog/ rendered no post links (only tag links) with cheerio or playwright. No posts could be read.",
+  "posts": []
+ }
+]

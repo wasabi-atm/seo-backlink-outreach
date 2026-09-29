@@ -7,9 +7,17 @@ from collections import Counter
 
 prospects = list(csv.DictReader(open("01_prospects.csv")))
 res = {}
-for f in sorted(glob.glob("step3/result_*.json")):
+for f in sorted(glob.glob("step3/result_[0-9].json")):
     for r in json.load(open(f)):
         res[r["webDomain"]] = r
+# Retry pass on the sites the first pass could not read: use it where it read more posts.
+for f in sorted(glob.glob("step3/result_retry_*.json")):
+    for r in json.load(open(f)):
+        old = res.get(r["webDomain"], {})
+        if int(r.get("postsRead") or 0) >= int(old.get("postsRead") or 0):
+            if not r.get("posts") and old.get("posts"):
+                r["posts"] = old["posts"]
+            res[r["webDomain"]] = r
 
 COLS = ["companyName", "webDomain", "domainRating", "country", "serviceType", "segment", "visualScore", "backlinkExchange",
         "backlinkEvidence", "dataSource", "competitor", "drStatus", "videoSchemaGap"]
