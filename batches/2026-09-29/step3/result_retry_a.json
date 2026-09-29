@@ -1,0 +1,819 @@
+[
+ {
+  "webDomain": "ourownbrand.co",
+  "blogUrlUsed": "https://ourownbrand.co/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "iabuk.com",
+   "datareportal.com",
+   "kk.org",
+   "creativecommons.org",
+   "substack.com",
+   "no-ordinary-love.co"
+  ],
+  "quotedCompanies": [
+   "Meta"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://ourownbrand.co/oob-social-media-attention-cost",
+    "title": "The OOB Social Media Attention Cost: About 25p an Hour of UK Social Time (and Rising)",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://ourownbrand.co/how-to-get-dangerously-good-at-spotting-trends",
+    "title": "How to get dangerously good at spotting trends",
+    "date": "2026-08-27"
+   },
+   {
+    "url": "https://ourownbrand.co/social-media-statistics-uk",
+    "title": "Social Media Statistics UK (2026): Users, Platforms, Ad Spend & What They Mean",
+    "date": "2026-08-19"
+   },
+   {
+    "url": "https://ourownbrand.co/social-seo-just-levelled-up-what-google-s-new-search-console-features-mean-for-brands-and-creators",
+    "title": "Social SEO just levelled up: what Google's new Search Console features mean for brands and creators",
+    "date": "2026-08-05"
+   },
+   {
+    "url": "https://ourownbrand.co/the-buzz-on-substack",
+    "title": "The buzz on Substack",
+    "date": "2026-07-09"
+   }
+  ],
+  "latest": "2026-09-23",
+  "note": "Post links recovered with cheerio-scraper returning every a[href] on /blog. Links are to data sources (IAB UK, DataReportal, Ofcom) and Substack newsletters. Meta's Peter Buckley quoted in the Substack post. Two of five posts had no outside links."
+ },
+ {
+  "webDomain": "showandtell.agency",
+  "blogUrlUsed": "https://showandtell.agency/insights",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://showandtell.agency/insights/opinion/switching-to-value-based-retainers",
+    "title": "Value-based retainers: How to make the switch away from selling time",
+    "date": "2026-07-06"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/from-ai-hype-to-business-value-our-takeaways-from-ann-hiatts-talk-at-the-astorg-agm",
+    "title": "From AI hype to business value: our takeaways from Ann Hiatt’s talk at the Astorg AGM",
+    "date": "2026-05-20"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/what-an-ai-ready-website-actually-looks-like-in-webflow",
+    "title": "What an AI-ready website actually looks like in Webflow",
+    "date": "2026-03-31"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/how-to-get-ai-implemented-embedded-fully-rolled-out-for-your-property-brand",
+    "title": "How To Get AI Implemented, Embedded & Fully Rolled Out For Your Property Brand",
+    "date": "2026-02-24"
+   },
+   {
+    "url": "https://showandtell.agency/insights/opinion/3-brand-digital-trends-for-the-energy-utilities-sector-in-2025",
+    "title": "3 Brand & Digital Trends For The Energy & Utilities Sector in 2026",
+    "date": "2026-02-05"
+   }
+  ],
+  "latest": "2026-07-06",
+  "note": "Retried all 5 post bodies with cheerio-scraper (raw HTML) and 2 with website-content-crawler playwright:firefox and htmlTransformer none. Every page returns only title, date, audio player (Listen to this article), author box and related links; the article text is not in the page at all, so links and quotes cannot be checked. Blog is live (latest 6 July 2026)."
+ },
+ {
+  "webDomain": "cariadmarketing.com",
+  "blogUrlUsed": "https://cariadmarketing.com/insights/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "bbc.co.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://cariadmarketing.com/insights/instagram-is-trialling-clickable-links-in-posts-heres-what-you-need-to-know/",
+    "title": "Instagram is trialling clickable links in posts - Here’s what you need to know",
+    "date": "2026-09-28"
+   },
+   {
+    "url": "https://cariadmarketing.com/insights/insights-b2b-lead-generation-strategies-2026/",
+    "title": "5 B2B Lead Generation Strategies for 2026: What Actually Converts Now",
+    "date": "2026-08-03"
+   },
+   {
+    "url": "https://cariadmarketing.com/insights/10-tips-to-get-the-most-out-of-your-recruitment-website-design/",
+    "title": "Recruitment Website Design in 2026: 8 Things That Actually Convert",
+    "date": "2026-08-03"
+   },
+   {
+    "url": "https://cariadmarketing.com/insights/ai-in-social-media-marketing/",
+    "title": "AI in Social Media Marketing - Meta’s Latest Changes",
+    "date": "2026-08-02"
+   },
+   {
+    "url": "https://cariadmarketing.com/insights/fixing-lead-quality-without-rebuilding-the-entire-funnel/",
+    "title": "Fixing Lead Quality Without Rebuilding the Entire Funnel",
+    "date": "2026-07-06"
+   }
+  ],
+  "latest": "2026-09-28",
+  "note": "Post links recovered with cheerio-scraper on /insights/. Very few outbound links: only bbc.co.uk plus gov.uk, instagram.com, meta.com and a Linktree anchor pointing at google.com; three of five posts link nowhere outside apart from share buttons."
+ },
+ {
+  "webDomain": "anicca.co.uk",
+  "blogUrlUsed": "https://anicca.co.uk/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "adweek.com",
+   "almcorp.com",
+   "americanbanker.com",
+   "anthropic.com",
+   "bbc.com",
+   "biopharmadive.com",
+   "bloomberg.com",
+   "cio.com",
+   "cnbc.com",
+   "contentgrip.com",
+   "deloitte.com",
+   "digitalcommerce360.com",
+   "euractiv.com",
+   "forbes.com",
+   "fortune.com",
+   "ft.com",
+   "hcamag.com",
+   "ibm.com",
+   "inc.com",
+   "institute.global",
+   "itp.net",
+   "kpmg.com",
+   "marketingtechnews.net",
+   "marketingweek.com",
+   "martech.org",
+   "mckinsey.com",
+   "microsoft.com",
+   "nytimes.com",
+   "openai.com",
+   "pwc.com",
+   "pymnts.com",
+   "retailgazette.co.uk",
+   "retailtechinnovationhub.com",
+   "sap.com",
+   "searchenginejournal.com",
+   "searchengineland.com",
+   "searchenginewatch.com",
+   "semrush.com",
+   "seranking.com",
+   "seroundtable.com",
+   "siliconangle.com",
+   "socialmediaexaminer.com",
+   "techcrunch.com",
+   "techinformed.com",
+   "thedrum.com",
+   "thehrdirector.com",
+   "thekeyword.co",
+   "thenextweb.com",
+   "venturebeat.com",
+   "yahoo.com"
+  ],
+  "quotedCompanies": [
+   "Microsoft",
+   "Nozzle",
+   "Google"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://anicca.co.uk/blog/2026-09-28-ai-in-marketing-management/",
+    "title": "This Week in AI in Marketing & Management (28th Sept. 2026)",
+    "date": "2026-09-27"
+   },
+   {
+    "url": "https://anicca.co.uk/blog/weekly-update-search-marketing-25-09-2026/",
+    "title": "The September Spam Update Lands, the CMA Pushes UK Search Choice, and Cloudflare Leaves Googlebot Alone",
+    "date": "2026-09-25"
+   },
+   {
+    "url": "https://anicca.co.uk/blog/2026-09-21-ai-in-marketing-management/",
+    "title": "AI in Marketing & Management Weekly News Update (21st Sep 26)",
+    "date": "2026-09-21"
+   },
+   {
+    "url": "https://anicca.co.uk/blog/weekly-update-search-marketing-11-09-2026/",
+    "title": "People Also Ask Goes 97% AI, Google Calls EU Search Its Worst Ever, and Cloudflare Turns on Googlebot",
+    "date": "2026-09-11"
+   },
+   {
+    "url": "https://anicca.co.uk/blog/how-we-use-ai-to-improve-our-seo-offering/",
+    "title": "How We Use AI to Improve Our SEO Offering",
+    "date": "2026-09-02"
+   }
+  ],
+  "latest": "2026-09-27",
+  "note": "Post URLs found in the blog index and post-sitemap via cheerio-scraper. First cheerio pass returned empty bodies (theme markup) and one bot check page; a second cheerio pass read all 5. Four of five posts are weekly news roundups that link out heavily to trade press (Search Engine Land, SEJ, Search Engine Roundtable, Semrush, CNBC, Bloomberg and more); quotes of Microsoft's Jacob Andreou, Nozzle's Derek Perkins and Google's John Mueller are relayed from those outlets. The own-voice post (How We Use AI) links only to Google."
+ },
+ {
+  "webDomain": "ics-digital.com",
+  "blogUrlUsed": "https://www.ics-digital.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "pressgazette.co.uk",
+   "sparktoro.com",
+   "similarweb.com",
+   "marketingscience.info",
+   "ahrefs.com"
+  ],
+  "quotedCompanies": [
+   "HuffPost"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.ics-digital.com/blog/ai-visibility-in-health-supplements-content-differentiation-and-proof-points",
+    "title": "AI Visibility in Health + Supplements: Content Differentiation and Proof Points",
+    "date": "2026-08-25"
+   },
+   {
+    "url": "https://www.ics-digital.com/blog/the-new-shelf-space-how-brands-need-to-react-to-retail-visibility-moving-from-search-rankings-to-ai-retrieval",
+    "title": "The New Shelf Space: How Brands Need to React to Retail Visibility Moving From Search Rankings to AI Retrieval",
+    "date": "2026-07-27"
+   },
+   {
+    "url": "https://www.ics-digital.com/blog/if-youre-using-fictional-ai-experts-in-pr-stories-grow-up-huffposts-dayna-mcalpine-on-the-credibility-cost-of-using-fake-experts-in-press-releases",
+    "title": "“If You're Using Fictional AI Experts in PR Stories, Grow Up”: HuffPost's Dayna McAlpine on the Credibility Cost of Using Fake Experts in Press Releas",
+    "date": "2026-06-19"
+   },
+   {
+    "url": "https://www.ics-digital.com/blog/seo-fireside-chat-navigating-the-answer-engine-era",
+    "title": "SEO Fireside Chat: Navigating the Answer Engine Era",
+    "date": "2026-06-17"
+   },
+   {
+    "url": "https://www.ics-digital.com/blog/the-difference-between-assigning-work-and-strategic-resource-matching",
+    "title": "The Difference Between Assigning Work and Strategic Resource Matching",
+    "date": "2026-06-04"
+   }
+  ],
+  "latest": "2026-08-25",
+  "note": "Post links recovered with cheerio-scraper on /blog. Runs a podcast interviewing journalists (HuffPost's Dayna McAlpine quoted at length). Outbound links are sparse and mostly research sources; one post is internal HR content (global resourcing)."
+ },
+ {
+  "webDomain": "loyaltylion.com",
+  "blogUrlUsed": "https://loyaltylion.com/blogs/category/loyalty-strategy",
+  "postsRead": 5,
+  "outsideDomains": [
+   "ama.org",
+   "amazon.com",
+   "annmariegianni.com",
+   "astridandmiyu.com",
+   "bain.com",
+   "barnesandnoble.com",
+   "bigcommerce.co.uk",
+   "boathousestores.com",
+   "cnbc.com",
+   "coffeedasher.com",
+   "customerexperiencedive.com",
+   "cxtoday.com",
+   "draxe.com",
+   "eatbobos.com",
+   "emarsys.com",
+   "forbes.com",
+   "franklinpetfood.com",
+   "hilton.com",
+   "holy.com",
+   "homeofdirectcommerce.com",
+   "lego.com",
+   "lucyandyak.com",
+   "marketing-beat.co.uk",
+   "marketingcharts.com",
+   "marketwatch.com",
+   "mckinsey.com",
+   "mi-3.com.au",
+   "mintel.com",
+   "mirenesse.com",
+   "morningconsult.com",
+   "moxielash.com",
+   "nicceclothing.com",
+   "nielsen.com",
+   "nude-project.com",
+   "nuudcare.co.uk",
+   "nytimes.com",
+   "okoone.com",
+   "pacificabeauty.com",
+   "patagonia.com",
+   "polymersearch.com",
+   "prnewswire.com",
+   "pureseoul.co.uk",
+   "rei.com",
+   "sephora.com",
+   "techsee.com",
+   "thechive.com",
+   "thenorthface.com",
+   "thepulseboutique.com",
+   "thesun.co.uk",
+   "tubbytodd.com",
+   "urbanutility.mx",
+   "walkerinfo.com",
+   "waterdrop.com",
+   "wearlively.com",
+   "yougov.com",
+   "yourcreative.com.au"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://loyaltylion.com/blog/customer-loyalty-program-examples",
+    "title": "21 of the best loyalty programs in 2026",
+    "date": "2025-12-16"
+   },
+   {
+    "url": "https://loyaltylion.com/blog/world-class-loyalty-programs",
+    "title": "These world-class loyalty programs help their brands grow faster than ever",
+    "date": "2026-06-26"
+   },
+   {
+    "url": "https://loyaltylion.com/blog/enterprise-loyalty-programs",
+    "title": "Enterprise Loyalty Program Management: What Big Brands Need From Their Platform",
+    "date": "2026-06-05"
+   },
+   {
+    "url": "https://loyaltylion.com/blog/tariffs-and-brand-loyalty",
+    "title": "Tariffs and brand loyalty: why returning customers are worth their weight in gold amid price rises and economic uncertainty",
+    "date": "2025-04-15"
+   },
+   {
+    "url": "https://loyaltylion.com/blog/declining-customer-loyalty",
+    "title": "Customer loyalty may be declining, but that can be an opportunity rather than a threat",
+    "date": "2025-03-13"
+   }
+  ],
+  "latest": "2026-06-26",
+  "note": "/blog shows no post links in raw HTML; post URLs came from the category pages /blogs/category/loyalty-strategy and /blogs/category/customer-loyalty (cheerio-scraper), which do not show dates, so the newest post on the site may be later than 2026-06-26. Links out generously to research, news and brand sites (many brands are LoyaltyLion customers). Only quote found is a client CTO."
+ },
+ {
+  "webDomain": "lumen-research.com",
+  "blogUrlUsed": "https://lumen-research.com/category/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "exchangewire.com",
+   "jstor.org",
+   "globenewswire.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://lumen-research.com/blog/creative-the-duck-rabbit-of-advertising-attention/",
+    "title": "Creative: The Duck/Rabbit of Advertising Attention",
+    "date": "2025-12-16"
+   },
+   {
+    "url": "https://lumen-research.com/blog/the-dangers-of-divided-attention/",
+    "title": "The Dangers of Divided Attention",
+    "date": "2025-10-16"
+   },
+   {
+    "url": "https://lumen-research.com/blog/exaptation-and-attention-repurposing-ad-techs-existing-signals/",
+    "title": "Exaptation and Attention: Repurposing Ad Tech’s Existing Signals",
+    "date": "2025-10-06"
+   },
+   {
+    "url": "https://lumen-research.com/blog/the-ecology-of-perception/",
+    "title": "The Ecology of Perception: Why Where You Place Your Ads Matters",
+    "date": "2025-09-16"
+   },
+   {
+    "url": "https://lumen-research.com/blog/does-evolution-explain-the-adoption-of-attention-metrics/",
+    "title": "Does Evolution Explain the Adoption of Attention Metrics?",
+    "date": "2025-08-26"
+   }
+  ],
+  "latest": "2025-12-16",
+  "note": "Cheerio-scraper on the same category URL did return the post list (earlier empty result was the crawler, not the site). Blog is short CEO essays (Mike Follett), about 2,000 words or less, few links. Last blog post 16 Dec 2025 (over 9 months); the post sitemap shows newer press releases and white papers up to 26 May 2026."
+ },
+ {
+  "webDomain": "force24.co.uk",
+  "blogUrlUsed": "https://force24.co.uk/blog/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://force24.co.uk/fwdthinking-three-ways-the-travel-booking-journey-is-changing/",
+    "title": "Three ways the travel booking journey is changing",
+    "date": "2026-09-08"
+   },
+   {
+    "url": "https://force24.co.uk/how-to-build-an-sms-audience-that-keeps-growing/",
+    "title": "How to build an SMS audience that keeps growing",
+    "date": "2026-08-13"
+   },
+   {
+    "url": "https://force24.co.uk/how-intent-based-segmentation-will-change-automotive-retention/",
+    "title": "How Intent-based Segmentation Will Change Automotive Retention",
+    "date": "2026-07-13"
+   },
+   {
+    "url": "https://force24.co.uk/what-travel-marketers-can-learn-from-the-journey-between-interest-and-booking/",
+    "title": "What travel marketers can learn from the journey between interest and booking",
+    "date": "2026-05-20"
+   },
+   {
+    "url": "https://force24.co.uk/how-website-behaviour-revelead-ev-demand-before-the-showroom-did/",
+    "title": "How Website Behaviour Revealed EV Demand Before the Showroom Did",
+    "date": "2026-04-23"
+   }
+  ],
+  "latest": "2026-09-08",
+  "note": "Post links recovered with cheerio-scraper on /blog/. All 5 posts are written by Force24 staff and contain no outbound links at all."
+ },
+ {
+  "webDomain": "iamgaia.com",
+  "blogUrlUsed": "https://www.iamgaia.com/resources",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.iamgaia.com/resources/what-recruitment-marketing-metrics-build-cfo-trust-in-2026",
+    "title": "What recruitment marketing metrics build CFO trust in 2026?",
+    "date": "2026-03-09"
+   },
+   {
+    "url": "https://www.iamgaia.com/resources/how-do-you-make-recruitment-marketing-retargeting-work",
+    "title": "How do you make recruitment marketing retargeting work in 2026?",
+    "date": "2026-02-25"
+   },
+   {
+    "url": "https://www.iamgaia.com/resources/how-do-you-fix-your-apply-flow-in-2026-a-conversion-playbook-for-recruitment-marketing",
+    "title": "How do you fix your apply flow in 2026? A conversion playbook for recruitment marketing",
+    "date": "2026-02-22"
+   },
+   {
+    "url": "https://www.iamgaia.com/resources/recruitment-marketing-targeting-how-to-reach-the-right-candidates-without-paying-for-noise",
+    "title": "Recruitment marketing targeting: how to reach the right candidates without paying for noise",
+    "date": "2026-02-16"
+   },
+   {
+    "url": "https://www.iamgaia.com/resources/ai-recruitment-marketing-explained-what-it-does-what-it-doesnt-and-why-it-matters",
+    "title": "AI recruitment marketing explained: what it does, what it doesn’t, and why it matters",
+    "date": "2026-02-09"
+   }
+  ],
+  "latest": "2026-05-28",
+  "note": "Post links and dates recovered with cheerio-scraper on /resources. Last article 9 Mar 2026; newer items are company news (latest 28 May 2026, Fosway 9-Grid). Nothing new in about 4 months. The 5 articles read have no outbound links."
+ },
+ {
+  "webDomain": "pentagram.com",
+  "blogUrlUsed": "https://www.pentagram.com/sitemap_news.xml",
+  "postsRead": 2,
+  "outsideDomains": [
+   "ferrari.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.pentagram.com/news/ferrari-yearbook",
+    "title": "Ferrari Yearbook",
+    "date": "2026-03-13"
+   },
+   {
+    "url": "https://www.pentagram.com/news/pentagram-2025-year-in-review",
+    "title": "Pentagram 2025 Year in Review",
+    "date": "2026-01-08"
+   }
+  ],
+  "latest": "2026-03-13",
+  "note": "Not a blog. /news lists project pages; the news sitemap holds 68 short news items, latest 13 Mar 2026. pentagram-papers-52-the-hudson-transparencies now returns 404. The two items read are short project notes (one is a video, 386 characters); the only outbound link goes to the client (Ferrari). Poor fit for a contributed article."
+ },
+ {
+  "webDomain": "visualsoft.co.uk",
+  "blogUrlUsed": "https://www.visualsoft.co.uk/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.visualsoft.co.uk/blog/why-mid-market-merchants-struggle-with-unified-retail-and-how-to-fix-it",
+    "title": "Why mid-market merchants struggle with unified retail (and how to fix it)",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.visualsoft.co.uk/blog/five-ways-merchants-are-falling-short-on-unified-retail",
+    "title": "Five ways merchants are falling short on unified retail",
+    "date": "2026-08-17"
+   },
+   {
+    "url": "https://www.visualsoft.co.uk/blog/unified-retail-in-2026-how-uk-retailers-reduce-friction-across-channels",
+    "title": "How UK retailers reduce friction across channels",
+    "date": "2026-08-12"
+   },
+   {
+    "url": "https://www.visualsoft.co.uk/blog/how-retailers-can-optimise-for-trust-not-just-traffic",
+    "title": "How retailers can optimise for trust, not just traffic",
+    "date": "2026-08-06"
+   },
+   {
+    "url": "https://www.visualsoft.co.uk/blog/preparing-ecommerce-content-for-ai-driven-search",
+    "title": "Preparing eCommerce content for AI driven search",
+    "date": "2026-08-03"
+   }
+  ],
+  "latest": "2026-09-28",
+  "note": "Post links recovered with cheerio-scraper on /blog. The 5 posts read have no outbound links (only an own HubSpot form). Sitemap shows newer Sync 2026 event recap posts up to 28 Sep 2026."
+ },
+ {
+  "webDomain": "influencer.com",
+  "blogUrlUsed": "https://www.influencer.com/knowledge-hub",
+  "postsRead": 5,
+  "outsideDomains": [
+   "netinfluencer.com",
+   "inc.com",
+   "fastcompany.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.influencer.com/knowledge-hub/creator-campaigns-have-been-generating-ai-signals-for-months",
+    "title": "Creator campaigns have been generating AI signals for months",
+    "date": "2026-09-15"
+   },
+   {
+    "url": "https://www.influencer.com/knowledge-hub/why-metas-new-ai-rules-prove-human-trust-is-more-valuable-than-ever",
+    "title": "Why Meta’s new AI rules prove human trust is more valuable than ever",
+    "date": "2026-09-02"
+   },
+   {
+    "url": "https://www.influencer.com/knowledge-hub/what-is-ai-saying-about-your-brand",
+    "title": "What is AI saying about your brand?",
+    "date": "2026-08-27"
+   },
+   {
+    "url": "https://www.influencer.com/knowledge-hub/creator-first-aeo-is-the-new-standard-for-brand-discovery",
+    "title": "CEO, Ben Jeffries, speaks to Fast Company about Creator-First AEO",
+    "date": "2026-08-20"
+   },
+   {
+    "url": "https://www.influencer.com/knowledge-hub/football-culture-the-evolution-of-the-football-fan",
+    "title": "Football Culture: The evolution of the football fan",
+    "date": ""
+   }
+  ],
+  "latest": "2026-09-15",
+  "note": "Post links recovered with cheerio-scraper on /knowledge-hub. Posts are short (about 2,500 characters) and mostly point to press coverage of Influencer itself (Net Influencer, Inc., Fast Company interview with its CEO). Much of the hub is company news and awards. Football Culture post shows a June date with no year in the crawled text."
+ },
+ {
+  "webDomain": "greatstate.co",
+  "blogUrlUsed": "https://www.greatstate.co/blog/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.greatstate.co/blog/articles/british-army-speaking-their-language",
+    "title": "British Army: Speaking Gen Z's language during the World Cup",
+    "date": "2026-06-24"
+   },
+   {
+    "url": "https://www.greatstate.co/blog/articles/an-effortless-future-gen-z-report",
+    "title": "An Effortless Future: How Gen Z is redefining effort, loyalty and what \"good\" looks like online",
+    "date": "2026-01-15"
+   },
+   {
+    "url": "https://www.greatstate.co/blog/articles/why-effortless-experiences-demand-a-whole-lot-of-effort",
+    "title": "Why effortless experiences demand a whole lot of effort",
+    "date": "2026-01-09"
+   },
+   {
+    "url": "https://www.greatstate.co/blog/articles/does-2026-mark-the-end-of-digital-design-trends",
+    "title": "Does 2026 mark the end of digital design trends?",
+    "date": "2026-01-02"
+   },
+   {
+    "url": "https://www.greatstate.co/blog/articles/why-the-old-web-is-starting-to-crease-at-the-edges",
+    "title": "Why the 'old web' is starting to crease at the edges",
+    "date": "2025-12-19"
+   }
+  ],
+  "latest": "2026-06-24",
+  "note": "Post links recovered with cheerio-scraper on /blog/. Staff-written posts; outbound links only to its own great-state.co.uk pages, a client (British Army jobs site) and Outlook booking links. Latest post 24 Jun 2026, before that 15 Jan 2026, so posting is infrequent."
+ },
+ {
+  "webDomain": "clevermarketing.co.uk",
+  "blogUrlUsed": "https://www.clevermarketing.co.uk/blog/",
+  "postsRead": 4,
+  "outsideDomains": [
+   "ahrefs.com",
+   "backlinko.com",
+   "bestversionmedia.com",
+   "brightedge.com",
+   "buzzsumo.com",
+   "contentmarketinginstitute.com",
+   "demandgenreport.com",
+   "dougvos.com",
+   "explodingtopics.com",
+   "hooleymedia.com",
+   "hubspot.com",
+   "instapage.com",
+   "lilachbullock.com",
+   "litmus.com",
+   "luckyorange.com",
+   "marketingltb.com",
+   "marq.com",
+   "marquiz.io",
+   "mckinsey.com",
+   "mdgadvertising.com",
+   "morningconsult.com",
+   "omnisend.com",
+   "pewresearch.org",
+   "pingdom.com",
+   "safaridigital.com.au",
+   "salesforce.com",
+   "searchatlas.com",
+   "searchenginejournal.com",
+   "seo.com",
+   "seoprofy.com",
+   "seosherpa.com",
+   "statista.com",
+   "surfsigma.com",
+   "tooltester.com",
+   "wpforms.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.clevermarketing.co.uk/why-your-website-gets-visitors-but-not-enquiries/",
+    "title": "Why your website gets visitors but not enquiries",
+    "date": "2026-09-24"
+   },
+   {
+    "url": "https://www.clevermarketing.co.uk/4-things-business-owners-should-know-about-seo/",
+    "title": "4 Things Business Owners Should Know About SEO",
+    "date": "2026-09-21"
+   },
+   {
+    "url": "https://www.clevermarketing.co.uk/content-marketing-a-practical-guide-for-smes/",
+    "title": "Content Marketing: A Practical Guide for SMEs",
+    "date": "2026-07-06"
+   },
+   {
+    "url": "https://www.clevermarketing.co.uk/seo-for-small-businesses-the-complete-guide/",
+    "title": "SEO for Small Businesses: The Complete Guide",
+    "date": "2026-06-03"
+   }
+  ],
+  "latest": "2026-09-24",
+  "note": "This time cheerio-scraper got past the bot check. Long guides cite many statistics sources with outbound links (good fit for a cited stat or resource). The featured post benefits-interactive-digital-brochures redirects to /blog/ (published 2025-07-21), so 4 posts read. Some anchors name one source but link to another site (for example 'Backlinko' links to dougvos.com)."
+ },
+ {
+  "webDomain": "alsoasked.com",
+  "blogUrlUsed": "https://alsoasked.com/insights",
+  "postsRead": 1,
+  "outsideDomains": [
+   "chris-green.net"
+  ],
+  "quotedCompanies": [
+   "Torque Partnership"
+  ],
+  "guestSigns": "Only insight article is by Chris Green, Technical Director at Torque Partnership (external author): https://alsoasked.com/insights/paa-ranking-correlation",
+  "posts": [
+   {
+    "url": "https://alsoasked.com/insights/paa-ranking-correlation",
+    "title": "How answering People Also Ask questions correlates with organic rankings (Study)",
+    "date": "2026-02-16"
+   }
+  ],
+  "latest": "2026-02-16",
+  "note": "/insights holds a single article (page 2 shows the same one); /blog and all sitemap paths are 404. The article is a study written by an outside expert, which suggests openness to contributed research, but there is no regular blog."
+ },
+ {
+  "webDomain": "loopme.ai",
+  "blogUrlUsed": "https://loopme.ai/insights/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "thetradedesk.com",
+   "liveramp.com",
+   "jetbrains.com",
+   "stackoverflow.com",
+   "statista.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://loopme.ai/insights/loopme-consumer-snapshot-football-season-us/",
+    "title": "LoopMe Consumer Snapshot: Football Season (US)",
+    "date": "2026-08-21"
+   },
+   {
+    "url": "https://loopme.ai/insights/loopme-consumer-snapshot-qsr-us-2026/",
+    "title": "LoopMe Consumer Snapshot: QSR (US)",
+    "date": "2026-07-29"
+   },
+   {
+    "url": "https://loopme.ai/2025/12/04/genai-in-engineering-what-works-what-doesnt/",
+    "title": "GenAI in a Data Science Team: What actually works (and what really doesn’t)",
+    "date": "2025-12-04"
+   },
+   {
+    "url": "https://loopme.ai/2026/09/10/loopmes-9th-patent-ai-control-groups-brand-lift-measurement/",
+    "title": "LoopMe’s 9th patent recognizes real-time AI control groups for brand lift measurement",
+    "date": "2026-09-10"
+   },
+   {
+    "url": "https://loopme.ai/2026/08/28/chinajoy-recap-smarter-ai-engine-full-cycle-mobile-growth/",
+    "title": "ChinaJoy Presentation Recap | Smarter AI: An engine for full-cycle mobile growth",
+    "date": "2026-08-28"
+   }
+  ],
+  "latest": "2026-09-25",
+  "note": "/insights is a library of short consumer survey snapshots (about 1,400 characters each); the post sitemap holds company news, patents and employee spotlights (latest 25 Sep 2026). Only one editorial-style post found (GenAI in a Data Science Team, Dec 2025). The Trade Desk and LiveRamp links are platform logins in the snapshot template, not editorial links."
+ },
+ {
+  "webDomain": "turnerduckworth.com",
+  "blogUrlUsed": "https://turnerduckworth.com/news",
+  "postsRead": 5,
+  "outsideDomains": [
+   "prayforrain.com"
+  ],
+  "quotedCompanies": [
+   "Pray For Rain (composer Dan Wool, interview)"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://turnerduckworth.com/news/smythson",
+    "title": "Treasure the Days (Smythson)",
+    "date": "2025-07-01"
+   },
+   {
+    "url": "https://turnerduckworth.com/news/take-flight-awards-liv-myers",
+    "title": "Take Flight Awards - Liv Myers",
+    "date": "2025-06-25"
+   },
+   {
+    "url": "https://turnerduckworth.com/news/duckworth-dozen-saskia-wilson",
+    "title": "Duckworth Dozen Saskia Wilson",
+    "date": "2025-06-11"
+   },
+   {
+    "url": "https://turnerduckworth.com/news/duckworth-dozen-dan-wool",
+    "title": "Duckworth Dozen Dan Wool",
+    "date": "2025-01-08"
+   },
+   {
+    "url": "https://turnerduckworth.com/news/making-memories",
+    "title": "Making Memories with Matt Lurcock",
+    "date": "2024-11-13"
+   }
+  ],
+  "latest": "2025-07-01",
+  "note": "Dead news page: latest item 1 Jul 2025, nearly 15 months ago. It is a work and studio-culture showcase (project write-ups, staff awards, 'Duckworth Dozen' interviews with collaborators), not a blog. Almost no outbound links."
+ },
+ {
+  "webDomain": "adtrak.co.uk",
+  "blogUrlUsed": "https://www.adtrak.co.uk/blog/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.adtrak.co.uk/blog/what-does-an-seo-site-audit-look-like/",
+    "title": "What Does an SEO Site Audit Look Like?",
+    "date": "2026-09-01"
+   },
+   {
+    "url": "https://www.adtrak.co.uk/blog/ai-labels-on-social-media-transparency-is-trending/",
+    "title": "AI Labels on Social Media: Transparency Is Trending",
+    "date": "2026-08-14"
+   },
+   {
+    "url": "https://www.adtrak.co.uk/blog/optimise-for-overviews-how-to-get-your-copy-noticed/",
+    "title": "Optimise for Overviews: How to Get Your Copy Noticed",
+    "date": "2026-07-28"
+   },
+   {
+    "url": "https://www.adtrak.co.uk/blog/nurturing-customers-to-convert-through-social-marketing-ads/",
+    "title": "Nurturing Customers to Convert through Social Marketing Ads",
+    "date": "2026-07-13"
+   },
+   {
+    "url": "https://www.adtrak.co.uk/blog/chatgpt-ads-in-the-uk-whats-actually-live-and-how-to-test-it-properly/",
+    "title": "ChatGPT Ads in the UK: What's Actually Live, and How to Test It Properly",
+    "date": "2026-06-24"
+   }
+  ],
+  "latest": "2026-09-01",
+  "note": "Post links recovered with cheerio-scraper on /blog/ (also reached via /news/). Dates come from page timestamps. All 5 staff-written posts have no outbound links."
+ }
+]
