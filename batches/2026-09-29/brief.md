@@ -25,3 +25,5 @@
 - 02_enriched.csv: all 150 at DR 40 to 84 (28 Sep free endpoint). 02_low_dr.csv is empty: no new candidates were researched, so nothing was added to the pool.
 - Checkpoint 2 (user, 29 Sep): option 1. Dropped the 6 unreadable and 5 dead-blog sites (Show + Tell, Eastside Co, Little Warden, Gleanin, Turner Duckworth; Talentera, Letswork, Saal.ai, GBM, Okadoc, Pyypl), moved to 01_spares.csv with a note, not logged. Kept the 9 stale blogs. Maquae moved to Segment A (digital marketing agency, founder's quote swap).
 - Replacements needed: 4 Segment A and 7 Segment B. No UAE spares and no spares with dated posts were left, so the next 8 UK A and 14 UK B spares by score and DR go through the Step 3 link check (group 7), and the first 4 A and 7 B with live, readable blogs join the list.
+- Group 7 link check (22 UK spares): picked in rank order with a live, readable blog: A Varn, Pi Datametrics, Celebrus, StreamAMG; B Zego, Aurora Energy Research, SeedLegals, Quantexa, Proactis, Oleeo, Bulb. Opteo skipped (blog dead since 2021). Dedupe of the final 150 against the ledger: clean.
+- Final Step 3 list: 150 (A 75: 75 UK; B 75: 13 UAE, 62 UK). 02_enriched.csv rebuilt.

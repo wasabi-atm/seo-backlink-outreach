@@ -1,0 +1,936 @@
+[
+ {
+  "webDomain": "varn.co.uk",
+  "blogUrlUsed": "https://varn.co.uk/insights/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "similarweb.com",
+   "detailed.com",
+   "trustanalytica.org",
+   "minifier.org",
+   "backlinko.com",
+   "totbot.io",
+   "substack.com",
+   "searchenginejournal.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://varn.co.uk/insights/seo-for-reddit-a-beginners-guide/",
+    "title": "SEO for Reddit: A beginner’s guide",
+    "date": ""
+   },
+   {
+    "url": "https://varn.co.uk/insights/how-we-turned-two-rogue-hyphens-into-a-national-news-story/",
+    "title": "How we turned two rogue hyphens into a national news story",
+    "date": ""
+   },
+   {
+    "url": "https://varn.co.uk/insights/10-key-technical-seo-factors/",
+    "title": "10 key technical SEO factors",
+    "date": "2025-02-03"
+   },
+   {
+    "url": "https://varn.co.uk/insights/ai-citation-analysis-comparison-lists/",
+    "title": "Research shows what AI cites for “best SEO agency” searches",
+    "date": "2025-05-20"
+   },
+   {
+    "url": "https://varn.co.uk/insights/5-things-to-optimise-for-geo/",
+    "title": "5 things that actually change for generative AI (GEO)",
+    "date": "2026-07-20"
+   }
+  ],
+  "note": "Given /resources/ page is a hub; posts live at /insights/ (post-sitemap). Two newest posts (Reddit SEO, rogue hyphens) sat behind a bot check for plain HTTP and were read with a browser crawl; they show no date on page, sitemap lastmod 2026-09-23 and 2026-09-22. Sitemap lastmods were bulk updated on 2026-09-17. Varn is an SEO and digital PR agency (possible competitor). Rogue hyphens post has no outside links.",
+  "latest": "2026-09-23",
+  "readable": true
+ },
+ {
+  "webDomain": "pi-datametrics.com",
+  "blogUrlUsed": "https://pi-datametrics.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://pi-datametrics.com/blog/what-prompts-should-i-be-tracking-for-llms/",
+    "title": "What prompts should I be tracking for LLMs?",
+    "date": "2026-06-18"
+   },
+   {
+    "url": "https://pi-datametrics.com/blog/from-clicks-to-conversations-preparing-for-an-agent-driven-world/",
+    "title": "From clicks to conversations: Preparing for an agent-driven world",
+    "date": "2026-05-07"
+   },
+   {
+    "url": "https://pi-datametrics.com/blog/agentic-commerce-what-does-it-mean-for-brands-customers-and-seo-teams/",
+    "title": "Agentic Commerce: What does it mean for brands, customers and SEO teams?",
+    "date": "2026-01-15"
+   },
+   {
+    "url": "https://pi-datametrics.com/blog/seo-for-llms-how-to-build-brand-visibility-in-generative-engines/",
+    "title": "SEO for LLMs: How to Build Brand Visibility in Generative Engines",
+    "date": "2026-09-01"
+   },
+   {
+    "url": "https://pi-datametrics.com/blog/what-is-a-google-spam-update-everything-you-need-to-know/",
+    "title": "What is a Google Spam Update? Everything you need to know",
+    "date": "2026-08-23"
+   }
+  ],
+  "note": "All 5 posts by Jon Earnshaw (Pi staff), no outside business links in bodies. Dates taken from the byline on each post. SEO software company (possible competitor space).",
+  "latest": "2026-09-01",
+  "readable": true
+ },
+ {
+  "webDomain": "celebrus.com",
+  "blogUrlUsed": "https://www.celebrus.com/blogs",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.celebrus.com/blogs/ai-analytics-for-financial-services-marketers-a-buyers-checklist",
+    "title": "AI Analytics for Financial Services Marketers: A Buyer's Checklist",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.celebrus.com/blogs/ai-data-governance-how-to-secure-the-data-behind-your-ai",
+    "title": "AI Data Governance: How to Trace, Control, and Secure the Data Behind Your AI",
+    "date": "2026-09-16"
+   },
+   {
+    "url": "https://www.celebrus.com/blogs/conversational-analytics-turn-questions-into-answers",
+    "title": "Conversational Analytics: What It Is and Why It Changes How Businesses Use Data",
+    "date": "2026-08-25"
+   },
+   {
+    "url": "https://www.celebrus.com/blogs/what-is-conversational-ai-and-why-does-the-data-underneath-it-matter",
+    "title": "What Is Conversational AI - And Why Does the Data Underneath It Matter?",
+    "date": "2026-06-18"
+   },
+   {
+    "url": "https://www.celebrus.com/blogs/natural-language-prompting-with-ai-financial-marketers-shortcut",
+    "title": "Natural Language Prompting with AI: The Financial Services Marketer's Shortcut from Question to Decision",
+    "date": "2026-07-29"
+   }
+  ],
+  "note": "Given /resources page is a gated library; posts live at /blogs/ (found via sitemap.xml). No outside links in the 5 post bodies.",
+  "latest": "2026-09-23",
+  "readable": true
+ },
+ {
+  "webDomain": "opteo.com",
+  "blogUrlUsed": "https://opteo.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "airtable.com",
+   "builtwith.com",
+   "searchengineland.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://opteo.com/blog/a-modern-approach-to-reporting",
+    "title": "Putting the client first - a modern approach to Google Ads reporting",
+    "date": "2021-11-22"
+   },
+   {
+    "url": "https://opteo.com/blog/creative-copywriting-lessons-learned",
+    "title": "Creative copywriting: Lessons learned from top tech companies",
+    "date": "2021-11-18"
+   },
+   {
+    "url": "https://opteo.com/blog/client-communication-best-practices",
+    "title": "Running an agency: Client communication best practices",
+    "date": "2021-11-10"
+   },
+   {
+    "url": "https://opteo.com/blog/target-ranges-better-client-relationships",
+    "title": "How target ranges can help you build better client relationships",
+    "date": "2021-10-26"
+   },
+   {
+    "url": "https://opteo.com/blog/excluding-search-partners-in-opteo",
+    "title": "Improvements explained: excluding search partner sites",
+    "date": "2021-10-20"
+   }
+  ],
+  "note": "Blog looks dead: the index lists only 5 posts, all from October and November 2021 (by Guillaume Devinat). No sitemap found (404).",
+  "latest": "2021-11-22",
+  "readable": true
+ },
+ {
+  "webDomain": "streamamg.com",
+  "blogUrlUsed": "https://streamamg.com/news/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "applicaster.com",
+   "sportsbusinessjournal.com",
+   "broadcastnow.co.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://streamamg.com/news/streamamg-to-power-shrewsbury-town-f-c-s-streaming-service/",
+    "title": "StreamAMG to power Shrewsbury Town F.C.’s streaming service",
+    "date": "2026-06-16"
+   },
+   {
+    "url": "https://streamamg.com/news/from-youtube-views-to-commercial-success-why-owning-your-own-ott-matters/",
+    "title": "From YouTube views to commercial success. Why owning your own OTT matters.",
+    "date": "2026-06-01"
+   },
+   {
+    "url": "https://streamamg.com/news/why-sports-brands-need-to-expand-to-connected-tv-now/",
+    "title": "Why sports brands need to expand to Connected TV now",
+    "date": "2026-05-13"
+   },
+   {
+    "url": "https://streamamg.com/news/think-global-grow-local-how-subscription-revenue-strategy-can-power-ott-growth-for-mid-tier-sports-organisations/",
+    "title": "Think global, grow local: How subscription revenue strategy can power OTT growth for mid-tier sports organisations",
+    "date": "2026-04-15"
+   },
+   {
+    "url": "https://streamamg.com/news/why-streaming-is-central-to-the-sports-fan-experience/",
+    "title": "Why streaming is central to the sports fan experience",
+    "date": "2026-02-17"
+   }
+  ],
+  "note": "Newest post 2026-06-16, over 3 months ago, and the post sitemap lastmod is also 2026-06-16, so posting has slowed. Mix of announcements and industry insights. The Shrewsbury Town post quotes the club (a new client), not counted. One post has a broken link to https://and/.",
+  "latest": "2026-06-16",
+  "readable": true
+ },
+ {
+  "webDomain": "clarity.global",
+  "blogUrlUsed": "https://www.clarity.global/news-insights",
+  "postsRead": 5,
+  "outsideDomains": [
+   "sefiani.com.au",
+   "isaca.org",
+   "idtheftcenter.org",
+   "healthtechalliance.uk",
+   "ispa.org.uk",
+   "commscouncil.uk",
+   "cb-network.org",
+   "excel.london"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.clarity.global/news-insights/responding-to-cyber-breaches-in-the-ai-era",
+    "title": "Responding to Cyber Breaches in the AI Era",
+    "date": "2026-09-14"
+   },
+   {
+    "url": "https://www.clarity.global/news-insights/introducing-surfacd-reputation-intelligence-going-beyond-visibility",
+    "title": "Introducing… Surfacd Reputation Intelligence: Going beyond visibility",
+    "date": "2026-09-10"
+   },
+   {
+    "url": "https://www.clarity.global/news-insights/what-trade-associations-do-when-westminster-re-shuffles",
+    "title": "What trade associations do when Westminster re-shuffles",
+    "date": "2026-09-03"
+   },
+   {
+    "url": "https://www.clarity.global/news-insights/the-new-b2b-buyer-journey",
+    "title": "The New B2B Buyer Journey",
+    "date": "2026-08-12"
+   },
+   {
+    "url": "https://www.clarity.global/news-insights/how-to-be-cited-as-an-ai-generated-answer",
+    "title": "How to be cited as an AI-generated answer",
+    "date": "2026-09-01"
+   }
+  ],
+  "note": "PR and marketing agency (possible competitor). Surfacd is Clarity's own product (not counted). Trade association links are in a post listing associations; sefiani.com.au is a partner agency. Newest item in sitemap is a staff culture post dated 2026-09-24.",
+  "latest": "2026-09-24",
+  "readable": true
+ },
+ {
+  "webDomain": "realeyes.ai",
+  "blogUrlUsed": "https://realeyes.ai/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "mastercard.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://realeyes.ai/blog/enterprise-fraud-prevention-software-evaluation-guide/",
+    "title": "Fraud Prevention Software: An Enterprise Guide",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://realeyes.ai/blog/identity-verification-api-integration-a-technical-checklist/",
+    "title": "Identity Verification API Integration: Technical Checklist",
+    "date": "2026-09-18"
+   },
+   {
+    "url": "https://realeyes.ai/blog/agentic-commerce-risks-and-mitigation-strategies/",
+    "title": "Agentic Commerce Risks and Mitigation Strategies",
+    "date": "2026-09-24"
+   },
+   {
+    "url": "https://realeyes.ai/blog/human-verification-for-online-platforms-a-practical-framework/",
+    "title": "Human Verification for Online Platforms: A Practical Framework",
+    "date": "2026-09-17"
+   },
+   {
+    "url": "https://realeyes.ai/blog/age-verification-without-id/",
+    "title": "Age Verification Without ID: How AI Age Estimation Works",
+    "date": "2026-07-30"
+   }
+  ],
+  "note": "Frequent posting (several a week in September 2026), long SEO style guides. Outbound links are mostly to regulators (ICO, FTC, NIST), which are excluded; one Mastercard link.",
+  "latest": "2026-09-24",
+  "readable": true
+ },
+ {
+  "webDomain": "zap.co.uk",
+  "blogUrlUsed": "https://www.zap.co.uk/blog/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.zap.co.uk/2026/09/21/the-3-key-growth-metrics-you-must-know-as-a-competition-business/",
+    "title": "The 3 Key Growth Metrics You Must Know as a Competition Business",
+    "date": "2026-09-21"
+   },
+   {
+    "url": "https://www.zap.co.uk/2026/09/14/3-main-areas-of-focus-if-you-want-to-scale-your-competition-business/",
+    "title": "3 Main Areas of Focus If You Want to Scale Your Competition Business",
+    "date": "2026-09-14"
+   },
+   {
+    "url": "https://www.zap.co.uk/2026/09/07/high-and-low-acquisition-periods-what-you-should-know-as-a-competition-business/",
+    "title": "High and Low Acquisition Periods: What You Should Know as a Competition Business",
+    "date": "2026-09-07"
+   },
+   {
+    "url": "https://www.zap.co.uk/2026/08/31/5-affordable-video-marketing-ideas/",
+    "title": "5 Affordable Video Marketing Ideas",
+    "date": "2026-08-31"
+   },
+   {
+    "url": "https://www.zap.co.uk/2026/08/17/how-payment-friction-kills-sales/",
+    "title": "How Payment Friction Kills Sales",
+    "date": "2026-08-17"
+   }
+  ],
+  "note": "Weekly posts aimed at online competition (prize draw) businesses. Zap sells software for competition sites, adjacent to gambling style prize competitions. No outside links in the 5 bodies.",
+  "latest": "2026-09-21",
+  "readable": true
+ },
+ {
+  "webDomain": "zego.com",
+  "blogUrlUsed": "https://www.zego.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "simplyquote.co.uk",
+   "nimblefins.co.uk",
+   "gocompare.com",
+   "abi.org.uk",
+   "motorcycles.news",
+   "uber.com",
+   "bolt.eu"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.zego.com/blog/best-value-van-insurance-for-startups-uk/",
+    "title": "Best value van insurance for startups (2026 UK guide)",
+    "date": "2026-09-24"
+   },
+   {
+    "url": "https://www.zego.com/blog/our-guide-to-private-hire-no-claims-discount-protection/",
+    "title": "How private hire no claims discount works (2026 UK guide)",
+    "date": "2025-10-29"
+   },
+   {
+    "url": "https://www.zego.com/blog/how-much-does-courier-van-insurance-cost/",
+    "title": "How much does courier van insurance cost? (2026)",
+    "date": "2025-10-29"
+   },
+   {
+    "url": "https://www.zego.com/blog/private-hire-insurance-for-new-drivers-uk/",
+    "title": "Private hire insurance for new drivers, and the taxi no-claims catch",
+    "date": "2026-09-15"
+   },
+   {
+    "url": "https://www.zego.com/blog/l-plate-delivery-riders-road-safety-claims-data/",
+    "title": "Would banning L-plate delivery riders actually make the roads safer?",
+    "date": "2026-08-26"
+   }
+  ],
+  "note": "Blog index found via sitemap.xml; frequent insurance guides. Outside links are data sources (price comparison, ABI) and gig platforms.",
+  "latest": "2026-09-24",
+  "readable": true
+ },
+ {
+  "webDomain": "auroraer.com",
+  "blogUrlUsed": "https://auroraer.com/resources/aurora-insights",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://auroraer.com/resources/aurora-insights/articles/cost-of-going-green",
+    "title": "The Affordability Challenge: The Cost of Going Green",
+    "date": "2026-09-22"
+   },
+   {
+    "url": "https://auroraer.com/resources/aurora-insights/articles/a-strategic-guide-to-grid-curtailment-in-italy",
+    "title": "A Strategic Guide to Grid Curtailment in Italy",
+    "date": "2026-09-16"
+   },
+   {
+    "url": "https://auroraer.com/resources/aurora-insights/articles/ireland-electricity-bills",
+    "title": "The Affordability Challenge: Fixed, Variable, or Just Expensive?",
+    "date": "2026-09-15"
+   },
+   {
+    "url": "https://auroraer.com/resources/aurora-insights/articles/ireland-energy-affordability-challenge",
+    "title": "The Affordability Challenge: Escaping the Destructive Cycle",
+    "date": "2026-09-10"
+   },
+   {
+    "url": "https://auroraer.com/resources/aurora-insights/articles/mandated-not-monetised-making-co-located-storage-profitable-in-the-philippines",
+    "title": "Mandated, Not Monetised: Making Co-located Storage Profitable in the Philippines",
+    "date": "2026-09-07"
+   }
+  ],
+  "note": "Given /resources is a hub; articles are at /resources/aurora-insights (JavaScript rendered, read with a browser crawl). No sitemap found. Dates from the insights index. The only outside link in the 5 articles is to gov.ie (excluded).",
+  "latest": "2026-09-22",
+  "readable": true
+ },
+ {
+  "webDomain": "seedlegals.com",
+  "blogUrlUsed": "https://seedlegals.com/resources/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "hablakilns.com",
+   "evidnt.ai",
+   "yourstartupadvisor.com",
+   "tndgc.co.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "Contributed post: https://seedlegals.com/resources/most-founders-dont-think-about-gdpr-until-someone-asks-for-their-data/ ('This post was contributed by Laura Brentnall from True North Data Governance', with a link to tndgc.co.uk). Also a partner interview series (/resources/partner-interviews-...).",
+  "posts": [
+   {
+    "url": "https://seedlegals.com/resources/habla-kilns-interview/",
+    "title": "What’s hot? The planet with or without Habla’s eco-friendly kilns?",
+    "date": "2026-09-28"
+   },
+   {
+    "url": "https://seedlegals.com/resources/validate-your-startup-idea/",
+    "title": "Why you can't validate your startup idea, and what to do instead",
+    "date": "2026-09-09"
+   },
+   {
+    "url": "https://seedlegals.com/resources/seedfast-is-the-new-seed-round/",
+    "title": "SeedFAST is the new seed round",
+    "date": "2022-12-30"
+   },
+   {
+    "url": "https://seedlegals.com/resources/most-founders-dont-think-about-gdpr-until-someone-asks-for-their-data/",
+    "title": "Most founders don't think about GDPR until someone asks for their data",
+    "date": "2026-08-27"
+   },
+   {
+    "url": "https://seedlegals.com/resources/how-to-raise-investment-while-your-investors-are-on-holiday/",
+    "title": "How to raise investment while your investors are on holiday",
+    "date": "2025-06-22"
+   }
+  ],
+  "note": "Resources mixes founder interviews (Habla Kilns, 2026-09-28), partner interviews and guides; two of the 5 are older guides refreshed in 2026 (2022-12-30 and 2025-06-22 publish dates). Accepts contributed posts from partners.",
+  "latest": "2026-09-28",
+  "readable": true
+ },
+ {
+  "webDomain": "quantexa.com",
+  "blogUrlUsed": "https://www.quantexa.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "mckinsey.com",
+   "gartner.com",
+   "globaldatacenterhub.com",
+   "artificialintelligenceact.eu",
+   "ey.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.quantexa.com/blog/every-technology-revolution-has-a-hidden-foundation-this-one-is-built-on-context/",
+    "title": "Every Technology Revolution Has A Hidden Foundation. This One Is Built On Context.",
+    "date": "2026-07-27"
+   },
+   {
+    "url": "https://www.quantexa.com/blog/why-ai-agents-need-a-context-layer-and-what-belongs-inside-it/",
+    "title": "Why AI Agents Need a Context Layer and What Belongs Inside It",
+    "date": "2026-09-03"
+   },
+   {
+    "url": "https://www.quantexa.com/blog/trusted-data-and-ai-sovereignty/",
+    "title": "Trusted Data and AI Sovereignty: Building Europe’s Foundation for the Future of Public Sector Modernization",
+    "date": "2026-05-14"
+   },
+   {
+    "url": "https://www.quantexa.com/blog/the-role-of-contextual-information-in-enhancing-agentic-systems/",
+    "title": "The Role of Contextual Information in Enhancing Agentic Systems",
+    "date": "2026-02-16"
+   },
+   {
+    "url": "https://www.quantexa.com/blog/no-context-no-trust-the-missing-layer-in-ai-driven-decisions/",
+    "title": "No Context, No Trust: The Critical Layer in AI-Driven Decisions",
+    "date": "2026-09-18"
+   }
+  ],
+  "note": "Every post also carries the same 'Find out more' links to acams.org, aba.com and guidewire.com (a repeated module, not counted). quancon.com is Quantexa's own event. Outbound links are research citations.",
+  "latest": "2026-09-18",
+  "readable": true
+ },
+ {
+  "webDomain": "proactis.com",
+  "blogUrlUsed": "https://www.proactis.com/uk/resources/?categoryIds=1568",
+  "postsRead": 5,
+  "outsideDomains": [
+   "unit4.com"
+  ],
+  "quotedCompanies": [
+   "Unit4"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.proactis.com/uk/resources/blog-procurement-act-2023-do-you-have-the-evidence-to-meet-the-reporting-duties/",
+    "title": "Procurement Act 2023: Do you have the evidence to meet the reporting duties?",
+    "date": ""
+   },
+   {
+    "url": "https://www.proactis.com/uk/resources/blog-the-gap-between-procurement-and-finance-is-costing-more-than-you-think/",
+    "title": "The gap between Procurement and Finance is costing more than you think",
+    "date": ""
+   },
+   {
+    "url": "https://www.proactis.com/uk/resources/blog-five-lessons-from-the-university-of-sussex/",
+    "title": "Five lessons from the University of Sussex on evolving finance and procurement together",
+    "date": ""
+   },
+   {
+    "url": "https://www.proactis.com/uk/resources/blog-spend-visibility-is-a-start-accuracy-is-the-goal/",
+    "title": "Spend visibility is a start. Accuracy is the goal",
+    "date": ""
+   },
+   {
+    "url": "https://www.proactis.com/uk/resources/blog-mri-ascend-event-recap-2026-amy-hall/",
+    "title": "Conversations That Count - MRI Ascend 2026 Recap",
+    "date": ""
+   }
+  ],
+  "note": "Plain HTTP requests get 403; read with a browser crawl. Blog lives under /uk/resources/ filtered to Expert Articles (/uk/blog/ is 404). Posts show no dates; the newest refers to a webinar on 18 June 2026 and to deadlines in October 2026, so the blog is live in 2026. Unit4 (partner) is quoted in the Sussex post; British Land and University of Sussex quotes are customers (not counted).",
+  "latest": "",
+  "readable": true
+ },
+ {
+  "webDomain": "oleeo.com",
+  "blogUrlUsed": "https://www.oleeo.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "shrm.org",
+   "appcast.io",
+   "roberthalf.com",
+   "thebusinessresearchcompany.com",
+   "joingenius.com",
+   "digitizingpolaris.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.oleeo.com/blog/why-winning-our-latest-award-is-really-a-win-for-fairer-more-inclusive-hiring/",
+    "title": "Why Winning Our Latest Award Is Really a Win for Fairer, More Inclusive Hiring",
+    "date": "2026-09-24"
+   },
+   {
+    "url": "https://www.oleeo.com/blog/7-signs-your-ats-no-longer-fits-the-way-you-hire/",
+    "title": "7 Signs Your ATS No Longer Fits The Way You Hire",
+    "date": "2026-09-14"
+   },
+   {
+    "url": "https://www.oleeo.com/blog/how-to-build-a-business-case-for-a-new-ats-in-2026/",
+    "title": "How to Build a Business Case For a New ATS in 2026",
+    "date": "2026-09-14"
+   },
+   {
+    "url": "https://www.oleeo.com/blog/how-is-ai-changing-recruitment/",
+    "title": "AI in Recruitment: A 2026 Guide to All You Need to Know About the Future of Hiring",
+    "date": "2026-03-06"
+   },
+   {
+    "url": "https://www.oleeo.com/blog/the-october-2026-right-to-work-changes-what-enterprise-ta-leaders-need-to-know/",
+    "title": "The October 2026 Right to Work Changes: What Enterprise TA Leaders Need to Know",
+    "date": "2026-08-12"
+   }
+  ],
+  "note": "Regular posting; outbound links are research and statistics sources.",
+  "latest": "2026-09-24",
+  "readable": true
+ },
+ {
+  "webDomain": "bulbapp.com",
+  "blogUrlUsed": "https://my.bulbapp.com/articles/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://my.bulbapp.com/beyond-the-traditional-essay-teaching-writing-in-the-age-of-ai-with-bulb/",
+    "title": "Beyond the Traditional Essay: Teaching Writing in the Age of AI with bulb",
+    "date": "2026-04-16"
+   },
+   {
+    "url": "https://my.bulbapp.com/bulb-google-classroom/",
+    "title": "How to Use bulb & Google Classroom",
+    "date": "2020-05-06"
+   },
+   {
+    "url": "https://my.bulbapp.com/from-portfolio-to-powerful-essays-how-reflection-prepares-students-for-college-and-scholarship-prompts/",
+    "title": "🎓 From Portfolio to Powerful Essays: How Reflection Prepares Students for College and Scholarship Prompts",
+    "date": "2025-11-11"
+   },
+   {
+    "url": "https://my.bulbapp.com/no-extra-work-required-how-to-turn-classroom-projects-into-lasting-portfolios/",
+    "title": "No Extra Work Required: How to Turn Classroom Projects Into Lasting Portfolios",
+    "date": "2025-11-11"
+   },
+   {
+    "url": "https://my.bulbapp.com/from-resume-to-real-impact-why-student-portfolios-matter/",
+    "title": "From Resume to Real Impact: Why Student Portfolios Matter",
+    "date": "2025-11-03"
+   }
+  ],
+  "note": "Slow blog: newest post 2026-04-16 (over 5 months ago), before that November 2025; one sitemap post dates from 2020. Only link out is an Unsplash photo credit and an Eloqua (en25.com) download link, both excluded. Ed tech portfolio product.",
+  "latest": "2026-04-16",
+  "readable": true
+ },
+ {
+  "webDomain": "featurespace.com",
+  "blogUrlUsed": "https://www.featurespace.com/knowledge-hub",
+  "postsRead": 2,
+  "outsideDomains": [
+   "bankrate.com",
+   "pymnts.com",
+   "washingtontimes.com",
+   "cbsnews.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.featurespace.com/knowledge-hub/persistent-challenge-of-check-fraud",
+    "title": "Unmasking the persistent challenge of check fraud",
+    "date": ""
+   },
+   {
+    "url": "https://www.featurespace.com/knowledge-hub/what-is-layering-in-money-laundering",
+    "title": "The key facts about money laundering (Layering in money laundering)",
+    "date": ""
+   }
+  ],
+  "note": "Knowledge hub is JavaScript rendered and most article pages returned only 'Loading...' even with browser crawls (Chromium and Firefox); only 2 of 8 tried could be read, both 'Last updated June 9, 2026'. Latest date is the sitemap lastmod for the awards post. Featurespace is now a Visa company (a post introduces Visa A2A Protect).",
+  "latest": "2026-07-29",
+  "readable": false
+ },
+ {
+  "webDomain": "filtered.com",
+  "blogUrlUsed": "https://filtered.com/resources-hub/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "hrexecutive.com",
+   "weforum.org",
+   "companiesmarketcap.com",
+   "statista.com",
+   "td.org",
+   "brandonhall.com",
+   "thetimes.com"
+  ],
+  "quotedCompanies": [
+   "Salesforce"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://filtered.com/how-to-track-employee-skills-at-enterprise-scale/",
+    "title": "How to Track Employee Skills at Enterprise Scale",
+    "date": "2026-09-10"
+   },
+   {
+    "url": "https://filtered.com/how-to-calculate-the-roi-of-your-learning-content-estate/",
+    "title": "How to Calculate the ROI of Your Learning Content Estate",
+    "date": "2026-08-27"
+   },
+   {
+    "url": "https://filtered.com/the-hidden-cost-of-too-much-learning-content/",
+    "title": "The Hidden Cost of Too Much Learning Content",
+    "date": "2026-08-13"
+   },
+   {
+    "url": "https://filtered.com/the-9-1bn-cost-of-content-chaos/",
+    "title": "The £9.1bn cost of Content Chaos",
+    "date": "2026-08-06"
+   },
+   {
+    "url": "https://filtered.com/ai-slop-and-the-alternative-data-quality-trusted-infrastructure-for-enterprise-ai/",
+    "title": "AI slop and the alternative: data quality + trusted infrastructure for enterprise AI",
+    "date": "2026-07-27"
+   }
+  ],
+  "note": "Posts live at the site root (post-sitemap). Salesforce UK CEO quoted via The Times in the AI slop post. Sitemap also shows a 2026-09-23 customer story (ECITB). notion.so (own Skills Palette) and research.net (survey form) not counted.",
+  "latest": "2026-09-10",
+  "readable": true
+ },
+ {
+  "webDomain": "esgbook.com",
+  "blogUrlUsed": "https://www.esgbook.com/insights",
+  "postsRead": 5,
+  "outsideDomains": [
+   "ifrs.org",
+   "efrag.org",
+   "business-humanrights.org",
+   "sciencebasedtargets.org",
+   "businessfuturepathways.ca"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.esgbook.com/insights/blogs/from-bark-to-bite-climate-fines",
+    "title": "From Bark to Bite",
+    "date": "2026-07-10"
+   },
+   {
+    "url": "https://www.esgbook.com/insights/blogs/esrs-after-the-omnibus-from-volume-to-pragmatism-from-fragmentation-to-convergence",
+    "title": "ESRS After the Omnibus: From Volume to Pragmatism, From Fragmentation to Convergence",
+    "date": "2026-06-15"
+   },
+   {
+    "url": "https://www.esgbook.com/insights/blogs/know-your-holdings-analyzing-the-hidden-patterns-of-defence-sector-exposure",
+    "title": "Know Your Holdings: Analyzing the Hidden Patterns of Defence Sector Exposure",
+    "date": "2026-05-14"
+   },
+   {
+    "url": "https://www.esgbook.com/insights/blogs/ebas-new-prudential-reporting-esg-rulebook",
+    "title": "The EBA’s New Prudential Reporting ESG Rulebook",
+    "date": "2026-04-27"
+   },
+   {
+    "url": "https://www.esgbook.com/insights/regulatory-updates/policy-digest-august-2026",
+    "title": "Policy Digest: August 2026",
+    "date": ""
+   }
+  ],
+  "note": "Blog posts are monthly or slower (newest blog 2026-07-10); a monthly Policy Digest (August 2026, no day shown) carries most outbound links, to standard setters and regulators (EU, FCA, Bank of England and Korean government excluded). Sitemap.xml is served as RSS and was not parsed.",
+  "latest": "2026-08",
+  "readable": true
+ },
+ {
+  "webDomain": "arqitgroup.com",
+  "blogUrlUsed": "https://arqitgroup.com/resources/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "cisecurity.org",
+   "soteradigital.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://arqitgroup.com/resources/blog/no-warning-shot",
+    "title": "No Warning Shot",
+    "date": "2026-08-28"
+   },
+   {
+    "url": "https://arqitgroup.com/resources/blog/network-security-in-the-ai-era-why-encryption-alone-isnt-enough",
+    "title": "Network security in the AI era: Why encryption alone isn't enough",
+    "date": "2026-08-13"
+   },
+   {
+    "url": "https://arqitgroup.com/resources/blog/the-quantum-clock-just-got-louder",
+    "title": "The Quantum Clock Just Got Louder",
+    "date": "2026-07-22"
+   },
+   {
+    "url": "https://arqitgroup.com/resources/blog/how-uk-telecoms-can-future-proof-networks-with-quantum-safe-encryption",
+    "title": "How UK Telecoms Can Future-Proof Networks with PQC",
+    "date": "2026-07-06"
+   },
+   {
+    "url": "https://arqitgroup.com/resources/blog/the-cisos-guide-to-migrating-to-post-quantum-cryptography-by-2030",
+    "title": "The CISO’s Guide to PQC Migration by 2030",
+    "date": "2026-06-29"
+   }
+  ],
+  "note": "Roughly two posts a month; short thought pieces on post quantum cryptography with few outbound links.",
+  "latest": "2026-08-28",
+  "readable": true
+ },
+ {
+  "webDomain": "clear.bank",
+  "blogUrlUsed": "https://clear.bank/learn/insights",
+  "postsRead": 5,
+  "outsideDomains": [
+   "swift.com",
+   "europeanpaymentscouncil.eu",
+   "cityam.com",
+   "thistleinitiatives.co.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://clear.bank/learn/insights/client-money-accounts",
+    "title": "CASS 7 Client Money Accounts: What firms need to know",
+    "date": "2026-09-25"
+   },
+   {
+    "url": "https://clear.bank/learn/insights/sepa-indirect-participant",
+    "title": "How to become a SEPA indirect participant: What you need to know",
+    "date": "2026-09-03"
+   },
+   {
+    "url": "https://clear.bank/learn/insights/operational-resilience-is-becoming-the-foundation-for-the-growth-of-digital-assets-in-the-uk",
+    "title": "Operational resilience is becoming the foundation for the growth of digital assets in the UK",
+    "date": "2026-08-27"
+   },
+   {
+    "url": "https://clear.bank/learn/insights/emi-licence",
+    "title": "How to get an EMI licence: What to know before applying",
+    "date": "2026-08-05"
+   },
+   {
+    "url": "https://clear.bank/learn/insights/sepa-api",
+    "title": "SEPA API: A guide to accessing SEPA Credit, SEPA Instant, and SEPA Direct Debit schemes",
+    "date": "2026-07-29"
+   }
+  ],
+  "note": "Insights index is JavaScript rendered (post list read with a browser crawl); the newest post sat behind a bot check and was read with a browser crawl. Thistle Initiatives link is a joint webinar. Celent study cited (commissioned by ClearBank). github.io link is API docs, not counted.",
+  "latest": "2026-09-25",
+  "readable": true
+ },
+ {
+  "webDomain": "ecommpay.com",
+  "blogUrlUsed": "https://ecommpay.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "rradar.com",
+   "thoropass.com",
+   "pcisecuritystandards.org",
+   "investopedia.com",
+   "digicert.com",
+   "pcmag.com",
+   "ambosdigital.com",
+   "loginradius.com",
+   "bolt.com",
+   "baymard.com",
+   "clear.sale",
+   "mordorintelligence.com",
+   "sqmagazine.co.uk",
+   "ukfinance.org.uk",
+   "vwo.com",
+   "contentsquare.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://ecommpay.com/blog/what-is-pci-dss-compliance-a-complete-guide/",
+    "title": "What is PCI DSS compliance, and why does it matter?",
+    "date": ""
+   },
+   {
+    "url": "https://ecommpay.com/blog/payment-links-for-small-businesses/",
+    "title": "Get paid anywhere, anytime: how small businesses are using payment links",
+    "date": ""
+   },
+   {
+    "url": "https://ecommpay.com/blog/how-to-improve-payment-authorisation-rates-for-online-merchants/",
+    "title": "Improving payment authorisation rates for online merchants",
+    "date": "2025-04-24"
+   },
+   {
+    "url": "https://ecommpay.com/blog/what-is-click-to-pay-benefits/",
+    "title": "How Click to Pay can benefit merchants",
+    "date": ""
+   },
+   {
+    "url": "https://ecommpay.com/blog/travel-cart-abandonment-rates/",
+    "title": "Why the travel industry has such high cart abandonment rates",
+    "date": ""
+   }
+  ],
+  "note": "Links out generously to statistics sources and other businesses. Most posts show no publish date on page; latest is the sitemap lastmod (2026-09-24). Spotify podcast banner link not counted.",
+  "latest": "2026-09-24",
+  "readable": true
+ },
+ {
+  "webDomain": "sanctionscanner.com",
+  "blogUrlUsed": "https://www.sanctionscanner.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "spglobal.com",
+   "lloydslist.com",
+   "wnwd.com",
+   "ubaf.fr",
+   "aspell.net",
+   "iso.org",
+   "wolfsberg-group.org",
+   "equasis.org"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.sanctionscanner.com/blog/entity-screening-vs-individual-screening-how-screening-businesses-differs-1454",
+    "title": "Entity Screening vs Individual Screening: How Screening Businesses Differs",
+    "date": "2026-08-30"
+   },
+   {
+    "url": "https://www.sanctionscanner.com/blog/vessel-sanctions-screening-how-to-screen-ships-owners-and-flags-1453",
+    "title": "Vessel Sanctions Screening: How to Screen Ships, Owners, and Flags",
+    "date": "2026-08-30"
+   },
+   {
+    "url": "https://www.sanctionscanner.com/blog/screening-non-latin-names-transliteration-challenges-in-aml-compliance-1452",
+    "title": "Screening Non-Latin Names: Transliteration Challenges in AML Compliance",
+    "date": "2026-08-30"
+   },
+   {
+    "url": "https://www.sanctionscanner.com/blog/sanctions-screening-in-trade-finance-letters-of-credit-bills-of-lading-and-dual-use-goods-1451",
+    "title": "Sanctions Screening in Trade Finance: Letters of Credit, Bills of Lading, and Dual-Use Goods",
+    "date": "2026-08-27"
+   },
+   {
+    "url": "https://www.sanctionscanner.com/blog/sectoral-sanctions-vs-comprehensive-sanctions-whats-the-difference-1449",
+    "title": "Sectoral Sanctions vs Comprehensive Sanctions: What's the Difference?",
+    "date": "2026-08-26"
+   }
+  ],
+  "note": "Posts every few days; long AML guides with many citations. Intergovernmental and government links (FATF, IMO, ICAO, IMF, UNCTAD, EBRD, EU, UK Parliament, Singapore courts) not counted. Sitemap lastmod shows updates to 2026-09-06.",
+  "latest": "2026-08-30",
+  "readable": true
+ }
+]
