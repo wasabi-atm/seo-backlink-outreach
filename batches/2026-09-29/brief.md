@@ -27,3 +27,4 @@
 - Replacements needed: 4 Segment A and 7 Segment B. No UAE spares and no spares with dated posts were left, so the next 8 UK A and 14 UK B spares by score and DR go through the Step 3 link check (group 7), and the first 4 A and 7 B with live, readable blogs join the list.
 - Group 7 link check (22 UK spares): picked in rank order with a live, readable blog: A Varn, Pi Datametrics, Celebrus, StreamAMG; B Zego, Aurora Energy Research, SeedLegals, Quantexa, Proactis, Oleeo, Bulb. Opteo skipped (blog dead since 2021). Dedupe of the final 150 against the ledger: clean.
 - Final Step 3 list: 150 (A 75: 74 UK, 1 UAE (Maquae); B 75: 67 UK, 8 UAE). 49 Yes, 43 Some, 58 No, none unchecked. 02_enriched.csv rebuilt.
+- Checkpoint 2 swaps done; Step 4 started: six agents pick one article and hook per company (step4/STEP4_BRIEF.md), merge_step4.py builds 03_backlink_targets.csv.
