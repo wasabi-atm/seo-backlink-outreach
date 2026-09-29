@@ -33,3 +33,6 @@
 - Step 5 notes: Juro's hook quotes a live "{{quote1}}" tag (strip double braces in the send file, as on 28 Sep). Tillison, Attest, ProfileTree, Mint, Purple, Pi Datametrics, Plumerai, Opus 2, Ikon Science, Vamoos, iplicit, Juro, VideoScribe and QuickSync pages already carry video, so their emails must not say the page has no video. First Internet's hook (Australian under-16 ban "due to introduce") rests on outside knowledge; re-check before use. Action Rocket: pitch part one of its video-in-email series (part two links to a video competitor).
 - Step 4 done; waiting for the user to ask for Step 5.
 - User (29 Sep): drop the 15 weak fits. Moved to 03_dropped_weak.csv (not logged in the ledger, so they can come up again). 03_backlink_targets.csv now holds 135 rows, all strong or ok.
+- User (29 Sep): go to Step 5 with the 135.
+- Step 5 caps (user, 29 Sep): Instantly 200, Apollo 100, Apify $1. Balances before: Instantly 1163 credits, Apollo 994 lead credits.
+- Step 5 contacts: Instantly SuperSearch list "Backlink 2026-09-29 contacts": pass 1 founders/CEO/MD for the 71 quote rows, pass 2 content titles for the 64 Segment B rows.
