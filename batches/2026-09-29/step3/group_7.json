@@ -1,0 +1,134 @@
+[
+ {
+  "companyName": "Varn",
+  "webDomain": "varn.co.uk",
+  "blogUrl": "https://varn.co.uk/resources/",
+  "segment": "A"
+ },
+ {
+  "companyName": "Pi Datametrics",
+  "webDomain": "pi-datametrics.com",
+  "blogUrl": "https://pi-datametrics.com/blog/",
+  "segment": "A"
+ },
+ {
+  "companyName": "Celebrus",
+  "webDomain": "celebrus.com",
+  "blogUrl": "https://www.celebrus.com/resources",
+  "segment": "A"
+ },
+ {
+  "companyName": "Opteo",
+  "webDomain": "opteo.com",
+  "blogUrl": "https://opteo.com/blog",
+  "segment": "A"
+ },
+ {
+  "companyName": "StreamAMG",
+  "webDomain": "streamamg.com",
+  "blogUrl": "https://streamamg.com/news/",
+  "segment": "A"
+ },
+ {
+  "companyName": "Clarity",
+  "webDomain": "clarity.global",
+  "blogUrl": "https://www.clarity.global/news-insights",
+  "segment": "A"
+ },
+ {
+  "companyName": "Realeyes",
+  "webDomain": "realeyes.ai",
+  "blogUrl": "https://realeyes.ai/blog/",
+  "segment": "A"
+ },
+ {
+  "companyName": "Zap",
+  "webDomain": "zap.co.uk",
+  "blogUrl": "https://www.zap.co.uk/blog/",
+  "segment": "A"
+ },
+ {
+  "companyName": "Zego",
+  "webDomain": "zego.com",
+  "blogUrl": "https://www.zego.com/blog/",
+  "segment": "B"
+ },
+ {
+  "companyName": "Aurora Energy Research",
+  "webDomain": "auroraer.com",
+  "blogUrl": "https://auroraer.com/resources",
+  "segment": "B"
+ },
+ {
+  "companyName": "SeedLegals",
+  "webDomain": "seedlegals.com",
+  "blogUrl": "https://seedlegals.com/resources/",
+  "segment": "B"
+ },
+ {
+  "companyName": "Quantexa",
+  "webDomain": "quantexa.com",
+  "blogUrl": "https://www.quantexa.com/blog/",
+  "segment": "B"
+ },
+ {
+  "companyName": "Proactis",
+  "webDomain": "proactis.com",
+  "blogUrl": "https://proactis.com/uk/resources/",
+  "segment": "B"
+ },
+ {
+  "companyName": "Oleeo",
+  "webDomain": "oleeo.com",
+  "blogUrl": "https://www.oleeo.com/blog/",
+  "segment": "B"
+ },
+ {
+  "companyName": "Bulb",
+  "webDomain": "bulbapp.com",
+  "blogUrl": "https://my.bulbapp.com/articles/",
+  "segment": "B"
+ },
+ {
+  "companyName": "Featurespace",
+  "webDomain": "featurespace.com",
+  "blogUrl": "https://www.featurespace.com/knowledge-hub",
+  "segment": "B"
+ },
+ {
+  "companyName": "Filtered",
+  "webDomain": "filtered.com",
+  "blogUrl": "https://filtered.com/resources-hub/",
+  "segment": "B"
+ },
+ {
+  "companyName": "ESG Book",
+  "webDomain": "esgbook.com",
+  "blogUrl": "https://www.esgbook.com/insights",
+  "segment": "B"
+ },
+ {
+  "companyName": "Arqit",
+  "webDomain": "arqitgroup.com",
+  "blogUrl": "https://arqitgroup.com/resources/blog",
+  "segment": "B"
+ },
+ {
+  "companyName": "ClearBank",
+  "webDomain": "clear.bank",
+  "blogUrl": "https://clear.bank/learn/insights",
+  "segment": "B"
+ },
+ {
+  "companyName": "Ecommpay",
+  "webDomain": "ecommpay.com",
+  "blogUrl": "https://ecommpay.com/blog/",
+  "segment": "B"
+ },
+ {
+  "companyName": "Sanction Scanner",
+  "webDomain": "sanctionscanner.com",
+  "blogUrl": "https://www.sanctionscanner.com/blog",
+  "segment": "B"
+ }
+]
