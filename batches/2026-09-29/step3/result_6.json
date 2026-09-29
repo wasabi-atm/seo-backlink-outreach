@@ -1,0 +1,946 @@
+[
+ {
+  "webDomain": "myfitapp.com",
+  "blogUrlUsed": "https://www.myfitapp.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "strava.com",
+   "xplor.com"
+  ],
+  "quotedCompanies": [
+   "Connect",
+   "Xplor Technologies"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.myfitapp.com/blog/2026-fitness-trends/",
+    "title": "Key 2026 Trends - What to Expect",
+    "date": ""
+   },
+   {
+    "url": "https://www.myfitapp.com/blog/xplor-technologies-and-clubessential-holdings-launch-unified-global-company/",
+    "title": "Xplor Technologies and Clubessential Holdings Launch Unified Global Company Under Xplor Brand",
+    "date": "2026-03-30"
+   },
+   {
+    "url": "https://www.myfitapp.com/blog/leisurewise-myfitapp/",
+    "title": "A Smarter Way to Personalise the Member Experience: LeisureWise Now Available to All myFitApp Customers",
+    "date": "2026-04-23"
+   },
+   {
+    "url": "https://www.myfitapp.com/blog/future-of-fitness-anticipated-trends-for-2025/",
+    "title": "Future of Fitness: Anticipated Trends for 2025",
+    "date": ""
+   },
+   {
+    "url": "https://www.myfitapp.com/blog/gamification-in-fitness-apps/",
+    "title": "Gamification in Fitness Apps: Transforming the User Experience",
+    "date": ""
+   }
+  ],
+  "note": "Blog index markdown was empty; post links taken from a link extraction of the same index page. The Xplor post is a republished Xplor Technologies / Clubessential press release. gamification-in-fitness-apps returned almost no body text. Mostly product updates and partner news."
+ },
+ {
+  "webDomain": "aveni.ai",
+  "blogUrlUsed": "https://aveni.ai/blog/",
+  "postsRead": 4,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://aveni.ai/blog/conduct-risk-taxonomy/",
+    "title": "How to Build a Conduct Risk Taxonomy Aligned to the FCA",
+    "date": ""
+   },
+   {
+    "url": "https://aveni.ai/blog/case-level-outcome-testing-for-motor-finance-and-insurance/",
+    "title": "Case-level outcome testing for motor finance and insurance",
+    "date": "2026-09-10"
+   },
+   {
+    "url": "https://aveni.ai/blog/fca-non-financial-misconduct-rules/",
+    "title": "What Firms Need to Know",
+    "date": ""
+   },
+   {
+    "url": "https://aveni.ai/blog/debt-collection-quality-assurance/",
+    "title": "Debt Collection Quality Assurance: Conduct & Vulnerability",
+    "date": ""
+   }
+  ],
+  "note": "Given URL /resources/ only showed testimonials; used /blog/. ai-call-monitoring-tools-for-uk-banks was requested but not returned by the crawler. Only outbound links are to the FCA (excluded as regulator). Aveni staff quoted in its own press release."
+ },
+ {
+  "webDomain": "ikonscience.com",
+  "blogUrlUsed": "https://curate.ikonscience.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "apa.org",
+   "asana.com",
+   "ringcentral.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://curate.ikonscience.com/blog/curate-2026.3-bringing-production-data-into-view",
+    "title": "Curate 2026.3: Bringing Production Data into View",
+    "date": ""
+   },
+   {
+    "url": "https://curate.ikonscience.com/blog/curate-2026.2-bringing-information-into-view",
+    "title": "Curate 2026.2: Bringing Information Into View",
+    "date": ""
+   },
+   {
+    "url": "https://curate.ikonscience.com/blog/curate-2026.1-expanded-seismic-insight-clearer-context",
+    "title": "Curate 2026.1: Expanded Seismic Insight, Clearer Context",
+    "date": ""
+   },
+   {
+    "url": "https://curate.ikonscience.com/blog/switch-less.-think-more.-the-future-of-data-work-isnt-in-more-tools-its-in-fewer-steps",
+    "title": "Switch Less. Think More. Insight Starts with Simplicity",
+    "date": ""
+   },
+   {
+    "url": "https://curate.ikonscience.com/blog/revolutionizing-ppfg-real-time-intelligence-for-real-world-results",
+    "title": "Revolutionizing PPFG: Real-Time Intelligence for Real-World Results",
+    "date": ""
+   }
+  ],
+  "note": "Blog lives on curate.ikonscience.com (Curate product blog); www.ikonscience.com/blog/ is a 404. Posts are mostly Curate release notes; dates not shown on index."
+ },
+ {
+  "webDomain": "paysend.com",
+  "blogUrlUsed": "https://paysend.com/news",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "/news showed only a \"Press release\" heading and /blog showed category headings with no post links, even with the playwright crawler and a link extraction. No posts could be read."
+ },
+ {
+  "webDomain": "proxymity.io",
+  "blogUrlUsed": "https://www.proxymity.io/news/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "globalcustodian.com",
+   "fisglobal.com",
+   "breukel.com",
+   "bny.com",
+   "euroclear.com",
+   "accessnewswire.com"
+  ],
+  "quotedCompanies": [
+   "FIS",
+   "M1",
+   "Breukel Software",
+   "BNY",
+   "Euroclear"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.proxymity.io/news/proxymity-named-fintech-of-the-year-at-the-global-custodian-awards-2026/",
+    "title": "Proxymity named Fintech of the Year at the Global Custodian Leaders in Custody Awards 2026",
+    "date": "2026-05-28"
+   },
+   {
+    "url": "https://www.proxymity.io/news/m1-selects-fis-to-modernize-proxy-voting-process/",
+    "title": "M1 Selects FIS to Modernize Proxy Voting Process",
+    "date": "2026-04-29"
+   },
+   {
+    "url": "https://www.proxymity.io/news/proxymity-and-breukel-software-gmbh-collaborate-to-offer-investors-electronic-voting-at-german-general-meetings/",
+    "title": "Proxymity and Breukel Software GmbH Collaborate to Offer Investors Electronic Voting at German General Meetings",
+    "date": ""
+   },
+   {
+    "url": "https://www.proxymity.io/news/proxymity-and-bny-expand-their-collaboration-across-global-markets-for-proxy-voting/",
+    "title": "Proxymity and BNY Expand Their Collaboration Across Global Markets for Proxy Voting",
+    "date": "2026-03-03"
+   },
+   {
+    "url": "https://www.proxymity.io/news/proxymity-and-euroclear-announce-strategic-investment-with-euroclear-becoming-newest-member-of-its-consortium/",
+    "title": "Proxymity and Euroclear Announce Strategic Investment, with Euroclear Becoming Newest Member of Its Consortium",
+    "date": "2026-02-26"
+   }
+  ],
+  "note": "News section is press releases. Every post quotes a partner or client company executive and links to the partner site."
+ },
+ {
+  "webDomain": "onceforall.com",
+  "blogUrlUsed": "https://onceforall.com/news/",
+  "postsRead": 4,
+  "outsideDomains": [],
+  "quotedCompanies": [
+   "Batis",
+   "Nalanda",
+   "GTCR",
+   "PSG Equity"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://onceforall.com/once-for-all-awarded-place-on-g-cloud-15-framework/",
+    "title": "Once For All awarded place on G-Cloud 15 framework - News",
+    "date": "2026-09"
+   },
+   {
+    "url": "https://onceforall.com/once-for-all-group-acquires-sytrix/",
+    "title": "Once For All Group acquires Sytrix",
+    "date": "2025-06-12"
+   },
+   {
+    "url": "https://onceforall.com/once-for-all-group-acquires-batis/",
+    "title": "Once For All Group Acquires Batis",
+    "date": "2024-11-04"
+   },
+   {
+    "url": "https://onceforall.com/once-for-all-group-acquires-nalanda-global/",
+    "title": "Once For All Group Acquires Nalanda Global",
+    "date": "2024-04-04"
+   }
+  ],
+  "note": "News section is press releases (acquisitions, frameworks); the latest is September 2026 and the previous one October 2025. 2050 Materials post not returned by the crawler. Links go mostly to group brands and acquired companies (Constructionline, Facilitiesline, Batis, 2050 Materials), which are excluded as own domains."
+ },
+ {
+  "webDomain": "treefera.com",
+  "blogUrlUsed": "https://www.treefera.com/blog",
+  "postsRead": 3,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.treefera.com/blog/gartner-risk-whitepaper",
+    "title": "Treefera: Gartner Flex Report",
+    "date": "2026-06-25"
+   },
+   {
+    "url": "https://www.treefera.com/blog/treefera-launches-Market-Intelligence",
+    "title": "Treefera launches Market Intelligence for Agricultural and Soft commodities",
+    "date": "2026-02-17"
+   },
+   {
+    "url": "https://www.treefera.com/blog/global-risk-dashboard",
+    "title": "Treefera Global Risk Dashboard",
+    "date": "2026-01-28"
+   }
+  ],
+  "note": "Cheerio index only exposed 3 post links; the playwright render showed newer posts (Sept 2026: soybean season, El Nino, cocoa, Verra VM0047) but without extractable URLs. Two of the three URLs read (gartner-risk-whitepaper, global-risk-dashboard) redirect to gated landing pages on info.treefera.com, so only the Market Intelligence post was a real article."
+ },
+ {
+  "webDomain": "edited.com",
+  "blogUrlUsed": "https://edited.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "mckinsey.com",
+   "kpmg.com"
+  ],
+  "quotedCompanies": [
+   "Nordstrom"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://edited.com/blog/ai-vs-ai-why-most-retail-ai-fails-and-what-merchandising-teams-need-instead/",
+    "title": "+AI vs AI+: Why Most Retail AI Fails And What Merchandising Teams Need Instead",
+    "date": ""
+   },
+   {
+    "url": "https://edited.com/blog/how-the-2026-middle-east-conflict-is-reshaping-uae-retail-six-data-signals-retail-teams-need-to-act-on-now/",
+    "title": "How the 2026 Middle East conflict is reshaping UAE retail: six data signals retail teams need to act on now",
+    "date": ""
+   },
+   {
+    "url": "https://edited.com/blog/workforce-rewired-how-ai-is-transforming-fashion-teams/",
+    "title": "Workforce Rewired: How AI is Transforming Fashion Teams",
+    "date": ""
+   },
+   {
+    "url": "https://edited.com/blog/what-is-mcp-how-model-context-protocol-is-transforming-retail-ai/",
+    "title": "What is MCP? How Model Context Protocol is Transforming Retail AI",
+    "date": ""
+   },
+   {
+    "url": "https://edited.com/blog/the-glp-1-effect-how-weight-loss-drugs-are-rewriting-fashions-sizing-playbook/",
+    "title": "GLP-1 Fashion Size Trends in Retail Today",
+    "date": ""
+   }
+  ],
+  "note": "Cheerio index markdown only showed the featured post; other URLs taken from a link extraction of the index. Cites McKinsey and KPMG research."
+ },
+ {
+  "webDomain": "lenses.io",
+  "blogUrlUsed": "https://lenses.io/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "langchain.com",
+   "addyosmani.com",
+   "evanta.com",
+   "stackoverflow.co"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://lenses.io/blog/agentic-software-factory",
+    "title": "Agentic Engineering and the Agentic Software Factory for Real-Time Data Products",
+    "date": ""
+   },
+   {
+    "url": "https://lenses.io/blog/kafka-to-kafka-replication-consumer-offset-mapping",
+    "title": "Consumer offset mapping in Kafka-to-Kafka replication",
+    "date": ""
+   },
+   {
+    "url": "https://lenses.io/blog/k2k-2-0-enterprise-kafka-disaster-recovery-without-vendor-lock-in",
+    "title": "Introducing K2K 2.0: Enterprise Kafka DR - without vendor lock-in",
+    "date": ""
+   },
+   {
+    "url": "https://lenses.io/blog/lenses-vscode-plugin-kafka-devx-governance-in-ide",
+    "title": "Lenses VS Code Plugin - multi-Kafka DevX & governance within the IDE",
+    "date": ""
+   },
+   {
+    "url": "https://lenses.io/blog/lenses-mcp-server-oauth-secure-streaming-apps-with-ai-agents",
+    "title": "Lenses MCP Server with OAuth 2.1",
+    "date": ""
+   }
+  ],
+  "note": "Technical product and engineering posts. Few outside links (LangChain, Addy Osmani, Evanta, Stack Overflow survey)."
+ },
+ {
+  "webDomain": "carbonchain.com",
+  "blogUrlUsed": "https://www.carbonchain.com/blog",
+  "postsRead": 4,
+  "outsideDomains": [
+   "sbguss.de",
+   "icapcarbonaction.com",
+   "gruppobeltrame.com",
+   "eurometal.net",
+   "arcelormittal.com",
+   "gerdau.com",
+   "aza.cl",
+   "ivacorm.com",
+   "gem.wiki",
+   "aperam.com",
+   "tyasa.com",
+   "mexico-now.com",
+   "bsw-kehl.de",
+   "power-technology.com",
+   "feralpigroup.com",
+   "feralpi-stahl.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.carbonchain.com/blog/cbam-straining-relationship-between-producers-and-importers",
+    "title": "Straining the producer importer relationship",
+    "date": ""
+   },
+   {
+    "url": "https://www.carbonchain.com/blog/cbam-omnibus-new-rules-for-importers",
+    "title": "CBAM Omnibus: What the New Rules Mean for Importers",
+    "date": ""
+   },
+   {
+    "url": "https://www.carbonchain.com/blog/top-10-low-carbon-steel-producers",
+    "title": "Top 10 low-carbon steel producers",
+    "date": ""
+   },
+   {
+    "url": "https://www.carbonchain.com/blog/from-carbon-accounting-to-carbon-insights-why-were-evolving-our-offering",
+    "title": "From carbon accounting to carbon insights: Why we’re evolving our offering",
+    "date": ""
+   }
+  ],
+  "note": "Most recent index items undated. understanding-sustainability-linked-loans post was not returned by the crawler. Only the Top 10 low-carbon steel producers list links out widely (to the producers and trade press)."
+ },
+ {
+  "webDomain": "cultureamp.com",
+  "blogUrlUsed": "https://www.cultureamp.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "evanta.com",
+   "weforum.org"
+  ],
+  "quotedCompanies": [
+   "Tennis Australia"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.cultureamp.com/blog/culture-lessons-from-tennis-australia",
+    "title": "Lessons from Tennis Australia on how culture drives performance",
+    "date": ""
+   },
+   {
+    "url": "https://www.cultureamp.com/blog/culture-amp-everywhere-you-work",
+    "title": "Culture everywhere you work: what culture means in the age of AI",
+    "date": ""
+   },
+   {
+    "url": "https://www.cultureamp.com/blog/cost-of-cutting-culture",
+    "title": "The importance of company culture in uncertain times",
+    "date": ""
+   },
+   {
+    "url": "https://www.cultureamp.com/blog/ai-prompt-guide-hr",
+    "title": "AI prompt guide for HR: 4 prompts for managers and leaders",
+    "date": ""
+   },
+   {
+    "url": "https://www.cultureamp.com/blog/passive-listening",
+    "title": "The passive listening buzz is mostly hype",
+    "date": ""
+   }
+  ],
+  "note": "Given URL /science/insights is a benchmarks landing page, not a blog; used /blog. cost-of-cutting-culture quotes NASCAR as a Culture Amp customer (not counted). Culture Amp has a /contributors/ author section but it lists its own staff."
+ },
+ {
+  "webDomain": "attio.com",
+  "blogUrlUsed": "https://attio.com/blog",
+  "postsRead": 4,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://attio.com/blog/behind-attios-latest-brand-campaign",
+    "title": "Behind Attio's latest brand campaign",
+    "date": "2026-08"
+   },
+   {
+    "url": "https://attio.com/blog/why-attio-hires-graduates",
+    "title": "Why Attio hires graduates",
+    "date": "2026-08"
+   },
+   {
+    "url": "https://attio.com/blog/formula-attributes",
+    "title": "Attio does the math",
+    "date": "2026-07"
+   },
+   {
+    "url": "https://attio.com/blog/attio-raises-52m-series-b",
+    "title": "Attio raises $52m Series B",
+    "date": "2025-08"
+   }
+  ],
+  "note": "Only 4 posts on the index; posts have no outbound links to other businesses."
+ },
+ {
+  "webDomain": "ultralytics.com",
+  "blogUrlUsed": "https://www.ultralytics.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.ultralytics.com/blog/people-counting-occupancy-analytics",
+    "title": "People Counting and Occupancy Analytics Methods",
+    "date": ""
+   },
+   {
+    "url": "https://www.ultralytics.com/blog/add-ai-analytics-existing-security-cameras",
+    "title": "Add AI Analytics to Existing Security Cameras",
+    "date": ""
+   },
+   {
+    "url": "https://www.ultralytics.com/blog/computer-vision-workplace-safety-ppe",
+    "title": "Build PPE Detection Models with Ultralytics Platform",
+    "date": ""
+   },
+   {
+    "url": "https://www.ultralytics.com/blog/computer-vision-robotic-quality-inspection",
+    "title": "Computer Vision for Robotic Quality Inspection",
+    "date": ""
+   },
+   {
+    "url": "https://www.ultralytics.com/blog/computer-vision-amr-agv-autonomous-forklift",
+    "title": "Computer Vision for AMRs, AGVs and Forklifts",
+    "date": ""
+   }
+  ],
+  "note": "Long technical guides; no external links in the bodies read, only internal docs and platform links."
+ },
+ {
+  "webDomain": "parentpay.com",
+  "blogUrlUsed": "https://www.parentpaygroup.com/resources/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "www.parentpaygroup.com/resources/ and /news/ both return a holding page (\"This is the new home for ParentPay Group\" with a Login link). No blog or posts found."
+ },
+ {
+  "webDomain": "capsulecrm.com",
+  "blogUrlUsed": "https://capsulecrm.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "theopsdepartment.com",
+   "timeassist.co.uk",
+   "transpond.io"
+  ],
+  "quotedCompanies": [
+   "The Ops Department",
+   "Time Assist"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://capsulecrm.com/blog/free-client-tracker-template/",
+    "title": "Free client tracker template: a simple system for managing clients",
+    "date": ""
+   },
+   {
+    "url": "https://capsulecrm.com/blog/an-honest-guide-to-choosing-a-crm/",
+    "title": "An honest guide to choosing a CRM",
+    "date": ""
+   },
+   {
+    "url": "https://capsulecrm.com/blog/4-signs-you-ve-outgrown-a-single-sales-pipeline/",
+    "title": "Best Practices for Setting up Multiple Pipelines in Capsule CRM",
+    "date": ""
+   },
+   {
+    "url": "https://capsulecrm.com/blog/sales-onboarding/",
+    "title": "Sales onboarding: a 30-60-90 plan for a first sales hire",
+    "date": ""
+   },
+   {
+    "url": "https://capsulecrm.com/blog/value-based-selling/",
+    "title": "Value-based selling: a framework to stop competing on price",
+    "date": ""
+   }
+  ],
+  "note": "Index markdown only showed one post; URLs taken from a link extraction of the index. Quotes outside small-business experts with links to their sites."
+ },
+ {
+  "webDomain": "juro.com",
+  "blogUrlUsed": "https://juro.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "capsulecover.com",
+   "lexisnexis.co.uk",
+   "chambers.com",
+   "ibanet.org",
+   "latinlawyer.com"
+  ],
+  "quotedCompanies": [
+   "JHB & Partners",
+   "McCain Foods",
+   "Dot/LEGIT",
+   "LegalEng Consulting Group"
+  ],
+  "guestSigns": "Partner-authored posts: https://juro.com/blog/surviving-cyber-breach-playbook (author Kit Lewin, Capsule Insurance) and https://juro.com/blog/the-rise-of-the-creative-gc (author LexisNexis Legal & Professional), both tied to Juro's Scaleup GC event partners. No write-for-us page seen.",
+  "posts": [
+   {
+    "url": "https://juro.com/blog/surviving-cyber-breach-playbook",
+    "title": "Surviving a Cyber Breach: a scale-up GC's playbook",
+    "date": ""
+   },
+   {
+    "url": "https://juro.com/blog/scaleup-gc-2026",
+    "title": "key takeaways for in-house lawyers in the Operator Era",
+    "date": ""
+   },
+   {
+    "url": "https://juro.com/blog/the-rise-of-the-creative-gc",
+    "title": "Architects of change: the rise of the creative GC",
+    "date": ""
+   },
+   {
+    "url": "https://juro.com/blog/ai-insourcing-risk-for-law-firms",
+    "title": "Law firms ‘sitting on a time bomb’ as clients prepare to insource with AI",
+    "date": "2026-02-09"
+   },
+   {
+    "url": "https://juro.com/blog/how-gcs-can-step-up-in-an-ai-driven-global-market-by-2030",
+    "title": "How GCs can step up in an AI-driven, global market by 2030",
+    "date": ""
+   }
+  ],
+  "note": "Index markdown was empty; URLs taken from a link extraction. Outside links are mostly to author bio institutions (universities, Chambers, IBA) and partners."
+ },
+ {
+  "webDomain": "fourth.com",
+  "blogUrlUsed": "https://www.fourth.com/resources",
+  "postsRead": 5,
+  "outsideDomains": [
+   "restaurant365.com",
+   "toasttab.com",
+   "lineup.ai",
+   "restaurant.org",
+   "touchbistro.com",
+   "chownow.com",
+   "toasttakeout.com",
+   "ziosk.com",
+   "kea.ai",
+   "theverge.com",
+   "soundhound.com",
+   "restaurantkitchen.org",
+   "bluecart.com",
+   "lightspeedhq.com",
+   "sevenrooms.com",
+   "resy.com",
+   "opentable.ca",
+   "exploretock.com",
+   "hostmeapp.com",
+   "canva.com",
+   "venngage.com",
+   "designs.ai",
+   "appypie.com",
+   "looka.com",
+   "logoai.com",
+   "logomakerr.ai",
+   "placeit.net",
+   "zenn.com",
+   "feedingamerica.org",
+   "takeatumble.com.au",
+   "bcg.com",
+   "rts.com",
+   "foodprint.org",
+   "wiley.com",
+   "nrdc.org",
+   "refed.org",
+   "fastcasual.com",
+   "indeed.com",
+   "virgin.com",
+   "wsj.com",
+   "restaurantdive.com",
+   "washingtonpost.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.fourth.com/article/ai-in-restaurants",
+    "title": "AI in Restaurants: 25 Tools for 2026",
+    "date": "2026-06-01"
+   },
+   {
+    "url": "https://www.fourth.com/article/how-much-food-restaurants-waste",
+    "title": "Food waste in restaurants: What we know",
+    "date": "2026-05-31"
+   },
+   {
+    "url": "https://www.fourth.com/article/human-resource-management-in-restaurants",
+    "title": "Human Resource Management In Restaurants: An In-Depth Guide",
+    "date": ""
+   },
+   {
+    "url": "https://www.fourth.com/article/restaurant-procurement",
+    "title": "Mastering the Art of Restaurant Procurement: Best Practices",
+    "date": ""
+   },
+   {
+    "url": "https://www.fourth.com/article/reasons-restaurants-short-staffed",
+    "title": "Why restaurants are struggling to find and keep employees",
+    "date": "2026-05-18"
+   }
+  ],
+  "note": "Given URL /resources is a mixed hub; articles are under /article/. /blog is a 404. Listicle-style articles link heavily to other businesses and statistics sources. ai-in-restaurants also quotes Fourth customers (PizzaExpress, Sun Pubs, Four Seasons, P.F. Chang's) as testimonials (not counted)."
+ },
+ {
+  "webDomain": "fyxer.com",
+  "blogUrlUsed": "https://www.fyxer.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "live.com",
+   "hunter.io",
+   "rocketreach.co",
+   "voilanorbert.com",
+   "hbr.org",
+   "mailtester.com",
+   "neverbounce.com",
+   "zerobounce.net",
+   "bynder.com"
+  ],
+  "quotedCompanies": [
+   "Tencent"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.fyxer.com/blog/how-to-find-email-address",
+    "title": "How to find an email address: Yours or someone else’s",
+    "date": ""
+   },
+   {
+    "url": "https://www.fyxer.com/blog/how-fyxer-learns-your-voice",
+    "title": "How Fyxer learns your tone and writes emails in your voice",
+    "date": ""
+   },
+   {
+    "url": "https://www.fyxer.com/blog/fyxer-vs-superhuman",
+    "title": "Fyxer vs Superhuman: Which email assistant is best in 2026?",
+    "date": ""
+   },
+   {
+    "url": "https://www.fyxer.com/blog/websummit-panel-2025",
+    "title": "Building Europe's Global Tech Edge: Lessons from Fyxer Co-founder Archie Hollingsworth",
+    "date": ""
+   },
+   {
+    "url": "https://www.fyxer.com/blog/fundraising-playbook",
+    "title": "$40M in 20 days: Our playbook for fundraising in 2025",
+    "date": ""
+   }
+  ],
+  "note": "Some posts cite HBR and Bynder research; the email-finder post links several tools."
+ },
+ {
+  "webDomain": "purple.ai",
+  "blogUrlUsed": "https://www.purple.ai/en-gb/guides",
+  "postsRead": 5,
+  "outsideDomains": [
+   "meraki.com",
+   "hpe.com",
+   "commscope.com",
+   "ui.com",
+   "rfc-editor.org",
+   "ietf.org",
+   "pcisecuritystandards.org",
+   "ieee802.org",
+   "wi-fi.org",
+   "apple.com",
+   "cisco.com",
+   "extremenetworks.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.purple.ai/en-gb/guides/ipsk-deployment-meraki-aruba-ruckus",
+    "title": "iPSK deployment on Meraki, Aruba and Ruckus",
+    "date": ""
+   },
+   {
+    "url": "https://www.purple.ai/en-gb/guides/bulk-internet-vs-managed-wifi-mdu",
+    "title": "Bulk internet agreement vs managed WiFi",
+    "date": ""
+   },
+   {
+    "url": "https://www.purple.ai/en-gb/guides/unifi-guest-portal-not-redirecting",
+    "title": "UniFi guest portal not redirecting",
+    "date": ""
+   },
+   {
+    "url": "https://www.purple.ai/en-gb/guides/meraki-splash-page-not-working",
+    "title": "Meraki splash page not working? Cisco WiFi troubleshooting",
+    "date": ""
+   },
+   {
+    "url": "https://www.purple.ai/en-gb/guides/wifi-7-venue-deployment-infrastructure-readiness",
+    "title": "WiFi 7 venue deployment infrastructure checklist",
+    "date": ""
+   }
+  ],
+  "note": "Guides section (476 technical guides) rather than a blog; links are to vendor documentation and standards bodies."
+ },
+ {
+  "webDomain": "codility.com",
+  "blogUrlUsed": "https://www.codility.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "mckinsey.com",
+   "pwc.com",
+   "talentneuron.com",
+   "gallup.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.codility.com/blog/ai-copilot-assess-ai-skills-during-codility-technical-interviews/",
+    "title": "Assess AI Skills During Technical Interviews",
+    "date": ""
+   },
+   {
+    "url": "https://www.codility.com/blog/how-we-hold-ourselves-to-the-siop-standard-for-ai-based-assessment/",
+    "title": "How we hold ourselves to the SIOP standard for AI-based assessment",
+    "date": "2026-06"
+   },
+   {
+    "url": "https://www.codility.com/blog/ai-readiness-assessment-does-your-team-have-the-skills-they-need/",
+    "title": "Does Your Team Have the Right Skills?",
+    "date": ""
+   },
+   {
+    "url": "https://www.codility.com/blog/compass-benchmark-llm-code-generation/",
+    "title": "COMPASS: A Better Way to Evaluate AI Code Generation",
+    "date": ""
+   },
+   {
+    "url": "https://www.codility.com/blog/detecting-ai-cheating-technical-assessment-integrity/",
+    "title": "Detecting AI Cheating to Protect Technical Assessment Integrity",
+    "date": ""
+   }
+  ],
+  "note": "Index markdown only showed topic filters; URLs taken from a link extraction of the index."
+ },
+ {
+  "webDomain": "perkbox.com",
+  "blogUrlUsed": "https://www.perkbox.com/resources/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.perkbox.com/resources/blog/how-to-bridge-deskless-divide",
+    "title": "How to Bridge the Deskless Divide: 7 Practical Strategies",
+    "date": ""
+   },
+   {
+    "url": "https://www.perkbox.com/resources/blog/best-employee-benefits-providers-in-the-uk-what-to-look-for-in-2026",
+    "title": "Best Employee Benefits Providers UK: 2026 Guide",
+    "date": ""
+   },
+   {
+    "url": "https://www.perkbox.com/resources/blog/how-benefits-help-smbs-keep-great-people",
+    "title": "How benefits help SMBs keep great people, without a big budget",
+    "date": ""
+   },
+   {
+    "url": "https://www.perkbox.com/resources/blog/support-through-a-merger",
+    "title": "Supporting your people through a merger",
+    "date": ""
+   },
+   {
+    "url": "https://www.perkbox.com/resources/blog/the-recognition-gap",
+    "title": "Why Reward and Recognition Isn't Landing",
+    "date": ""
+   }
+  ],
+  "note": "Index markdown had titles without links; URLs taken from a link extraction. No outside links in any of the 5 posts."
+ },
+ {
+  "webDomain": "zonal.co.uk",
+  "blogUrlUsed": "https://www.zonal.co.uk/news/",
+  "postsRead": 4,
+  "outsideDomains": [],
+  "quotedCompanies": [
+   "NIQ",
+   "Volaris Group"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.zonal.co.uk/resources/sunday-leads-bank-holiday-bookings-as-daytime-dining-demand-grows/",
+    "title": "Sunday leads bank holiday bookings as daytime dining demand grows | News",
+    "date": ""
+   },
+   {
+    "url": "https://www.zonal.co.uk/resources/over-a-third-of-brits-will-cheer-on-the-world-cup-from-the-local-venue/",
+    "title": "Over a third of Brits will cheer on the world cup from the local venue | News",
+    "date": ""
+   },
+   {
+    "url": "https://www.zonal.co.uk/resources/england-fifa-world-cup-match-bookings-surge-184-as-fans-flock-to-pubs/",
+    "title": "England FIFA World Cup match bookings surge 184% as fans flock to pubs | News",
+    "date": ""
+   },
+   {
+    "url": "https://www.zonal.co.uk/resources/new-ceo-for-zonal-as-it-embarks-on-an-exciting-new-chapter/",
+    "title": "New CEO for Zonal as it embarks on an exciting new chapter| News",
+    "date": ""
+   }
+  ],
+  "note": "Given URL /here-for-you/insights/ is a product page, not a blog; used /news/ (posts live under /resources/). Mostly booking-data press releases. NIQ research partner quoted; Volaris Group is Zonal's owner. news-zonal-and-niq-report post not returned by the crawler."
+ },
+ {
+  "webDomain": "threecolts.com",
+  "blogUrlUsed": "https://www.threecolts.com/blog/",
+  "postsRead": 4,
+  "outsideDomains": [
+   "anthropic.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.threecolts.com/blog/aio-workflows-you-can-run-today/",
+    "title": "3 things AI Operator can do for you right now",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.threecolts.com/blog/introducing-ai-operator/",
+    "title": "AI Operator for Amazon sellers is here",
+    "date": "2026-09-21"
+   },
+   {
+    "url": "https://www.threecolts.com/blog/mcps-for-amazon-software/",
+    "title": "Are they worth it?- Threecolts Blog",
+    "date": "2026-09-08"
+   },
+   {
+    "url": "https://www.threecolts.com/blog/seller-365-brands-use-cases/",
+    "title": "5 ways Seller 365 Brands helps you grow beyond Amazon",
+    "date": "2026-08-10"
+   }
+  ],
+  "note": "ai-copilot-agent-assistant-explained not returned by the crawler. Posts are product-focused with almost no outside links."
+ },
+ {
+  "webDomain": "itrsgroup.com",
+  "blogUrlUsed": "https://www.itrsgroup.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "pico.net"
+  ],
+  "quotedCompanies": [
+   "Pico",
+   "BSE",
+   "IP-Label"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.itrsgroup.com/blog/closing-mobile-observability-gap-how-orange-built-one-belgiums-most-used-apps",
+    "title": "Closing the mobile observability gap: how Orange built one of Belgium's most-used apps",
+    "date": "2026-07-30"
+   },
+   {
+    "url": "https://www.itrsgroup.com/blog/itrs-pico-network-derived-observability-indian-financial-markets",
+    "title": "ITRS and Pico Partner to Bring Network-Derived Observability to Indian Financial Markets",
+    "date": "2026-07-07"
+   },
+   {
+    "url": "https://www.itrsgroup.com/blog/itrs-unveils-agentic-ai-capabilities-built-mission-critical-regulated-it-operations",
+    "title": "ITRS Unveils Agentic AI Capabilities Built for Mission-Critical, Regulated IT Operations",
+    "date": "2026-03-26"
+   },
+   {
+    "url": "https://www.itrsgroup.com/blog/bse-selects-itrs-strengthen-real-time-monitoring-and-operational-resilience",
+    "title": "BSE Selects ITRS to Strengthen Real-Time Monitoring and Operational Resilience",
+    "date": "2026-02-19"
+   },
+   {
+    "url": "https://www.itrsgroup.com/blog/itrs-completes-acquisition-ip-label",
+    "title": "ITRS Acquires IP-Label to Strengthen DEM Capabilities",
+    "date": "2026-01-21"
+   }
+  ],
+  "note": "Blog is mostly press releases. IP-Label is now an ITRS company (links excluded as own). Pico and BSE executives quoted."
+ },
+ {
+  "webDomain": "arbor-education.com",
+  "blogUrlUsed": "https://arbor-education.com/library/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Given URL /library/ lists ebooks and whitepapers, not articles; /blog/ rendered no post links (only tag links) with cheerio or playwright. No posts could be read."
+ }
+]
