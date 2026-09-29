@@ -1,0 +1,714 @@
+[
+ {
+  "webDomain": "searchpilot.com",
+  "blogUrlUsed": "https://www.searchpilot.com/resources/blog",
+  "postsRead": 5,
+  "latest": "2026-09-23",
+  "outsideDomains": [
+   "growth-memo.com",
+   "page2pod.com"
+  ],
+  "quotedCompanies": [
+   "Growth Memo (Kevin Indig, co-bet webinar with Will Critchlow)"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.searchpilot.com/resources/blog/conversations",
+    "title": "Buying journeys are conversations, not prompts",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.searchpilot.com/resources/blog/will-chatgpt-overtake-google-kevin-indig-and-will-critchlow-bet-on-the-next-era-of-search",
+    "title": "Will ChatGPT Overtake Google? Kevin Indig and Will Critchlow Bet On the Next Era of Search",
+    "date": "2026-09-18"
+   },
+   {
+    "url": "https://www.searchpilot.com/resources/blog/guardrail-metrics",
+    "title": "The role of guardrail metrics in SEO testing",
+    "date": "2026-09-18"
+   },
+   {
+    "url": "https://www.searchpilot.com/resources/blog/when-seo-best-practices-backfire",
+    "title": "When SEO Best Practices Backfire",
+    "date": "2026-08-28"
+   },
+   {
+    "url": "https://www.searchpilot.com/resources/blog/is-geo-working-how-to-get-beyond-prompt-tracking",
+    "title": "Is GEO Working? How to Get Beyond Prompt Tracking",
+    "date": "2026-08-14"
+   }
+  ],
+  "note": "Post URLs found via /sitemap.xml (index is script rendered). Active, several posts a month. Few outbound links: the Kevin Indig piece links 4 growth-memo.com articles; others link almost nothing outside apart from LinkedIn profiles and a claude.ai artifact link."
+ },
+ {
+  "webDomain": "gwi.com",
+  "blogUrlUsed": "https://www.gwi.com/blog",
+  "postsRead": 5,
+  "latest": "2026-09-25",
+  "outsideDomains": [
+   "gameloft.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.gwi.com/blog/why-gaming-earns-gen-zs-attention",
+    "title": "Why gaming earns Gen Zs attention",
+    "date": "2026-09-25"
+   },
+   {
+    "url": "https://www.gwi.com/blog/ai-and-gen-z-the-risk-of-letting-ai-define-your-audience",
+    "title": "AI and Gen Z: The risk of letting AI define your audience",
+    "date": "2026-09-09"
+   },
+   {
+    "url": "https://www.gwi.com/blog/cannes-lions-2026",
+    "title": "Five things Cannes Lions 2026 confirmed about the future of marketing",
+    "date": "2026-09-07"
+   },
+   {
+    "url": "https://www.gwi.com/blog/synthetic-data-generation",
+    "title": "Synthetic data generation vs real survey data: what marketers need to know",
+    "date": "2026-08-26"
+   },
+   {
+    "url": "https://www.gwi.com/blog/ai-personas",
+    "title": "AI personas: what they are and how to build ones that work",
+    "date": "2026-08-20"
+   }
+  ],
+  "note": "Post URLs found via /sitemap.xml. Active. Almost no outbound links: only one (gameloft.com, a joint Gameloft x GWI study). Only quote is GWI's own Chief Insight Officer."
+ },
+ {
+  "webDomain": "littledata.io",
+  "blogUrlUsed": "https://www.littledata.io/blog",
+  "postsRead": 5,
+  "latest": "2026-09-14 (index also carries a 2026-09-25 date)",
+  "outsideDomains": [
+   "squashedpixel.co.uk",
+   "appwrk.com",
+   "shopify.com",
+   "apple.com"
+  ],
+  "quotedCompanies": [
+   "Squashed Pixel (Tom Gatenby, Littledata Show guest)"
+  ],
+  "guestSigns": "Guest author archive https://www.littledata.io/blog/author/guest (latest guest post 2026-06-26 'Getting your Shopify data migration right the first time', earlier ones 2023 to 2024)",
+  "posts": [
+   {
+    "url": "https://www.littledata.io/blog/2026/09/14/shopify-data-tracking",
+    "title": "Why every Shopify store needs accurate data tracking",
+    "date": "2026-09-14"
+   },
+   {
+    "url": "https://www.littledata.io/blog/2026/09/04/klaviyo-attribution-audit",
+    "title": "Find the Shoppers Your Klaviyo Flows Are Missing",
+    "date": "2026-09-04"
+   },
+   {
+    "url": "https://www.littledata.io/blog/2026/09/03/shopify-conversion-tracking",
+    "title": "Shopify conversion tracking: fix missed revenue",
+    "date": "2026-09-03"
+   },
+   {
+    "url": "https://www.littledata.io/blog/2026/08/26/how-to-increase-shopify-profit-squashed-pixel",
+    "title": "How to increase profit on your Shopify store",
+    "date": "2026-08-26"
+   },
+   {
+    "url": "https://www.littledata.io/blog/2026/08/25/why-managing-separate-ad-pixels-for-shopify-is-killing-your-roas",
+    "title": "Why separate ad pixels for Shopify kill your ROAS",
+    "date": "2026-08-25"
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper. Active blog. Sparse outbound linking (0 to 4 per post), but it runs a Guest author byline, which is the best opening in this set."
+ },
+ {
+  "webDomain": "wearemiq.com",
+  "blogUrlUsed": "https://www.wearemiq.com/resources/blog",
+  "postsRead": 5,
+  "latest": "2026-09-15",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.wearemiq.com/resources/blog/3-simple-ways-to-unlock-full-youtube-performance",
+    "title": "3 simple ways to unlock full YouTube performance",
+    "date": "2026-09-15"
+   },
+   {
+    "url": "https://www.wearemiq.com/resources/blog/how-to-use-ctv-measurement-to-prove-the-positive-impact-of-tv",
+    "title": "How to use CTV measurement to prove the positive impact of TV",
+    "date": "2026-08-11"
+   },
+   {
+    "url": "https://www.wearemiq.com/resources/blog/making-the-industry-better",
+    "title": "Making the industry better: we put MiQ Sigma to the test",
+    "date": "2026-07-15"
+   },
+   {
+    "url": "https://www.wearemiq.com/resources/blog/buying-shopping-online-has-never-been-easier",
+    "title": "Buying: Shopping online has never been easier",
+    "date": "2026-05-12"
+   },
+   {
+    "url": "https://www.wearemiq.com/resources/blog/decades-largest-global-marketing-moment",
+    "title": "The largest global marketing moment of the decade",
+    "date": "2026-06-05"
+   }
+  ],
+  "note": "Roughly one post a month. No outbound links to other businesses in any post read; only bit.ly links back to MiQ's own pages. Product-led content."
+ },
+ {
+  "webDomain": "keywordinsights.ai",
+  "blogUrlUsed": "https://www.keywordinsights.ai/blog/",
+  "postsRead": 5,
+  "latest": "2026-04-23 (newest new post; why-is-content-marketing-important was republished 2026-08-28 but first published 2024-01-23)",
+  "outsideDomains": [
+   "ahrefs.com",
+   "semrush.com",
+   "writesonic.com",
+   "keysearch.co",
+   "pemavor.com",
+   "contadu.com",
+   "keywordcupid.com",
+   "lowfruits.io",
+   "searchatlas.com",
+   "answersocrates.com",
+   "seoscout.com",
+   "zenbrief.com",
+   "serpstat.com",
+   "keywordclustering.net",
+   "serpsimilarity.com",
+   "invideo.io",
+   "suganthan.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.keywordinsights.ai/blog/why-is-content-marketing-important/",
+    "title": "Why is Content Marketing Important?",
+    "date": "2024-01-23 (updated 2026-08-28)"
+   },
+   {
+    "url": "https://www.keywordinsights.ai/blog/how-i-turn-5000-keywords-into-a-content-calendar-in-3-minutes-with-claude-and-an-mcp-server/",
+    "title": "How I Turn 5,000 Keywords Into a Content Calendar in 3 Minutes (with Claude and an MCP Server)",
+    "date": "2026-04-23"
+   },
+   {
+    "url": "https://www.keywordinsights.ai/blog/keyword-clustering-tools/",
+    "title": "17 Best Keyword Clustering Tools (Free & Paid Tested) - Complete 2026 Guide",
+    "date": "2025-02-28 (updated 2026-03-30)"
+   },
+   {
+    "url": "https://www.keywordinsights.ai/blog/claude-seo-tool/",
+    "title": "The Claude SEO Tool That Automates Keyword Clustering, Briefs, and Content Strategy",
+    "date": "2026-02-25"
+   },
+   {
+    "url": "https://www.keywordinsights.ai/blog/keyword-insights-2025-year-in-review/",
+    "title": "Keyword Insights 2025 Year in Review",
+    "date": "2025-12-17"
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper; dates from /post-sitemap.xml. Slow blog: about one new post every two months, nothing new since April 2026. Most outbound links sit in the tools roundup (competitor SEO tools). Posts are by co-founder Suganthan Mohanadasan."
+ },
+ {
+  "webDomain": "vevox.com",
+  "blogUrlUsed": "https://www.vevox.com/blog",
+  "postsRead": 5,
+  "latest": "2026-09-15 (Wooclap acquisition post; newest article read 2026-09-11)",
+  "outsideDomains": [
+   "chronicle.com",
+   "insidehighered.com",
+   "timeshighereducation.com",
+   "campustechnology.com",
+   "highereddive.com",
+   "onlinelearningconsortium.org",
+   "teachinginhighered.com",
+   "academicmatters.ca",
+   "ted.com",
+   "forbes.com",
+   "higheredjobs.com",
+   "edtechmagazine.com",
+   "ruffalonl.com",
+   "gatehouse.co.uk",
+   "prweek.com",
+   "ioic.org.uk",
+   "royalmail.com",
+   "waitrose.com",
+   "allthingsic.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.vevox.com/blog/ai-in-higher-education",
+    "title": "AI in Higher Education: What Does Responsible AI Use Really Look Like?",
+    "date": "2026-09-11"
+   },
+   {
+    "url": "https://www.vevox.com/blog/top-50-voices-to-follow-in-higher-education-for-2026",
+    "title": "Top 50 voices to follow in higher education for 2026",
+    "date": "2026-02-03"
+   },
+   {
+    "url": "https://www.vevox.com/blog/top-20-blogs-and-newsletters-every-educator-should-follow",
+    "title": "20 higher education blogs and newsletters to follow in 2025",
+    "date": "2025-02-26"
+   },
+   {
+    "url": "https://www.vevox.com/blog/why-its-time-to-ditch-email-as-your-main-internal-communications-channel",
+    "title": "Why it's time to ditch email as your main internal communications channel",
+    "date": "2018-04-13"
+   },
+   {
+    "url": "https://www.vevox.com/blog/5-of-the-best-ever-internal-communication-campaigns",
+    "title": "5 award-winning internal comms campaigns",
+    "date": "2022-01-10"
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper. Blog is live but thin on new articles (mostly product and company updates in 2026). Vevox was acquired by Wooclap (post dated 2026-09-15), so ownership is changing. Roundup posts link out generously; people quoted are university academics, not businesses."
+ },
+ {
+  "webDomain": "bidnamic.com",
+  "blogUrlUsed": "https://www.bidnamic.com/resource-hub",
+  "postsRead": 5,
+  "latest": "2026-09-23",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.bidnamic.com/resources/granular-campaign-structure-when-it-backfires-bidnamic",
+    "title": "Why Being Too Granular in Your Campaign Structure Can Backfire",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.bidnamic.com/resources/sku-profitability-audit-find-up-to-a-third-in-extra-budget-bidnamic",
+    "title": "Audit The Profitability Of Each SKU And Find Extra Budget",
+    "date": "2026-09-17"
+   },
+   {
+    "url": "https://www.bidnamic.com/resources/is-a-50-feed-score-in-google-shopping-good-bidnamic",
+    "title": "What a Below-50% Feed Score Is Actually Costing You in Google Shopping",
+    "date": "2026-09-10"
+   },
+   {
+    "url": "https://www.bidnamic.com/resources/why-electrical-brands-lose-to-marketplaces-on-google-shopping-bidnamic",
+    "title": "Why Electrical Brands Are Losing to Bigger Retailers on Google Shopping",
+    "date": "2026-08-13"
+   },
+   {
+    "url": "https://www.bidnamic.com/resources/roas-targets-margin-based-bidding",
+    "title": "Why ROAS Targets Are Holding Back Your Best Products",
+    "date": "2026-08-07"
+   }
+  ],
+  "note": "The real article hub is /resource-hub (the 'Optimisation Hub') with posts under /resources/, not /guides. Active, weekly-ish. Zero outbound links in the posts read (only HubSpot CTA redirects)."
+ },
+ {
+  "webDomain": "eastsideco.com",
+  "blogUrlUsed": "https://eastsideco.com/blog",
+  "postsRead": 0,
+  "latest": "",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Still unreadable: /blog, /blog/, the homepage, www., /sitemap.xml, /sitemap_index.xml and /post-sitemap.xml all failed through Apify (cheerio errors, and playwright gives NS_ERROR_PROXY_CONNECTION_REFUSED even on the homepage). The site appears to block the Apify proxy. No posts read and latest date unknown."
+ },
+ {
+  "webDomain": "ascensor.com",
+  "blogUrlUsed": "https://www.ascensor.com/news",
+  "postsRead": 5,
+  "latest": "no dates on posts (newest topic is the Google Marketing Live 2026 recap)",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.ascensor.com/post/do-you-even-eye-track-your-analytics-are-telling-you-what-happened-not-why",
+    "title": "Do You Even Eye-Track? Your analytics are telling you what happened, not why",
+    "date": ""
+   },
+   {
+    "url": "https://www.ascensor.com/post/why-ai-wont-replace-your-development-team",
+    "title": "Why AI won't replace your development team",
+    "date": ""
+   },
+   {
+    "url": "https://www.ascensor.com/post/google-marketing-live-2026-its-time-to-fix-your-ppc-foundations",
+    "title": "Google Marketing Live 2026: it's time to fix your PPC foundations",
+    "date": ""
+   },
+   {
+    "url": "https://www.ascensor.com/post/why-your-google-ads-spend-keeps-rising-but-your-roi-falls",
+    "title": "Why your Google Ads spend keeps rising but your ROI falls",
+    "date": ""
+   },
+   {
+    "url": "https://www.ascensor.com/post/2026-the-year-of-the-data-signal",
+    "title": "2026: The year of the data signal",
+    "date": ""
+   }
+  ],
+  "note": "Posts live under /post/ (index links came through with cheerio-scraper). Bodies were read from the website-content-crawler markdown. No outbound links at all. Sources such as Nielsen Norman Group, Tobii, Forrester and IBM are named but not linked. Only quotes are from Ascensor's own PPC specialist. Blog is active (2026 topics) but posts carry no dates."
+ },
+ {
+  "webDomain": "komododigital.co.uk",
+  "blogUrlUsed": "https://www.komododigital.co.uk/insights/",
+  "postsRead": 5,
+  "latest": "no dates on recent posts (older archive items show 2021 to 2023)",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.komododigital.co.uk/insights/what-happens-when-you-fill-in-our-contact-form/",
+    "title": "What happens when you fill in our contact form (and why we let an AI read it first)",
+    "date": ""
+   },
+   {
+    "url": "https://www.komododigital.co.uk/insights/designing-for-two-audiences-at-once/",
+    "title": "Designing for Two Audiences Without Splitting Your Site in Two",
+    "date": ""
+   },
+   {
+    "url": "https://www.komododigital.co.uk/insights/from-dashboards-to-answers/",
+    "title": "From Dashboards Nobody Reads to Answers People Act On",
+    "date": ""
+   },
+   {
+    "url": "https://www.komododigital.co.uk/insights/the-ai-pilot-graveyard/",
+    "title": "The AI Pilot Graveyard: Why Most AI Proofs of Concept Never Ship",
+    "date": ""
+   },
+   {
+    "url": "https://www.komododigital.co.uk/insights/our-website-has-no-cms/",
+    "title": "Our website has no CMS. We have a conversation.",
+    "date": ""
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper. New run of AI-delivery posts after a site rebuild, but they have no dates. Zero outbound links, no quotes. Thought-leadership pieces written in-house."
+ },
+ {
+  "webDomain": "parall.ax",
+  "blogUrlUsed": "https://parall.ax/insights",
+  "postsRead": 5,
+  "latest": "no dates on posts (index has a 2026-04-15 date; newest post covers AI Summit London 2026)",
+  "outsideDomains": [
+   "claude.com",
+   "prolificnorth.co.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://parall.ax/insights/ai-mythbusting-lessons-from-building-llm-products-since-before-chatgpt",
+    "title": "AI mythbusting: lessons from building LLM products since before ChatGPT",
+    "date": ""
+   },
+   {
+    "url": "https://parall.ax/insights/decoding-energy-turning-complex-energy-datasets-into-actionable-insights-explanations-predictions-or-decisions",
+    "title": "Decoding energy: Turning complex energy datasets into actionable insights, explanations, predictions or decisions",
+    "date": ""
+   },
+   {
+    "url": "https://parall.ax/insights/ai-summit-london-2026-changing-conversations-exciting-developments",
+    "title": "AI Summit London 2026: Changing conversations, exciting developments",
+    "date": ""
+   },
+   {
+    "url": "https://parall.ax/insights/the-air-conditioning-became-sentient-were-fine-with-that",
+    "title": "The Air Conditioning Became Sentient. We're Fine With That.",
+    "date": ""
+   },
+   {
+    "url": "https://parall.ax/insights/visualising-our-own-energy-use",
+    "title": "Visualising our own energy use",
+    "date": ""
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper (6 posts on page 1). Low volume. Very few outbound links. Odd: every post links 'View all' to parallax-staging.webflow.io (their staging site)."
+ },
+ {
+  "webDomain": "withcandour.co.uk",
+  "blogUrlUsed": "https://withcandour.co.uk/about/news",
+  "postsRead": 5,
+  "latest": "2026-08-17",
+  "outsideDomains": [
+   "clickboarding.com",
+   "onlinediscprofile.com",
+   "riverside.com",
+   "ahrefs.com",
+   "semrush.com",
+   "alsoasked.com",
+   "prmoment.com",
+   "raconteur.net",
+   "hewlettpackardhistory.com",
+   "mckinsey.com",
+   "work.life",
+   "mhfaengland.org",
+   "radius-networks.org",
+   "greatplacetowork.com",
+   "leewaysupport.org"
+  ],
+  "quotedCompanies": [
+   "Leeway (charity partner, CEO Jools Ramsey-Palmer)"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://withcandour.co.uk/about/news/a-guide-to-planning-link-bait-content",
+    "title": "A guide to planning link-bait content",
+    "date": "2026-08-17"
+   },
+   {
+    "url": "https://withcandour.co.uk/about/news/what-you-need-to-know-before-doing-digital-pr",
+    "title": "What you need to know before investing in digital PR",
+    "date": "2026-05-12"
+   },
+   {
+    "url": "https://withcandour.co.uk/about/news/ergs-arent-just-for-corporate-giants",
+    "title": "ERGs aren't just for corporate giants (here's why we built one)",
+    "date": "2026-03-30"
+   },
+   {
+    "url": "https://withcandour.co.uk/about/news/we-are-a-great-place-to-work",
+    "title": "It's official. We are a Great Place to Work.",
+    "date": "2026-02-17"
+   },
+   {
+    "url": "https://withcandour.co.uk/about/news/candour-announces-2026-partnership-with-leeway",
+    "title": "Candour announces 2026 partnership with Leeway",
+    "date": "2026-01-05"
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper (dates from the index). Roughly one article a month. Mixes SEO and digital PR guides with company news. Guides link out freely to data sources and tools (Ahrefs, Semrush, McKinsey, Raconteur). Also runs a podcast at /podcast."
+ },
+ {
+  "webDomain": "vervaunt.com",
+  "blogUrlUsed": "https://vervaunt.com/blog",
+  "postsRead": 5,
+  "latest": "Apr 2026 (index shows month only)",
+  "outsideDomains": [
+   "tagalys.com",
+   "klaviyo.com",
+   "reveni.com",
+   "idhlagency.com",
+   "sparktoro.com",
+   "dataships.io",
+   "loyaltylion.com"
+  ],
+  "quotedCompanies": [
+   "Tagalys (Antony Kattukaran)",
+   "Klaviyo (James White)",
+   "Reveni (Kevin Paiser)",
+   "IDHL (Chris Shelbourn, Technical SEO Director)"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://vervaunt.com/why-most-loyalty-programs-fail",
+    "title": "Why Most Loyalty Programs Fail - and What the Foundations Actually Look Like (A Pulse Commentary)",
+    "date": "Apr 2026"
+   },
+   {
+    "url": "https://vervaunt.com/scaling-paid-what-needs-to-true-before-you-spend-more",
+    "title": "Scaling Paid: What Needs to Be True Before You Spend More (A Pulse Commentary)",
+    "date": "Apr 2026"
+   },
+   {
+    "url": "https://vervaunt.com/your-tech-stack-is-probably-costing-you-more-than-you-think",
+    "title": "Your Tech Stack Is Probably Costing You More Than You Think (A Pulse Commentary)",
+    "date": "Apr 2026"
+   },
+   {
+    "url": "https://vervaunt.com/what-ai-actually-means-for-ecommerce-right-now",
+    "title": "What AI Actually Means for Ecommerce Right Now (A Pulse Commentary)",
+    "date": "Apr 2026"
+   },
+   {
+    "url": "https://vervaunt.com/seo-in-an-ai-first-search-landscape",
+    "title": "SEO in an AI-First Search Landscape: What eCommerce Brands Need to Reassess (A Pulse Commentary)",
+    "date": "Mar 2026"
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper. Post pages carry a placeholder 2023-01-01 date meta, so the index month is used. The 2026 'Pulse Commentary' series (leading up to their Pulse eCommerce Summit, 13 to 14 May 2026) embeds short quotes from partner vendors, each with a link to the vendor. That is a real contributed-quote opening. Nothing on the index after April 2026 (index page shows posts through Apr 2026; sitemap was modified 2026-09-23). Dataships and LoyaltyLion are linked in the loyalty piece in the same style (quotes there not read word for word)."
+ },
+ {
+  "webDomain": "freshegg.co.uk",
+  "blogUrlUsed": "https://www.freshegg.co.uk/blog/",
+  "postsRead": 5,
+  "latest": "2026-09-23",
+  "outsideDomains": [
+   "ahrefs.com",
+   "measurecamp.org",
+   "brightonseo.com",
+   "nextflywebdesign.com",
+   "findanomaly.ai",
+   "elsop.com",
+   "almcorp.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.freshegg.co.uk/blog/ai-didnt-replace-our-analysts/",
+    "title": "AI didn't replace our analysts. It made them harder to replace",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.freshegg.co.uk/blog/8-ai-marketing-trends-which-one-actually-deserves-your-budget/",
+    "title": "8 AI marketing trends: which one actually deserves your budget?",
+    "date": "2026-09-21"
+   },
+   {
+    "url": "https://www.freshegg.co.uk/blog/the-trouble-with-letting-ga4-watch-your-data-for-you/",
+    "title": "Why GA4's Anomaly Detection Keeps Telling You the Wrong Story",
+    "date": "2026-07-14"
+   },
+   {
+    "url": "https://www.freshegg.co.uk/blog/your-ga4-data-isnt-ready-for-ai-heres-how-to-change-that/",
+    "title": "Your GA4 data isn't ready for AI. Here's how to change that",
+    "date": "2026-07-13"
+   },
+   {
+    "url": "https://www.freshegg.co.uk/blog/teach-your-ad-platform-what-actually-makes-you-money/",
+    "title": "Teach your ad platform what actually makes you money",
+    "date": "2026-07-13"
+   }
+  ],
+  "note": "Index links came through with cheerio-scraper. Active. Skipped the staff welcome posts. Cites and links sources, including an Ahrefs article (summarising Ryan Law's trends, not a direct quote) and small SaaS or agency blogs in the GA4 piece. Quotes are Fresh Egg's own staff."
+ },
+ {
+  "webDomain": "littlewarden.com",
+  "blogUrlUsed": "https://littlewarden.com/blog",
+  "postsRead": 0,
+  "latest": "",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "No blog. /blog and /blog/ are a 'Guides to Using Little Warden' page, and /updates ('Little Updates') is the same shell. Neither has any article links, even with cheerio-scraper link extraction, and /sitemap.xml returns 404. It looks like a product help page, not a blog. Treat as no blog."
+ },
+ {
+  "webDomain": "paysend.com",
+  "blogUrlUsed": "https://paysend.com/blog",
+  "postsRead": 5,
+  "latest": "2026-09 (index lists 'september-referral-rewards-2026'; the newest dated post read is 2026-08-18)",
+  "outsideDomains": [
+   "moneyo.cz"
+  ],
+  "quotedCompanies": [
+   "Moneyo (Pavel Stich, co-founder, Paysend Ambassador profile)"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://paysend.com/blog/is-paysend-safe-security-verification-fraud-prevention",
+    "title": "Is Paysend Safe? Security, Verification & Fraud Prevention Explained",
+    "date": ""
+   },
+   {
+    "url": "https://paysend.com/blog/why-international-money-transfers-fail",
+    "title": "Why International Money Transfers Fail | Delays, Causes & Fixes",
+    "date": ""
+   },
+   {
+    "url": "https://paysend.com/blog/how-to-send-money-internationally-during-football-tournaments",
+    "title": "How to Send Money Internationally During Football Tournaments",
+    "date": ""
+   },
+   {
+    "url": "https://paysend.com/blog/moneyo-pavel-stich-paysend-ambassador",
+    "title": "Meet Pavel Stich: Helping Czech and Slovak readers send money home",
+    "date": "2026-08-18"
+   },
+   {
+    "url": "https://paysend.com/blog/gig-economy-payments-paysend-enterprise",
+    "title": "The Gig Economy Is Here to Stay - But Can Payouts Keep Up?",
+    "date": ""
+   }
+  ],
+  "note": "Post slugs came from the raw page HTML (script-rendered index, about 80 blog slugs). Very active consumer remittance blog, many promo posts. Guide posts have no outbound links. The only outbound links are in an Ambassador feature that links the partner's site. Fintech and consumer focused, a weak fit."
+ },
+ {
+  "webDomain": "parentpay.com",
+  "blogUrlUsed": "https://www.parentpaygroup.com/blog/",
+  "postsRead": 5,
+  "latest": "2026-09-24",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.parentpaygroup.com/blog/national-poetry-day/",
+    "title": "National poetry day: Build wonder into your library",
+    "date": "2026-09-24 (sitemap lastmod)"
+   },
+   {
+    "url": "https://www.parentpaygroup.com/blog/10-time-saving-sims-next-gen-modules-for-school-admin-staff/",
+    "title": "SIMS Next Gen modules for admin staff",
+    "date": "2026-08-18 (sitemap lastmod)"
+   },
+   {
+    "url": "https://www.parentpaygroup.com/blog/is-teacher-wellbeing-impacting-your-schools-performance/",
+    "title": "Is teacher wellbeing impacting your school's performance?",
+    "date": "2026-07-23 (sitemap lastmod)"
+   },
+   {
+    "url": "https://www.parentpaygroup.com/blog/how-to-boost-school-attendance-with-one-simple-change/",
+    "title": "How to boost school attendance with one simple change",
+    "date": "2026-07-23 (sitemap lastmod)"
+   },
+   {
+    "url": "https://www.parentpaygroup.com/blog/is-your-school-ready-for-new-wellbeing-legislation/",
+    "title": "Is your school ready for new wellbeing legislation?",
+    "date": "2026-07-23 (sitemap lastmod)"
+   }
+  ],
+  "note": "Found the blog via the parentpaygroup.com sitemap index (blog-sitemap.xml, 46 posts). The site is parentpaygroup.com; /blog/ works even though /resources/ looked like a holding page. Posts carry no visible dates, so sitemap lastmod is used. Roughly monthly. No outbound business links; only a gov.uk bill link and NHS England named. Product-led edtech content (SIMS, Schoolcomms, Reading Cloud)."
+ },
+ {
+  "webDomain": "arbor-education.com",
+  "blogUrlUsed": "https://arbor-education.com/blog/",
+  "postsRead": 5,
+  "latest": "2026-09-03",
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://arbor-education.com/data-drop-how-many-students-are-being-removed-from-class/",
+    "title": "How many students are being removed from class?",
+    "date": "2026-09-03"
+   },
+   {
+    "url": "https://arbor-education.com/blog-6-end-of-year-arbor-ai-hacks/",
+    "title": "6 end-of-year Arbor AI hacks",
+    "date": "2026-07-15"
+   },
+   {
+    "url": "https://arbor-education.com/blog-three-things-you-must-know-when-thinking-about-ai-at-your-school/",
+    "title": "Three things you must know when thinking about AI at your school",
+    "date": "2025-08-18"
+   },
+   {
+    "url": "https://arbor-education.com/blog-the-data-drop-which-students-go-on-the-most-trips/",
+    "title": "The Data Drop: Which students go on the most trips?",
+    "date": "2025-08-18"
+   },
+   {
+    "url": "https://arbor-education.com/blog-how-arbor-keeps-your-school-data-safe/",
+    "title": "How Arbor keeps your school data safe",
+    "date": "2024-10-09"
+   }
+  ],
+  "note": "Posts sit at root-level slugs (blog-...), which cheerio-scraper found on /blog/. Bodies were read from the website-content-crawler markdown (the cheerio body extraction came back empty). No outbound business links: only gov.uk DfE guidance, their own support site and their Circle community. Content is product and data-release led."
+ }
+]

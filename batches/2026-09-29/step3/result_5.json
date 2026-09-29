@@ -1,0 +1,1014 @@
+[
+ {
+  "webDomain": "kaluza.com",
+  "blogUrlUsed": "https://www.kaluza.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "cornwall-insight.com",
+   "decagon.ai",
+   "elexon.co.uk",
+   "energy-uk.org.uk",
+   "mhhsprogramme.co.uk",
+   "uswitch.com"
+  ],
+  "quotedCompanies": [
+   "Anthropic",
+   "AWS",
+   "Salesforce",
+   "Decagon"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.kaluza.com/blog/kaluza-decagon-partnership-ai-energy-customer-support",
+    "title": "Smarter, Faster, Frictionless: Kaluza Partners with Decagon on AI Support for Energy Customers",
+    "date": "2026-09-08"
+   },
+   {
+    "url": "https://www.kaluza.com/blog/uk-energy-price-cap-october-2026-retailer-guide",
+    "title": "UK Energy Price Cap October 2026: What Retailers Must Do",
+    "date": "2026-08-19"
+   },
+   {
+    "url": "https://www.kaluza.com/blog/mhhs-half-hourly-settlement",
+    "title": "Unlocking the Future of Energy with Market-Wide Half-Hourly Settlement (MHHS)",
+    "date": "2026-07-29"
+   },
+   {
+    "url": "https://www.kaluza.com/blog/is-ai-the-end-of-saas-energy-software",
+    "title": "Is AI the End of SaaS? Energy Software Leaders Respond",
+    "date": "2026-07-23"
+   },
+   {
+    "url": "https://www.kaluza.com/blog/grid-flexibility-heatwave-electricity-prices",
+    "title": "86 to 566 EUR per MWh in six hours: What the heatwave actually told us",
+    "date": "2026-07-15"
+   }
+  ],
+  "note": "Blog index needed htmlTransformer none to show post links. Quotes are from a partner panel (Anthropic, AWS, Salesforce) and a Decagon partnership announcement."
+ },
+ {
+  "webDomain": "brainomix.com",
+  "blogUrlUsed": "https://www.brainomix.com/content-hub/all?tab=all",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.brainomix.com/content-hub/in-the-press/brainomix-selected-for-prestigious-future-fifty-scale-up-programme",
+    "title": "Brainomix Selected for Prestigious Future Fifty Scale-Up Programme",
+    "date": "2026-09-16"
+   },
+   {
+    "url": "https://www.brainomix.com/content-hub/in-the-press/brainomix-endeavor-present-positive-results-from-phase-2a-ipf-trial-at-ers-2026",
+    "title": "Brainomix & Endeavor Present Positive Results from Phase 2a IPF Trial at ERS 2026",
+    "date": "2026-09-08"
+   },
+   {
+    "url": "https://www.brainomix.com/content-hub/in-the-press/brainomix-to-present-five-new-studies-at-ers-2026",
+    "title": "Brainomix to Present Five New Studies at ERS 2026",
+    "date": "2026-08-25"
+   },
+   {
+    "url": "https://www.brainomix.com/content-hub/in-the-press/the-founders-formula-michalis-papadakis",
+    "title": "The Founder's Formula: Michalis Papadakis",
+    "date": "2026-08-05"
+   },
+   {
+    "url": "https://www.brainomix.com/content-hub/in-the-press/biotechtv-interviews-brainomix-ceo-co-founder-dr-michalis-papadakis",
+    "title": "BiotechTV Interviews Brainomix CEO & Co-Founder, Dr Michalis Papadakis",
+    "date": "2026-07-20"
+   }
+  ],
+  "note": "Content hub only listed In the Press items (no separate blog); each post is a short press summary stub of a few lines with no body links. Mostly press releases."
+ },
+ {
+  "webDomain": "fortris.com",
+  "blogUrlUsed": "https://www.fortris.com/blog",
+  "postsRead": 2,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.fortris.com/blog/mpc-vs-hsm-custody-explained-simply",
+    "title": "MPC vs HSM custody, explained simply",
+    "date": "2026-08-25"
+   },
+   {
+    "url": "https://www.fortris.com/blog/why-embedded-kyt-is-a-business-enabler-for-igaming-operators",
+    "title": "Why embedded KYT is a business enabler for iGaming operators",
+    "date": "2026-07-07"
+   }
+  ],
+  "note": "Blog index shows only 2 posts. No outbound links in either."
+ },
+ {
+  "webDomain": "unitary.ai",
+  "blogUrlUsed": "https://unitary.ai/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "accelerant.ai",
+   "amazon.com",
+   "artificialintelligenceact.eu",
+   "cruxunderwriting.com",
+   "ft.com",
+   "thelondoninsurancemarket.com"
+  ],
+  "quotedCompanies": [
+   "Crux Underwriting",
+   "Accelerant"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://unitary.ai/articles/crux-underwriting-ai-automation-strategy",
+    "title": "How Crux Underwriting Is Building Its AI & Automation Strategy",
+    "date": ""
+   },
+   {
+    "url": "https://unitary.ai/articles/unitary-joins-accelerant-marketplace",
+    "title": "Unitary joins the Accelerant Marketplace giving MGA’s a faster route to AI success",
+    "date": ""
+   },
+   {
+    "url": "https://unitary.ai/articles/replacing-bpo-with-automation",
+    "title": "Replacing Your BPO With Automation",
+    "date": ""
+   },
+   {
+    "url": "https://unitary.ai/articles/uk-eu-llm-processing",
+    "title": "UK & EU-Only LLM Processing for Regulated Industries",
+    "date": ""
+   },
+   {
+    "url": "https://unitary.ai/articles/insurance-automation-build-vs-buy",
+    "title": "Build vs Buy: A Smarter Insurance Automation Strategy",
+    "date": ""
+   }
+  ],
+  "note": "Blog index lists articles under unitary.ai/articles/ without dates. Site now positions as AI agents for insurance and back office operations."
+ },
+ {
+  "webDomain": "macrobond.com",
+  "blogUrlUsed": "https://www.macrobond.com/resources (Macro Trends section)",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.macrobond.com/resources/macro-trends/two-speed-apac-mapping-who-absorbed-the-hormuz-shock-and-who-rode-above-it",
+    "title": "Two-Speed APAC: Mapping Who Absorbed the Hormuz Shock and Who Rode Above It",
+    "date": ""
+   },
+   {
+    "url": "https://www.macrobond.com/resources/macro-trends/two-americas-one-economy-the-roots-of-the-k-shaped-recovery",
+    "title": "Two Americas, One Economy: The Roots of the K-Shaped Recovery",
+    "date": ""
+   },
+   {
+    "url": "https://www.macrobond.com/resources/macro-trends/japans-fx-puzzle-the-limits-of-policy-normalization",
+    "title": "Japan’s FX Puzzle , The Limits of Policy Normalization",
+    "date": ""
+   },
+   {
+    "url": "https://www.macrobond.com/resources/macro-trends/the-ai-infrastructure-buildout-from-physical-expansion-to-market-impact",
+    "title": "The AI Infrastructure Buildout: From Physical Expansion to Market Impact",
+    "date": ""
+   },
+   {
+    "url": "https://www.macrobond.com/resources/macro-trends/gold-and-the-dollar-hedge-revisited-outperforming-other-safe-havens",
+    "title": "Gold and The Dollar Hedge Revisited: Outperforming Other Safe Havens",
+    "date": ""
+   }
+  ],
+  "note": "No classic blog; /resources is a mix of webinars, weekly charts and Macro Trends reports. Read 5 Macro Trends pieces; no outbound links in bodies."
+ },
+ {
+  "webDomain": "vamoos.com",
+  "blogUrlUsed": "https://www.vamoos.com/category/guides/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "adido-digital.co.uk",
+   "adobe.com",
+   "adyen.com",
+   "becitable.com",
+   "cntraveller.com",
+   "felloh.com",
+   "firstpagesage.com",
+   "giata.com",
+   "hubspot.com",
+   "imsert.com",
+   "kaptio.com",
+   "leonardoworldwide.com",
+   "moz.com",
+   "palisis.com",
+   "postman.com",
+   "salesforce.com",
+   "stripe.com",
+   "ttgmedia.com",
+   "webflow.com",
+   "wordpress.com",
+   "zoho.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.vamoos.com/the-rebooking-playbook-how-travel-companies-can-win-repeat-business/",
+    "title": "The Rebooking Playbook: how travel companies can win repeat business",
+    "date": ""
+   },
+   {
+    "url": "https://www.vamoos.com/seo-geo-for-travel-companies/",
+    "title": "GEO for travel: how to get found by AI search",
+    "date": "2026-05-14"
+   },
+   {
+    "url": "https://www.vamoos.com/the-best-tour-operator-software-2026/",
+    "title": "The best tour operator software 2026",
+    "date": "2026-02-02"
+   },
+   {
+    "url": "https://www.vamoos.com/for-travel-companies-blog-essential-ai-guide-for-travel-companies-save-time-scale-smarter/",
+    "title": "Essential AI guide for travel companies: save time, scale smarter",
+    "date": "2026-01-20"
+   },
+   {
+    "url": "https://www.vamoos.com/for-travel-companies-blog-levelling-up-your-travel-tech/",
+    "title": "Levelling up your travel tech: where to start",
+    "date": "2025-04-24"
+   }
+  ],
+  "note": "Links out freely to tools and publications (tool logos in the tour operator software post link to vendor sites). Quote in the rebooking post is from a client (Fleewinter), not counted."
+ },
+ {
+  "webDomain": "light.inc",
+  "blogUrlUsed": "https://light.inc/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://light.inc/blog/the-great-flattening-part-ii",
+    "title": "The Great Flattening, Part II",
+    "date": ""
+   },
+   {
+    "url": "https://light.inc/blog/we-gave-software-an-immune-system",
+    "title": "We Gave Software an Immune System",
+    "date": "2026-09-21"
+   },
+   {
+    "url": "https://light.inc/blog/the-first-step-to-organic-software",
+    "title": "The First Step to Organic Software",
+    "date": "2026-09-17"
+   },
+   {
+    "url": "https://light.inc/blog/growing-up-making-the-shift-from-xero-to-light",
+    "title": "Growing up: making the shift from Xero to Light",
+    "date": "2026-09-14"
+   },
+   {
+    "url": "https://light.inc/blog/light-partners-with-kpmg",
+    "title": "Light partners with KPMG to accelerate agentic finance globally",
+    "date": "2026-09-08"
+   }
+  ],
+  "note": "Very active blog (several posts a month). No outbound business links in the posts read; only a Goldcast webinar registration link."
+ },
+ {
+  "webDomain": "mindflick.co.uk",
+  "blogUrlUsed": "https://mindflick.co.uk/insights",
+  "postsRead": 5,
+  "outsideDomains": [
+   "coreusgroup.com",
+   "englandnetball.co.uk",
+   "manutd.com"
+  ],
+  "quotedCompanies": [
+   "Sustainable Markets Initiative"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://mindflick.co.uk/insights/angelie-moledina-podcast",
+    "title": "Angelie Moledina: What 30 years on the trading floor taught me about mindset",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://mindflick.co.uk/insights/vitality-roses-england-netball",
+    "title": "How Mindflick drives performance with the Vitality Roses",
+    "date": "2026-07-29"
+   },
+   {
+    "url": "https://mindflick.co.uk/insights/coreus-rolls-out-mindflick",
+    "title": "Coreus rolls out Mindflick to develop their next generation of leaders",
+    "date": "2026-07-28"
+   },
+   {
+    "url": "https://mindflick.co.uk/insights/apac-announcement",
+    "title": "Mindflick expands into APAC with Hong Kong office",
+    "date": "2026-07-22"
+   },
+   {
+    "url": "https://mindflick.co.uk/insights/manchester-united-football-club-partnership",
+    "title": "Mindflick is now Manchester United's Official Performance Mindset Partner",
+    "date": "2026-06-17"
+   }
+  ],
+  "note": "Index needed htmlTransformer none. Posts are mostly client and partnership announcements; quotes from clients England Netball, Coreus and Manchester United not counted."
+ },
+ {
+  "webDomain": "banfico.com",
+  "blogUrlUsed": "https://banfico.com/blogs-newsletters/",
+  "postsRead": 4,
+  "outsideDomains": [
+   "etsi.org",
+   "europeanpaymentscouncil.eu",
+   "olhardigital.com.br",
+   "thepaypers.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://banfico.com/blogs-newsletters/survey-results-of-berlin-group-openfinance-v2-standard-adoption/",
+    "title": "Survey results of Berlin Group openFinance v2 standard adoption",
+    "date": "2026-09-16"
+   },
+   {
+    "url": "https://banfico.com/blogs-newsletters/experiencing-vop-reachability-issues/",
+    "title": "Experiencing VOP reachability issues?",
+    "date": "2026-08-28"
+   },
+   {
+    "url": "https://banfico.com/blogs-newsletters/brazilians-welcome-open-banking/",
+    "title": "Brazilians Welcome Open Banking",
+    "date": "2021-09-30"
+   },
+   {
+    "url": "https://banfico.com/blogs-newsletters/brexit-and-eidas-revocation/",
+    "title": "Brexit and eIDAS Revocation",
+    "date": "2020-08-17"
+   }
+  ],
+  "note": "Blog posts redirect from /blogs-newsletters/<slug>/ to banfico.com/<slug>/. Only 2 recent posts (Aug and Sep 2026), the rest of the index is 2020 to 2021. Quote in the Brazil post is from a client (CIP), not counted."
+ },
+ {
+  "webDomain": "umotif.com",
+  "blogUrlUsed": "https://umotif.com/news/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "appliedclinicaltrialsonline.com",
+   "gsmaintelligence.com",
+   "nature.com",
+   "springer.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://umotif.com/news/dpharm-2026-what-the-patient-site-relationship-needs-most-right-now/",
+    "title": "DPHARM 2026: What the Patient-Site Relationship Needs Most Right Now",
+    "date": "2026-09-18"
+   },
+   {
+    "url": "https://umotif.com/news/the-clinical-trial-patient-experience-balancing-science-technology-and-humanity/",
+    "title": "The Clinical Trial Patient Experience: Balancing Science, Technology, and Humanity",
+    "date": "2026-08-21"
+   },
+   {
+    "url": "https://umotif.com/news/how-to-evaluate-an-ecoa-vendor-for-global-trials/",
+    "title": "How to Evaluate an eCOA Vendor for Global Trials",
+    "date": "2026-08-20"
+   },
+   {
+    "url": "https://umotif.com/news/byod-vs-provisioned-devices-why-participant-choice-should-drive-your-ecoa-strategy/",
+    "title": "BYOD vs. Provisioned Devices: Why Participant Choice Should Drive Your eCOA Strategy",
+    "date": "2026-08-20"
+   },
+   {
+    "url": "https://umotif.com/news/ecoa-user-acceptance-testing-uat-recommendations-for-clinical-trial-success/",
+    "title": "Achieving Clinical Trial Success with Three Key Elements of eCOA User Acceptance Testing",
+    "date": "2026-06-17"
+   }
+  ],
+  "note": "News section mixes articles, blogs, press releases and webinars. DPHARM post is a short video intro."
+ },
+ {
+  "webDomain": "afreespace.com",
+  "blogUrlUsed": "https://www.afreespace.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "proptechconnect.com"
+  ],
+  "quotedCompanies": [
+   "Fibre Force",
+   "Area"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.afreespace.com/news/overheard-at-proptech-connect-europe/",
+    "title": "Overheard at PropTech Connect Europe.",
+    "date": "2026-09-17"
+   },
+   {
+    "url": "https://www.afreespace.com/news/a-hybrid-reality-check-why-2026-is-the-year-of-the-managed-workplace/",
+    "title": "A hybrid reality check: Why 2026 is the year of the 'Managed Workplace'.",
+    "date": "2026-09-14"
+   },
+   {
+    "url": "https://www.afreespace.com/news/the-vital-role-of-human-experience-in-a-workplace-and-why-its-worth-showing-up-for/",
+    "title": "The vital role of human experience in a workplace, and why it's worth showing up for.",
+    "date": "2026-08-04"
+   },
+   {
+    "url": "https://www.afreespace.com/news/summers-here-six-ways-to-make-the-office-worth-choosing/",
+    "title": "Summer's here: six ways to make the office worth choosing.",
+    "date": "2026-07-01"
+   },
+   {
+    "url": "https://www.afreespace.com/thought-leadership/how-to-cut-skyrocketing-office-energy-bills-fast/",
+    "title": "How to cut skyrocketing office energy bills, fast.",
+    "date": "2026-06-12"
+   }
+  ],
+  "note": "Given URL /category/blog/ rendered empty; used /blog/ instead, whose post links point to /news/ and /thought-leadership/ paths."
+ },
+ {
+  "webDomain": "speechmatics.com",
+  "blogUrlUsed": "https://www.speechmatics.com/company/articles-and-news/articles",
+  "postsRead": 1,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.speechmatics.com/company/articles-and-news/on-device-speech-to-text-in-10-questions",
+    "title": "On-device speech-to-text, in 10 questions",
+    "date": "2026-09-24"
+   },
+   {
+    "url": "https://www.speechmatics.com/company/articles-and-news/meet-agent-stt-powered-by-linden-1-fast-accurate-speech-recognition",
+    "title": "Introducing Agent STT: built for the words that cost you the call",
+    "date": "2026-09-17"
+   },
+   {
+    "url": "https://www.speechmatics.com/company/articles-and-news/scale-more-easily-with-speechmatics",
+    "title": "Scale more easily with Speechmatics",
+    "date": "2026-09-16"
+   },
+   {
+    "url": "https://www.speechmatics.com/company/articles-and-news/melia-code-switching-arabic-mandarin-tamil",
+    "title": "Melia 1 leads speech-to-text code-switching in Arabic, Mandarin and Tamil",
+    "date": "2026-09-01"
+   },
+   {
+    "url": "https://www.speechmatics.com/company/articles-and-news/speechmatics-linden-livekit-inference",
+    "title": "Speechmatics & LiveKit Inference target the accuracy gap that breaks voice agents in production",
+    "date": "2026-08-27"
+   }
+  ],
+  "note": "Article bodies are rendered client side; only the intro paragraph came back for 4 of 5 posts, even with playwright. Only 1 post body read in full."
+ },
+ {
+  "webDomain": "robinai.com",
+  "blogUrlUsed": "https://robinai.com/news-and-resources/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://robinai.com/news-and-resources/blog/earning-your-confidence-evaluations-at-robin",
+    "title": "Earning Your Confidence: Evaluations at Robin",
+    "date": "2025-11-04"
+   },
+   {
+    "url": "https://robinai.com/news-and-resources/blog/the-hidden-network-behind-your-contracts",
+    "title": "The Hidden Network Behind Your Contracts (and Why It Matters)",
+    "date": "2025-10-31"
+   },
+   {
+    "url": "https://robinai.com/news-and-resources/blog/robin-expands-playbooks-smarter-contract-negotiations",
+    "title": "Robin expands playbooks to support smarter contract negotiations",
+    "date": "2025-09-24"
+   },
+   {
+    "url": "https://robinai.com/news-and-resources/blog/how-to-analyze-termination-rights-with-robins-legal-intelligence-platform-2",
+    "title": "How to analyze termination rights with Robin's Legal Intelligence Platform",
+    "date": "2025-09-18"
+   },
+   {
+    "url": "https://robinai.com/news-and-resources/blog/introducing-robins-tables-api-unlock-structured-data-from-legal-documents",
+    "title": "Introducing Robin's Tables API: Unlock structured data from legal documents",
+    "date": "2025-09-11"
+   }
+  ],
+  "note": "Most recent blog post is 2025-11-04, nearly 11 months ago; blog looks slowed down."
+ },
+ {
+  "webDomain": "modoenergy.com",
+  "blogUrlUsed": "https://modoenergy.com/research",
+  "postsRead": 4,
+  "outsideDomains": [
+   "nationalgrid.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://modoenergy.com/research/en/us-data-center-curtailment-reliability",
+    "title": "Can data centers curtail power without causing downtime?",
+    "date": ""
+   },
+   {
+    "url": "https://modoenergy.com/research/en/nyiso-nyserda-isc-index-storage-credit-winners-bess",
+    "title": "NYISO: NYSERDA announces the winners of its first Index Storage Credit solicitation",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://modoenergy.com/research/en/caiso-offtake-resource-adequacy-swaps-tolls",
+    "title": "Swaps, Tolls, and Resource Adequacy: the state of BESS offtakes in CAISO",
+    "date": ""
+   },
+   {
+    "url": "https://modoenergy.com/research/en/isone-market-outlook-bess-scenarios-september-2026",
+    "title": "ISO-NE Market Outlook September 2026: BESS revenue climbs through the 2030s in every scenario",
+    "date": ""
+   }
+  ],
+  "note": "Given /product/insights is a product landing page; used /research. Research articles are partly gated or short in the crawl."
+ },
+ {
+  "webDomain": "plumerai.com",
+  "blogUrlUsed": "https://blog.plumerai.com/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://blog.plumerai.com/2026/06/offsite2026/",
+    "title": "Plumerai offsite in France",
+    "date": "2026-06-24"
+   },
+   {
+    "url": "https://blog.plumerai.com/2026/05/from-face-id-to-multi-camera-reid/",
+    "title": "Making Multi-Camera ReID work when mistakes cascade",
+    "date": "2026-05-21"
+   },
+   {
+    "url": "https://blog.plumerai.com/2026/04/multi-camera-reidentification-solves-notification-overload/",
+    "title": "Multi-Camera Re-Identification solves notification overload",
+    "date": "2026-04-02"
+   },
+   {
+    "url": "https://blog.plumerai.com/2026/04/running-modern-ai-on-a-1985-atari-st/",
+    "title": "Running modern AI on a 1985 Atari ST",
+    "date": "2026-04-08"
+   },
+   {
+    "url": "https://blog.plumerai.com/2026/03/advanced-motion-detection/",
+    "title": "Plumerai Advanced Motion Detection",
+    "date": "2026-03-19"
+   }
+  ],
+  "note": "Blog is on subdomain blog.plumerai.com. Only outbound links are its own jobs board (Ashby) and a GitHub repo."
+ },
+ {
+  "webDomain": "genesis.global",
+  "blogUrlUsed": "https://genesis.global/resources/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "americanbanker.com",
+   "armorcode.com",
+   "bobsguide.com",
+   "chartis-research.com",
+   "collinsdictionary.com",
+   "dnb.co.uk",
+   "g2.com",
+   "gartner.com",
+   "hostinger.com",
+   "ibm.com",
+   "imas.org.sg",
+   "marketsandmarkets.com",
+   "phys.org",
+   "statista.com",
+   "thetradenews.com",
+   "waterstechnology.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://genesis.global/resources/blog/ai-got-you-to-a-prototype-heres-what-it-takes-to-get-to-production/",
+    "title": "AI Got You to a Prototype. Here's What It Takes to Get to Production.",
+    "date": ""
+   },
+   {
+    "url": "https://genesis.global/resources/blog/why-vibe-coding-wont-cut-it-in-capital-markets/",
+    "title": "Why vibe coding won't cut it in capital markets",
+    "date": "2026-06-24"
+   },
+   {
+    "url": "https://genesis.global/resources/blog/five-tips-to-replace-your-outdated-eucs-2/",
+    "title": "5 tips to replace your outdated end-user computing tools",
+    "date": "2025-08-14"
+   },
+   {
+    "url": "https://genesis.global/resources/blog/ai-innovation-strategy/",
+    "title": "Why financial institutions must rethink their AI innovation strategy",
+    "date": ""
+   },
+   {
+    "url": "https://genesis.global/resources/blog/euc-agility-and-resilience/",
+    "title": "Agility vs resilience: a new era beyond EUCs",
+    "date": "2025-07-17"
+   }
+  ],
+  "note": "Index needed htmlTransformer none. Links out often to research and media sources (Gartner, Chartis, Waters Technology, American Banker). One post URL redirected to a duplicate slug."
+ },
+ {
+  "webDomain": "rainbird.ai",
+  "blogUrlUsed": "https://rainbird.ai/news",
+  "postsRead": 4,
+  "outsideDomains": [
+   "aiinfinancesummit.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://rainbird.ai/james-duez-joins-analysis-tech-the-lowdown",
+    "title": "James Duez joins Analysis.Tech’s The Low-Down to talk knowledge, context and deterministic decisioning",
+    "date": ""
+   },
+   {
+    "url": "https://rainbird.ai/rainbird-to-present-at-the-ai-in-financial-services-conference-london",
+    "title": "Rainbird to present at the AI in Financial Services Conference, London",
+    "date": ""
+   },
+   {
+    "url": "https://rainbird.ai/rainbird-technologies-appoints-coenraad-van-der-poel-as-chief-revenue-officer-to-accelerate-global-growth",
+    "title": "Rainbird Technologies Appoints Coenraad van der Poel as Chief Revenue Officer to Accelerate Global Growth",
+    "date": ""
+   },
+   {
+    "url": "https://rainbird.ai/rainbird-is-now-available-on-google-cloud-marketplace",
+    "title": "Rainbird is now available on Google Cloud Marketplace",
+    "date": ""
+   }
+  ],
+  "note": "News page lists only 4 items, all company news or event announcements. Only outbound link is a conference site."
+ },
+ {
+  "webDomain": "granola.ai",
+  "blogUrlUsed": "https://www.granola.ai/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.granola.ai/blog/how-sales-teams-use-granola",
+    "title": "How sales teams use Granola",
+    "date": "2026-08-17"
+   },
+   {
+    "url": "https://www.granola.ai/blog/granola-for-apple-watch",
+    "title": "Granola for Apple Watch",
+    "date": "2026-07-28"
+   },
+   {
+    "url": "https://www.granola.ai/blog/introducing-granola-for-android",
+    "title": "Granola for Android is here!",
+    "date": "2026-07-01"
+   },
+   {
+    "url": "https://www.granola.ai/blog/why-granola-doesnt-use-a-bot",
+    "title": "Why Granola doesn't use a bot",
+    "date": "2026-06-01"
+   },
+   {
+    "url": "https://www.granola.ai/blog/briefs-prepare-you-for-your-next-meeting-as-you-join",
+    "title": "New: Briefs prepare you for your next meeting as you join",
+    "date": "2026-05-20"
+   }
+  ],
+  "note": "Blog index also lists external press coverage linking off site; those were skipped. Posts read are product and team posts with no outbound business links."
+ },
+ {
+  "webDomain": "shopcircle.co",
+  "blogUrlUsed": "https://shopcircle.co/blogs/acquire",
+  "postsRead": 5,
+  "outsideDomains": [
+   "i80group.com",
+   "releas.it"
+  ],
+  "quotedCompanies": [
+   "i80 Group"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://shopcircle.co/blogs/acquire/shop-circle-partnership-i80",
+    "title": "Shop Circle Expands Partnership with i80 Group, Secures $100M Credit Facility to Accelerate AI-powered Enterprise Software Acquisitions",
+    "date": "2025-12-03"
+   },
+   {
+    "url": "https://shopcircle.co/blogs/acquire/software-acquisition-criteria-why-perfection-is-the-wrong-benchmark",
+    "title": "Software Acquisition Criteria: Why Perfection is the Wrong Benchmark",
+    "date": ""
+   },
+   {
+    "url": "https://shopcircle.co/blogs/acquire/centralised-ai-for-software-companies-why-the-incubator-model-is-winning",
+    "title": "Centralised AI for Software Companies: Why the Incubator Model is Winning",
+    "date": ""
+   },
+   {
+    "url": "https://shopcircle.co/blogs/acquire/signals-we-look-for",
+    "title": "What Shop Circle Looks for When Acquiring Software Businesses",
+    "date": ""
+   },
+   {
+    "url": "https://shopcircle.co/blogs/acquire/releasit-seller-story",
+    "title": "Releasit Seller Story",
+    "date": ""
+   }
+  ],
+  "note": "Acquire blog latest dated post is 2025-12-03; other posts undated. Seller story quote is from an acquired portfolio company, not counted."
+ },
+ {
+  "webDomain": "cube.global",
+  "blogUrlUsed": "https://www.cube.global/company/resource-hub",
+  "postsRead": 5,
+  "outsideDomains": [
+   "disruptsmedia.com",
+   "ibm.com"
+  ],
+  "quotedCompanies": [
+   "IBM"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.cube.global/company/resource-hub/the-cube-read-3-compliance-and-risk-developments-worth-building-for-right-now",
+    "title": "The CUBE Read: 3 Compliance and Risk developments worth building for right now",
+    "date": "2026-09-22"
+   },
+   {
+    "url": "https://www.cube.global/company/resource-hub/the-great-regulatory-convergence-regtech-and-suptech-are-becoming-one-ecosystem",
+    "title": "The great regulatory convergence. RegTech and SupTech are becoming one ecosystem.",
+    "date": "2026-09-18"
+   },
+   {
+    "url": "https://www.cube.global/company/resource-hub/cube-and-ibm-announce-new-collaboration-to-help-enterprises-navigate-ai-regulation-and-simplify-compliance-and-risk-processes",
+    "title": "CUBE and IBM announce new collaboration to help enterprises navigate AI regulation and simplify compliance and risk processes",
+    "date": "2026-09-16"
+   },
+   {
+    "url": "https://www.cube.global/company/resource-hub/the-cube-read-3-reasons-more-precise-regulation-can-work-to-your-advantage-22-august-2026",
+    "title": "The CUBE Read: 3 reasons more precise regulation can work to your advantage",
+    "date": "2026-09-09"
+   },
+   {
+    "url": "https://www.cube.global/company/resource-hub/cube-expands-agentic-coworker-capability-to-help-financial-services-firms-embed-regulatory-intelligence-enterprise-wide",
+    "title": "CUBE expands agentic coworker capability",
+    "date": "2026-09-02"
+   }
+  ],
+  "note": "Resource hub mixes reports, press releases and weekly CUBE Read insights. IBM quote is from a partnership press release."
+ },
+ {
+  "webDomain": "proximie.com",
+  "blogUrlUsed": "https://proximie.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://proximie.com/blog/the-schedule-said-one-thing-the-room-said-another-the-gap-was-worth-19-of-or-time",
+    "title": "The schedule said one thing. The room said another. The gap was worth 19% of OR time.",
+    "date": "2026-09-18"
+   },
+   {
+    "url": "https://proximie.com/blog/this-is-surgery-in-conversation-with",
+    "title": "This is Surgery - In Conversation With...",
+    "date": "2026-07-29"
+   },
+   {
+    "url": "https://proximie.com/blog/the-power-of-customer-success-being-in-a-theatre-knowing-the-technology-helped-a-patient",
+    "title": "The power of customer success: Being in a theatre, knowing the technology helped a patient.",
+    "date": "2026-06-19"
+   },
+   {
+    "url": "https://proximie.com/blog/breaking-barriers-in-colorectal-robotic-surgery-the-first-transcontinental-telementoring-apr-with-ectopic-pelvic-kidney-case-between-china-and-europe",
+    "title": "Breaking Barriers in Colorectal Robotic Surgery",
+    "date": "2026-05-07"
+   },
+   {
+    "url": "https://proximie.com/blog/see-more-treat-more-help-more-the-true-power-of-an-efficient-or",
+    "title": "See more, treat more, help more: the true power of an efficient OR",
+    "date": "2026-04-13"
+   }
+  ],
+  "note": "Posts are mostly customer stories; quotes are from hospital clients (AdventHealth and others) and were not counted. No outbound business links."
+ },
+ {
+  "webDomain": "airfinity.com",
+  "blogUrlUsed": "https://www.airfinity.com/newsroom/articles",
+  "postsRead": 5,
+  "outsideDomains": [
+   "thelancet.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.airfinity.com/articles/obesitys-next-billion-doses-new-patient-demands-more-differentiated",
+    "title": "Obesity's Next Billion Doses",
+    "date": "2025-11-03"
+   },
+   {
+    "url": "https://www.airfinity.com/articles/is-the-world-ready-for-a-bird-flu-pandemic-airfinity-assesses-global-vaccine",
+    "title": "Is the world ready for a bird flu pandemic?",
+    "date": "2025-05-20"
+   },
+   {
+    "url": "https://www.airfinity.com/articles/a-new-era-in-immunisation-forecasting-the-future-of-combination-respiratory",
+    "title": "A New Era in Immunisation: Forecasting the Future of Combination Respiratory Vaccines",
+    "date": "2025-04-25"
+   },
+   {
+    "url": "https://www.airfinity.com/articles/making-combination-vaccines-work-in-the-real-world-expert-insights-on-rsv",
+    "title": "Making Combination Vaccines Work in the Real World",
+    "date": "2025-04-17"
+   },
+   {
+    "url": "https://www.airfinity.com/articles/reflecting-on-2024-conflict-climate-and-new-pathogen-strains-shaped-global",
+    "title": "Reflecting on 2024: Conflict, climate and new pathogen strains shaped global disease trends",
+    "date": "2025-01-02"
+   }
+  ],
+  "note": "Newest article is 2025-11-03, about 11 months ago. Articles are mostly company news and analyses."
+ },
+ {
+  "webDomain": "opus2.com",
+  "blogUrlUsed": "https://www.opus2.com/resources/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "abajournal.com",
+   "artificiallawyer.com",
+   "ediscoverytoday.com",
+   "hausfeld.com",
+   "lawnext.com",
+   "legaltechnology.com",
+   "legaltechnologyhub.com"
+  ],
+  "quotedCompanies": [
+   "Stradley"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.opus2.com/resources/insights/iltacon-takeaways/",
+    "title": "ILTACON 2026 takeaways: AI, context, and the road ahead",
+    "date": ""
+   },
+   {
+    "url": "https://www.opus2.com/resources/news/ai-certification-for-lawyers-and-legal-teams-from-opus-2/",
+    "title": "AI certification for lawyers and legal teams from Opus 2",
+    "date": ""
+   },
+   {
+    "url": "https://www.opus2.com/resources/news/opus-2-shortlisted-3-legal-geek-awards/",
+    "title": "Opus 2 Shortlisted in 3 Legal Geek Leaders in Tech Law Awards",
+    "date": "2026-09-02"
+   },
+   {
+    "url": "https://www.opus2.com/resources/insights/iltacon-agenda-must-see-sessions/",
+    "title": "12 must-see sessions at ILTACON 2026",
+    "date": "2026-08-24"
+   },
+   {
+    "url": "https://www.opus2.com/resources/insights/ai-for-mass-claims/",
+    "title": "AI for Mass Claims: Expert Perspectives",
+    "date": ""
+   }
+  ],
+  "note": "Resources hub mixes events, client stories, news and insights; ILTACON takeaways post links to several legal tech publications."
+ },
+ {
+  "webDomain": "drdoctor.co.uk",
+  "blogUrlUsed": "https://www.drdoctor.co.uk/resources",
+  "postsRead": 5,
+  "outsideDomains": [
+   "microsoft.com"
+  ],
+  "quotedCompanies": [
+   "Microsoft"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.drdoctor.co.uk/blog/from-toilet-rolls-to-blood-tests-what-nhs-care-on-the-high-street-could-look-like-by-2037",
+    "title": "From Toilet Rolls to Blood Tests: What NHS Care on the High Street Could Look Like by 2037",
+    "date": ""
+   },
+   {
+    "url": "https://www.drdoctor.co.uk/blog/the-end-of-letters-send-nhs-patients-home-with-a-chatbot-instead",
+    "title": "The End of Letters? Send NHS Patients Home with a Chatbot Instead",
+    "date": ""
+   },
+   {
+    "url": "https://www.drdoctor.co.uk/blog/hogwarts-of-ai-why-the-nhs-is-the-worlds-most-exciting-ai-opportunity",
+    "title": "Hogwarts of AI? Why the NHS is the World's Most Exciting AI Opportunity",
+    "date": ""
+   },
+   {
+    "url": "https://www.drdoctor.co.uk/blog/remote-patient-monitoring-nhs",
+    "title": "Did that really have to be in person?",
+    "date": ""
+   },
+   {
+    "url": "https://www.drdoctor.co.uk/blog/why-the-nhs-needs-to-embrace-the-power-of-choice",
+    "title": "Why the NHS Needs to Embrace the Power of Choice",
+    "date": ""
+   }
+  ],
+  "note": "Blog posts are podcast write ups. Links mostly to NHS trusts (excluded) and a Spotify show; Microsoft linked as a guest employer."
+ },
+ {
+  "webDomain": "monite.com",
+  "blogUrlUsed": "https://www.monite.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "a16z.com",
+   "agc.org",
+   "allianz-trade.com",
+   "ascendixtech.com",
+   "bain.com",
+   "baselane.com",
+   "bigtime.net",
+   "bizplanr.ai",
+   "bvp.com",
+   "commercial-cleaning-atlanta.com",
+   "constructiondive.com",
+   "deloitte.com",
+   "fedsmallbusiness.org",
+   "financealliance.io",
+   "getbenepass.com",
+   "getrentcheck.com",
+   "kantata.com",
+   "lawnandlandscape.com",
+   "mckinsey.com",
+   "mynd.co",
+   "natptax.com",
+   "oracle.com",
+   "project.co",
+   "pymnts.com",
+   "resolvepay.com",
+   "runn.io",
+   "spotlessclean.co.uk",
+   "tenantcloud.com",
+   "youraspire.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.monite.com/blog/why-your-project-management-platform-needs-to-think-like-a-cfo",
+    "title": "Why Your Project Management Platform Needs to Think Like a CFO",
+    "date": "2025-09-29"
+   },
+   {
+    "url": "https://www.monite.com/blog/what-is-prevailing-wage-and-why-vertical-saas-solutions-in-construction-should-care",
+    "title": "What Is Prevailing Wage and Why Vertical SaaS Solutions in Construction Should Care",
+    "date": "2025-09-22"
+   },
+   {
+    "url": "https://www.monite.com/blog/why-modern-cleaning-management-software-must-include-financial-automation",
+    "title": "Why Modern Cleaning Management Software Must Include Financial Automation",
+    "date": "2025-09-02"
+   },
+   {
+    "url": "https://www.monite.com/blog/how-your-customers-can-track-maintenance-costs-across-their-property-portfolio-in-real-time",
+    "title": "How Your Customers Can Track Maintenance Costs Across Their Property Portfolio in Real-Time",
+    "date": "2025-08-19"
+   },
+   {
+    "url": "https://www.monite.com/blog/seasonal-business-platforms-your-biggest-opportunity-for-the-remainder-of-2025",
+    "title": "Seasonal Business Platforms: Your Biggest Opportunity for the remainder of 2025",
+    "date": "2025-08-12"
+   }
+  ],
+  "note": "Most recent blog post is 2025-09-29, a year ago. Posts link heavily to outside sources and SaaS vendors for statistics."
+ }
+]

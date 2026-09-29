@@ -1,0 +1,634 @@
+[
+ {
+  "webDomain": "littledata.io",
+  "blogUrlUsed": "https://www.littledata.io/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Blog index is script rendered: both cheerio and playwright:adaptive returned only the heading and search box, no post links. Nothing read."
+ },
+ {
+  "webDomain": "askattest.com",
+  "blogUrlUsed": "https://www.askattest.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "indiewire.com",
+   "infegy.com",
+   "marketingdive.com",
+   "prnewswire.com",
+   "qrcode-tiger.com",
+   "businesswire.com",
+   "youappi.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.askattest.com/blog/articles/from-idea-to-impact-how-brands-use-attest-at-every-stage-of-ad-campaign-planning",
+    "title": "From idea to impact: how brands use Attest at every stage of ad campaign planning",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.askattest.com/blog/articles/how-to-write-a-market-research-brief",
+    "title": "How to write a market research brief",
+    "date": "2026-09-22"
+   },
+   {
+    "url": "https://www.askattest.com/blog/articles/how-to-create-surveys-faster",
+    "title": "How to create surveys faster",
+    "date": "2026-09-22"
+   },
+   {
+    "url": "https://www.askattest.com/blog/research/6-ways-advertisers-can-capitalize-on-second-screening",
+    "title": "6 Ways advertisers can capitalize on second-screening",
+    "date": "2026-09-17"
+   },
+   {
+    "url": "https://www.askattest.com/blog/research/how-to-reach-millennial-audiences",
+    "title": "How to reach Millennial audiences",
+    "date": "2026-09-10"
+   }
+  ],
+  "note": "Group blogUrl /insights-teams is a product page, so /blog was used. All outside links came from one post (second-screening). The from-idea-to-impact post quotes Attest clients (MANSCAPED, Lucky Saint, Little Moons, MOMA) as case studies, so not counted. The Millennial post contains a placeholder link 'insert-link-here'."
+ },
+ {
+  "webDomain": "wearemiq.com",
+  "blogUrlUsed": "https://www.wearemiq.com/resources/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index shows only an intro ('Tech Blog, We're talking tech') with no post links in both cheerio and playwright:adaptive runs. Nothing read."
+ },
+ {
+  "webDomain": "keywordinsights.ai",
+  "blogUrlUsed": "https://www.keywordinsights.ai/blog/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index shows a single post teaser (Why is Content Marketing Important?) with no link, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "videoscribe.co",
+  "blogUrlUsed": "https://blog.videoscribe.co/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://blog.videoscribe.co/12-brand-archetypes-all-successful-businesses-are-built-on",
+    "title": "The 12 brand archetypes, and how to bring yours to life in video",
+    "date": "23 Sep (year not shown)"
+   },
+   {
+    "url": "https://blog.videoscribe.co/the-ultimate-october-social-media-content-calendar",
+    "title": "The Ultimate October Social Media Content Calendar",
+    "date": "1 Sep (year not shown)"
+   },
+   {
+    "url": "https://blog.videoscribe.co/six-ways-to-structure-a-video-that-explains-something-complicated",
+    "title": "Six Ways to Structure a Video That Explains Something Complicated",
+    "date": "13 Aug (year not shown)"
+   },
+   {
+    "url": "https://blog.videoscribe.co/the-ultimate-september-social-media-content-calendar",
+    "title": "The Ultimate September Social Media Content Calendar",
+    "date": "11 Aug (year not shown)"
+   },
+   {
+    "url": "https://blog.videoscribe.co/the-ultimate-august-social-media-content-calendar",
+    "title": "The Ultimate August Social Media Content Calendar",
+    "date": "14 Jul (year not shown)"
+   }
+  ],
+  "note": "No outside business links in any of the 5 posts; links go to videoscribe.co, YouTube and HubSpot CTAs only. Quotes are from unnamed customers. Blog is active (latest 23 Sep)."
+ },
+ {
+  "webDomain": "seotesting.com",
+  "blogUrlUsed": "https://seotesting.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "ahrefs.com",
+   "capterra.com",
+   "capterra.co.uk",
+   "g2.com",
+   "techradar.com",
+   "trustradius.com",
+   "trustpilot.com",
+   "waikay.io",
+   "adobe.com",
+   "originality.ai",
+   "stuffwithwords.com",
+   "topseotools.io",
+   "undetectable.ai",
+   "footprintdigital.co.uk",
+   "gartner.com",
+   "softwareadvice.com",
+   "accuranker.com",
+   "advancedwebranking.com",
+   "airops.com",
+   "bing.com",
+   "botify.com",
+   "brightedge.com",
+   "clearscope.io",
+   "conductor.com",
+   "getstat.com",
+   "lumar.io",
+   "marketmuse.com",
+   "moz.com",
+   "screamingfrog.co.uk",
+   "semrush.com",
+   "seranking.com",
+   "similarweb.com",
+   "sitebulb.com",
+   "surferseo.com",
+   "visionlabs.com",
+   "datos.live",
+   "explodingtopics.com",
+   "peec.ai",
+   "rankscale.ai",
+   "scrunch.com",
+   "tryprofound.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://seotesting.com/blog/ahrefs-alternatives/",
+    "title": "10 Best Ahrefs Competitors for Agencies & In-House Teams",
+    "date": ""
+   },
+   {
+    "url": "https://seotesting.com/blog/semrush-alternatives/",
+    "title": "9 Best Independent Semrush Alternatives & Competitors",
+    "date": ""
+   },
+   {
+    "url": "https://seotesting.com/blog/google-search-console-vs-google-analytics-vs-seotesting/",
+    "title": "Google Search Console vs Google Analytics vs SEOTesting",
+    "date": "reviews dated 14 January 2026 in body"
+   },
+   {
+    "url": "https://seotesting.com/blog/best-enterprise-seo-tools/",
+    "title": "22 Best SEO Software Tools for Enterprise Teams",
+    "date": ""
+   },
+   {
+    "url": "https://seotesting.com/blog/how-to-rank-in-ai-search/",
+    "title": "How to Rank in AI Search: Strategies for LLM Visibility",
+    "date": ""
+   }
+  ],
+  "note": "Heavy outbound linker: tool roundups link each vendor plus G2/Capterra review pages. No dates on the index."
+ },
+ {
+  "webDomain": "permutive.com",
+  "blogUrlUsed": "https://permutive.com/resources",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://permutive.com/how-advertisers-are-winning-with-genius-verse-and-permutive",
+    "title": "Driving cultural impact at scale: How advertisers are winning with Genius Verse and Permutive",
+    "date": ""
+   },
+   {
+    "url": "https://permutive.com/g2-summer-2026-report",
+    "title": "Permutive earns five G2 badges in the Summer 2026 Report, including DMP Leader and High Performer in Enterprise and Mid-Market",
+    "date": ""
+   },
+   {
+    "url": "https://permutive.com/from-scale-to-accountability",
+    "title": "From scale to accountability: The new agency value equation",
+    "date": ""
+   },
+   {
+    "url": "https://permutive.com/the-curation-revolution",
+    "title": "The curation revolution: Rebuilding trust and transparency in programmatic",
+    "date": ""
+   },
+   {
+    "url": "https://permutive.com/the-performance-paradox-why-programmatic-efficiency-is-broken",
+    "title": "The performance paradox: Why programmatic efficiency is broken",
+    "date": ""
+   }
+  ],
+  "note": "No outside links in any post. The Genius Verse post quotes Jackie Vignone, Genius CRO, but Genius is a Permutive customer/partner in an announcement, so not counted. The three agency posts are short teasers for a gated guide. Index shows no dates."
+ },
+ {
+  "webDomain": "vevox.com",
+  "blogUrlUsed": "https://www.vevox.com/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned only headings and a newsletter box, no post links, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "charle.co.uk",
+  "blogUrlUsed": "https://www.charle.co.uk/articles/",
+  "postsRead": 4,
+  "outsideDomains": [
+   "attentive.com",
+   "klaviyo.com",
+   "omnisend.com",
+   "postscript.io",
+   "privy.com",
+   "pushowl.com",
+   "recart.com",
+   "sendlane.com",
+   "txtcartapp.com",
+   "shopify.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.charle.co.uk/articles/guide-to-ab-split-testing/",
+    "title": "Your Complete Guide to A/B Split Testing",
+    "date": ""
+   },
+   {
+    "url": "https://www.charle.co.uk/articles/etsy-vs-ebay-comparison/",
+    "title": "Etsy vs eBay: UK Fees, Buyers and Which to Choose (2026)",
+    "date": ""
+   },
+   {
+    "url": "https://www.charle.co.uk/articles/sms-marketing-app-shopify/",
+    "title": "10 Best SMS Marketing Apps for Shopify in 2026",
+    "date": ""
+   },
+   {
+    "url": "https://www.charle.co.uk/articles/hosted-vs-self-hosted-ecommerce/",
+    "title": "Hosted Ecommerce vs Self-Hosted: A 2026 UK Guide",
+    "date": ""
+   }
+  ],
+  "note": "Fifth chosen post (what-is-email-marketing) did not come back from the crawl. Outside links came from the SMS apps roundup; other posts link only to Charle and Shopify help. Index shows no dates. Index also has agency listicles (Top 12 Social Media Marketing Agencies UK, Top 22 Ecommerce SEO Agencies UK)."
+ },
+ {
+  "webDomain": "conversion.com",
+  "blogUrlUsed": "https://www.conversion.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "bbc.co.uk",
+   "kameleoon.com"
+  ],
+  "quotedCompanies": [
+   "Adobe"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.conversion.com/blog/ai-experimentation-growth-inside-adobes-agentic-ai/",
+    "title": "AI + Experimentation = Growth | Inside Adobe's Agentic AI",
+    "date": ""
+   },
+   {
+    "url": "https://www.conversion.com/blog/conversion-maturity-model/",
+    "title": "The Conversion Maturity Model: Benchmark Your Experimentation Program",
+    "date": ""
+   },
+   {
+    "url": "https://www.conversion.com/blog/ux-research-moderated-vs-unmoderated-testing/",
+    "title": "UX Research: Moderated vs. Unmoderated Testing",
+    "date": ""
+   },
+   {
+    "url": "https://www.conversion.com/blog/using-experimentation-to-find-a-products-optimal-price/",
+    "title": "Using experimentation to find a product's optimal price (and increase RPV by 16% in the process)",
+    "date": "May 14, 2025 appears in body"
+   },
+   {
+    "url": "https://www.conversion.com/blog/8-ways-to-get-marketing-and-product-teams-experimenting-together/",
+    "title": "8 ways to get marketing and product teams experimenting together",
+    "date": ""
+   }
+  ],
+  "note": "Adobe post is a podcast interview with Brent Kostak and David Arbour of Adobe. Posting looks slow: newest post images on the index are from Oct 2025, none visible from 2026. The UX research post quotes an unnamed client."
+ },
+ {
+  "webDomain": "bidnamic.com",
+  "blogUrlUsed": "https://www.bidnamic.com/guides",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "/guides lists only gated downloadable reports (landing pages, 2021 to 2024), not articles. /blog returns 404. Nothing read."
+ },
+ {
+  "webDomain": "eastsideco.com",
+  "blogUrlUsed": "https://eastsideco.com/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Blog index failed in both runs (network timeout on the playwright retry). Nothing read."
+ },
+ {
+  "webDomain": "ascensor.com",
+  "blogUrlUsed": "https://www.ascensor.com/news",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index shows only a featured article teaser (Google Marketing Live 2026: it's time to fix your PPC foundations) with no link, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "gleanin.com",
+  "blogUrlUsed": "https://gleanin.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "aei.org",
+   "comptia.org",
+   "mckinsey.com",
+   "deloitte.com",
+   "burningman.org",
+   "iacconline.org",
+   "mapfre.com",
+   "thedrum.com",
+   "wimbledon.com",
+   "aventri.com",
+   "roblox.com",
+   "bloomberg.com",
+   "ethdenver.com",
+   "decentraland.org",
+   "marketrealist.com",
+   "slate.com",
+   "techcrunch.com",
+   "theverge.com",
+   "hootsuite.com",
+   "optinmonster.com",
+   "tapinfluence.com",
+   "ted.com",
+   "exhibitoronline.com",
+   "markletic.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://gleanin.com/blog/chatgpt-for-event-marketing",
+    "title": "The Definitive Guide to ChatGPT for Event Marketers",
+    "date": "2023-02-03 (last updated)"
+   },
+   {
+    "url": "https://gleanin.com/blog/guide-to-sustainability-in-events",
+    "title": "Definitive Guide to Sustainability in Events (2022)",
+    "date": ""
+   },
+   {
+    "url": "https://gleanin.com/blog/the-definitive-guide-to-web-3-0-for-event-marketers",
+    "title": "Definitive Guide to Web 3.0 for Event Marketers",
+    "date": ""
+   },
+   {
+    "url": "https://gleanin.com/blog/get-sponsors-to-promote-your-event",
+    "title": "13 Ways To Get Sponsors To Promote Your Event",
+    "date": ""
+   },
+   {
+    "url": "https://gleanin.com/blog/get-attendees-to-promote-your-event",
+    "title": "14 Ways To Get Attendees To Promote Your Event",
+    "date": ""
+   }
+  ],
+  "note": "Blog looks dead: newest post last updated 3 Feb 2023, the rest date from 2021 to 2022. Group blogUrl /activate/resources is an event video replay page, so /blog was used. Links out freely to sources."
+ },
+ {
+  "webDomain": "huble.com",
+  "blogUrlUsed": "https://huble.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "hubspot.com",
+   "industryweek.com",
+   "gartner.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://huble.com/blog/crm-migration-risk",
+    "title": "CRM Migration Risk: What to De-Risk Before You Switch in 2026",
+    "date": ""
+   },
+   {
+    "url": "https://huble.com/blog/hubspot-attribution-reporting",
+    "title": "HubSpot Attribution Reporting: Proving ROI to the Board in 2026",
+    "date": ""
+   },
+   {
+    "url": "https://huble.com/blog/hubspot-crm-for-manufacturing-companies",
+    "title": "HubSpot CRM for Manufacturing Companies: A Practical Guide",
+    "date": ""
+   },
+   {
+    "url": "https://huble.com/blog/how-to-choose-a-crm-strategy-consulting-partner",
+    "title": "How to Choose a CRM Strategy Consulting Partner: Buyer's Guide for Enterprises",
+    "date": ""
+   },
+   {
+    "url": "https://huble.com/blog/how-to-choose-abm-agency-hubspot",
+    "title": "How to Choose an ABM Agency for HubSpot: An Enterprise Buyer's Guide",
+    "date": ""
+   }
+  ],
+  "note": "Internal links in some posts point to hubledigital.com (Huble's other domain), treated as own. Outside links are rare: one each to HubSpot blog, IndustryWeek and Gartner. Index lists posts without dates (featured post dated 10.09.2025)."
+ },
+ {
+  "webDomain": "komododigital.co.uk",
+  "blogUrlUsed": "https://www.komododigital.co.uk/insights/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned only a contact block, no post links, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "parall.ax",
+  "blogUrlUsed": "https://parall.ax/insights",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned only an intro and form text, no post links, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "withcandour.co.uk",
+  "blogUrlUsed": "https://withcandour.co.uk/about/news",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "News page (and /blog, which redirects to it) shows only a newsletter sign up linking to coreupdates.com, no post links. Nothing read."
+ },
+ {
+  "webDomain": "vervaunt.com",
+  "blogUrlUsed": "https://vervaunt.com/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned only a contact form message, no post links, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "infosum.com",
+  "blogUrlUsed": "https://www.infosum.com/resources/blog",
+  "postsRead": 1,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.infosum.com/blog/platform-sigma-any-data-any-size-any-format-anywhere",
+    "title": "Platform Sigma: Any Data, Any Size, Any Format, Anywhere.",
+    "date": ""
+   }
+  ],
+  "note": "Index exposed only one post, and its image dates from 2022, so the blog may be stale. That post has no outside links."
+ },
+ {
+  "webDomain": "cleanfeed.net",
+  "blogUrlUsed": "https://blog.cleanfeed.net/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "cplfilms.co.uk",
+   "lighttonestudios.co.uk",
+   "stevenagefc.com",
+   "radio47.fm",
+   "virginmedia.com",
+   "arstechnica.com",
+   "freedomscientific.com",
+   "adobe.com",
+   "artproaudio.com",
+   "getdante.com",
+   "impgroup.co.uk",
+   "iwradio.co.uk",
+   "kmfm.co.uk",
+   "localradiopromo.co.uk",
+   "moreradio.online",
+   "nationplayer.com",
+   "radioexe.co.uk",
+   "rcsworks.com",
+   "rode.com",
+   "sandalsfoundation.org",
+   "redcross.org.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://blog.cleanfeed.net/live-from-the-field/",
+    "title": "Live from the field",
+    "date": ""
+   },
+   {
+    "url": "https://blog.cleanfeed.net/broadcasters-of-the-caribbean/",
+    "title": "Broadcasters of the Caribbean",
+    "date": ""
+   },
+   {
+    "url": "https://blog.cleanfeed.net/radio47-kenya/",
+    "title": "Radio47 Kenya boosts remote broadcasting with Cleanfeed Cinema",
+    "date": ""
+   },
+   {
+    "url": "https://blog.cleanfeed.net/jitter-and-dropped-packets/",
+    "title": "Jitter and dropped packets",
+    "date": ""
+   },
+   {
+    "url": "https://blog.cleanfeed.net/new-look-and-feel/",
+    "title": "New look and feel",
+    "date": ""
+   }
+  ],
+  "note": "Quotes come from customers in customer stories (Radio47, CPL Films), so not counted. Posts are infrequent: newest post images are from Aug and Nov 2025, and the index shows no dates."
+ },
+ {
+  "webDomain": "liquidlight.co.uk",
+  "blogUrlUsed": "https://www.liquidlight.co.uk/blog/",
+  "postsRead": 4,
+  "outsideDomains": [
+   "gv.com",
+   "mural.co"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.liquidlight.co.uk/blog/thirty-years-of-liquid-light/",
+    "title": "Thirty years of Liquid Light",
+    "date": ""
+   },
+   {
+    "url": "https://www.liquidlight.co.uk/blog/the-dilemma-of-returning-users/",
+    "title": "The dilemma of returning users",
+    "date": ""
+   },
+   {
+    "url": "https://www.liquidlight.co.uk/blog/ai-search-for-non-developers/",
+    "title": "AI Search for Non-Developers",
+    "date": ""
+   },
+   {
+    "url": "https://www.liquidlight.co.uk/blog/ngo-workshop-guide-designing-effective-workshops-for-nonprofit-organisations/",
+    "title": "Practical Workshop Guide for NGOs and Nonprofits",
+    "date": ""
+   }
+  ],
+  "note": "Fifth post (what-2026-holds-for-nonprofits-and-ngos) returned a bot check page ('One moment, please...'). Very few outside links. The index shows no dates."
+ },
+ {
+  "webDomain": "freshegg.co.uk",
+  "blogUrlUsed": "https://www.freshegg.co.uk/blog/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned only images and a contact prompt, no post links, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "littlewarden.com",
+  "blogUrlUsed": "https://littlewarden.com/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Page is titled 'Guides to Using Little Warden' and returned only the footer, no post links, in both runs. Nothing read."
+ },
+ {
+  "webDomain": "actionrocket.co",
+  "blogUrlUsed": "https://www.actionrocket.co/blog",
+  "postsRead": 1,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.actionrocket.co/blog/omnichannel-loyalty-crm-how-to-create-connected-customer-journeys",
+    "title": "Omnichannel loyalty CRM: how to create connected customer journeys",
+    "date": ""
+   }
+  ],
+  "note": "Index exposed a link for only the featured post; the other cards (e.g. Creative of the Month: August, Creative of the Month: July 2026) had no links. The one post read has no outside links. Blog is active."
+ }
+]

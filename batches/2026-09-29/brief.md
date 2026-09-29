@@ -1,0 +1,43 @@
+# Brief: backlink-2026-09-29
+
+- Target: 150 sites at DR 40 or higher, 75 in Segment A and 75 in Segment B. UK and UAE first, then US (the ledger is already US-heavy).
+- Segment A offer: founder's quote swap. Each founder gives a quote for the other's article and both link back.
+- Segment B offers: video for the blog post, founder's quote, internal data (MTA figures they can cite), blog graphic or infographic. Pick whichever fits the article best.
+- Sender: Sam. Offer paid placement if they don't want a swap.
+- Excluded domains: none given. Ledger before this run: 480 rows (backlink-2026-09-23, -23-b, -25, -28).
+- Still skipped: the 178 Video SEO companies from 2026-09-25-video-seo (none are in the spares).
+- Tools: the cloud network blocks prospect sites again (403 on hubspot.com and hallam.agency), so this run follows the 28 Sep Apify route. Design is not re-scored and Step 2c (video schema) is skipped, videoSchemaGap left blank.
+- Candidate source: the 302 spares from 2026-09-28/01_spares.csv, vetted and DR-checked (free endpoint) on 28 Sep. No new research needed.
+
+## Progress log
+
+- Dedupe of the 302 spares: 1 removed, The Writer (thewriter.com) matching Writer (writer.com). The user confirmed on 28 Sep that it is a different company, so it stays a candidate.
+- Competitor answers (29 Sep): include, quote swap only: Prohibition, ProfileTree, TEAM LEWIS, Socially Powerful, Our Own Brand, One Agency, Disrupt, Influencer, Radley Yeldar (Column Five keeps its 25 Sep include). Exclude for good, logged in the ledger as excluded: The Social Shepherd, NeoMam Studios, Definition.
+- Selection: 150 picked, A 75 UK; B 16 UAE (all UAE B spares) and 59 UK. The spares have no UAE Segment A and no US row outranked UK. Ranked by blog dates in the last 12 months, then score, then DR. 94 of 150 have dated posts in the last 12 months. 8 included competitors made the cut (Radley Yeldar and Column Five sit in spares).
+- Presight dropped (same G42 group as Core42), replaced by the next UK Segment B spare, Arbor Education (arbor-education.com, DR 69, score 4.3).
+- HubSpot by domain: no customers or open deals. Shop Circle, Fourth, Attio and Juro are leads with no deal and stay in.
+- Checkpoint 1: waiting on the user.
+- Checkpoint 1 approved by the user (29 Sep).
+- Step 3 (link habits, Apify path; Ahrefs has 36 units until 30 Sep): six agents crawled the 150 blog indexes and up to 5 recent posts each (apify/website-content-crawler), then two retry agents covered the 36 sites the first pass could not read (cheerio-scraper link extraction, sitemaps, htmlTransformer none). step3_merge.py applies the 28 Sep rules (Yes = 10+ outside business domains, 2+ outside companies quoted, or guest signs; Some = 3-9 domains or 1 company quoted; No = fewer).
+- Result: 50 Yes, 38 Some, 56 No, 6 not checked (Show + Tell: article text not in the page; Eastside Co: blocks Apify's proxy; Little Warden: no blog; Talentera: gated library only; Letswork: index times out; Saal.ai: broken insights page).
+- Dead or stale blogs found: GBM (2021), Okadoc (2021), Pyypl (2024), Gleanin (Feb 2023), Turner Duckworth (news only, Jul 2025), TEAM LEWIS, Monite, TASC, Reason Digital, Airfinity, Robin AI, Shop Circle, Authoritas and Lumen Research (last post Sep to Dec 2025).
+- Maquae: the Step 3 agent read it as a digital marketing agency (PPC, SEO, AI development); on 28 Sep it was moved to Segment B as a software development company. Asked the user.
+- 02_enriched.csv: all 150 at DR 40 to 84 (28 Sep free endpoint). 02_low_dr.csv is empty: no new candidates were researched, so nothing was added to the pool.
+- Checkpoint 2 (user, 29 Sep): option 1. Dropped the 6 unreadable and 5 dead-blog sites (Show + Tell, Eastside Co, Little Warden, Gleanin, Turner Duckworth; Talentera, Letswork, Saal.ai, GBM, Okadoc, Pyypl), moved to 01_spares.csv with a note, not logged. Kept the 9 stale blogs. Maquae moved to Segment A (digital marketing agency, founder's quote swap).
+- Replacements needed: 4 Segment A and 7 Segment B. No UAE spares and no spares with dated posts were left, so the next 8 UK A and 14 UK B spares by score and DR go through the Step 3 link check (group 7), and the first 4 A and 7 B with live, readable blogs join the list.
+- Group 7 link check (22 UK spares): picked in rank order with a live, readable blog: A Varn, Pi Datametrics, Celebrus, StreamAMG; B Zego, Aurora Energy Research, SeedLegals, Quantexa, Proactis, Oleeo, Bulb. Opteo skipped (blog dead since 2021). Dedupe of the final 150 against the ledger: clean.
+- Final Step 3 list: 150 (A 75: 74 UK, 1 UAE (Maquae); B 75: 67 UK, 8 UAE). 49 Yes, 43 Some, 58 No, none unchecked. 02_enriched.csv rebuilt.
+- Checkpoint 2 swaps done; Step 4 started: six agents pick one article and hook per company (step4/STEP4_BRIEF.md), merge_step4.py builds 03_backlink_targets.csv.
+- Step 4 (29 Sep, no web search): six agents listed candidate articles from each blog index or sitemap (apify/cheerio-scraper), read about 2 candidates per company (website-content-crawler, playwright retries) and checked every "no video / no graphic" claim against a raw-HTML count of iframe, video and img tags. 64 strong, 71 ok, 15 weak, 0 dead. Offers: 75 Founder's quote swap, 42 Video for the blog post, 29 Blog graphic or infographic, 4 Founder's quote. 03_backlink_targets.csv.
+- Weak (status "review: weak fit"): Pentagram, LoopMe, SearchPilot, Permutive, Conversion, Dn&co, Force24, Anicca, Culture Amp, Proxymity, Modo Energy, Once For All, United Fintech, Zand Bank, Treefera. Mostly news-only or gated blogs where a link sits awkwardly; each still has a confirmed hook except where notes say otherwise.
+- Step 5 notes: Juro's hook quotes a live "{{quote1}}" tag (strip double braces in the send file, as on 28 Sep). Tillison, Attest, ProfileTree, Mint, Purple, Pi Datametrics, Plumerai, Opus 2, Ikon Science, Vamoos, iplicit, Juro, VideoScribe and QuickSync pages already carry video, so their emails must not say the page has no video. First Internet's hook (Australian under-16 ban "due to introduce") rests on outside knowledge; re-check before use. Action Rocket: pitch part one of its video-in-email series (part two links to a video competitor).
+- Step 4 done; waiting for the user to ask for Step 5.
+- User (29 Sep): drop the 15 weak fits. Moved to 03_dropped_weak.csv (not logged in the ledger, so they can come up again). 03_backlink_targets.csv now holds 135 rows, all strong or ok.
+- User (29 Sep): go to Step 5 with the 135.
+- Step 5 caps (user, 29 Sep): Instantly 200, Apollo 100, Apify $1. Balances before: Instantly 1163 credits, Apollo 994 lead credits.
+- Step 5 contacts: Instantly SuperSearch list "Backlink 2026-09-29 contacts": pass 1 founders/CEO/MD for the 71 quote rows, pass 2 content titles for the 64 Segment B rows.
+- Contacts (agent, step5/CONTACTS_BRIEF.md): 130 of 135 have an email (124 named people: 75 Instantly, 43 Apollo, 6 Apify; 6 shared inboxes from the websites). No email: Monite, InfoSum, myFitApp, Bulb, VideoScribe (last three only list addresses on other domains). Credits: Instantly 197.25 (965.80 left), Apollo 86 by balance (45 reveals by Apollo's own count; 908 left, gap unexplained), Apify about $0.15. Dedupe with emails: 135 clean.
+- Already in another Instantly campaign: Celebrus, InLinks, Zego, DrDoctor, SeedLegals, Velaris. Asked the user.
+- User (29 Sep): drop all 6 campaign overlaps (emails blanked, notes say why). 124 emails to write; step5/in_0..4.csv, targets_final.csv.
+- Emails: five agents wrote 124 HTML emails in Sam's voice (step5/STEP5_BRIEF.md, humanizer pass on every one, subject_check.py 0 problems). All under 110 words, no dashes, every email has the article link, the motiontheagency.com credit link, paid placement, the closing question and "Cheers, Sam". Included competitors get the quote swap only. Juro's merge-tag hook is described in words; 04_backlink_emails_send.csv (send columns only, double braces stripped) is the file to upload.
+- 04_backlink_emails.csv: 135 rows, 124 with an email, 45 with a manualCheck note. Logged in the ledger straight away under backlink-2026-09-29: 124 queued, 11 not_sent (6 campaign overlaps, 5 no contact).

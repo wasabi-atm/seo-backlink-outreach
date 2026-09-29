@@ -1,0 +1,659 @@
+[
+ {
+  "webDomain": "iamgaia.com",
+  "blogUrlUsed": "https://www.iamgaia.com/resources",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page only shows a heading and intro; posts load client side). /blog redirects to /resources. Nothing read."
+ },
+ {
+  "webDomain": "pentagram.com",
+  "blogUrlUsed": "https://www.pentagram.com/news",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "News index lists only project pages (/work/, case studies) and links out to press features (fastcompany.com, designweek.co.uk, creativeboom.com, itsnicethat.com, commarts.com, creativereview.co.uk, telegraph.co.uk). The one editorial item (/news/pentagram-papers-52-the-hudson-transparencies) returned 404. No articles read."
+ },
+ {
+  "webDomain": "visualsoft.co.uk",
+  "blogUrlUsed": "https://www.visualsoft.co.uk/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned no post links with cheerio or playwright:adaptive. /insights is 404 and redirects to /resources. Nothing read."
+ },
+ {
+  "webDomain": "reasondigital.com",
+  "blogUrlUsed": "https://reasondigital.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "prolificnorth.co.uk",
+   "speechandlanguage.org.uk",
+   "nabs.org.uk",
+   "waythrough.org.uk",
+   "astro.build",
+   "annafreud.org",
+   "kingsfund.org.uk",
+   "playincluded.com",
+   "ellaskitchen.co.uk",
+   "wearehattrick.com",
+   "betternotstop.com",
+   "artsdepot.co.uk",
+   "digileaders.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://reasondigital.com/blog/theres-a-vampire-of-your-website-its-name-is-ai/",
+    "title": "There's a vampire of your website. Its name is AI.",
+    "date": "2025-10-28"
+   },
+   {
+    "url": "https://reasondigital.com/blog/prolific-north-top-50-agencies-2025/",
+    "title": "Reason Digital is a Top 50 Agency in the North!",
+    "date": "2025-07-17"
+   },
+   {
+    "url": "https://reasondigital.com/blog/b-corp-month-2025/",
+    "title": "Our First B Corp Month: A Celebration of Doing Digital Differently",
+    "date": "2025-03-27"
+   },
+   {
+    "url": "https://reasondigital.com/blog/wordpress-vs-headless-websites/",
+    "title": "Which Technology is right for your charity in 2025: Traditional vs Headless Websites",
+    "date": "2025-03-05"
+   },
+   {
+    "url": "https://reasondigital.com/blog/exploring-ai-with-artdepot/",
+    "title": "Exploring AI within the Arts Sector with artdepot",
+    "date": "2025-02-11"
+   }
+  ],
+  "note": "Latest post is 2025-10-28 (11 months old); publishing has slowed. Latest post is a short sales page for their AI search audit. Charity links in the headless post look like their own client sites. Post URLs now sit under /blog/."
+ },
+ {
+  "webDomain": "engage.agency",
+  "blogUrlUsed": "https://engage.agency/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "socialmediatoday.com",
+   "searchengineland.com",
+   "jonloomer.com",
+   "ikea.com",
+   "wherescool.uk",
+   "chesterzoo.org"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://engage.agency/blog/best-cms-for-enterprise-marketing-teams-2026",
+    "title": "Best CMS for enterprise marketing teams: why Craft CMS stands out in 2026",
+    "date": "2026-09-09"
+   },
+   {
+    "url": "https://engage.agency/blog/digital-marketing-news-september-2026",
+    "title": "Digital marketing news and trends: September 2026",
+    "date": "2026-09-09"
+   },
+   {
+    "url": "https://engage.agency/blog/managing-seo-in-craft-cms",
+    "title": "Managing SEO in Craft CMS: A practical guide to getting it right",
+    "date": "2026-08-25"
+   },
+   {
+    "url": "https://engage.agency/blog/digital-marketing-in-the-legal-sector",
+    "title": "Attention on trial: digital marketing in the legal sector",
+    "date": "2026-08-13"
+   },
+   {
+    "url": "https://engage.agency/blog/digital-marketing-news-and-trends-august-2026",
+    "title": "Digital marketing news and trends: August 2026",
+    "date": "2026-08-12"
+   }
+  ],
+  "note": "Outside links appear only in the monthly news roundups; the CMS, SEO and legal posts had no outside links."
+ },
+ {
+  "webDomain": "disruptmarketing.co",
+  "blogUrlUsed": "https://disruptmarketing.co/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "statista.com",
+   "digitalmarketinginstitute.com",
+   "forbes.com",
+   "marketingweek.com",
+   "bremont.com",
+   "wearetala.com",
+   "shreddy.com",
+   "thebreakresources.com",
+   "deliciouslyella.com",
+   "allplants.com",
+   "shadesbyniko.com",
+   "home.bargains",
+   "drinkprime.uk",
+   "misfitsinc.shop",
+   "maebe.co.uk",
+   "thebodycoach.com",
+   "refybeauty.com",
+   "searchenginejournal.com",
+   "found.co.uk"
+  ],
+  "quotedCompanies": [
+   "Bremont Watches",
+   "Vinted"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://disruptmarketing.co/blog/top-micro-influencers/",
+    "title": "Top 10 Micro-Influencers Punching Above Their Weight",
+    "date": "2026-09-16"
+   },
+   {
+    "url": "https://disruptmarketing.co/blog/top-influencer-founded-brands/",
+    "title": "Top 10 Influencers Who Built Their Own Brands",
+    "date": "2026-09-09"
+   },
+   {
+    "url": "https://disruptmarketing.co/blog/top-10-beauty-influencers-in-the-uk/",
+    "title": "Beauty Influencers UK: Top 10 Beauty Bloggers & Creators",
+    "date": "2026-07-28"
+   },
+   {
+    "url": "https://disruptmarketing.co/blog/on-stage-at-creatorfest-2026-why-creator-first-strategies-are-the-new-normal-for-scaling-luxury-growth/",
+    "title": "Creators Are the New Normal for Scaling Luxury Growth",
+    "date": "2026-07-16"
+   },
+   {
+    "url": "https://disruptmarketing.co/blog/google-just-gave-organic-creator-content-a-measurable-second-life/",
+    "title": "Creator Content Is Now Measurable in Search",
+    "date": "2026-07-09"
+   }
+  ],
+  "note": "Listicles link generously to creator brands and to Instagram and TikTok profiles (social links not counted). Bremont and Vinted quoted as fellow CreatorFest panellists."
+ },
+ {
+  "webDomain": "influencer.com",
+  "blogUrlUsed": "https://www.influencer.com/knowledge-hub",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Knowledge hub shows post titles and dates (latest 2026-09-15) but no post links in the crawl with cheerio or playwright:adaptive; /blog is 404. Much of the hub is company news and press coverage. Nothing read."
+ },
+ {
+  "webDomain": "manifesto.co.uk",
+  "blogUrlUsed": "https://manifesto.co.uk/thinking",
+  "postsRead": 2,
+  "outsideDomains": [
+   "skilljar.com"
+  ],
+  "quotedCompanies": [
+   "Prostate Cancer UK",
+   "Charity Digital"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://manifesto.co.uk/thinking/insights/agentic-customer-journeys",
+    "title": "Agentic customer journeys",
+    "date": "2026-08-24"
+   },
+   {
+    "url": "https://manifesto.co.uk/thinking/insights/leading-in-the-age-of-ai",
+    "title": "Leading in the age of AI",
+    "date": "2026-07-02"
+   }
+  ],
+  "note": "Index only exposed two article links (other cards are images without links, also with playwright:adaptive; /thinking/insights is almost empty). Leading in the age of AI reports a conference panel: Sadie Crabtree (Prostate Cancer UK) is paraphrased and Zoe Amar (Charity Digital) is named, both linked to LinkedIn. The skilljar.com link goes to an Anthropic AI Fluency course."
+ },
+ {
+  "webDomain": "greatstate.co",
+  "blogUrlUsed": "https://www.greatstate.co/blog/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index shows author names and dates (latest 2026-06-24) but no titles or post links, with cheerio and playwright:adaptive; /news redirects to /blog/ and /insights is 404. Nothing read."
+ },
+ {
+  "webDomain": "bottledimagination.com",
+  "blogUrlUsed": "https://bottledimagination.com/insights-and-work/",
+  "postsRead": 4,
+  "outsideDomains": [
+   "runnersworld.com",
+   "drinkhippop.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://bottledimagination.com/insights-and-work/preply-il-conto-per-favore/",
+    "title": "Preply: IL CONTO PER FAVORE",
+    "date": "2026-06-27"
+   },
+   {
+    "url": "https://bottledimagination.com/insights-and-work/ai-seo-pr-study/",
+    "title": "AI SEO & PR Study",
+    "date": ""
+   },
+   {
+    "url": "https://bottledimagination.com/insights-and-work/taught-by-headlines-how-earned-media-affects-llm-output/",
+    "title": "Taught by headlines: How earned media affects LLM visibility",
+    "date": ""
+   },
+   {
+    "url": "https://bottledimagination.com/insights-and-work/hip-pop-chooses-bottled-imagination-for-creative-pr-brief/",
+    "title": "Hip Pop chooses Bottled Imagination for creative PR brief",
+    "date": ""
+   }
+  ],
+  "note": "Only four non case study items on the index, and the latest (Preply, June 2026) is a short campaign write-up. The others date from around mid-2025 going by image upload paths. The Hip Pop account-win post quotes Hip Pop's Head of Marketing, but Hip Pop is a client, so not counted. Few posts, and several are very short."
+ },
+ {
+  "webDomain": "tillison.co.uk",
+  "blogUrlUsed": "https://tillison.co.uk/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "123-reg.co.uk",
+   "shopify.com",
+   "mozilla.org",
+   "apache.org",
+   "kinsta.com",
+   "dondy.net",
+   "keystonelaw.com",
+   "asa.org.uk",
+   "searchengineland.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://tillison.co.uk/blog/fixing-a-google-ads-sudden-drop-in-conversions/",
+    "title": "Fixing A Google Ads Sudden Drop In Conversions",
+    "date": "2026-07-29"
+   },
+   {
+    "url": "https://tillison.co.uk/blog/technical-seo-strategies-for-hacked-website-recovery-and-index-cleanup/",
+    "title": "Technical SEO Strategies for Hacked Website Recovery and Index Cleanup",
+    "date": "2026-07-23"
+   },
+   {
+    "url": "https://tillison.co.uk/blog/resolving-a-50-spike-in-index-bloat-without-wasting-developer-time/",
+    "title": "Resolving a 50% Spike in Index Bloat Without Wasting Developer Time",
+    "date": "2026-07-21"
+   },
+   {
+    "url": "https://tillison.co.uk/blog/new-google-ads-terms-make-ai-mistakes-your-fault/",
+    "title": "New Google Ads Terms Make AI Mistakes Your Fault",
+    "date": "2026-06-23"
+   },
+   {
+    "url": "https://tillison.co.uk/blog/google-ads-whatsapp-extensions-the-ultimate-guide-to-soft-conversions-and-high-intent-leads/",
+    "title": "Google Ads WhatsApp Extensions: The Ultimate Guide to Soft Conversions and High-Intent Leads",
+    "date": "2026-06-15"
+   }
+  ],
+  "note": "Each post cites one to three outside sources alongside Google documentation. No post since 2026-07-29."
+ },
+ {
+  "webDomain": "clevermarketing.co.uk",
+  "blogUrlUsed": "https://www.clevermarketing.co.uk/blog/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Cheerio got a bot check page ('One moment, please'). Playwright:adaptive loaded the blog header but no post links. /news is 404. Nothing read."
+ },
+ {
+  "webDomain": "alsoasked.com",
+  "blogUrlUsed": "https://alsoasked.com/insights",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page shows only product intro text). /blog is 404. Nothing read."
+ },
+ {
+  "webDomain": "loopme.ai",
+  "blogUrlUsed": "https://loopme.ai/insights/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page shows only intro text). /blog/ is 404. Nothing read."
+ },
+ {
+  "webDomain": "dnco.com",
+  "blogUrlUsed": "https://dnco.com/thinking",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://dnco.com/thinking/naming-the-london-overground-how-to-engage-a-whole-city",
+    "title": "Naming the London Overground: how to engage a whole city",
+    "date": "2026-04-23"
+   },
+   {
+    "url": "https://dnco.com/thinking/dnco20-20-branding-here-east",
+    "title": "Branding Here East: how to win at Olympic legacy transformation",
+    "date": "2026-04-09"
+   },
+   {
+    "url": "https://dnco.com/thinking/rebranding-museum-of-the-home",
+    "title": "Rebranding Museum of the Home: how to be brave",
+    "date": "2026-03-26"
+   },
+   {
+    "url": "https://dnco.com/thinking/place-brand-podcast-brent-cross-town",
+    "title": "Branding Brent Cross Town: how to create an authentic place brand",
+    "date": "2026-03-19"
+   },
+   {
+    "url": "https://dnco.com/thinking/serendipity-sells-unlocking-the-science-of-surprise-in-placemaking",
+    "title": "Serendipity sells: unlocking the science of surprise in placemaking",
+    "date": "2024-12-06"
+   }
+  ],
+  "note": "The four 2026 posts are DNCO 20/20 podcast transcripts with client guests (TfL, Here East, Museum of the Home, Related Argent), so they are client interviews rather than third-party quotes. Their only outside links go to Spotify. Before March 2026 the last post was December 2024. No post since 2026-04-23."
+ },
+ {
+  "webDomain": "censuswide.com",
+  "blogUrlUsed": "https://censuswide.com/insights/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://censuswide.com/insight/loyalty-programme-landscape-what-it-means-for-travel-hospitality-marketing-leaders/",
+    "title": "Loyalty Programme Landscape: What It Means for Travel & Hospitality Marketing Leaders",
+    "date": ""
+   },
+   {
+    "url": "https://censuswide.com/insight/the-invisible-algorithm-what-uk-patients-really-think-about-ai-in-their-healthcare/",
+    "title": "The Invisible Algorithm: What UK Patients Really Think About AI in Their Healthcare",
+    "date": ""
+   },
+   {
+    "url": "https://censuswide.com/insight/69-of-brits-think-online-fraud-is-unavoidable-a-bigger-problem-for-the-tech-industry/",
+    "title": "Why 69% of Brits accepting online fraud as 'unavoidable' is a bigger problem for the technology industry than the fraud itself",
+    "date": ""
+   },
+   {
+    "url": "https://censuswide.com/insight/consumer-tech-confidence-january-2026/",
+    "title": "Consumer Tech Confidence: January 2026",
+    "date": ""
+   },
+   {
+    "url": "https://censuswide.com/insight/the-state-of-client-trust-in-ai-enabled-legal-services/",
+    "title": "The State of Client Trust in AI-Enabled Legal Services",
+    "date": ""
+   }
+  ],
+  "note": "Posts present their own survey data, written by staff (Head of Consumer, Head of Corporate). No outside links in any post body. Index also links out to a PR Moment podcast and a Think Tank podcast. Index dates not shown; image upload paths put these posts between January and July 2026."
+ },
+ {
+  "webDomain": "elmwood.com",
+  "blogUrlUsed": "https://elmwood.com/insights/",
+  "postsRead": 1,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "Post says 'This article first appeared in CreativeBloq on 14 August 2026': staff bylines placed in outside media and then republished on their own site.",
+  "posts": [
+   {
+    "url": "https://elmwood.com/insight/to-target-gen-z-premium-brands-must-learn-the-new-codes-of-luxury/",
+    "title": "To target Gen Z, premium brands must learn the new codes of luxury.",
+    "date": "2026-08-14"
+   }
+  ],
+  "note": "Index exposed only one article, with cheerio and playwright:adaptive. No outside links in the body."
+ },
+ {
+  "webDomain": "turnerduckworth.com",
+  "blogUrlUsed": "https://turnerduckworth.com/news",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned only one Smythson project blurb with no links, with cheerio and playwright:adaptive. /insights has no content. Looks like a work and news showcase, not a blog. Nothing read."
+ },
+ {
+  "webDomain": "wordtracker.com",
+  "blogUrlUsed": "https://www.wordtracker.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "sistrix.com",
+   "ahrefs.com",
+   "qurmy.com",
+   "explodingtopics.com",
+   "larridin.com",
+   "htmlburger.com",
+   "schema.org",
+   "gigaspaces.com"
+  ],
+  "quotedCompanies": [
+   "beehiiv"
+  ],
+  "guestSigns": "No write-for-us page seen and no post marked as a guest post. But two posts (keyword maps audit, 2026 technical SEO guide) end with third-person plugs for Wordtracker ('Wordtracker has a solid set of tools', 'Wordtracker's got guides'). Contributed pieces often end this way.",
+  "posts": [
+   {
+    "url": "https://www.wordtracker.com/blog/seo/aeo-and-geo-in-google-end-of-serps",
+    "title": "The end of the SERPs; What might be next for Google and AI",
+    "date": ""
+   },
+   {
+    "url": "https://www.wordtracker.com/blog/seo/how-to-audit-site-architecture-with-keyword-maps-for-better-rankings",
+    "title": "How to audit site architecture with keyword maps for better rankings",
+    "date": ""
+   },
+   {
+    "url": "https://www.wordtracker.com/blog/seo/seo-aeo-geo-choosing-the-right-optimization-approach",
+    "title": "SEO, AEO, GEO: Choosing the right optimization approach",
+    "date": ""
+   },
+   {
+    "url": "https://www.wordtracker.com/blog/seo/the-2026-guide-to-website-architecture-speed-crawlability",
+    "title": "The 2026 Guide to Website Architecture, Speed & Crawlability",
+    "date": ""
+   },
+   {
+    "url": "https://www.wordtracker.com/blog/seo/why-ai-might-just-save-seo",
+    "title": "Why AI might just save SEO",
+    "date": ""
+   }
+  ],
+  "note": "Index shows no dates; the first post mentions Google I/O 2026. The 2026 technical guide links to several small commercial blogs (larridin.com, htmlburger.com, gigaspaces.com). The SEO/AEO/GEO post quotes Tyler Denk, CEO of beehiiv."
+ },
+ {
+  "webDomain": "designbridge.com",
+  "blogUrlUsed": "https://www.designbridge.com/insights",
+  "postsRead": 5,
+  "outsideDomains": [
+   "creativereview.co.uk",
+   "independent.co.uk",
+   "europeanbusinessmagazine.com",
+   "creativebloq.com",
+   "souschef.co.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.designbridge.com/news/170-year-heritage-of-leone-1857",
+    "title": "Design Bridge and Partners transforms the 170-year heritage of Leone 1857 into the Happiness Factory in Turin",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.designbridge.com/insights/money-talks-what-does-europe-have-to-say-for-itself",
+    "title": "Money talks. What does Europe have to say for itself?",
+    "date": "2026-08-11"
+   },
+   {
+    "url": "https://www.designbridge.com/news/universal-production-music-identity-music-makes-a-world-of-difference",
+    "title": "Music Makes a World of Difference",
+    "date": "2026-07-15"
+   },
+   {
+    "url": "https://www.designbridge.com/insights/how-to-scale-a-brand-without-stretching-it-beyond-recognition",
+    "title": "How to scale a brand without stretching it beyond recognition",
+    "date": "2026-07-09"
+   },
+   {
+    "url": "https://www.designbridge.com/insights/why-celebrity-ads-arent-always-a-good-idea",
+    "title": "Why celebrity World Cup ads aren't always a good idea",
+    "date": "2026-06-16"
+   }
+  ],
+  "note": "Part of WPP. The news posts quote clients (Leone's President, Universal Production Music), so these are not counted. The Money talks piece was written for Creative Review."
+ },
+ {
+  "webDomain": "adtrak.co.uk",
+  "blogUrlUsed": "https://www.adtrak.co.uk/blog/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Blog index returned only a generic services block with no post links, with cheerio and playwright:adaptive. /news/ redirects to /blog/. Nothing read."
+ },
+ {
+  "webDomain": "searchpilot.com",
+  "blogUrlUsed": "https://www.searchpilot.com/resources",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Resources and /resources/blog show post titles and dates (latest 'Buying journeys are conversations, not prompts', 2026-09-23) but the crawl returned no post URLs, with cheerio and playwright:adaptive. Slugs not guessed. Nothing read."
+ },
+ {
+  "webDomain": "mentionlytics.com",
+  "blogUrlUsed": "https://www.mentionlytics.com/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "neilpatel.com",
+   "pwc.com",
+   "searchengineland.com",
+   "sciencedirect.com",
+   "openai.com",
+   "forbes.com",
+   "techcrunch.com",
+   "nber.org",
+   "meltwater.com",
+   "talkwalker.com",
+   "softwaresuggest.com",
+   "tryprofound.com",
+   "scrunch.com",
+   "athenahq.ai",
+   "evertune.ai",
+   "otterly.ai",
+   "peec.ai",
+   "trakkr.ai",
+   "rankscale.ai",
+   "promptwatch.com",
+   "semrush.com",
+   "ahrefs.com",
+   "seranking.com",
+   "surferseo.com",
+   "amplitude.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.mentionlytics.com/blog/ai-visibility-audit/",
+    "title": "AI Visibility Audit: Steps, Metrics, How to Do It for Free",
+    "date": ""
+   },
+   {
+    "url": "https://www.mentionlytics.com/blog/best-ai-visibility-tracking-tools/",
+    "title": "17 Best AI Visibility Tracking Tools Tested + My Honest Take",
+    "date": ""
+   },
+   {
+    "url": "https://www.mentionlytics.com/blog/improve-brand-visibility-in-ai/",
+    "title": "How to Improve Brand Visibility in AI Search Engines: A Tested 5-Step System",
+    "date": ""
+   },
+   {
+    "url": "https://www.mentionlytics.com/blog/prompt-tracking/",
+    "title": "AI Prompt Tracking for Brand Reputation, Not Just Sales",
+    "date": ""
+   },
+   {
+    "url": "https://www.mentionlytics.com/blog/social-listening-report/",
+    "title": "How to Create a Social Listening Report with Mentionlytics",
+    "date": ""
+   }
+  ],
+  "note": "SaaS vendor blog. The tools listicle links out to 17 competitor tools. Other posts cite research sources. No post dates shown on the index (48 index pages)."
+ },
+ {
+  "webDomain": "soapmedia.co.uk",
+  "blogUrlUsed": "https://www.soapmedia.co.uk/soapbox/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "seroundtable.com",
+   "sparktoro.com",
+   "pewresearch.org"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.soapmedia.co.uk/fine-content-is-no-longer-fine/",
+    "title": "Fine Content Is No Longer Fine: Why Google Is Filtering Out the Forgettable",
+    "date": ""
+   },
+   {
+    "url": "https://www.soapmedia.co.uk/evergreen-content/",
+    "title": "Evergreen Content Is Not Immortal: Why Freshness Matters More Than Ever",
+    "date": ""
+   },
+   {
+    "url": "https://www.soapmedia.co.uk/design-predictions-in-2026/",
+    "title": "The Future of Digital Design in 2026: Our Predictions",
+    "date": ""
+   },
+   {
+    "url": "https://www.soapmedia.co.uk/seo-predictions-in-2026/",
+    "title": "The Future of SEO in 2026: Our Predictions",
+    "date": ""
+   },
+   {
+    "url": "https://www.soapmedia.co.uk/paid-social-media-predictions-in-2026/",
+    "title": "The Future of Paid Social in 2026: Our Predictions",
+    "date": ""
+   }
+  ],
+  "note": "Very few outside links: three of five posts have none. Index shows no dates; image upload paths put the latest two posts in June 2026 and the predictions posts in February and March 2026."
+ },
+ {
+  "webDomain": "gwi.com",
+  "blogUrlUsed": "https://www.gwi.com/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Index returned no post links with cheerio or playwright:adaptive (page shows only category headings); /blog/all is the same. Nothing read."
+ }
+]
