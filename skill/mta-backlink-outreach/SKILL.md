@@ -342,6 +342,8 @@ Rules:
 
 Every row gets two subjects, so Instantly can A/B test them: `emailSubject` (variant A) and `emailSubjectB` (variant B). Record the type of each in `subjectTypeA` and `subjectTypeB`, so open rates can be compared by type across batches. Background: the old "your X piece" pattern opened at about 20%. In Overloop's link building test a generic subject ("Link building opportunity") opened at 24% and a personalised one at 62%; they test a trigger, a question and a direct-value variant.
 
+If the user says a batch goes out without an A/B test, write one subject per row (`emailSubject` and `subjectTypeA` only, mixing types across the batch) and run the checker with `--single`.
+
 Pick two different types per row:
 
 - `trigger`: the most specific detail from articleHook, plus a short name for the article. It reads like a note from someone who actually read the page. For example "step 1 twice in your repurposing post", "the gmb heading in your local video guide", "2021 scam line in your money safety post".
