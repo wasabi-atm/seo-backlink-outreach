@@ -17,3 +17,4 @@
 - Presight dropped (same G42 group as Core42), replaced by the next UK Segment B spare, Arbor Education (arbor-education.com, DR 69, score 4.3).
 - HubSpot by domain: no customers or open deals. Shop Circle, Fourth, Attio and Juro are leads with no deal and stay in.
 - Checkpoint 1: waiting on the user.
+- Checkpoint 1 approved by the user (29 Sep).
