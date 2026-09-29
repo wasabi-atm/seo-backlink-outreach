@@ -18,3 +18,8 @@
 - HubSpot by domain: no customers or open deals. Shop Circle, Fourth, Attio and Juro are leads with no deal and stay in.
 - Checkpoint 1: waiting on the user.
 - Checkpoint 1 approved by the user (29 Sep).
+- Step 3 (link habits, Apify path; Ahrefs has 36 units until 30 Sep): six agents crawled the 150 blog indexes and up to 5 recent posts each (apify/website-content-crawler), then two retry agents covered the 36 sites the first pass could not read (cheerio-scraper link extraction, sitemaps, htmlTransformer none). step3_merge.py applies the 28 Sep rules (Yes = 10+ outside business domains, 2+ outside companies quoted, or guest signs; Some = 3-9 domains or 1 company quoted; No = fewer).
+- Result: 50 Yes, 38 Some, 56 No, 6 not checked (Show + Tell: article text not in the page; Eastside Co: blocks Apify's proxy; Little Warden: no blog; Talentera: gated library only; Letswork: index times out; Saal.ai: broken insights page).
+- Dead or stale blogs found: GBM (2021), Okadoc (2021), Pyypl (2024), Gleanin (Feb 2023), Turner Duckworth (news only, Jul 2025), TEAM LEWIS, Monite, TASC, Reason Digital, Airfinity, Robin AI, Shop Circle, Authoritas and Lumen Research (last post Sep to Dec 2025).
+- Maquae: the Step 3 agent read it as a digital marketing agency (PPC, SEO, AI development); on 28 Sep it was moved to Segment B as a software development company. Asked the user.
+- 02_enriched.csv: all 150 at DR 40 to 84 (28 Sep free endpoint). 02_low_dr.csv is empty: no new candidates were researched, so nothing was added to the pool.
