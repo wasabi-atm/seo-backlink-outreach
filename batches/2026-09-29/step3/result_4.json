@@ -1,0 +1,863 @@
+[
+ {
+  "webDomain": "core42.ai",
+  "blogUrlUsed": "https://www.core42.ai/resources",
+  "postsRead": 5,
+  "outsideDomains": [
+   "eand.ae"
+  ],
+  "quotedCompanies": [
+   "Technology Innovation Institute (TII)",
+   "Open Innovation AI",
+   "e& UAE",
+   "HSBC"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.core42.ai/resources/news/core42-and-technology-innovation-institute-tii-sign-collaboration-agreement-to-advance-uae-developed-digital-sovereignty-and-cybersecurity-innovation?hsLang=en",
+    "title": "Core42 and Technology Innovation Institute Sign Collaboration Agreement to Advance UAE-Developed Digital Sovereignty and Cybersecurity Innovation",
+    "date": "2026-09-18"
+   },
+   {
+    "url": "https://www.core42.ai/resources/news/ce-uae-and-core42-partner-to-deliver-sovereign-ai-infrastructure-at-scale?hsLang=en",
+    "title": "e& UAE and Core42 partner to deliver sovereign AI infrastructure at scale",
+    "date": "2026-07-20"
+   },
+   {
+    "url": "https://www.core42.ai/resources/news/open-innovation-ai-apps-now-available-on-core42-compass-to-expand-sovereign-enterprise-ai-capabilities?hsLang=en",
+    "title": "Open Innovation AI Apps Now Available on Core42 Compass to Expand Sovereign Enterprise AI Capabilities",
+    "date": "2026-06-04"
+   },
+   {
+    "url": "https://www.core42.ai/resources/news/core42-advances-u.s.-ai-infrastructure-strategy-with-expanded-new-york-deployment?hsLang=en",
+    "title": "Core42 Advances U.S. AI Infrastructure Strategy with expanded New York Deployment",
+    "date": "2026-06-02"
+   },
+   {
+    "url": "https://www.core42.ai/resources/news/core42-raises-usd-550-million-from-hsbc-to-scale-global-ai-infrastructure?hsLang=en",
+    "title": "Core42 Raises USD 550 million from HSBC to Scale Global AI Infrastructure",
+    "date": "2026-05-21"
+   }
+  ],
+  "note": "Resources hub is press releases (news), not an editorial blog. Bodies link only to e& and Core42's own social profiles; partner executives are quoted in every release."
+ },
+ {
+  "webDomain": "quicksync.pro",
+  "blogUrlUsed": "https://quicksync.pro/blog/",
+  "postsRead": 5,
+  "outsideDomains": [
+   "printify.com",
+   "etsy.com",
+   "ebay.com",
+   "woocommerce.com",
+   "channelengine.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://quicksync.pro/blog/tiktok-shop-fees/",
+    "title": "TikTok Shop fees in 2026: what a $50 sale actually pays",
+    "date": "2026-09-26"
+   },
+   {
+    "url": "https://quicksync.pro/blog/multichannel-selling-software/",
+    "title": "10 Best Multichannel Selling Software in 2026",
+    "date": "2026-09-24"
+   },
+   {
+    "url": "https://quicksync.pro/blog/shopify-data-export/",
+    "title": "Shopify Data Export: How to Export, Sync & Transfer Store Data",
+    "date": "2026-09-22"
+   },
+   {
+    "url": "https://quicksync.pro/blog/ecommerce-website-builde/",
+    "title": "10 Best Ecommerce Website Builders for Your Online Store",
+    "date": "2026-09-22"
+   },
+   {
+    "url": "https://quicksync.pro/blog/woocommerce-inventory-sync/",
+    "title": "WooCommerce Inventory Sync: Keep Stock Levels Updated Across Platforms",
+    "date": "2026-09-17"
+   }
+  ],
+  "note": "Very active blog (several posts a week). Outbound links are sparse: most in the TikTok Shop fees post (also links TikTok seller pages); the two listicles and the Shopify export guide link out once or not at all."
+ },
+ {
+  "webDomain": "tascoutsourcing.com",
+  "blogUrlUsed": "https://tascoutsourcing.com/en/insights",
+  "postsRead": 1,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://tascoutsourcing.com/en/insights/5-mistakes-entrepreneurs-make-when-setting-up-in-the-uae",
+    "title": "5 Mistakes Entrepreneurs Make When Setting Up in the UAE",
+    "date": "2025-10-05"
+   }
+  ],
+  "note": "Insights index (cheerio and playwright) shows only one post, dated 5 Oct 2025, so nearly a year without a new post. Its only outbound link goes to sister company tasccorporateservices.com (same group, not counted). Own CEO quoted."
+ },
+ {
+  "webDomain": "zand.ae",
+  "blogUrlUsed": "https://www.zand.ae/en/news",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [
+   "Circle",
+   "Dubai World Trade Centre (DWTC) Free Zone",
+   "Ripple",
+   "Digital Climate Group"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.zand.ae/en/news/zand-expands-stablecoin-access-and-adoption-in-global-markets-with-usdc",
+    "title": "Zand Expands Stablecoin Access and Adoption in Global Markets with USDC",
+    "date": "2026-08-25"
+   },
+   {
+    "url": "https://www.zand.ae/en/news/zand-dwtc-free-zone-mou-dubai-digital-economy",
+    "title": "Zand and DWTC Sign MOU to Advance Business Growth and the Digital Economy",
+    "date": "2026-05-20"
+   },
+   {
+    "url": "https://www.zand.ae/en/news/zand-achieves-banking-first-with-soc-2-type-ii-attestation-covering-web3",
+    "title": "Zand Achieves Banking First, with SOC 2 Type II Attestation Covering Web3",
+    "date": "2026-04-17"
+   },
+   {
+    "url": "https://www.zand.ae/en/news/zand-and-ripple-in-strategic-partnership-to-power-digital-economy-with-stablecoin-and-blockchain-innovations",
+    "title": "Zand and Ripple in strategic partnership to power digital economy with stablecoin and blockchain innovations",
+    "date": "2026-02-10"
+   },
+   {
+    "url": "https://www.zand.ae/en/news/digital-climate-group-and-zand-bank-sign-strategic-mou",
+    "title": "Digital Climate Group and Zand Bank Sign Strategic MOU",
+    "date": "2026-01-15"
+   }
+  ],
+  "note": "News page is press releases only and needs JS rendering (post bodies read with playwright). No outbound links in any body; partner executives quoted."
+ },
+ {
+  "webDomain": "yougotagift.com",
+  "blogUrlUsed": "https://yougotagift.com/business/blog/",
+  "postsRead": 1,
+  "outsideDomains": [
+   "businesswire.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://yougotagift.com/business/summer-stars-at-work-recognize-the-people-keeping-your-business-moving/",
+    "title": "Summer Stars at Work: Recognize the People Keeping Your Business Moving",
+    "date": ""
+   }
+  ],
+  "note": "Blog index (cheerio and playwright) showed only one post, no date shown. It cites Gallup and Workhuman research via a Business Wire link."
+ },
+ {
+  "webDomain": "pyypl.com",
+  "blogUrlUsed": "https://www.pyypl.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.pyypl.com/blog/lead-dont-manage",
+    "title": "Lead, Don't Manage",
+    "date": ""
+   },
+   {
+    "url": "https://www.pyypl.com/blog/the-b2b-logic-behind-pyypls-next-chapter",
+    "title": "The B2B Logic Behind Pyypl's Next Chapter",
+    "date": ""
+   },
+   {
+    "url": "https://www.pyypl.com/blog/pyypl-ai-fintech-lab",
+    "title": "Pyypl AI Fintech Lab",
+    "date": ""
+   },
+   {
+    "url": "https://www.pyypl.com/blog/building-for-what-lasts",
+    "title": "Building for What Lasts",
+    "date": ""
+   },
+   {
+    "url": "https://www.pyypl.com/blog/10-essential-tools-every-small-business-owner-needs",
+    "title": "10 Essential Tools Every Small Business Owner Needs",
+    "date": ""
+   }
+  ],
+  "note": "Index cards carry no links in markdown; post URLs taken from a raw-HTML crawl of the index. Dated cards on the index are all 2024; the newer posts read here show no date. Only outbound links are YouTube (podcast episodes). Only Pyypl's own CEO is quoted."
+ },
+ {
+  "webDomain": "talentera.com",
+  "blogUrlUsed": "https://www.talentera.com/en/library/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Library page is a gated collection of eBooks and guides with no article links; /en/blog/ returns 404. No posts could be read."
+ },
+ {
+  "webDomain": "hlbhamt.com",
+  "blogUrlUsed": "https://hlbhamt.com/insights/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://hlbhamt.com/insights/cross-border-business-restructuring-moving-an-australian-business-to-the-uae/",
+    "title": "Cross-Border Business Restructuring: Moving an Australian Business to the UAE",
+    "date": ""
+   },
+   {
+    "url": "https://hlbhamt.com/insights/uae-redomiciliation-for-australian-businesses-what-directors-and-shareholders-should-consider/",
+    "title": "UAE Redomiciliation for Australian Businesses: What Directors and Shareholders Should Consider",
+    "date": ""
+   },
+   {
+    "url": "https://hlbhamt.com/insights/appointing-a-corporate-secretary-for-vara-regulated-entities-in-uae-governance-audit-rights-2/",
+    "title": "Appointing a Corporate Secretary for VARA-Regulated Entities in UAE: Governance & Audit Rights",
+    "date": ""
+   },
+   {
+    "url": "https://hlbhamt.com/insights/foodstuff-general-trading-setup-in-abu-dhabi-adnoc-vendor-registration/",
+    "title": "Foodstuff & General Trading Setup in Abu Dhabi & ADNOC Vendor Registration",
+    "date": ""
+   },
+   {
+    "url": "https://hlbhamt.com/insights/it-regulatory-compliance-frameworks-in-uae/",
+    "title": "The UAE IT Compliance Playbook for New & Growing Businesses",
+    "date": ""
+   }
+  ],
+  "note": "No dates shown on index or posts. No outbound links in any of the 5 posts. The Foodstuff post needed playwright to render."
+ },
+ {
+  "webDomain": "maquae.com",
+  "blogUrlUsed": "https://www.maquae.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.maquae.com/managed-it-services-in-dubai-should-businesses-outsource",
+    "title": "Managed IT Services in Dubai: Should Businesses Outsource?",
+    "date": ""
+   },
+   {
+    "url": "https://www.maquae.com/4-ppc-mistakes-wasting-uae-ad-budget",
+    "title": "4 Common PPC Mistakes in the UAE Market Campaigns",
+    "date": ""
+   },
+   {
+    "url": "https://www.maquae.com/hybrid-engine-optimisation",
+    "title": "Hybrid Engine Optimisation: Connecting AI and Traditional Search",
+    "date": ""
+   },
+   {
+    "url": "https://www.maquae.com/ai-max-for-google-ads-what-uae-businesses-must-know-in-2026",
+    "title": "AI Max for Google Ads: What UAE Businesses Must Know in 2026",
+    "date": ""
+   },
+   {
+    "url": "https://www.maquae.com/ai-agent-automation-for-smarter-business-workflows-in-uae",
+    "title": "AI Agent Automation for Smarter Business Workflows in UAE",
+    "date": ""
+   }
+  ],
+  "note": "Maquae is a digital marketing agency (PPC, SEO, social ads, software and AI development), so it may overlap with Motion's services. No dates shown. Posts link only to Maquae's own service pages."
+ },
+ {
+  "webDomain": "valustrat.com",
+  "blogUrlUsed": "https://valustrat.com/collections/research",
+  "postsRead": 3,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://valustrat.com/products/dubai-vpi-residential-values-august-2026",
+    "title": "Dubai VPI Residential Property Research August 2026",
+    "date": ""
+   },
+   {
+    "url": "https://valustrat.com/products/qatar-real-estate-review-q2-2026",
+    "title": "Qatar Q2 2026 Property Market Research Report (page title says Q1 2026)",
+    "date": ""
+   },
+   {
+    "url": "https://valustrat.com/products/dubai-real-estate-review-q2-2026",
+    "title": "Dubai Q2 2026 Property Market Research Report",
+    "date": ""
+   }
+  ],
+  "note": "The research collection is a Shopify store: each report is a product page with a summary, not a blog article. /blogs/news is an unfilled template. Read 3 report pages; no outbound links. No real blog found."
+ },
+ {
+  "webDomain": "letswork.io",
+  "blogUrlUsed": "https://www.letswork.io/blog",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Blog index returned only newsletter signup text with cheerio; playwright timed out twice. No post URLs found, so no posts read."
+ },
+ {
+  "webDomain": "gbmme.com",
+  "blogUrlUsed": "https://www.gbmme.com/resources",
+  "postsRead": 4,
+  "outsideDomains": [
+   "ibm.com",
+   "tdwi.org",
+   "forrester.com",
+   "techtarget.com",
+   "towardsdatascience.com",
+   "expert.ai",
+   "mitre.org",
+   "techcrunch.com",
+   "godaddy.com",
+   "edgemiddleeast.com",
+   "pwc.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.gbmme.com/resources/blogs/from-isolated-ai-to-orchestrated-agentic-enterprise",
+    "title": "From Isolated AI to Orchestrated Agentic Enterprise",
+    "date": ""
+   },
+   {
+    "url": "https://www.gbmme.com/resources/blogs/ai-ready-infrastructure",
+    "title": "AI-ready infrastructure",
+    "date": "2021-10-26"
+   },
+   {
+    "url": "https://www.gbmme.com/resources/blogs/using-ai-to-enhance-a-customer-s-experience",
+    "title": "Using AI to Enhance a Customer's Experience",
+    "date": "2021-10-26"
+   },
+   {
+    "url": "https://www.gbmme.com/resources/blogs/how-is-ai-transforming-middle-east-governments-today",
+    "title": "How is AI transforming Middle East governments today?",
+    "date": "2019-06-13"
+   }
+  ],
+  "note": "Blog is mostly dormant: only 4 blog posts found, 3 from 2019 and 2021 plus one undated agentic AI post. The links out (IBM, Forrester and others) are all in the 2019 and 2021 posts; the godaddy.com link is a parked domain-for-sale page linked as 'NEOM'. The newest post has no outbound links."
+ },
+ {
+  "webDomain": "saal.ai",
+  "blogUrlUsed": "https://saal.ai/insights/",
+  "postsRead": 0,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [],
+  "note": "Insights page shows an unrendered WordPress shortcode with no post list (cheerio, playwright and raw HTML). The only content link found is a 2024 event announcement (UMEX SIMTEX 2024), which the brief excludes. No posts read."
+ },
+ {
+  "webDomain": "krestonmenon.com",
+  "blogUrlUsed": "https://www.krestonmenon.com/category/knowledge/",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "Knowledge section publishes pieces by outside authors: https://www.krestonmenon.com/uk-uae-growth-invested-each-others-success/ by Andy Barr, Director for Business & Trade, British Embassy UAE; the index also lists 'A City Built For The Future' by H.E. Dr. Mohamed Al Breiki, Executive Director, Masdar City (author page https://www.krestonmenon.com/author/he-dr-mohamed-al-breiki/). No write-for-us page seen.",
+  "posts": [
+   {
+    "url": "https://www.krestonmenon.com/why-cash-flows-matter-more-than-accounting-profit/",
+    "title": "Why Cash Flows Matter More Than Accounting Profit",
+    "date": ""
+   },
+   {
+    "url": "https://www.krestonmenon.com/the-income-statement-is-about-to-stop-being-a-matter-of-opinion/",
+    "title": "The Income Statement Is About to Stop Being a Matter of Opinion",
+    "date": ""
+   },
+   {
+    "url": "https://www.krestonmenon.com/customer-datas-out-systems-compromised-the-board-has-questions-to-answer/",
+    "title": "Customer Data's Out. Systems Compromised. The Board Has Questions to Answer.",
+    "date": ""
+   },
+   {
+    "url": "https://www.krestonmenon.com/succession-planning-for-business-enterprises-an-advisors-perspective/",
+    "title": "Succession Planning for Business Enterprises: An Advisor's Perspective",
+    "date": ""
+   },
+   {
+    "url": "https://www.krestonmenon.com/uk-uae-growth-invested-each-others-success/",
+    "title": "UK-UAE Growth: Invested each other's success",
+    "date": ""
+   }
+  ],
+  "note": "Post URLs came from a raw-HTML crawl of the index (markdown kept only author links). No dates shown. No outbound links in the 5 posts. Articles are bylined, first-person pieces, some by outside authors (see guestSigns)."
+ },
+ {
+  "webDomain": "okadoc.com",
+  "blogUrlUsed": "https://www.okadoc.com/en-ae/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.okadoc.com/en-ae/blog/diet-and-nutrition/diet-health-conditions/healthy-lifestyle/reasons-why-you-always-feel-hungry",
+    "title": "Reasons Why You Always Feel Hungry",
+    "date": ""
+   },
+   {
+    "url": "https://www.okadoc.com/en-ae/blog/disease-illnesses/diseases-conditions/general-health/womens/the-7-most-common-menstrual-disorders",
+    "title": "The 7 Most Common Menstrual Disorders",
+    "date": ""
+   },
+   {
+    "url": "https://www.okadoc.com/en-ae/blog/children/covid-19/parenting/prepare-your-kids-for-school-after-covid-19",
+    "title": "Back to School: Prepare Your Kids for School After COVID-19",
+    "date": ""
+   },
+   {
+    "url": "https://www.okadoc.com/en-ae/blog/disease-illnesses/general-health/mind-mood/myth-vs-reality-what-does-a-panic-attack-feel-like",
+    "title": "Myth vs. Reality: What Does a Panic Attack Feel Like?",
+    "date": ""
+   },
+   {
+    "url": "https://www.okadoc.com/en-ae/blog/maternity/pregnancy/5-ways-to-stay-healthy-during-pregnancy",
+    "title": "5 Ways to Stay Healthy During Pregnancy",
+    "date": ""
+   }
+  ],
+  "note": "Blog looks dead: the newest posts on the index have 2021 image upload paths (2021/07 to 2021/09) and COVID Delta era content, with no dates shown. Consumer health content; the only links go to Okadoc booking pages (okdc.me short links). Posts needed playwright to render."
+ },
+ {
+  "webDomain": "junipereducation.org",
+  "blogUrlUsed": "https://junipereducation.org/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "bbc.co.uk",
+   "schoolsweek.co.uk"
+  ],
+  "quotedCompanies": [
+   "Broad Horizons Education Trust"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://junipereducation.org/blog/new-academic-year-new-priorities-is-your-website-keeping-up",
+    "title": "New Academic Year, New Priorities: Is Your Website Keeping Up?",
+    "date": ""
+   },
+   {
+    "url": "https://junipereducation.org/blog/how-schools-can-evidence-their-enrichment-strategy-from-participation-to-impact",
+    "title": "How Schools Can Evidence Their Enrichment Strategy: From Participation to Impact",
+    "date": ""
+   },
+   {
+    "url": "https://junipereducation.org/blog/september-a-moment-of-opportunity",
+    "title": "September: A Moment of Opportunity",
+    "date": ""
+   },
+   {
+    "url": "https://junipereducation.org/blog/is-it-all-going-right-in-schools-in-england",
+    "title": "Is It All Going Right in Schools in England?",
+    "date": ""
+   },
+   {
+    "url": "https://junipereducation.org/blog/budget-forecast-return-deadline-approaching-is-your-trust-ready-to-submit",
+    "title": "Budget Forecast Return deadline approaching: is your trust ready to submit?",
+    "date": ""
+   }
+  ],
+  "note": "Active blog (index shows posts dated Aug 2026). Outbound links are mainly news and gov.uk sources in 'Is It All Going Right in Schools in England?'. That post quotes the CEO and CFO of Broad Horizons Education Trust and links to Juniper's own podcast page."
+ },
+ {
+  "webDomain": "unitedfintech.com",
+  "blogUrlUsed": "https://www.unitedfintech.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "tradingtechnologies.com",
+   "parametasolutions.com",
+   "oanda.com",
+   "fenicsmd.com"
+  ],
+  "quotedCompanies": [
+   "Trading Technologies",
+   "Parameta Solutions",
+   "OANDA",
+   "Fenics Market Data & Analytics"
+  ],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.unitedfintech.com/blog/united-fintech-expands-in-asia-pacific-with-new-singapore-office-senior-hire-and-team-growth",
+    "title": "United Fintech expands in Asia-Pacific with new Singapore office, senior hire and team growth",
+    "date": "2026-09-22"
+   },
+   {
+    "url": "https://www.unitedfintech.com/blog/trading-technologies-and-fairxchange-partner-to-deliver-independent-execution-analytics-for-institutional-fx",
+    "title": "Trading Technologies and FairXchange Partner to Deliver Independent Execution Analytics for Institutional FX",
+    "date": "2026-09-08"
+   },
+   {
+    "url": "https://www.unitedfintech.com/blog/fenics-x-netdania",
+    "title": "Netdania partners with Fenics Market Data to deliver institutional FX Options data to clients over API",
+    "date": "2026-08-11"
+   },
+   {
+    "url": "https://www.unitedfintech.com/blog/united-fintech-enters-its-next-chapter-as-infrastructure-for-wholesale-finance",
+    "title": "United Fintech enters its next chapter as infrastructure for wholesale finance",
+    "date": "2026-08-11"
+   },
+   {
+    "url": "https://www.unitedfintech.com/blog/parameta-x-netdania",
+    "title": "Parameta Solutions Expands FX Spot Data Coverage Through Strategic Partnerships",
+    "date": "2026-05-12"
+   }
+  ],
+  "note": "Blog is press releases. Post URLs came from a raw-HTML crawl of the index. On the fenics-x-netdania page the meta title reads 'United FIntech enters its next chapter...', but the body is the Netdania and Fenics release, dated 13 August 2026 in the body. Links out go to partner homepages. Partner executives are quoted."
+ },
+ {
+  "webDomain": "callsign.com",
+  "blogUrlUsed": "https://www.callsign.com/knowledge-insights",
+  "postsRead": 5,
+  "outsideDomains": [
+   "lloydsbankinggroup.com",
+   "openai.com",
+   "techcrunch.com",
+   "visa.co.uk",
+   "pymnts.com",
+   "retailgazette.co.uk",
+   "openbanking.org.uk",
+   "ukfinance.org.uk",
+   "thepaymentsassociation.org",
+   "edgardunn.com",
+   "zscaler.com",
+   "hoxhunt.com",
+   "firstsource.com",
+   "gartner.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.callsign.com/knowledge-insights/beyond-the-eu-digital-identity-wallet-part-two",
+    "title": "Beyond the EU Digital Identity Wallet PT II, raising the trust baseline",
+    "date": "2026-09-03"
+   },
+   {
+    "url": "https://www.callsign.com/knowledge-insights/from-passwords-to-passkeys-meeting-banking-regulations-with-fido-authentication-2",
+    "title": "From Passwords to Passkeys: Meeting Banking Regulations with FIDO Authentication",
+    "date": "2026-08-24"
+   },
+   {
+    "url": "https://www.callsign.com/knowledge-insights/fraud-leaders-summit-keynote-part-1-improving-fraud-prevention-with-highly-effective-fraud-controls",
+    "title": "Fraud leaders' summit keynote part 1: Improving fraud prevention with highly effective fraud controls",
+    "date": "2026-08-06"
+   },
+   {
+    "url": "https://www.callsign.com/knowledge-insights/agentic-banking-has-already-arrived-and-your-fraud-stack-cant-see-it",
+    "title": "Agentic Banking Has Already Arrived and Your Fraud Stack Can't See It",
+    "date": "2026-07-22"
+   },
+   {
+    "url": "https://www.callsign.com/knowledge-insights/beyond-the-eu-digital-identity-wallet-where-fraud-still-hides-in-a-verified-world",
+    "title": "Beyond the EU Digital Identity Wallet, Where Fraud Still Hides in a Verified World",
+    "date": "2026-07-06"
+   }
+  ],
+  "note": "Post URLs came from a raw-HTML crawl of the index. Articles cite sources with full URLs as the link text; the agentic banking post alone links 13 sources. EU posts link mostly to europa.eu (government, not counted), and the agentic banking post also links psr.org.uk (regulator, not counted). The archive has a gap between Aug 2024 and Jun 2026."
+ },
+ {
+  "webDomain": "intelliflo.com",
+  "blogUrlUsed": "https://www.intelliflo.com/insights/",
+  "postsRead": 3,
+  "outsideDomains": [
+   "professionaladviser.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.intelliflo.com/insights/thought-leadership/is-this-the-end-of-the-annual-review-as-we-know-it/",
+    "title": "Is this the end of the annual review as we know it?",
+    "date": "2026-09-28"
+   },
+   {
+    "url": "https://www.intelliflo.com/insights/thought-leadership/advisers-neednt-fear-handing-control-to-ai/",
+    "title": "Advisers needn't fear handing control to AI",
+    "date": "2026-09-11"
+   },
+   {
+    "url": "https://www.intelliflo.com/insights/thought-leadership/firms-embrace-ai-and-digital-tools-but-inefficiencies-remain/",
+    "title": "Firms embrace AI and digital tools, but inefficiencies remain",
+    "date": "2025-07-15"
+   }
+  ],
+  "note": "Insights page needs JS rendering; post URLs came from a raw-HTML crawl. Read 3 thought leadership posts. A 4th item, the 2026 Adviser lifestyle index (28 Aug 2026), is a gated form and was not counted. Two posts are columns that link to the original on professionaladviser.com."
+ },
+ {
+  "webDomain": "personcentredsoftware.com",
+  "blogUrlUsed": "https://personcentredsoftware.com/resources",
+  "postsRead": 4,
+  "outsideDomains": [
+   "savills.co.uk"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://personcentredsoftware.com/resources/introducing-home-risk-analyser",
+    "title": "Home Risk Analyser: know the impact before you commit",
+    "date": "2026-07-28"
+   },
+   {
+    "url": "https://personcentredsoftware.com/resources/mcare-mods",
+    "title": "mCare & MODS: the data standard for care records",
+    "date": "2026-07-27"
+   },
+   {
+    "url": "https://personcentredsoftware.com/resources/how-many-care-staff-per-resident-are-required-in-care-homes",
+    "title": "How many care staff per resident are required in UK care homes?",
+    "date": "2024-11-13"
+   },
+   {
+    "url": "https://personcentredsoftware.com/resources/pcs-acquires-camascope",
+    "title": "PCS acquires Camascope",
+    "date": "2026-06-10"
+   }
+  ],
+  "note": "Resources page needs JS rendering; post URLs came from a raw-HTML crawl. Read 4 posts. A 5th, 'The ultimate guide to switching digital social care record systems', is a gated download and was not counted. The care staff post was updated 2 Jul 2026 and also links Casey Commission sources (government, not counted). The mCare post links Digitising Social Care (government programme, not counted). The acquisition post links camascope.com, now part of PCS, so not counted. The quoted Kehan Zhou is now PCS Group CEO."
+ },
+ {
+  "webDomain": "ramtracking.com",
+  "blogUrlUsed": "https://www.ramtracking.com/resources/blog",
+  "postsRead": 5,
+  "outsideDomains": [],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.ramtracking.com/resources/blog/should-you-lease-or-purchase-vehicles-directly",
+    "title": "Should you Lease or Purchase Vehicles Directly?",
+    "date": "2026-09-23"
+   },
+   {
+    "url": "https://www.ramtracking.com/resources/blog/how-to-calculate-the-roi-of-vehicle-tracking",
+    "title": "How to Calculate the ROI of Vehicle Tracking",
+    "date": "2026-08-26"
+   },
+   {
+    "url": "https://www.ramtracking.com/resources/blog/a-comprehensive-guide-to-business-insurance",
+    "title": "A Comprehensive Guide to Business Insurance for UK Fleets",
+    "date": "2026-08-26"
+   },
+   {
+    "url": "https://www.ramtracking.com/resources/blog/4-ways-fleet-management-reduces-fuel-costs",
+    "title": "4 Ways Fleet Management Reduces Fuel Costs",
+    "date": "2026-08-07"
+   },
+   {
+    "url": "https://www.ramtracking.com/resources/blog/driver-cpc-training-2026-a-practical-guide",
+    "title": "Driver CPC Training 2026: A Practical Guide",
+    "date": "2026-07-29"
+   }
+  ],
+  "note": "Active blog with named authors. Post URLs came from a raw-HTML crawl of the index. Outbound links go only to government and regulator sources (gov.uk, nidirect.gov.uk, frc.org.uk). No links to other businesses."
+ },
+ {
+  "webDomain": "turintech.ai",
+  "blogUrlUsed": "https://www.turintech.ai/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "github.com",
+   "gartner.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.turintech.ai/blog/improving-vllm-cpu-inference-rebuilding-a-dequantisation-gemm-kernel",
+    "title": "Improving vLLM CPU Inference: Rebuilding a Dequantisation-GEMM Kernel",
+    "date": "2026-08-27"
+   },
+   {
+    "url": "https://www.turintech.ai/blog/fixing-a-silent-kernel-fallback-in-openai-whisper",
+    "title": "Making OpenAI Whisper 19% Faster by Fixing a Silent Kernel Fallback",
+    "date": "2026-08-19"
+   },
+   {
+    "url": "https://www.turintech.ai/blog/nvidia-merged-our-artemis-discovered-optimization-40-throughput-in-tensorrt-llm",
+    "title": "NVIDIA Merged Our Artemis-Discovered Optimization in TensorRT-LLM",
+    "date": "2026-08-10"
+   },
+   {
+    "url": "https://www.turintech.ai/blog/inside-llama-cpp-pr-26802",
+    "title": "Inside llama.cpp PR #26802: +13% from graphs that were switched off for no reason",
+    "date": "2026-08-09"
+   },
+   {
+    "url": "https://www.turintech.ai/blog/why-your-ai-costs-keep-rising-even-when-token-prices-fall",
+    "title": "Why Your AI Costs Keep Rising Even When Token Prices Fall",
+    "date": "2026-04-26"
+   }
+  ],
+  "note": "Blog index needs JS rendering; post URLs came from a raw-HTML crawl. Deeply technical engineering write-ups; outbound links are mostly GitHub pull requests, plus one Gartner press release."
+ },
+ {
+  "webDomain": "oneupsales.com",
+  "blogUrlUsed": "https://oneupsales.com/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "recruitwithatlas.com",
+   "bullhorn.com",
+   "crelate.com",
+   "firefishsoftware.com",
+   "jobadder.com",
+   "loxo.co",
+   "wearemercury.com",
+   "pcrecruiter.net",
+   "recruitcrm.io",
+   "spott.io",
+   "vincere.io",
+   "zoho.com",
+   "theaccessgroup.com",
+   "chameleoni.com",
+   "chameleon-i.com",
+   "mercuryxrm.com",
+   "seven20.com",
+   "targetrecruit.com",
+   "tracker-rms.com",
+   "apsco.org",
+   "rec.uk.com",
+   "cipd.org",
+   "forbes.com",
+   "staffingindustry.com",
+   "indeed.com",
+   "trykondo.com",
+   "americanstaffing.net"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://oneupsales.com/blog/encouraging-sales-quotes",
+    "title": "60 encouraging sales quotes for salespeople and sales teams",
+    "date": ""
+   },
+   {
+    "url": "https://oneupsales.com/blog/best-crm-for-recruitment-agencies",
+    "title": "Top 12 Best CRM Software for Recruitment Agencies in 2026",
+    "date": ""
+   },
+   {
+    "url": "https://oneupsales.com/blog/data-driven-recruitment/",
+    "title": "What Is Data-Driven Recruitment? A Practical Guide for Agencies",
+    "date": ""
+   },
+   {
+    "url": "https://oneupsales.com/blog/the-best-ats-for-recruitment-agencies",
+    "title": "The 12 Best ATS for Recruitment Agencies in 2026",
+    "date": ""
+   },
+   {
+    "url": "https://oneupsales.com/blog/recruitment-business-development-strategy",
+    "title": "The Ultimate Business Development Strategy for Recruitment Agencies",
+    "date": ""
+   }
+  ],
+  "note": "Links out generously. The CRM and ATS roundups link to every competitor's homepage; the guides cite Forbes, industry bodies and staffing research. No dates on posts. Quotes post quotes famous salespeople, not companies. An unnamed customer's Associate Director is quoted in the data-driven recruitment post."
+ },
+ {
+  "webDomain": "iplicit.com",
+  "blogUrlUsed": "https://www.iplicit.com/resources/blog",
+  "postsRead": 5,
+  "outsideDomains": [
+   "onboardmeetings.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.iplicit.com/blog/accounting-software-migration",
+    "title": "Accounting software migration: A guide for growing and multi-entity businesses",
+    "date": ""
+   },
+   {
+    "url": "https://www.iplicit.com/blog/what-should-be-in-a-board-finance-pack-a-practical-guide",
+    "title": "What should be in a board finance pack? A practical guide",
+    "date": ""
+   },
+   {
+    "url": "https://www.iplicit.com/blog/best-uk-accounting-automation",
+    "title": "11 best accounting automation software for UK businesses in 2026",
+    "date": ""
+   },
+   {
+    "url": "https://www.iplicit.com/blog/how-to-consolidate-multi-entity-accounts-without-spreadsheets",
+    "title": "How to consolidate multi-entity accounts without spreadsheets",
+    "date": ""
+   },
+   {
+    "url": "https://www.iplicit.com/blog/stay-upgrade-or-switch-accounting-systems-how-to-decide",
+    "title": "Stay, upgrade or switch accounting systems: how to decide",
+    "date": ""
+   }
+  ],
+  "note": "The given URL (/resources/guides) is a chaptered AI guide series, so the /blog index (redirects to /resources/blog) was used; post URLs came from a raw-HTML crawl. Few outbound links: even the 11-tool comparison does not link out. Named customers are quoted from iplicit case studies (Novatech, Edinburgh International Festival, Barwood Capital, Abbey Group), not counted as outside quotes. No dates shown."
+ },
+ {
+  "webDomain": "velaris.io",
+  "blogUrlUsed": "https://www.velaris.io/resources",
+  "postsRead": 3,
+  "outsideDomains": [
+   "g2.com",
+   "sturdy.ai",
+   "tableau.com",
+   "salesforce.com",
+   "nicereply.com",
+   "survicate.com",
+   "qualtrics.com",
+   "asknicely.com",
+   "simplesat.io",
+   "zonkafeedback.com",
+   "medallia.com",
+   "surveymonkey.com",
+   "retently.com",
+   "gainsight.com",
+   "vitally.io",
+   "planhat.com",
+   "churnzero.com",
+   "totango.com",
+   "custify.com"
+  ],
+  "quotedCompanies": [],
+  "guestSigns": "",
+  "posts": [
+   {
+    "url": "https://www.velaris.io/articles/customer-success-dashboard-examples",
+    "title": "5 Customer Success Dashboard Examples and Best Practices",
+    "date": ""
+   },
+   {
+    "url": "https://www.velaris.io/articles/renewal-management-software-for-cs",
+    "title": "Top 7 AI Renewal Management Software 2026",
+    "date": ""
+   },
+   {
+    "url": "https://www.velaris.io/articles/10-best-ai-csat-software-tools-for-2026",
+    "title": "10 Best AI CSAT Software Tools for 2026",
+    "date": ""
+   }
+  ],
+  "note": "The resources hub (JS rendered, URLs from a raw-HTML crawl) showed only 3 article cards alongside reports, glossary, calculators and case studies; /blog is 404. Software roundups link to every competitor, and the dashboard piece cites research. Some Simplesat links carry utm_source=chatgpt.com. No dates shown."
+ }
+]
