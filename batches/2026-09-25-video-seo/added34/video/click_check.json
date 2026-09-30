@@ -1,0 +1,207 @@
+{
+ "rippling.com": {
+  "clicks": [
+   {
+    "sel": "a:has-text('Play video')",
+    "found": 0,
+    "requests": [
+     "https://fast.wistia.com/embed/medias/atwkgp8l36/swatch",
+     "https://fast.wistia.com/assets/external/publicApi.js@0.0.100",
+     "https://fast.wistia.net/embed/medias/atwkgp8l36.json",
+     "https://fast.wistia.net/assets/external/playPauseLoadingControl.js@0.0.100",
+     "https://fast.wistia.net/assets/external/engines/hls_video.js@0.0.100",
+     "https://fast.wistia.com/embed/medias/atwkgp8l36.m3u8",
+     "https://distillery.wistia.com/x",
+     "https://embed-cloudfront.wistia.com/deliveries/d65c93adb39087e95ac131447b1878312b7af096.m3u8",
+     "https://pipedream.wistia.com/mput?topic=metrics",
+     "https://embed-cloudfront.wistia.com/deliveries/d65c93adb39087e95ac131447b1878312b7af096.m3u8/seg-1-v1-a1.ts"
+    ],
+    "iframes": [],
+    "videos": []
+   }
+  ],
+  "context": {}
+ },
+ "crowdstrike.com": {
+  "clicks": [
+   {
+    "sel": "button[aria-label='Click to launch Video'] >> visible=true",
+    "found": 0
+   }
+  ],
+  "context": {}
+ },
+ "deel.com": {
+  "clicks": [
+   {
+    "sel": "button[aria-label='Play video'] >> visible=true",
+    "found": 8,
+    "requests": [
+     "https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4",
+     "https://website-media.deel.com/144ddb7a_bc53_4180_8193_76a9e3715957_fc410b502d.mp4"
+    ],
+    "iframes": [],
+    "videos": [
+     {
+      "src": "https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4",
+      "controls": false,
+      "muted": false,
+      "paused": false,
+      "dur": 105,
+      "audioBytes": 117631
+     },
+     {
+      "src": "https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4",
+      "controls": true,
+      "muted": false,
+      "paused": false,
+      "dur": 105,
+      "audioBytes": 110152
+     }
+    ]
+   }
+  ],
+  "context": {}
+ },
+ "ahrefs.com": {
+  "clicks": [
+   {
+    "sel": "button:has-text('Watch demos')",
+    "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"button:has-text('Watch demos')\").first\n    - locator resolved to <button ty"
+   }
+  ],
+  "context": {}
+ },
+ "hubspot.com": {
+  "clicks": [
+   {
+    "sel": "button.wtm-evfc__play-btn >> visible=true",
+    "found": 3,
+    "requests": [
+     "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+     "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim01_3x2-v016.mp4"
+    ],
+    "iframes": [],
+    "videos": [
+     {
+      "src": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim01_3x2-v016.mp4",
+      "controls": true,
+      "muted": false,
+      "paused": false,
+      "dur": 8,
+      "audioBytes": 0
+     },
+     {
+      "src": "",
+      "controls": true,
+      "muted": false,
+      "paused": false,
+      "dur": null,
+      "audioBytes": 0
+     },
+     {
+      "src": "",
+      "controls": true,
+      "muted": false,
+      "paused": false,
+      "dur": null,
+      "audioBytes": 0
+     }
+    ]
+   }
+  ],
+  "context": {}
+ },
+ "brex.com": {
+  "clicks": [
+   {
+    "sel": "button[data-testid=playButton] >> visible=true",
+    "found": 1,
+    "requests": [
+     "https://brand.brex.com/m/2e6f4b37102ccc3e/original/HP-SmartestCorpprateCard_Optimized.mp4"
+    ],
+    "iframes": [],
+    "videos": [
+     {
+      "src": "https://brand.brex.com/m/2e6f4b37102ccc3e/original/HP-SmartestCorpprateCard_Optimized.mp4",
+      "controls": true,
+      "muted": false,
+      "paused": false,
+      "dur": 73,
+      "audioBytes": 129975
+     }
+    ]
+   }
+  ],
+  "context": {}
+ },
+ "datadoghq.com": {
+  "clicks": [
+   {
+    "sel": "text=Datadog Video Tour",
+    "found": 0
+   },
+   {
+    "sel": "a:has-text('Video Tour'), button:has-text('Video Tour')",
+    "found": 0
+   }
+  ],
+  "context": {}
+ },
+ "wiz.io": {
+  "clicks": [],
+  "context": {
+   "mux-player": [
+    "hrink-0 grow-0 pl-4 bg-gray-black relative mr-5 aspect-9/16 basis-3/5 overflow-hidden rounded-lg sm:basis-2/5 lg:basis-1/6\" style=\"transform: translate3d(0px, 0px, 0px);\"><div><div class=\"absolute top-1/2 left-1/2 aspect-9/16 h-full -translate-1/2\"><mux-player data-mux-player-react-lazy-placeholder=\"\" placeholder=\"\" style=\"--controls:none;width:100%;height:100%\" class=\"\" nohotkeys=\"\" aria-hidden=\"\" tabindex=\"-1\"><div data-mux-player-react-lazy-placeholder-overlay=\"true\"></div></mux-player><style>         mux-player[data-mux-player-react-lazy-placeholder] {           aspect-ratio: 16/9;        ",
+    "l-4 bg-gray-black relative mr-5 aspect-9/16 basis-3/5 overflow-hidden rounded-lg sm:basis-2/5 lg:basis-1/6\" style=\"transform: translate3d(0px, 0px, 0px);\"><div><div class=\"absolute top-1/2 left-1/2 aspect-9/16 h-full -translate-1/2\"><mux-player data-mux-player-react-lazy-placeholder=\"\" placeholder=\"\" style=\"--controls:none;width:100%;height:100%\" class=\"\" nohotkeys=\"\" aria-hidden=\"\" tabindex=\"-1\"><div data-mux-player-react-lazy-placeholder-overlay=\"true\"></div></mux-player><style>         mux-player[data-mux-player-react-lazy-placeholder] {           aspect-ratio: 16/9;           display: bloc",
+    "<div class=\"absolute top-1/2 left-1/2 aspect-9/16 h-full -translate-1/2\"><mux-player data-mux-player-react-lazy-placeholder=\"\" placeholder=\"\" style=\"--controls:none;width:100%;height:100%\" class=\"\" nohotkeys=\"\" aria-hidden=\"\" tabindex=\"-1\"><div data-mux-player-react-lazy-placeholder-overlay=\"true\"></div></mux-player><style>         mux-player[data-mux-player-react-lazy-placeholder] {           aspect-ratio: 16/9;           display: block;           background-color: var(--media-background-color, #000);           width: 100%;           position: relative;           background-image: var(--mux-p",
+    "-translate-1/2\"><mux-player data-mux-player-react-lazy-placeholder=\"\" placeholder=\"\" style=\"--controls:none;width:100%;height:100%\" class=\"\" nohotkeys=\"\" aria-hidden=\"\" tabindex=\"-1\"><div data-mux-player-react-lazy-placeholder-overlay=\"true\"></div></mux-player><style>         mux-player[data-mux-player-react-lazy-placeholder] {           aspect-ratio: 16/9;           display: block;           background-color: var(--media-background-color, #000);           width: 100%;           position: relative;           background-image: var(--mux-player-react-lazy-placeholder);           background-repea"
+   ],
+   "testimonial": [
+    "nalLink\":\"\"}],\"customers\":[{\"id\":\"ENmkEA4QRlKGZIeGeaD-DA\",\"customer\":{\"id\":\"55649360\",\"name\":\"Morgan Stanley\",\"logo\":{\"url\":\"https://www.datocms-assets.com/75231/1664387970-morgan_stanley_logo.svg\"},\"whiteLogo\":null,\"logoVisualWeightScaleFactor\":1},\"testimonial\":null,\"useStat\":false,\"prefix\":\"\",\"suffix\":\"%\",\"value\":\"50\",\"content\":\"Deserunt exercitation magna consectetur eu non cillum deserunt nostrud excepteur cupidatat cillum adipisicing fugiat.\",\"caseStudy\":null},{\"id\":\"O-H6K7P5Q9WNhEIgW0DDLQ\",\"customer\":{\"id\":\"46501980\",\"name\":\"Chipotle\",\"logo\":{\"url\":\"https://www.datocms-assets.com/75231/1",
+    "r\":{\"id\":\"46501980\",\"name\":\"Chipotle\",\"logo\":{\"url\":\"https://www.datocms-assets.com/75231/1676281437-chipotle.svg\"},\"whiteLogo\":{\"url\":\"https://www.datocms-assets.com/75231/1676288176-chipotle-horizontal-white.svg\"},\"logoVisualWeightScaleFactor\":1},\"testimonial\":null,\"useStat\":false,\"prefix\":\"\",\"suffix\":\"\",\"value\":\"\",\"content\":\"\",\"caseStudy\":null},{\"id\":\"Qwk2PDKARpGs3TRWegcc1g\",\"customer\":{\"id\":\"FVj482sXRCSJIcmoszd5sA\",\"name\":\"Siemens\",\"logo\":{\"url\":\"https://www.datocms-assets.com/75231/1720625827-siemens-logo.svg\"},\"whiteLogo\":null,\"logoVisualWeightScaleFactor\":1.2},\"testimonial\":null,\"useSta",
+    "nt\":\"\",\"caseStudy\":null},{\"id\":\"Qwk2PDKARpGs3TRWegcc1g\",\"customer\":{\"id\":\"FVj482sXRCSJIcmoszd5sA\",\"name\":\"Siemens\",\"logo\":{\"url\":\"https://www.datocms-assets.com/75231/1720625827-siemens-logo.svg\"},\"whiteLogo\":null,\"logoVisualWeightScaleFactor\":1.2},\"testimonial\":null,\"useStat\":false,\"prefix\":\"\",\"suffix\":\"\",\"value\":\"\",\"content\":\"\",\"caseStudy\":{\"slug\":\"siemens\"}},{\"id\":\"NQu5_ln6Roac0oFukzcyIA\",\"customer\":{\"id\":\"37630619\",\"name\":\"Fox\",\"logo\":{\"url\":\"https://www.datocms-assets.com/75231/1656290326-fox_wordmark.svg\"},\"whiteLogo\":null,\"logoVisualWeightScaleFactor\":1},\"testimonial\":{\"__typename\":\"Cus",
+    "\"content\":\"\",\"caseStudy\":{\"slug\":\"siemens\"}},{\"id\":\"NQu5_ln6Roac0oFukzcyIA\",\"customer\":{\"id\":\"37630619\",\"name\":\"Fox\",\"logo\":{\"url\":\"https://www.datocms-assets.com/75231/1656290326-fox_wordmark.svg\"},\"whiteLogo\":null,\"logoVisualWeightScaleFactor\":1},\"testimonial\":{\"__typename\":\"CustomerTestimonialRecord\",\"id\":\"42578016\",\"quote\":\"Wiz strikes the right balance between providing high-level visibility into our whole cloud posture and giving engineers the hands-on capabilities to resolve issues on the ground. Wiz allows us to scale the cybersecurity team's reach through technology.\",\"customer\":{\"nam"
+   ],
+   "Watch": [
+    "7V5\":[\"Component name\"],\"3tQGzh\":[\"Mailing Postal Code\"],\"3uy78s\":[\"Adam Fletcher\"],\"3v_P-e\":[\"You have \\u003c0\\u003e2 minutes\\u003c/0\\u003e on the clock for all 10 snippets \u2014 speed matters!\"],\"3wV73y\":[\"City\"],\"3xjql7\":[\"Czech Republic\"],\"44g3fG\":[\"Watch a recorded demo of Wiz\"],\"47E3H3\":[\"Credit card numbers or other banking information\"],\"4AdbIT\":[\"My team won the Zero Critical Conquerer Achievement\"],\"4AzaSm\":[\"Prepare for the exam\"],\"4F5r6f\":[\"Wiz Values\"],\"4GKuCs\":[\"Login failed\"],\"4HieKu\":[\"Join Wiz for an executive roundtable on securing the modern, AI-accelerated software supply chain",
+    "questions, each corresponding to a different domain of cloud security.\"],\"4Ri0Ps\":[\"Your partner at every step of your cloud and AI journey\"],\"4YE8ug\":[\"Results and Recommendations\"],\"4cvtub\":[\"Write us and we promise to get back to you\"],\"4fAOjg\":[\"Watch the full event video\"],\"4jM43c\":[\"Use the Wiz Defend spaceship to detect and defend against cloud threats\"],\"4k2VbT\":[\"Send request\"],\"4k5PSg\":[\"For Wiz customers\"],\"4kXDk3\":[\"Powered by Wiz Defend\"],\"4ocX6y\":[\"Wizlympics | Winter 2026 \"],\"4oeXM2\":[\"Major Airline Data Dump\"],\"4qDVKb\":[\"Only Session 2: For Management \\u0026 All Attendees (Star",
+    "-point Cloud Health Check covering identity, data, AI, workloads, and more\"],\"BkY4ex\":[\"Wizlympics | The first cloud-security Olympic games\"],\"BnWtS2\":[\"Equatorial Guinea\"],\"BpogXV\":[\"Macao\"],\"BwJKBw\":[\"of\"],\"BwpsSO\":[\"Explore resources\"],\"ByfACj\":[\"Watch how Wiz helps teams implement security fundamentals.\"],\"BzEFor\":[\"or\"],\"C-OF5a\":[\"Take me to NYC\"],\"C14DWB\":[\"YES, I'll attend Wiz Operationalization session\"],\"C24yIH\":[\"The CVE Database: Curated Vulnerability Intelligence by Wiz\"],\"C3nD_1\":[\"Enter your email\"],\"C4TjpG\":[\"Read less\"],\"C61A7N\":[\"Continuously simulates real attack paths across",
+    "\\u003eand runtime as one system to find a path in.\"],\"NCBDr7\":[\"Gibraltar\"],\"NCEma6\":[\"We scan images and code for exposed secret values prior to deployment.\"],\"NF6yj_\":[\"Vice President of Engineering\"],\"NFLaUm\":[\"Follow Wizdom on Slack\"],\"NGZrWo\":[\"Watch all sessions\"],\"NGditG\":[\"Egypt\"],\"NHRicO\":[\"Contact us to get expert support or learn how to prepare before an incident strikes.\"],\"NHhXUh\":[\"Regenerate Certificate\"],\"NIzF1K\":[\"Find all upcoming events, webinars, or opportunities to meet fellow community members.\"],\"NJB26P\":[\"Supply chain vulnerabilities\"],\"NJPvKl\":[\"Fuel your growth, scale"
+   ]
+  }
+ },
+ "klaviyo.com": {
+  "clicks": [],
+  "context": {
+   "vimeo.com/1223678585": [
+    "6abc3fdc7511ac00080f3071\" component-export=\"default\" renderer-url=\"/_astro/client.B3L6fh9q.js?dpl=6abc3fdc7511ac00080f3071\" props=\"{&quot;media&quot;:[0,{&quot;desktop&quot;:[0,{&quot;type&quot;:[0,&quot;video&quot;],&quot;src&quot;:[0,&quot;https://vimeo.com/1223678585?share=copy&amp;fl=sv&amp;fe=ci&quot;],&quot;poster&quot;:[0,&quot;https://cdn.sanity.io/images/6ct6b26e/marketing-prod/14dd82bd9290f44c61170a0dc03897f35a3481e1-2112x1944.png?w=1400&amp;auto=format&quot;],&quot;aspectRatio&quot;:[0,&quot;2112 / 1944&quot;],&quot;looping&quot;:[0,true],&quot;posterWidth&quot;:[0,2112],&quot;poste"
+   ],
+   "vimeo.com/1223222038": [
+    "stro/client.B3L6fh9q.js?dpl=6abc3fdc7511ac00080f3071\" props=\"{&quot;heading&quot;:[0,&quot;Composer, your AI marketing agent&quot;],&quot;media&quot;:[0,{&quot;desktop&quot;:[0,{&quot;type&quot;:[0,&quot;video&quot;],&quot;src&quot;:[0,&quot;https://vimeo.com/1223222038?share=copy&amp;fl=sv&amp;fe=ci&quot;],&quot;poster&quot;:[0,&quot;https://cdn.sanity.io/images/6ct6b26e/marketing-prod/5ba173ae3bbd30825c4399109bd3f3a0affcec80-1050x1050.png?auto=format&quot;],&quot;aspectRatio&quot;:[0,&quot;1050 / 1050&quot;],&quot;looping&quot;:[0,true],&quot;playOnHover&quot;:[0,true],&quot;posterWidth&quot"
+   ]
+  }
+ },
+ "gong.io": {
+  "clicks": [],
+  "context": {
+   "5lqgv3qxc8": [
+    "ty.io/images/ww20clc6/production/9168ac5117ad7fd3d7b8b5bd334ee260b277837e-592x474.png\\\"},\\\"caption\\\":null},\\\"title\\\":\\\"Anthropic Customer Story - Homepage\\\",\\\"videoFile\\\":null,\\\"videoType\\\":\\\"wistia\\\",\\\"wistiaUrl\\\":\\\"https://gongio.wistia.com/medias/5lqgv3qxc8\\\",\\\"youtubeUrl\\\":null},\\\"eyebrow\\\":{\\\"_type\\\":\\\"eyebrow\\\",\\\"elementType\\\":\\\"p\\\"},\\\"heading\\\":{\\\"elementType\\\":\\\"h2\\\",\\\"fontFamily\\\":\\\"inter\\\",\\\"heading\\\":[{\\\"_key\\\":\\\"4ae9dc8ae4a1\\\",\\\"_type\\\":\\\"block\\\",\\\"children\\\":[{\\\"_key\\\":\\\"d1a1d587bcf4\\\",\\\"_type\\\":\\\"span\\\",\\\"marks\\\":[],\\\"text\\\":\\\"Anthropic \\\"},{\\\"_key\\\":\\\"75479930c340\\\",\\\"_type\\\":\\\""
+   ],
+   "wistia.net/embed/iframe/": [
+    "a=a||{};var d=a.name||\"dataLayer\",b=a.name||f.GoogleAnalyticsObject|| \"ga\",c=\"_gaq\",e={gtm:function(h,k){console.log(h);console.log(k);var q;h==\"start\"&&(q=0);h.indexOf(\"%\")>-1&&(q=parseInt(h),h=\"progress\");h==\"complete\"&&(q=100);var u=\"https://fast.wistia.net/embed/iframe/\"+k.hashedId();g.push({event:\"gtm.video\",\"gtm.elementUrl\":u,\"gtm.elementId\":k.hashedId(),\"gtm.videoStatus\":h,\"gtm.videoPercent\":q,\"gtm.videoProvider\":\"Wistia\",\"gtm.videoTitle\":k.name(),\"gtm.videoUrl\":u,\"gtm.videoVisible\":!0})},cl:function(h,k){},ua:function(h,k){}};switch(a.type){case \"gtm\":var g= f[d]=f[d]||[];break;case \"u"
+   ]
+  }
+ },
+ "freshworks.com": {
+  "clicks": [],
+  "context": {
+   "wistia-player": [
+    "licy-overlay=\"true\" data-video-policy-overlay-active=\"true\" data-video-policy-overlay-fade-in=\"true\"><div class=\"Container-sc-dfc439a-0 WistiaBackgroundPlayer___StyledContainer-sc-15da3066-1 gKkGha uWHLD fw-hero-video-background-shell\" width=\"100%\"><wistia-player media-id=\"l6i9jhve38\" autoplay=\"\" end-video-behavior=\"loop\" objectfit=\"cover\" data-fw-object-fit=\"cover\" data-fw-object-position=\"right center\" unique-id=\"wistia-l6i9jhve38-122\" style=\"width: 100%; height: 100%; object-fit: cover; object-position: right center; background-color: transparent;\" controls=\"none\"></wistia-player></div></di",
+    "jectfit=\"cover\" data-fw-object-fit=\"cover\" data-fw-object-position=\"right center\" unique-id=\"wistia-l6i9jhve38-122\" style=\"width: 100%; height: 100%; object-fit: cover; object-position: right center; background-color: transparent;\" controls=\"none\"></wistia-player></div></div></div><div class=\"Flex-sc-59deee46-0 VariantCard___StyledFlex5-sc-7af13ee8-17 iwrAZk ivXRnk fw-card__background-media-overlay\"></div></div><div class=\"Flex-sc-59deee46-0 VariantCard___StyledFlex19-sc-7af13ee8-31 ekddyk kwvYe fw-card__content\" data-card-content-visible=\"true\" data-card-content-overlay=\"true\" flexdirection=\"",
+    "><div class=\"Container-sc-dfc439a-0 WistiaBackgroundPlayer___StyledContainer-sc-15da3066-1 jckjxC geUCuh fw-wistia-container-fill-shell fw-wistia-object-fit-contain\" width=\"100%\" height=\"100%\" style=\"width: 100%; height: 100%; min-height: inherit;\"><wistia-player media-id=\"d279sn3ish\" autoplay=\"\" muted=\"\" end-video-behavior=\"loop\" objectfit=\"contain\" data-fw-object-fit=\"contain\" data-fw-object-position=\"center top\" controls=\"none\" unique-id=\"wistia-d279sn3ish-23\" style=\"width: 100%; max-width: 100%; height: 100%; min-height: 100%; object-fit: contain; object-position: center top; background-co",
+    "=\"contain\" data-fw-object-position=\"center top\" controls=\"none\" unique-id=\"wistia-d279sn3ish-23\" style=\"width: 100%; max-width: 100%; height: 100%; min-height: 100%; object-fit: contain; object-position: center top; background-color: transparent;\"></wistia-player></div></div></div></div></div></div></div><div data-grid-slot=\"quote\" class=\"SectionContentGridRenderer__GridSlot-sc-72c50ea0-1 kHopZc\"><div style=\"--scalable-card-dark-background:transparent;--scalable-card-dark-border-color:transparent;--scalable-card-dark-hover-border-color:transparent;--scalable-card-dark-hover-shadow:none;--scala"
+   ]
+  }
+ }
+}

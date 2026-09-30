@@ -1,0 +1,35 @@
+webDomain,rrtStatus,rrtTypes,rrtVideoValid,rrtVideoInvalid,rrtVideoNames,rrtNote
+hubspot.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+salesforce.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+notion.so,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+asana.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+monday.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+airtable.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+linear.app,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+intercom.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+zendesk.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+freshworks.com,blocked,,,,,"first test, 30 Sep 2026: the Rich Results Test redirected to accounts.google.com ('Sign in to continue to Google Search Console'); RRT step stopped at this site"
+pipedrive.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+close.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+outreach.io,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+gong.io,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+clari.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+apollo.io,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+klaviyo.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+braze.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+customer.io,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+iterable.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+semrush.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+ahrefs.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+vanta.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+drata.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+wiz.io,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+crowdstrike.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+okta.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+datadoghq.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+newrelic.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+hashicorp.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+ramp.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+brex.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+deel.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall
+rippling.com,blocked,,,,,not run: the RRT step stopped at the first test (freshworks.com) on a Google sign-in wall

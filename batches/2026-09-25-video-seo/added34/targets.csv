@@ -1,0 +1,35 @@
+companyName,webDomain,url,category,userVideo,userVideoType,userNotes,userOrganicTraffic
+HubSpot,hubspot.com,https://www.hubspot.com,CRM / Marketing SaaS,Yes,Hero animated clips (3 rotating self-hosted MP4),Self-hosted MP4 hero animations; no platform embed so length not readable from markup,1.7M
+Salesforce,salesforce.com,https://www.salesforce.com,CRM SaaS,No,,"Image/text hero; ""Watch demo"" links out to separate demo pages; no embedded or autoplay video on the homepage itself",5.1M
+Notion,notion.so,https://www.notion.so,Productivity SaaS,Yes,Hero background video (self-hosted MP4 autoplay loop),Autoplay hero loop hosted on ctfassets; self-hosted so length not readable,128K
+Asana,asana.com,https://asana.com,Project Management SaaS,No,,Image/screenshot hero; demo videos are linked out (View demo),2.9M
+Monday.com,monday.com,https://monday.com,Work Management SaaS,Yes,Hero background videos (self-hosted .webm autoplay loops; multiple),Several autoplay .webm loops across hero and sections (Cloudinary); self-hosted so length not readable,641K
+Airtable,airtable.com,https://www.airtable.com,Database / Productivity SaaS,Yes,Hero video (self-hosted MP4) plus section videos,Autoplay hero MP4 and multiple section MP4s (Sanity CDN); self-hosted,565K
+Linear,linear.app,https://linear.app,Product Management SaaS,No,,Hero is animated UI product mockups (image/JS animation); no video file or platform embed on the page,36.5K
+Intercom,intercom.com,https://www.intercom.com,Customer Support SaaS,No,,"Static image hero gallery (.webp); ""View demo"" links out; no video file or platform embed on the homepage",126K
+Zendesk,zendesk.com,https://www.zendesk.com,Customer Support SaaS,Unsure,Animated hero with image fallbacks,"Hero/sections use ""animation-fallbacks"" stills implying motion graphics (likely Lottie/JS); no explicit video file or platform embed detected — worth a manual eyeball",658K
+Freshworks,freshworks.com,https://www.freshworks.com,Customer Experience SaaS,Yes,Embedded Wistia videos (body sections),Wistia embeds in sections (media IDs d279sn3ish / d1wzvwwzjl); hero is a static image; duration obtainable via Wistia if needed,271K
+Pipedrive,pipedrive.com,https://www.pipedrive.com,CRM SaaS,No,,"Static illustration hero; one animated GIF in a feature section; ""Watch demo"" links out; no video file or platform embed",562K
+Close,close.com,https://www.close.com,Sales CRM SaaS,Yes,Hero background video (self-hosted .webm) plus section loop,Autoplay .webm hero (Hero_Chloe) and an Orb loop .webm; self-hosted so length not readable,157K
+Outreach,outreach.io,https://www.outreach.io,Sales Engagement SaaS,No,,"Redirects to outreach.ai; hero is text + illustrations (svg/avif); ""Get a demo"" links out; no video file or platform embed",523K
+Gong,gong.io,https://www.gong.io,Revenue Intelligence SaaS,No,,"Static graphics + animated number counters; ""See Gong in action"" platform tour links out; no video file or platform embed",34.2K
+Clari,clari.com,https://www.clari.com,Revenue Operations SaaS,No,,"clari.com now redirects to salesloft.com (merged); hero is text + animated diagrams (SVG/webp); ""Tour Platform"" links out; no video file or platform embed",14.6K
+Apollo.io,apollo.io,https://www.apollo.io,Sales Intelligence SaaS,Yes,Hero background video (self-hosted .webm autoplay with image fallback),Autoplay .webm hero (homepage-hero-desktop-xl) with static PNG fallback; self-hosted,268K
+Klaviyo,klaviyo.com,https://www.klaviyo.com,Marketing Automation,No,,Static illustration hero (Sanity CDN images); no video file or platform embed,372K
+Braze,braze.com,https://www.braze.com,Customer Engagement SaaS,No,,"Static hero image (asset named ""SIZZLE"" but a PNG) plus product screenshots; no video file or platform embed",81.6K
+Customer.io,customer.io,https://customer.io,Messaging Automation,No,,Static hero image + dashboard screenshot; no video file or platform embed,15.4K
+Iterable,iterable.com,https://iterable.com,Marketing Automation,No,,"Text hero + logos/screenshots (webp/png); ""Take a tour"" links out; no video file or platform embed",9.2K
+Semrush,semrush.com,https://www.semrush.com,Marketing SaaS,No,,Static hero + product screenshots (svg/webp); no video file or platform embed (note: Semrush acquired by Adobe),12.7M
+Ahrefs,ahrefs.com,https://ahrefs.com,SEO SaaS,Yes,Hero video (self-hosted .mp4) plus product videos,Autoplay .mp4 hero plus multiple product .mp4s (brand-radar/rank-tracker); self-hosted,3.5M
+Vanta,vanta.com,https://www.vanta.com,Security Compliance SaaS,Unsure,"Hero ""LoadingStill"" placeholder (likely JS-loaded animation/video)","Hero uses a ""Hero_Homepage_LoadingStill"" SVG implying a JS-loaded animation/video; no explicit video file in served HTML — verify manually",96.6K
+Drata,drata.com,https://drata.com,Security Compliance SaaS,Unsure,,Homepage is JS-rendered; served HTML exposed no media assets to inspect — verify manually or via the script,52.1K
+Wiz,wiz.io,https://www.wiz.io,Cloud Security SaaS,Yes,Customer testimonial videos (JS-loaded; poster stills present),Testimonial carousel uses video poster stills with timecodes (video loaded via JS from datocms); hero itself is a form/text,102K
+CrowdStrike,crowdstrike.com,https://www.crowdstrike.com,Cybersecurity SaaS,Yes,Customer testimonial videos (Vidyard-embedded),Vidyard testimonial videos embedded (play.vidyard.com posters + launchPlayer); hero is graphics/text,418K
+Okta,okta.com,https://www.okta.com,Identity SaaS,Unsure,"Hero media JS-loaded (Oktane ""Watch now"")","Hero uses empty/JS-loaded image slots with an Oktane on-demand ""Watch now""; no explicit video file in served HTML — verify manually",608K
+Datadog,datadoghq.com,https://www.datadoghq.com,Monitoring SaaS,Yes,Product section videos (self-hosted .mp4) plus Vimeo,Many autoplay product .mp4 loops (corp.dd-static.net/video) plus a Vimeo .mp4; hero itself is text,256K
+New Relic,newrelic.com,https://newrelic.com,Observability SaaS,No,,Text/animated-word hero + image tiles (Drupal); no video file or platform embed on the homepage,157K
+HashiCorp,hashicorp.com,https://www.hashicorp.com,Infrastructure SaaS,No,,"Image hero (datocms webp) + logos; no video file or platform embed (now ""An IBM Company"")",80.1K
+Ramp,ramp.com,https://ramp.com,Fintech SaaS,Yes,Hero background video (self-hosted .webm) plus section video,Autoplay .webm hero (homepage-hero) plus a section .mp4; self-hosted,322K
+Brex,brex.com,https://www.brex.com,Fintech SaaS,Yes,Hero video (self-hosted .mp4),"Self-hosted .mp4 in hero (""See Brex in action""); other tiles are images",241K
+Deel,deel.com,https://www.deel.com,HR SaaS,No,,Text hero + image tiles/logos (Next image); no video file or platform embed,298K
+Rippling,rippling.com,https://www.rippling.com,HR SaaS,Unsure,,"JS-rendered page; served HTML exposed no media/video to inspect (demo is ""live or on demand"") — verify manually",458K

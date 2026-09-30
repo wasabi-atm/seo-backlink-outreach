@@ -1,0 +1,1890 @@
+[{
+  "data_captured_at": "2026-09-30T06:23:47.025942",
+  "type": "overview",
+  "searchUrl": "https://hubspot.com",
+  "url": "https://hubspot.com",
+  "domain": "hubspot.com",
+  "rankGlobal": 601,
+  "country": "US",
+  "countryRank": 384,
+  "category": "Business_and_Consumer_Services/Online_Marketing",
+  "categoryRank": 2,
+  "title": "HubSpot Customer Platform",
+  "description": "HubSpot is an AI-powered customer platform with software for marketing, sales, customer service, content management, operations, and commerce. It connects your data, teams, and customers on one AI-powered platform that grows with your business. HubSpot Credits are an account/portal-level usage currency shared across the platform; included credits are based on your highest subscription tier, reset monthly, and are not additive across Hubs.",
+  "bounceRate": 0.24318067360021003,
+  "pagesPerVisit": 16.18684161559308,
+  "timeOnSite": 976.5916120632326,
+  "totalVisits": 43202555,
+  "monthlyVisitsDateFormat": {
+    "2026-06-01": 42843640,
+    "2026-07-01": 44853353,
+    "2026-08-01": 43202555
+  },
+  "monthlyVisits": [
+    {
+      "month": "June 2026",
+      "visits": 42843640
+    },
+    {
+      "month": "July 2026",
+      "visits": 44853353
+    },
+    {
+      "month": "August 2026",
+      "visits": 43202555
+    }
+  ],
+  "website_traffic_by_country": [
+    {
+      "country": "US",
+      "share": 0.36788469512765576,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 157616
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 165009
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 158936
+        }
+      ]
+    },
+    {
+      "country": "GB",
+      "share": 0.0933910705142671,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 40013
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 41890
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 40348
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "share": 0.0465807815411735,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 19957
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 20894
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 20125
+        }
+      ]
+    },
+    {
+      "country": "IN",
+      "share": 0.04044055081668436,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 17327
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 18139
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 17472
+        }
+      ]
+    },
+    {
+      "country": "AU",
+      "share": 0.04019426025654293,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 17221
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 18029
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 17365
+        }
+      ]
+    },
+    {
+      "country": "OTHER",
+      "share": 0.41150864174367635,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 176306
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 184576
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 177783
+        }
+      ]
+    }
+  ],
+  "topKeywords": [
+    {
+      "keyword": "hubspot",
+      "estimatedValue": 863140,
+      "searchVolume": 1185030,
+      "cpc": 9.47
+    },
+    {
+      "keyword": "hubspot login",
+      "estimatedValue": 153960,
+      "searchVolume": 125210,
+      "cpc": 3.35
+    },
+    {
+      "keyword": "hubspot academy",
+      "estimatedValue": 134670,
+      "searchVolume": 118030,
+      "cpc": 2.95
+    },
+    {
+      "keyword": "media buying platform",
+      "estimatedValue": 67840,
+      "searchVolume": 6066370,
+      "cpc": null
+    },
+    {
+      "keyword": "website grader",
+      "estimatedValue": 66380,
+      "searchVolume": 610330,
+      "cpc": 9.44
+    }
+  ],
+  "engagement": {
+    "bounceRate": 0.24318067360021003,
+    "month": 8,
+    "year": 2026,
+    "pagesPerVisit": 16.18684161559308,
+    "visits": 43202555,
+    "timeOnSite": 976.5916120632326,
+    "dateFormat": "2026-08-01T00:00:00"
+  },
+  "socialTraffic": 0.05377471265891153,
+  "socialOrganicTraffic": 0.04608827722528468,
+  "socialPaidTraffic": 0.007686435433626853,
+  "referralTraffic": 0.06611239408691195,
+  "searchTraffic": 0.08020650450762142,
+  "searchOrganicTraffic": 0.07130242881988834,
+  "searchPaidTraffic": 0.008904075687733073,
+  "directTraffic": 0.7044626105741753,
+  "mailTraffic": 0.07539537925898726,
+  "affiliateTraffic": 0.0010512052479736895,
+  "displayAdsTraffic": 0.008438277816322651,
+  "genAiTraffic": 0.010558915849096066,
+  "aiTrafficShareChatgpt": 0.607632647455002,
+  "aiTrafficShareClaude": 0.2707214726998872,
+  "aiTrafficSharePerplexity": null,
+  "aiTrafficShareGemini": 0.058483065473772224,
+  "aiTrafficShareCopilot": null,
+  "aiTrafficShareHistory": [
+    {
+      "date": "2026-06-01T00:00:00",
+      "chatgpt_share": 65.74403381342448,
+      "claude_share": 26.40632229251112,
+      "perplexity_share": null,
+      "gemini_share": 4.926272857905109,
+      "copilot_share": null
+    },
+    {
+      "date": "2026-07-01T00:00:00",
+      "chatgpt_share": 61.044017324510605,
+      "claude_share": 30.491746690413514,
+      "perplexity_share": null,
+      "gemini_share": 5.543534442718519,
+      "copilot_share": null
+    },
+    {
+      "date": "2026-08-01T00:00:00",
+      "chatgpt_share": 60.7632647455002,
+      "claude_share": 27.072147269988722,
+      "perplexity_share": null,
+      "gemini_share": 5.848306547377223,
+      "copilot_share": null
+    }
+  ],
+  "aiTopPrompts": [
+    "What are the step-by-step best practices for building an effective inbound marketing strategy that attracts and converts website visitors into leads?",
+    "How does a CRM-based marketing automation workflow compare to manual email marketing in terms of lead nurturing efficiency and ROI for small to mid-size businesses?",
+    "Can you recommend the essential metrics and a simple dashboard layout for tracking the performance of content-led lead generation campaigns across blog, social, and email channels?"
+  ],
+  "countryShare": [
+    {
+      "country": "US",
+      "share": 0.36788469512765576
+    },
+    {
+      "country": "GB",
+      "share": 0.0933910705142671
+    },
+    {
+      "country": "JP",
+      "share": 0.0465807815411735
+    },
+    {
+      "country": "IN",
+      "share": 0.04044055081668436
+    },
+    {
+      "country": "AU",
+      "share": 0.04019426025654293
+    },
+    {
+      "country": "OTHER",
+      "share": 0.41150864174367635
+    }
+  ],
+  "isDataFromGoogleAds": false,
+  "isSmall": false,
+  "policy": 0,
+  "previewDesktop": "https://site-images.similarcdn.com/image?url=hubspot.com&t=1&s=1&h=ead473ebec5efd666f067e4498a03078c97715f7e0c8aaf4fa2f3c83de5c67d8",
+  "previewMobile": "https://site-images.similarcdn.com/image?url=hubspot.com&t=4&s=1&h=ead473ebec5efd666f067e4498a03078c97715f7e0c8aaf4fa2f3c83de5c67d8",
+  "snapshotDate": "2026-08-01T00:00:00Z",
+  "favicon": "https://site-images.similarcdn.com/image?url=hubspot.com&t=2&h=ead473ebec5efd666f067e4498a03078c97715f7e0c8aaf4fa2f3c83de5c67d8",
+  "redirect": null,
+  "company_parent_domain": "hubspot.com",
+  "company_name": "HubSpot",
+  "company_year_founded": 2006,
+  "company_headquarters": "US",
+  "company_headquarters_city": "Cambridge",
+  "company_employees_min": 5001,
+  "company_employees_max": 10000,
+  "company_revenue_min": 1000000000,
+  "company_revenue_max": null,
+  "company_revenue_currency": "USD",
+  "organic_search_share": 0.8762306563374179,
+  "paid_search_share": 0.12376934366258208,
+  "total_keywords": 100706,
+  "top_keywords": [
+    {
+      "keyword": "hubspot",
+      "cpc": 9.47
+    },
+    {
+      "keyword": "hubspot login",
+      "cpc": 3.35
+    },
+    {
+      "keyword": "hubspot academy",
+      "cpc": 2.95
+    },
+    {
+      "keyword": "media buying platform",
+      "cpc": null
+    },
+    {
+      "keyword": "website grader",
+      "cpc": 9.44
+    }
+  ],
+  "total_social_networks": 17,
+  "social_networks_share": [
+    {
+      "name": "Youtube",
+      "visits_share": 0.4956621163223123,
+      "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+    },
+    {
+      "name": "Linkedin",
+      "visits_share": 0.2644140521958176,
+      "icon": "https://site-images.similarcdn.com/image?url=linkedin.com&t=2&s=1&h=64a0e043fc8ff74ac308e3f0e136ae7d1b6544be4e9e704ad7fd062070be48a1"
+    },
+    {
+      "name": "Facebook",
+      "visits_share": 0.08554908417646648,
+      "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+    },
+    {
+      "name": "WhatsApp Webapp",
+      "visits_share": 0.05924196058736256,
+      "icon": "https://site-images.similarcdn.com/image?url=web.whatsapp.com&t=2&s=1&h=451e82ca011741d37d72edee1d8fdc272155924d894fe937e292066acb713bc8"
+    },
+    {
+      "name": "Instagram",
+      "visits_share": 0.03638138138651366,
+      "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+    }
+  ],
+  "age_distribution": [
+    {
+      "min_age": 25,
+      "max_age": 34,
+      "share": 0.25671601595995863
+    },
+    {
+      "min_age": 35,
+      "max_age": 44,
+      "share": 0.19701639442440172
+    },
+    {
+      "min_age": 45,
+      "max_age": 54,
+      "share": 0.19651855910826194
+    },
+    {
+      "min_age": 55,
+      "max_age": 64,
+      "share": 0.1633772465178976
+    },
+    {
+      "min_age": 65,
+      "max_age": null,
+      "share": 0.10164894218686779
+    },
+    {
+      "min_age": 18,
+      "max_age": 24,
+      "share": 0.08472284180261239
+    }
+  ],
+  "gender_distribution": {
+    "male": 0.5320888564205312,
+    "female": 0.46791114357946884
+  },
+  "global_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 580
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 603
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 601
+    }
+  ],
+  "country_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 382
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 381
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 384
+    }
+  ],
+  "category_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 2
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 2
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 2
+    }
+  ],
+  "top_competitors": [
+    {
+      "domain": "salesforce.com",
+      "icon": "https://site-images.similarcdn.com/image?url=salesforce.com&t=2&s=1&h=aff36f917f5db93458a57103012cbcd9203c0788feb9d3d9c9f1f0eed9c22503",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 14,
+      "affinity": 1
+    },
+    {
+      "domain": "pipedrive.com",
+      "icon": "https://site-images.similarcdn.com/image?url=pipedrive.com&t=2&s=1&h=212e72edebd6b26cfbbd3f833ca5fddc58edd9488ea4b9c6c77c745b37fd3128",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 110,
+      "affinity": 0.9565217391304347
+    },
+    {
+      "domain": "monday.com",
+      "icon": "https://site-images.similarcdn.com/image?url=monday.com&t=2&s=1&h=0338c07aa1c8b7f9f30d07a48ebf8a2d5f278c7e50df6c8496a339d34c02743f",
+      "visits": null,
+      "category": "computers_electronics_and_technology/computers_electronics_and_technology",
+      "category_rank": 43,
+      "affinity": 0.9239130434782608
+    },
+    {
+      "domain": "zoho.in",
+      "icon": "https://site-images.similarcdn.com/image?url=zoho.in&t=2&s=1&h=20cdf76e0dc3b224627f8b3838f3e3470d52a30aab70ed828ed0f8e6d9d2fc03",
+      "visits": null,
+      "category": "computers_electronics_and_technology/graphics_multimedia_and_web_design",
+      "category_rank": 8,
+      "affinity": 0.9021739130434782
+    },
+    {
+      "domain": "freshdesk.com",
+      "icon": "https://site-images.similarcdn.com/image?url=freshdesk.com&t=2&s=1&h=100b86be12b7102bbcd85df36f2bebcb5c983922d6f62ad552af2052d42aa587",
+      "visits": null,
+      "category": "computers_electronics_and_technology/computers_electronics_and_technology",
+      "category_rank": 108,
+      "affinity": 0.8586956521739131
+    },
+    {
+      "domain": "zendesk.com",
+      "icon": "https://site-images.similarcdn.com/image?url=zendesk.com&t=2&s=1&h=357dbb6d1c9efc894622efef2413a80e647d8e85ecda2fd01d2af1cb5655b843",
+      "visits": null,
+      "category": "computers_electronics_and_technology/computers_electronics_and_technology",
+      "category_rank": 17,
+      "affinity": 0.8478260869565217
+    },
+    {
+      "domain": "dynamics.com",
+      "icon": "https://site-images.similarcdn.com/image?url=dynamics.com&t=2&s=1&h=54753623a15e42d0d932b70489823bad8fc6b84b7b5a0d195548308d0d6be2ba",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 23,
+      "affinity": 0.8260869565217391
+    },
+    {
+      "domain": "qualtrics.com",
+      "icon": "https://site-images.similarcdn.com/image?url=qualtrics.com&t=2&s=1&h=7071c2e1cc90b20770de789b1d92f1cd88def1e0315ade9b2df6a96c5af8579a",
+      "visits": null,
+      "category": "business_and_consumer_services/business_services",
+      "category_rank": 8,
+      "affinity": 0.8043478260869564
+    },
+    {
+      "domain": "medallia.com",
+      "icon": "https://site-images.similarcdn.com/image?url=medallia.com&t=2&s=1&h=195fe01ba6e6b50b2a2e94b2d23d610649482a7b85777ac7ced5ea1e3ade87a8",
+      "visits": null,
+      "category": "business_and_consumer_services/business_services",
+      "category_rank": null,
+      "affinity": 0.7826086956521738
+    },
+    {
+      "domain": "alchemer.com",
+      "icon": "https://site-images.similarcdn.com/image?url=alchemer.com&t=2&s=1&h=7b5d36d340deee9ecc2e6ecca070ab6267a56ea342c6ac6d34ef073b50c8389e",
+      "visits": null,
+      "category": "business_and_consumer_services/marketing_and_advertising",
+      "category_rank": 11,
+      "affinity": 0.7499999999999999
+    }
+  ],
+  "top_interested_websites": [
+    {
+      "domain": "calendar.google.com",
+      "icon": "https://site-images.similarcdn.com/image?url=calendar.google.com&t=2&s=1&h=76cbf5886d2ceca045b40a37b67de84af05e30d4d86570d6b1624d950f97d7d0"
+    },
+    {
+      "domain": "meet.google.com",
+      "icon": "https://site-images.similarcdn.com/image?url=meet.google.com&t=2&s=1&h=a5677bf02661d79bf8a6cce9401d4fc40b39ab036bc760067beaa015f41995d0"
+    },
+    {
+      "domain": "linkedin.com",
+      "icon": "https://site-images.similarcdn.com/image?url=linkedin.com&t=2&s=1&h=64a0e043fc8ff74ac308e3f0e136ae7d1b6544be4e9e704ad7fd062070be48a1"
+    },
+    {
+      "domain": "app.notion.com",
+      "icon": "https://site-images.similarcdn.com/image?url=app.notion.com&t=2&s=1&h=b1563daa50cdd3a1f91f84191518ad3e87ebc8fd0d4d1780a9c6bc2cf82def5b"
+    },
+    {
+      "domain": "stripe.com",
+      "icon": "https://site-images.similarcdn.com/image?url=stripe.com&t=2&s=1&h=d68993ccefeee1fe61031cd46586b3158ad13585abae80195cc41b500863c253"
+    }
+  ],
+  "top_interested_topics": [
+    "news",
+    "business",
+    "shopping",
+    "online",
+    "search"
+  ],
+  "top_categories": null,
+  "total_incoming_referring_domains": 903,
+  "top_incoming_referring_domains": [
+    {
+      "domain": "force.com",
+      "icon": "https://site-images.similarcdn.com/image?url=force.com&t=2&s=1&h=d410a930728d6d466c397b9e97796d0a8e782c022bf2d286ef217da21ed0e695",
+      "visits_share": 0.026869623415979763
+    },
+    {
+      "domain": "getsidekick.com",
+      "icon": "https://site-images.similarcdn.com/image?url=getsidekick.com&t=2&s=1&h=940053b64a91c669aa6c12cd1b2a52991f728480009a9c21eaf3317f04419617",
+      "visits_share": 0.025678853690124834
+    },
+    {
+      "domain": "hubspot.jp",
+      "icon": "https://site-images.similarcdn.com/image?url=hubspot.jp&t=2&s=1&h=29b9e4a9089877c9fcd16e3b3ad72a32b727943c1fc88fe633b57220836d96b3",
+      "visits_share": 0.01991090129462295
+    }
+  ],
+  "top_incoming_categories": [
+    {
+      "category": "Business_and_Consumer_Services/Online_Marketing",
+      "visits_share": 0.10100551510638084
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Graphics_Multimedia_and_Web_Design",
+      "visits_share": 0.06390852177174403
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+      "visits_share": 0.06262974971629104
+    },
+    {
+      "category": "Business_and_Consumer_Services/Business_Services",
+      "visits_share": 0.05823482444696488
+    },
+    {
+      "category": "Business_and_Consumer_Services/Marketing_and_Advertising",
+      "visits_share": 0.05682577180899563
+    }
+  ],
+  "total_ads_sites": 207,
+  "total_ads_networks": 3,
+  "top_ads_sites": [
+    {
+      "domain": "microsoft.com",
+      "icon": "https://site-images.similarcdn.com/image?url=microsoft.com&t=2&s=1&h=47a418caa42749a0e924f26be103fa62a0ddf9cec8ef2c315a29ea3dbe296fbc",
+      "visits_share": 0.032308900422535924
+    },
+    {
+      "domain": "force.com",
+      "icon": "https://site-images.similarcdn.com/image?url=force.com&t=2&s=1&h=d410a930728d6d466c397b9e97796d0a8e782c022bf2d286ef217da21ed0e695",
+      "visits_share": 0.029008983018027828
+    },
+    {
+      "domain": "top10.com",
+      "icon": "https://site-images.similarcdn.com/image?url=top10.com&t=2&s=1&h=cdf22ac834f81fe50962907bacd3fbcf6cf527cc56d850a27f1009144724ec78",
+      "visits_share": 0.02228118070347503
+    }
+  ],
+  "total_outgoing_referring_domains": 862,
+  "top_outgoing_referring_domains": [
+    {
+      "domain": "linkedin.com",
+      "icon": "https://site-images.similarcdn.com/image?url=linkedin.com&t=2&s=1&h=64a0e043fc8ff74ac308e3f0e136ae7d1b6544be4e9e704ad7fd062070be48a1",
+      "visits_share": 0.027791616833858907
+    },
+    {
+      "domain": "canva.com",
+      "icon": "https://site-images.similarcdn.com/image?url=canva.com&t=2&s=1&h=76c69b938e0fc8e4bebe1e545dba8f4ad7bd78aec8c65f149f36030ee1036a65",
+      "visits_share": 0.027317886945178844
+    },
+    {
+      "domain": "shopify.com",
+      "icon": "https://site-images.similarcdn.com/image?url=shopify.com&t=2&s=1&h=67fccc7f5071ff4dfef6eeaf519bd6c730ccd050a0562695b0ac448eb5140a50",
+      "visits_share": 0.022859062376122886
+    }
+  ],
+  "top_outgoing_categories": [
+    {
+      "category": "AI_Chatbots_and_Tools",
+      "visits_share": 0.21288369886774722
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Search_Engines",
+      "visits_share": 0.09845706435647211
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Social_Networks_and_Online_Communities",
+      "visits_share": 0.09358357641902289
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+      "visits_share": 0.08381464278368811
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Graphics_Multimedia_and_Web_Design",
+      "visits_share": 0.04979056493985608
+    }
+  ],
+  "marketing_channel_distribution": [
+    {
+      "channel": "direct",
+      "rank": 1,
+      "share": 0.7044626105741753
+    },
+    {
+      "channel": "mail",
+      "rank": 2,
+      "share": null
+    },
+    {
+      "channel": "organic",
+      "rank": 3,
+      "share": null
+    }
+  ],
+  "top_technology_providers": [
+    {
+      "tech_name": "DoubleClick",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=239",
+      "category": "advertising",
+      "total_tech_used_in_category": 28
+    },
+    {
+      "tech_name": "PayPal",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1146",
+      "category": "payment_and_currencies",
+      "total_tech_used_in_category": 28
+    },
+    {
+      "tech_name": "Google Analytics",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1",
+      "category": "conversion_and_analytics",
+      "total_tech_used_in_category": 18
+    },
+    {
+      "tech_name": "Google Marketing Platform",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=5492",
+      "category": "marketing",
+      "total_tech_used_in_category": 10
+    }
+  ],
+  "related_apps": null,
+  "similarSites": null
+},
+{
+  "data_captured_at": "2026-09-30T06:23:47.025942",
+  "type": "overview",
+  "searchUrl": "https://zbooni.com",
+  "url": "https://zbooni.com",
+  "domain": "zbooni.com",
+  "rankGlobal": 363968,
+  "country": "US",
+  "countryRank": 221368,
+  "category": "Computers_Electronics_and_Technology/Graphics_Multimedia_and_Web_Design",
+  "categoryRank": 1613,
+  "title": "Home | The ultimate social commerce platform",
+  "description": "Customers are most receptive on social and messaging apps today. Bring the checkout experience to them, in real-time.",
+  "bounceRate": 0.3230188730462445,
+  "pagesPerVisit": 3.310417841914074,
+  "timeOnSite": 63.44665826275193,
+  "totalVisits": 93947,
+  "monthlyVisitsDateFormat": {
+    "2026-06-01": 103622,
+    "2026-07-01": 123031,
+    "2026-08-01": 93947
+  },
+  "monthlyVisits": [
+    {
+      "month": "June 2026",
+      "visits": 103622
+    },
+    {
+      "month": "July 2026",
+      "visits": 123031
+    },
+    {
+      "month": "August 2026",
+      "visits": 93947
+    }
+  ],
+  "website_traffic_by_country": [
+    {
+      "country": "AE",
+      "share": 0.22555937620538066,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 234
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 278
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 212
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "share": 0.19332133749114108,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 201
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 238
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 182
+        }
+      ]
+    },
+    {
+      "country": "SA",
+      "share": 0.14089580575172872,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 146
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 174
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 133
+        }
+      ]
+    },
+    {
+      "country": "EG",
+      "share": 0.10015549526382596,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 104
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 124
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 95
+        }
+      ]
+    },
+    {
+      "country": "FR",
+      "share": 0.05649576771508121,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 59
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 70
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 54
+        }
+      ]
+    },
+    {
+      "country": "OTHER",
+      "share": 0.28357221757284234,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 294
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 349
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 267
+        }
+      ]
+    }
+  ],
+  "topKeywords": [
+    {
+      "keyword": "zbooni",
+      "estimatedValue": 590,
+      "searchVolume": 850,
+      "cpc": 2.98
+    },
+    {
+      "keyword": "زبوني",
+      "estimatedValue": 260,
+      "searchVolume": 180,
+      "cpc": null
+    },
+    {
+      "keyword": "candylicious cube dubai",
+      "estimatedValue": 150,
+      "searchVolume": 160,
+      "cpc": null
+    },
+    {
+      "keyword": "zbni.co d",
+      "estimatedValue": 100,
+      "searchVolume": 110,
+      "cpc": null
+    },
+    {
+      "keyword": "الدفع يتم عبر متجر زبوني الرسمي بشكل آمن وموثوق",
+      "estimatedValue": 80,
+      "searchVolume": 80,
+      "cpc": null
+    }
+  ],
+  "engagement": {
+    "bounceRate": 0.3230188730462445,
+    "month": 8,
+    "year": 2026,
+    "pagesPerVisit": 3.310417841914074,
+    "visits": 93947,
+    "timeOnSite": 63.44665826275193,
+    "dateFormat": "2026-08-01T00:00:00"
+  },
+  "socialTraffic": 0.14903283709159376,
+  "socialOrganicTraffic": 0.14903283709159376,
+  "socialPaidTraffic": 0,
+  "referralTraffic": 0.07320417138307486,
+  "searchTraffic": 0.1458949085381277,
+  "searchOrganicTraffic": 0.1458949085381277,
+  "searchPaidTraffic": 0,
+  "directTraffic": 0.6263433956342942,
+  "mailTraffic": null,
+  "affiliateTraffic": 0,
+  "displayAdsTraffic": 0.005524687352909449,
+  "genAiTraffic": 0,
+  "aiTrafficShareChatgpt": null,
+  "aiTrafficShareClaude": null,
+  "aiTrafficSharePerplexity": null,
+  "aiTrafficShareGemini": null,
+  "aiTrafficShareCopilot": null,
+  "aiTrafficShareHistory": [],
+  "aiTopPrompts": [],
+  "countryShare": [
+    {
+      "country": "AE",
+      "share": 0.22555937620538066
+    },
+    {
+      "country": "US",
+      "share": 0.19332133749114108
+    },
+    {
+      "country": "SA",
+      "share": 0.14089580575172872
+    },
+    {
+      "country": "EG",
+      "share": 0.10015549526382596
+    },
+    {
+      "country": "FR",
+      "share": 0.05649576771508121
+    },
+    {
+      "country": "OTHER",
+      "share": 0.28357221757284234
+    }
+  ],
+  "isDataFromGoogleAds": false,
+  "isSmall": false,
+  "policy": 0,
+  "previewDesktop": "https://site-images.similarcdn.com/image?url=zbooni.com&t=1&s=1&h=9c7bc3c26b19a43d6f356018bac87b535c6119b3b11050582ddfe473a9450078",
+  "previewMobile": "https://site-images.similarcdn.com/image?url=zbooni.com&t=4&s=1&h=9c7bc3c26b19a43d6f356018bac87b535c6119b3b11050582ddfe473a9450078",
+  "snapshotDate": "2026-08-01T00:00:00Z",
+  "favicon": "https://site-images.similarcdn.com/image?url=zbooni.com&t=2&h=9c7bc3c26b19a43d6f356018bac87b535c6119b3b11050582ddfe473a9450078",
+  "redirect": null,
+  "company_parent_domain": null,
+  "company_name": null,
+  "company_year_founded": null,
+  "company_headquarters": null,
+  "company_headquarters_city": null,
+  "company_employees_min": null,
+  "company_employees_max": null,
+  "company_revenue_min": null,
+  "company_revenue_max": null,
+  "company_revenue_currency": null,
+  "organic_search_share": 1,
+  "paid_search_share": 0,
+  "total_keywords": 126,
+  "top_keywords": [
+    {
+      "keyword": "zbooni",
+      "cpc": 2.98
+    },
+    {
+      "keyword": "زبوني",
+      "cpc": null
+    },
+    {
+      "keyword": "candylicious cube dubai",
+      "cpc": null
+    },
+    {
+      "keyword": "zbni.co d",
+      "cpc": null
+    },
+    {
+      "keyword": "الدفع يتم عبر متجر زبوني الرسمي بشكل آمن وموثوق",
+      "cpc": null
+    }
+  ],
+  "total_social_networks": 1,
+  "social_networks_share": [
+    {
+      "name": "Facebook",
+      "visits_share": 1,
+      "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+    }
+  ],
+  "age_distribution": [
+    {
+      "min_age": 18,
+      "max_age": 24,
+      "share": 0
+    },
+    {
+      "min_age": 25,
+      "max_age": 34,
+      "share": 0
+    },
+    {
+      "min_age": 35,
+      "max_age": 44,
+      "share": 0
+    },
+    {
+      "min_age": 45,
+      "max_age": 54,
+      "share": 0
+    },
+    {
+      "min_age": 55,
+      "max_age": 64,
+      "share": 0
+    },
+    {
+      "min_age": 65,
+      "max_age": null,
+      "share": 0
+    }
+  ],
+  "gender_distribution": {
+    "male": null,
+    "female": null
+  },
+  "global_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 348813
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 300622
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 363968
+    }
+  ],
+  "country_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 884340
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 404706
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 221368
+    }
+  ],
+  "category_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 5989
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 3025
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 1613
+    }
+  ],
+  "top_competitors": [
+    {
+      "domain": "hedaoapp.com",
+      "icon": "https://site-images.similarcdn.com/image?url=hedaoapp.com&t=2&s=1&h=6a9d4392e3356d0382f6a77f9ec6cf80deb0b2c8d2c1090c39d37b7cfe498b7f",
+      "visits": null,
+      "category": "games/video_games_consoles_and_accessories",
+      "category_rank": 14590,
+      "affinity": 1
+    },
+    {
+      "domain": "subsub.io",
+      "icon": "https://site-images.similarcdn.com/image?url=subsub.io&t=2&s=1&h=fdd198c844625bcf4f2ead72d8924614c111440caf463a24bb15bc1e2fb9319d",
+      "visits": null,
+      "category": "adult",
+      "category_rank": 12442,
+      "affinity": 0.9743589743589743
+    },
+    {
+      "domain": "para.co",
+      "icon": "https://site-images.similarcdn.com/image?url=para.co&t=2&s=1&h=c906f137be260435c194d0a533517391652ccce704286a56fe504fac65413dbc",
+      "visits": null,
+      "category": "adult",
+      "category_rank": 20632,
+      "affinity": 0.9487179487179487
+    },
+    {
+      "domain": "scinetwork.ru",
+      "icon": "https://site-images.similarcdn.com/image?url=scinetwork.ru&t=2&s=1&h=760fe321fa78c8e56d3b9d3d3831809a08216ef9815000b466bb3e708601be14",
+      "visits": null,
+      "category": "science_and_education/libraries_and_museums",
+      "category_rank": 1585,
+      "affinity": 0.8846153846153845
+    },
+    {
+      "domain": "ofuse.me",
+      "icon": "https://site-images.similarcdn.com/image?url=ofuse.me&t=2&s=1&h=2dbfa083a41f4dc0396e6ccdfbdc624b4c3c9752351810780b424b6bdf536bbd",
+      "visits": null,
+      "category": "arts_and_entertainment/animation_and_comics",
+      "category_rank": 2357,
+      "affinity": 0.858974358974359
+    },
+    {
+      "domain": "mediacube.io",
+      "icon": "https://site-images.similarcdn.com/image?url=mediacube.io&t=2&s=1&h=a4e2ad2d82ae427122fa233a85992f1901fae234b787f9c901239e49f9832329",
+      "visits": null,
+      "category": "computers_electronics_and_technology/graphics_multimedia_and_web_design",
+      "category_rank": 455,
+      "affinity": 0.8333333333333334
+    },
+    {
+      "domain": "snipfeed.co",
+      "icon": "https://site-images.similarcdn.com/image?url=snipfeed.co&t=2&s=1&h=aa5932930d85c1ea45a8f007e29afe1324fb19e4c5e2fdcb66f2cd351e756f91",
+      "visits": null,
+      "category": "business_and_consumer_services/business_services",
+      "category_rank": 10550,
+      "affinity": 0.8076923076923077
+    },
+    {
+      "domain": "tiktok.com",
+      "icon": "https://site-images.similarcdn.com/image?url=tiktok.com&t=2&s=1&h=398f47f8e1724c54f9f760f76988b2f9cf0c4111523f9d3f26e03d62731b0c17",
+      "visits": null,
+      "category": "computers_electronics_and_technology/social_networks_and_online_communities",
+      "category_rank": 4,
+      "affinity": 0.7948717948717948
+    },
+    {
+      "domain": "instagram.com",
+      "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49",
+      "visits": null,
+      "category": "computers_electronics_and_technology/social_networks_and_online_communities",
+      "category_rank": 2,
+      "affinity": 0.782051282051282
+    },
+    {
+      "domain": "nofansapp.com",
+      "icon": "https://site-images.similarcdn.com/image?url=nofansapp.com&t=2&s=1&h=0bbbcc71c72008144e0acd8ad1548031579db90c1f0a4daff8f4aefb957211cb",
+      "visits": null,
+      "category": "adult",
+      "category_rank": 26370,
+      "affinity": 0.7564102564102564
+    }
+  ],
+  "top_interested_websites": [
+    {
+      "domain": "google.com",
+      "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+    },
+    {
+      "domain": "youtube.com",
+      "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+    },
+    {
+      "domain": "accounts.google.com",
+      "icon": "https://site-images.similarcdn.com/image?url=accounts.google.com&t=2&s=1&h=e7bbf324f8b1fece5635282a0abeb31cd2f132bd1c09b3aed8dedaf78d53afe1"
+    },
+    {
+      "domain": "portal.cfx.re",
+      "icon": "https://site-images.similarcdn.com/image?url=portal.cfx.re&t=2&s=1&h=1edfa19277b702a875ea721235b54e12ac2b3a8e45c0b381c3e18c48b0d032e6"
+    },
+    {
+      "domain": "gta5-mods.com",
+      "icon": "https://site-images.similarcdn.com/image?url=gta5-mods.com&t=2&s=1&h=1de0d378e7db692c4a6331e9afb853764d371e7f60fd3607c01dd1a602878269"
+    }
+  ],
+  "top_interested_topics": [
+    "music videos",
+    "video",
+    "video equipment",
+    "video sharing",
+    "youtube"
+  ],
+  "top_categories": null,
+  "total_incoming_referring_domains": 6,
+  "top_incoming_referring_domains": [
+    {
+      "domain": "anharwells.com",
+      "icon": "https://site-images.similarcdn.com/image?url=anharwells.com&t=2&s=1&h=bd240d04b5d96d1ef7945d21855333328cc9f9a2a3e668fd311305de1a929764",
+      "visits_share": 0.008419711502334374
+    },
+    {
+      "domain": "bio.link",
+      "icon": "https://site-images.similarcdn.com/image?url=bio.link&t=2&s=1&h=f3cc27098d7df0a08d18823a22f05520bd160ab013abdebf93f2fe8f6c63f223",
+      "visits_share": 0.003918900217705057
+    },
+    {
+      "domain": "vipar-pubg.com",
+      "icon": "https://site-images.similarcdn.com/image?url=vipar-pubg.com&t=2&s=1&h=fbc9fa0c6ef4407cbd5199793d409928fd56a454d9f1c04cd361eac22a767dc0",
+      "visits_share": 0.003918900217705057
+    }
+  ],
+  "top_incoming_categories": [
+    {
+      "category": "Lifestyle/Fashion_and_Apparel",
+      "visits_share": 0.25872647023046025
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Search_Engines",
+      "visits_share": 0.04158423762567204
+    }
+  ],
+  "total_ads_sites": 1,
+  "total_ads_networks": 1,
+  "top_ads_sites": null,
+  "total_outgoing_referring_domains": 3,
+  "top_outgoing_referring_domains": [],
+  "top_outgoing_categories": [
+    {
+      "category": "Computers_Electronics_and_Technology/Telecommunications",
+      "visits_share": 0.881727451355779
+    },
+    {
+      "category": "Games/Video_Games_Consoles_and_Accessories",
+      "visits_share": 0.0748635340980747
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
+      "visits_share": 0.034924634331924186
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+      "visits_share": 0.008484380214222154
+    }
+  ],
+  "marketing_channel_distribution": [
+    {
+      "channel": "direct",
+      "rank": 1,
+      "share": 0.6263433956342942
+    },
+    {
+      "channel": "social_organic",
+      "rank": 2,
+      "share": null
+    },
+    {
+      "channel": "organic",
+      "rank": 3,
+      "share": null
+    }
+  ],
+  "top_technology_providers": [
+    {
+      "tech_name": "Cart Functionality",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=2901",
+      "category": "payment_and_currencies",
+      "total_tech_used_in_category": 10
+    },
+    {
+      "tech_name": "DoubleClick",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=239",
+      "category": "advertising",
+      "total_tech_used_in_category": 6
+    },
+    {
+      "tech_name": "Meta Viewport",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1325",
+      "category": "mobile",
+      "total_tech_used_in_category": 5
+    },
+    {
+      "tech_name": "Google Analytics",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1",
+      "category": "conversion_and_analytics",
+      "total_tech_used_in_category": 4
+    }
+  ],
+  "related_apps": null,
+  "similarSites": null
+},
+{
+  "data_captured_at": "2026-09-30T06:23:47.025942",
+  "type": "overview",
+  "searchUrl": "https://toggl.com",
+  "url": "https://toggl.com",
+  "domain": "toggl.com",
+  "rankGlobal": 6246,
+  "country": "US",
+  "countryRank": 5634,
+  "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+  "categoryRank": 138,
+  "title": "Terms of Service | Toggl Track",
+  "description": "Toggl Track is a time tracking software, built for agencies and internal teams looking to improve profitability and productivity.",
+  "bounceRate": 0.497878934014758,
+  "pagesPerVisit": 6.946708479193072,
+  "timeOnSite": 218.6487956783021,
+  "totalVisits": 7498226,
+  "monthlyVisitsDateFormat": {
+    "2026-06-01": 8014189,
+    "2026-07-01": 7977741,
+    "2026-08-01": 7498226
+  },
+  "monthlyVisits": [
+    {
+      "month": "June 2026",
+      "visits": 8014189
+    },
+    {
+      "month": "July 2026",
+      "visits": 7977741
+    },
+    {
+      "month": "August 2026",
+      "visits": 7498226
+    }
+  ],
+  "website_traffic_by_country": [
+    {
+      "country": "US",
+      "share": 0.3161552946959954,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 25338
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 25223
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 23707
+        }
+      ]
+    },
+    {
+      "country": "GB",
+      "share": 0.07145016306129234,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 5727
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 5701
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 5358
+        }
+      ]
+    },
+    {
+      "country": "JP",
+      "share": 0.05816574787187688,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 4662
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 4641
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 4362
+        }
+      ]
+    },
+    {
+      "country": "DE",
+      "share": 0.04813334639517259,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 3858
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 3840
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 3610
+        }
+      ]
+    },
+    {
+      "country": "CA",
+      "share": 0.04410863289348966,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 3535
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 3519
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 3308
+        }
+      ]
+    },
+    {
+      "country": "OTHER",
+      "share": 0.4619868150821731,
+      "monthly_traffic": [
+        {
+          "date": "2026-06-01T00:00:00",
+          "visits": 37025
+        },
+        {
+          "date": "2026-07-01T00:00:00",
+          "visits": 36857
+        },
+        {
+          "date": "2026-08-01T00:00:00",
+          "visits": 34641
+        }
+      ]
+    }
+  ],
+  "topKeywords": [
+    {
+      "keyword": "toggl",
+      "estimatedValue": 84300,
+      "searchVolume": 90520,
+      "cpc": 0.6
+    },
+    {
+      "keyword": "toggl track",
+      "estimatedValue": 46020,
+      "searchVolume": 58330,
+      "cpc": 1.3
+    },
+    {
+      "keyword": "toggle",
+      "estimatedValue": 34660,
+      "searchVolume": 99480,
+      "cpc": 0.94
+    },
+    {
+      "keyword": "toggl 2.0",
+      "estimatedValue": 5830,
+      "searchVolume": 6160,
+      "cpc": null
+    },
+    {
+      "keyword": "toggle track",
+      "estimatedValue": 5700,
+      "searchVolume": 6600,
+      "cpc": 1.48
+    }
+  ],
+  "engagement": {
+    "bounceRate": 0.497878934014758,
+    "month": 8,
+    "year": 2026,
+    "pagesPerVisit": 6.946708479193072,
+    "visits": 7498226,
+    "timeOnSite": 218.6487956783021,
+    "dateFormat": "2026-08-01T00:00:00"
+  },
+  "socialTraffic": 0.05882621292654084,
+  "socialOrganicTraffic": 0.0588179791118981,
+  "socialPaidTraffic": 0.00000823381464273693,
+  "referralTraffic": 0.08806455039920401,
+  "searchTraffic": 0.08036266622359521,
+  "searchOrganicTraffic": 0.07092105828564035,
+  "searchPaidTraffic": 0.009441607937954854,
+  "directTraffic": 0.7007103801927634,
+  "mailTraffic": 0.05237172031905917,
+  "affiliateTraffic": 0.00008713096957391176,
+  "displayAdsTraffic": 0.0017039802925207226,
+  "genAiTraffic": 0.017873358676742643,
+  "aiTrafficShareChatgpt": 0.9465999067864295,
+  "aiTrafficShareClaude": 0.014867480092999328,
+  "aiTrafficSharePerplexity": null,
+  "aiTrafficShareGemini": 0.03853261312057127,
+  "aiTrafficShareCopilot": null,
+  "aiTrafficShareHistory": [
+    {
+      "date": "2026-06-01T00:00:00",
+      "chatgpt_share": 21.77120513398294,
+      "claude_share": 0.6120200677854954,
+      "perplexity_share": null,
+      "gemini_share": 11.403660957017692,
+      "copilot_share": null
+    },
+    {
+      "date": "2026-07-01T00:00:00",
+      "chatgpt_share": 48.88366400882918,
+      "claude_share": 5.7832933814027605,
+      "perplexity_share": null,
+      "gemini_share": 5.193840242791922,
+      "copilot_share": null
+    },
+    {
+      "date": "2026-08-01T00:00:00",
+      "chatgpt_share": 94.65999067864294,
+      "claude_share": 1.4867480092999328,
+      "perplexity_share": null,
+      "gemini_share": 3.8532613120571266,
+      "copilot_share": null
+    }
+  ],
+  "aiTopPrompts": [],
+  "countryShare": [
+    {
+      "country": "US",
+      "share": 0.3161552946959954
+    },
+    {
+      "country": "GB",
+      "share": 0.07145016306129234
+    },
+    {
+      "country": "JP",
+      "share": 0.05816574787187688
+    },
+    {
+      "country": "DE",
+      "share": 0.04813334639517259
+    },
+    {
+      "country": "CA",
+      "share": 0.04410863289348966
+    },
+    {
+      "country": "OTHER",
+      "share": 0.4619868150821731
+    }
+  ],
+  "isDataFromGoogleAds": false,
+  "isSmall": false,
+  "policy": 0,
+  "previewDesktop": "https://site-images.similarcdn.com/image?url=toggl.com&t=1&s=1&h=541fd76bc96f6dff2506dc8e0861dded34cc945d7be4547772080e773d665e81",
+  "previewMobile": "https://site-images.similarcdn.com/image?url=toggl.com&t=4&s=1&h=541fd76bc96f6dff2506dc8e0861dded34cc945d7be4547772080e773d665e81",
+  "snapshotDate": "2026-08-01T00:00:00Z",
+  "favicon": "https://site-images.similarcdn.com/image?url=toggl.com&t=2&h=541fd76bc96f6dff2506dc8e0861dded34cc945d7be4547772080e773d665e81",
+  "redirect": null,
+  "company_parent_domain": "toggl.com",
+  "company_name": "Toggl",
+  "company_year_founded": 2006,
+  "company_headquarters": "EE",
+  "company_headquarters_city": "Tallinn",
+  "company_employees_min": 51,
+  "company_employees_max": 200,
+  "company_revenue_min": 15000000,
+  "company_revenue_max": 25000000,
+  "company_revenue_currency": null,
+  "organic_search_share": 0.8423978772159809,
+  "paid_search_share": 0.15760212278401908,
+  "total_keywords": 4213,
+  "top_keywords": [
+    {
+      "keyword": "toggl",
+      "cpc": 0.6
+    },
+    {
+      "keyword": "toggl track",
+      "cpc": 1.3
+    },
+    {
+      "keyword": "toggle",
+      "cpc": 0.94
+    },
+    {
+      "keyword": "toggl 2.0",
+      "cpc": null
+    },
+    {
+      "keyword": "toggle track",
+      "cpc": 1.48
+    }
+  ],
+  "total_social_networks": 21,
+  "social_networks_share": [
+    {
+      "name": "Youtube",
+      "visits_share": 0.6221508749136165,
+      "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+    },
+    {
+      "name": "WhatsApp Webapp",
+      "visits_share": 0.0869732700156362,
+      "icon": "https://site-images.similarcdn.com/image?url=web.whatsapp.com&t=2&s=1&h=451e82ca011741d37d72edee1d8fdc272155924d894fe937e292066acb713bc8"
+    },
+    {
+      "name": "Facebook",
+      "visits_share": 0.07558632425564708,
+      "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+    },
+    {
+      "name": "Instagram",
+      "visits_share": 0.044841915905167076,
+      "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+    },
+    {
+      "name": "X-twitter",
+      "visits_share": 0.04230636112623411,
+      "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+    }
+  ],
+  "age_distribution": [
+    {
+      "min_age": 25,
+      "max_age": 34,
+      "share": 0.30190597224925986
+    },
+    {
+      "min_age": 35,
+      "max_age": 44,
+      "share": 0.20245549662579107
+    },
+    {
+      "min_age": 45,
+      "max_age": 54,
+      "share": 0.15598882289916557
+    },
+    {
+      "min_age": 18,
+      "max_age": 24,
+      "share": 0.14865873007012564
+    },
+    {
+      "min_age": 55,
+      "max_age": 64,
+      "share": 0.1198582629353038
+    },
+    {
+      "min_age": 65,
+      "max_age": null,
+      "share": 0.07113271522035414
+    }
+  ],
+  "gender_distribution": {
+    "male": 0.5180168484830858,
+    "female": 0.4819831515169142
+  },
+  "global_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 5588
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 6054
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 6246
+    }
+  ],
+  "country_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 4750
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 5077
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 5634
+    }
+  ],
+  "category_rank_history": [
+    {
+      "date": "2026-06-01T00:00:00Z",
+      "rank": 121
+    },
+    {
+      "date": "2026-07-01T00:00:00Z",
+      "rank": 123
+    },
+    {
+      "date": "2026-08-01T00:00:00Z",
+      "rank": 138
+    }
+  ],
+  "top_competitors": [
+    {
+      "domain": "clockify.me",
+      "icon": "https://site-images.similarcdn.com/image?url=clockify.me&t=2&s=1&h=b721e049d3e02bfa3cf75a8f879f64a7a9d7c5c442a67fa1dafbc1e0c6e6c4b0",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 182,
+      "affinity": 1
+    },
+    {
+      "domain": "tmetric.com",
+      "icon": "https://site-images.similarcdn.com/image?url=tmetric.com&t=2&s=1&h=165f37fb8608e8eb05f2a49916d1944fb8cfa67bf2fe96a9fa319ab1b8bbaa11",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 4182,
+      "affinity": 0.9239130434782608
+    },
+    {
+      "domain": "hubstaff.com",
+      "icon": "https://site-images.similarcdn.com/image?url=hubstaff.com&t=2&s=1&h=893885df0f3265823a112968966e80d013e6575846b9086997d6f20ac1a53a80",
+      "visits": null,
+      "category": "computers_electronics_and_technology/graphics_multimedia_and_web_design",
+      "category_rank": 214,
+      "affinity": 0.9021739130434782
+    },
+    {
+      "domain": "timely.com",
+      "icon": "https://site-images.similarcdn.com/image?url=timely.com&t=2&s=1&h=e9ba882635f9dbe820f3fc36e12deb8670d8af8d561242ed81a81a6ed2b577be",
+      "visits": null,
+      "category": "computers_electronics_and_technology/graphics_multimedia_and_web_design",
+      "category_rank": 3159,
+      "affinity": 0.8804347826086957
+    },
+    {
+      "domain": "trackingtime.co",
+      "icon": "https://site-images.similarcdn.com/image?url=trackingtime.co&t=2&s=1&h=6b1e2bbe7c4b13a0023566d82f1f8d23b51b4838f1ec5f6a47cfd9e9aeff28fb",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 4233,
+      "affinity": 0.8586956521739131
+    },
+    {
+      "domain": "clicktime.com",
+      "icon": "https://site-images.similarcdn.com/image?url=clicktime.com&t=2&s=1&h=9e5b5fa69df17b9615cc3981a27197aca5c25ad44b53ab09a629a144e80603df",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 3009,
+      "affinity": 0.8478260869565217
+    },
+    {
+      "domain": "timecamp.com",
+      "icon": "https://site-images.similarcdn.com/image?url=timecamp.com&t=2&s=1&h=e0e75529d9cf1d2f02dbd2ed3af8ae7301d57fafbb9a9648ddd5ef45cd634bce",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 3184,
+      "affinity": 0.8260869565217391
+    },
+    {
+      "domain": "myhours.com",
+      "icon": "https://site-images.similarcdn.com/image?url=myhours.com&t=2&s=1&h=72bb765db2ff89f0ed60e6fb652253843dc9c877ffabbc83dd3251e97a15ab23",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 2711,
+      "affinity": 0.8152173913043478
+    },
+    {
+      "domain": "tsheets.intuit.com",
+      "icon": "https://site-images.similarcdn.com/image?url=tsheets.intuit.com&t=2&s=1&h=f8ea93460a1a3245a47a31c3c0ac11680e859efffef23343c8ccf3211480cad9",
+      "visits": null,
+      "category": "finance/banking_credit_and_lending",
+      "category_rank": null,
+      "affinity": 0.8043478260869564
+    },
+    {
+      "domain": "resourceguruapp.com",
+      "icon": "https://site-images.similarcdn.com/image?url=resourceguruapp.com&t=2&s=1&h=f91a7b00782af3f13b3604534bc910b9065c52c75a3b61ebff1f6e86bd2c6ba5",
+      "visits": null,
+      "category": "computers_electronics_and_technology/programming_and_developer_software",
+      "category_rank": 2891,
+      "affinity": 0.7934782608695652
+    }
+  ],
+  "top_interested_websites": [
+    {
+      "domain": "app.asana.com",
+      "icon": "https://site-images.similarcdn.com/image?url=app.asana.com&t=2&s=1&h=da766b750e01c34feff2bcacd9acbddc7db8890264844e7fb388d3a543ef3b99"
+    },
+    {
+      "domain": "app.notion.com",
+      "icon": "https://site-images.similarcdn.com/image?url=app.notion.com&t=2&s=1&h=b1563daa50cdd3a1f91f84191518ad3e87ebc8fd0d4d1780a9c6bc2cf82def5b"
+    },
+    {
+      "domain": "figma.com",
+      "icon": "https://site-images.similarcdn.com/image?url=figma.com&t=2&s=1&h=4052a8dcdcf241a97ca3c02de406207e9e9520a61e1d386b45660d98f29b03dd"
+    },
+    {
+      "domain": "meet.google.com",
+      "icon": "https://site-images.similarcdn.com/image?url=meet.google.com&t=2&s=1&h=a5677bf02661d79bf8a6cce9401d4fc40b39ab036bc760067beaa015f41995d0"
+    },
+    {
+      "domain": "trello.com",
+      "icon": "https://site-images.similarcdn.com/image?url=trello.com&t=2&s=1&h=72592b0d2a71a66771df101d64143870165efdec6b15262df918439cbb7321f7"
+    }
+  ],
+  "top_interested_topics": [
+    "news",
+    "business",
+    "shopping",
+    "google",
+    "us news"
+  ],
+  "top_categories": null,
+  "total_incoming_referring_domains": 50,
+  "top_incoming_referring_domains": [
+    {
+      "domain": "umgc.edu",
+      "icon": "https://site-images.similarcdn.com/image?url=umgc.edu&t=2&s=1&h=79ad498abb318bc23d2e76c831162c54609d5637124e0d2ce8232afe25499381",
+      "visits_share": 0.06286459185634208
+    },
+    {
+      "domain": "ucsc.edu",
+      "icon": "https://site-images.similarcdn.com/image?url=ucsc.edu&t=2&s=1&h=a8c06505f02467ff5bdb31871cec990a1130892c2f4dd063d996481db2fd7391",
+      "visits_share": 0.06240315270666954
+    },
+    {
+      "domain": "rememberthemilk.com",
+      "icon": "https://site-images.similarcdn.com/image?url=rememberthemilk.com&t=2&s=1&h=6af3bf8d245fb1932b30ded976864915c1a462ccd644feae4f2ee4735add5941",
+      "visits_share": 0.05161039007083766
+    }
+  ],
+  "top_incoming_categories": [
+    {
+      "category": "Jobs_and_Career/Jobs_and_Employment",
+      "visits_share": 0.13979794130651416
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+      "visits_share": 0.11520684741420857
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
+      "visits_share": 0.07868977844088013
+    },
+    {
+      "category": "Science_and_Education/Universities_and_Colleges",
+      "visits_share": 0.06447690872392574
+    },
+    {
+      "category": "Law_and_Government/National_Security",
+      "visits_share": 0.06286459185634205
+    }
+  ],
+  "total_ads_sites": 4,
+  "total_ads_networks": 1,
+  "top_ads_sites": [
+    {
+      "domain": "xxxlutz.at",
+      "icon": "https://site-images.similarcdn.com/image?url=xxxlutz.at&t=2&s=1&h=761878a190ab4f3dbafe172a7495dced610f039fbd187e00cf89f54eab53873f",
+      "visits_share": 0.040686520185030925
+    }
+  ],
+  "total_outgoing_referring_domains": 34,
+  "top_outgoing_referring_domains": [
+    {
+      "domain": "kucoin.com",
+      "icon": "https://site-images.similarcdn.com/image?url=kucoin.com&t=2&s=1&h=1764a39c36b55a31fe36d553212696b9d737ef05f88364624de6be41639cef93",
+      "visits_share": 0.02091369046995603
+    },
+    {
+      "domain": "mexc.com",
+      "icon": "https://site-images.similarcdn.com/image?url=mexc.com&t=2&s=1&h=3856092723bd3fd8109b3c5f8c32a9494916e10576ef54ab014940c9622e266e",
+      "visits_share": 0.02062850914931941
+    },
+    {
+      "domain": "gate.com",
+      "icon": "https://site-images.similarcdn.com/image?url=gate.com&t=2&s=1&h=46fd579bb5f25a8049cf05b992abf968db5afc7b5fbd232139dfa1243e9d89cc",
+      "visits_share": 0.01751110783061336
+    }
+  ],
+  "top_outgoing_categories": [
+    {
+      "category": "Computers_Electronics_and_Technology/Search_Engines",
+      "visits_share": 0.7369752141090342
+    },
+    {
+      "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
+      "visits_share": 0.08360552864331491
+    },
+    {
+      "category": "Finance/Investing",
+      "visits_share": 0.05969233242124677
+    },
+    {
+      "category": "Games/Video_Games_Consoles_and_Accessories",
+      "visits_share": 0.040080890884105935
+    },
+    {
+      "category": "Crypto_and_Blockchain/Crypto_Trading_and_Wallets",
+      "visits_share": 0.02062850914931942
+    }
+  ],
+  "marketing_channel_distribution": [
+    {
+      "channel": "direct",
+      "rank": 1,
+      "share": 0.7007103801927634
+    },
+    {
+      "channel": "referrals",
+      "rank": 2,
+      "share": null
+    },
+    {
+      "channel": "organic",
+      "rank": 3,
+      "share": null
+    }
+  ],
+  "top_technology_providers": [
+    {
+      "tech_name": "Google Adsense",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=237",
+      "category": "advertising",
+      "total_tech_used_in_category": 16
+    },
+    {
+      "tech_name": "Google Analytics",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1",
+      "category": "conversion_and_analytics",
+      "total_tech_used_in_category": 15
+    },
+    {
+      "tech_name": "PayPal",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1146",
+      "category": "payment_and_currencies",
+      "total_tech_used_in_category": 10
+    },
+    {
+      "tech_name": "Meta Viewport",
+      "icon": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1325",
+      "category": "mobile",
+      "total_tech_used_in_category": 5
+    }
+  ],
+  "related_apps": null,
+  "similarSites": null
+}]

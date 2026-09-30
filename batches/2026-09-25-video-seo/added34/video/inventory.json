@@ -1,0 +1,4676 @@
+{
+ "hubspot.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "HubSpot | Software & Tools for your Business - Homepage",
+   "finalUrl": "https://www.hubspot.com/",
+   "videos": [
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 8,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 12,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 8,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 12,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 8,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 12,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 8,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 12,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 380,
+     "h": 214,
+     "top": 3893,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__modal-video"
+    },
+    {
+     "src": "",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 380,
+     "h": 214,
+     "top": 3893,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__modal-video"
+    },
+    {
+     "src": "",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 380,
+     "h": 214,
+     "top": 3893,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__modal-video"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim01_3x2-v016.mp4",
+    "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim02_3x2-v015.mp4",
+    "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim03_3x2-v015.mp4",
+    "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+    "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+    "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4"
+   ],
+   "plays": [
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "1 of 3 Play video All your customer data, right at your fingertips.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "2 of 3 Play video Marketing, sales, and service, finally on the same page.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "3 of 3 Play video AI you control. Results you can trust.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "1 of 3 Play video All your customer data, right at your fingertips.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "2 of 3 Play video Marketing, sales, and service, finally on the same page.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "3 of 3 Play video AI you control. Results you can trust.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "1 of 3 Play video All your customer data, right at your fingertips.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "2 of 3 Play video Marketing, sales, and service, finally on the same page.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "3 of 3 Play video AI you control. Results you can trust.",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization",
+    "ImageObject",
+    "PostalAddress",
+    "WebSite",
+    "WebPage",
+    "Product",
+    "Brand",
+    "PropertyValue",
+    "AggregateRating"
+   ],
+   "bodyLen": 5531
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "HubSpot | Software & Tools for your Business - Homepage",
+   "finalUrl": "https://www.hubspot.com/",
+   "videos": [
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 378,
+     "h": 253,
+     "top": 813,
+     "visible": true,
+     "duration": 8,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 378,
+     "h": 253,
+     "top": 813,
+     "visible": true,
+     "duration": 15,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 378,
+     "h": 253,
+     "top": 813,
+     "visible": true,
+     "duration": 12,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 5844,
+     "visible": false,
+     "duration": 8,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 5844,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 5844,
+     "visible": false,
+     "duration": 12,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__video-preview-el"
+    },
+    {
+     "src": "",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 1030,
+     "h": 579,
+     "top": 6004,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__modal-video"
+    },
+    {
+     "src": "",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 1030,
+     "h": 579,
+     "top": 6004,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__modal-video"
+    },
+    {
+     "src": "",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 1030,
+     "h": 579,
+     "top": 6004,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "wtm-evfc__modal-video"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim01_3x2-v016.mp4",
+    "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim02_3x2-v015.mp4",
+    "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/HPCP_Sp26_Anim03_3x2-v015.mp4",
+    "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim01_3x2-v016.mp4",
+    "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim02_3x2-v015.mp4",
+    "https://www.hubspot.com/hubfs/HPCP_Sp26_Anim03_3x2-v015.mp4"
+   ],
+   "plays": [
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "1 of 3 Play video All your customer data, right at your fingertips.",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "2 of 3 Play video Marketing, sales, and service, finally on the same page.",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "3 of 3 Play video AI you control. Results you can trust.",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Organization",
+    "ImageObject",
+    "PostalAddress",
+    "WebSite",
+    "WebPage",
+    "Product",
+    "Brand",
+    "PropertyValue",
+    "AggregateRating"
+   ],
+   "bodyLen": 7321
+  }
+ },
+ "salesforce.com": {
+  "google": {
+   "status": 403,
+   "error": "",
+   "title": "Access Denied",
+   "finalUrl": "https://www.salesforce.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 200
+  },
+  "desktop": {
+   "status": 403,
+   "error": "",
+   "title": "Access Denied",
+   "finalUrl": "https://www.salesforce.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 200
+  }
+ },
+ "notion.so": {
+  "google": {
+   "status": 403,
+   "error": "",
+   "title": "Attention Required! | Cloudflare",
+   "finalUrl": "https://www.notion.so/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 682
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "The AI workspace that works for you. | Notion",
+   "finalUrl": "https://www.notion.com/",
+   "videos": [
+    {
+     "src": "https://videos.ctfassets.net/spoqsaf9291f/1EL7UZIXfcqngxsNSbL8tR/291f61f56f29dd8e788deaec8561d882/web-homepage-hero-1920x1200_final.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 958,
+     "h": 599,
+     "top": 533,
+     "visible": true,
+     "duration": 11,
+     "chrome": false,
+     "poster": "",
+     "cls": "Video-module-scss-module__D671CW__video Video-module-scss-module__D671CW__videoA"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://videos.ctfassets.net/spoqsaf9291f/1EL7UZIXfcqngxsNSbL8tR/291f61f56f29dd8e788deaec8561d882/web-homepage-hero-1920x1200_final.mp4",
+    "https://videos.ctfassets.net/spoqsaf9291f/6LFgNE3oUQ1rr4UBPl4J9g/9d995df957125abd579a7a2bc88e282d/NotionAI-AcmeMobile-1600x1600-compressed-650k.mp4"
+   ],
+   "plays": [],
+   "types": [],
+   "bodyLen": 2124
+  }
+ },
+ "asana.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Work & Project Management for Human-Agent Teams \u2022 Asana",
+   "finalUrl": "https://asana.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Try the Asana demo See Asana in action",
+     "href": "/demo/main-video",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization",
+    "Person",
+    "ContactPoint",
+    "WebSite",
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "bodyLen": 7827
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Work & Project Management for Human-Agent Teams \u2022 Asana",
+   "finalUrl": "https://asana.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Try the Asana demo See Asana in action",
+     "href": "/demo/main-video",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization",
+    "Person",
+    "ContactPoint",
+    "WebSite",
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "bodyLen": 7836
+  }
+ },
+ "monday.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "The AI Work Platform for People & Agents | monday.com",
+   "finalUrl": "https://monday.com/",
+   "videos": [
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/v1781522554/Generator_featured%20images/webflow-sean/hero_test-agents-9.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0/v1784467913/Generator_featured%20images/webflow-sean/hero_test-agen",
+     "cls": ""
+    },
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 369,
+     "h": 229,
+     "top": 615,
+     "visible": true,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0p/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.png",
+     "cls": ""
+    },
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V10.webm",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 17,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V1",
+     "cls": "hp-agents-video"
+    },
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.webm",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0p/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.png",
+     "cls": "hp-agents-video"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://dapulse-res.cloudinary.com/video/upload/v1781522554/Generator_featured%20images/webflow-sean/hero_test-agents-9.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/v1781522554/Generator_featured%20images/webflow-sean/hero_test-agents-9.mp4",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.mp4",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V10.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V10.mp4",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.mp4"
+   ],
+   "plays": [],
+   "types": [
+    "Organization",
+    "ContactPoint",
+    "PostalAddress",
+    "SoftwareApplication",
+    "WebSite",
+    "WebPage",
+    "ImageObject"
+   ],
+   "bodyLen": 4797
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "The AI Work Platform for People & Agents | monday.com",
+   "finalUrl": "https://monday.com/",
+   "videos": [
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/v1781522554/Generator_featured%20images/webflow-sean/hero_test-agents-9.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 673,
+     "h": 397,
+     "top": 152,
+     "visible": true,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0/v1784467913/Generator_featured%20images/webflow-sean/hero_test-agen",
+     "cls": ""
+    },
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 10957,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0p/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.png",
+     "cls": ""
+    },
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V10.webm",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 701,
+     "h": 398,
+     "top": 1216,
+     "visible": true,
+     "duration": 17,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V1",
+     "cls": "hp-agents-video"
+    },
+    {
+     "src": "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.webm",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 10957,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://dapulse-res.cloudinary.com/video/upload/so_0p/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.png",
+     "cls": "hp-agents-video"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://dapulse-res.cloudinary.com/video/upload/v1781522554/Generator_featured%20images/webflow-sean/hero_test-agents-9.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/v1781522554/Generator_featured%20images/webflow-sean/hero_test-agents-9.mp4",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-mobile-0526/hero_mb-v5.mp4",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V10.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/v1780557379/Generator_featured%20images/webflow-sean/Hero_Export_V10.mp4",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.webm",
+    "https://dapulse-res.cloudinary.com/video/upload/q_auto:eco/ac_none/Generator_featured%20images/hp-020626/hero-it-tickets-board_06.mp4"
+   ],
+   "plays": [],
+   "types": [
+    "Organization",
+    "ContactPoint",
+    "PostalAddress",
+    "SoftwareApplication",
+    "WebSite",
+    "WebPage",
+    "ImageObject"
+   ],
+   "bodyLen": 9676
+  }
+ },
+ "airtable.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Airtable: Build Enterprise-ready AI Workflows, Apps & Agents | Airtable",
+   "finalUrl": "https://www.airtable.com/",
+   "videos": [
+    {
+     "src": "https://cdn.sanity.io/files/hlcyrtq5/production/16f7e8526058f2d34ce24e5ef3933bc3783cea4b.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 364,
+     "h": 150,
+     "top": 548,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "MediaComponentBlock-module__0ynjlG__mediaVideo"
+    },
+    {
+     "src": "https://cdn.sanity.io/files/hlcyrtq5/production/559eda8e343bd1e27dee54f569b062cb60110afe.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 362,
+     "h": 204,
+     "top": 1728,
+     "visible": true,
+     "duration": 8,
+     "chrome": false,
+     "poster": "",
+     "cls": "BkHtmlVideo-module-scss-module__qzDGTq__bkVideo"
+    },
+    {
+     "src": "https://cdn.sanity.io/files/hlcyrtq5/production/642f0aab4cecfadb17e538dfb03ec1e47a09d549.mp4#t=0.5",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 360,
+     "h": 435,
+     "top": 6757,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "VideoPane-module-scss-module__gbG6fq__slideBackground"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://cdn.sanity.io/files/hlcyrtq5/production/16f7e8526058f2d34ce24e5ef3933bc3783cea4b.mp4",
+    "https://cdn.sanity.io/files/hlcyrtq5/production/559eda8e343bd1e27dee54f569b062cb60110afe.mp4",
+    "//cdn.sanity.io/files/hlcyrtq5/production/642f0aab4cecfadb17e538dfb03ec1e47a09d549.mp4"
+   ],
+   "plays": [
+    {
+     "text": "Pause video",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [],
+   "bodyLen": 3408
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Airtable: Build Enterprise-ready AI Workflows, Apps & Agents | Airtable",
+   "finalUrl": "https://www.airtable.com/",
+   "videos": [
+    {
+     "src": "https://cdn.sanity.io/files/hlcyrtq5/production/78879e94f5d841d15b46d60e640181d0a6edffd6.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 1540,
+     "h": 739,
+     "top": 432,
+     "visible": true,
+     "duration": 14,
+     "chrome": false,
+     "poster": "https://cdn.sanity.io/images/hlcyrtq5/production/b9ca4dd53c0c97beff89fca2827f7f5a07f7e51e-1540x866.jpg",
+     "cls": ""
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://cdn.sanity.io/files/hlcyrtq5/production/78879e94f5d841d15b46d60e640181d0a6edffd6.mp4"
+   ],
+   "plays": [
+    {
+     "text": "Pause background video",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [],
+   "bodyLen": 8733
+  }
+ },
+ "linear.app": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Linear \u2013 The system for product development",
+   "finalUrl": "https://linear.app/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://linear.app/static/pwa.webm"
+   ],
+   "plays": [
+    {
+     "text": "Record video clip",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [],
+   "bodyLen": 3886
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Linear \u2013 The system for product development",
+   "finalUrl": "https://linear.app/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://linear.app/static/pwa.webm"
+   ],
+   "plays": [
+    {
+     "text": "Record video clip",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [],
+   "bodyLen": 9117
+  }
+ },
+ "intercom.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Intercom | A complete system for human and AI customer service",
+   "finalUrl": "https://www.intercom.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "WebSite",
+    "Organization",
+    "ImageObject",
+    "WebPage",
+    "Product",
+    "SoftwareApplication",
+    "Offer",
+    "UnitPriceSpecification",
+    "QuantitativeValue",
+    "ItemList",
+    "ListItem",
+    "BreadcrumbList"
+   ],
+   "bodyLen": 5519
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Intercom | A complete system for human and AI customer service",
+   "finalUrl": "https://www.intercom.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "WebSite",
+    "Organization",
+    "ImageObject",
+    "WebPage",
+    "Product",
+    "SoftwareApplication",
+    "Offer",
+    "UnitPriceSpecification",
+    "QuantitativeValue",
+    "ItemList",
+    "ListItem",
+    "BreadcrumbList"
+   ],
+   "bodyLen": 6344
+  }
+ },
+ "zendesk.com": {
+  "google": {
+   "status": 403,
+   "error": "",
+   "title": "Just a moment...",
+   "finalUrl": "https://www.zendesk.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 263
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "AI-Powered Customer Service Platform | Zendesk",
+   "finalUrl": "https://www.zendesk.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "WebPage",
+    "Review",
+    "Person",
+    "Organization",
+    "Corporation",
+    "ImageObject",
+    "PostalAddress",
+    "ContactPoint",
+    "SoftwareApplication",
+    "Offer",
+    "WebSite",
+    "RegisterAction",
+    "EntryPoint",
+    "Thing",
+    "ViewAction"
+   ],
+   "bodyLen": 5142
+  }
+ },
+ "freshworks.com": {
+  "google": {
+   "status": 403,
+   "error": "",
+   "title": "Just a moment...",
+   "finalUrl": "https://www.freshworks.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 266
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "AI-Powered Customer & Employee Service Software | Freshworks",
+   "finalUrl": "https://www.freshworks.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "wistia-player",
+     "attrs": "end-video-behavior=loop",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "end-video-behavior=loop",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "end-video-behavior=loop",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "end-video-behavior=loop",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "end-video-behavior=loop",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "end-video-behavior=loop",
+     "visible": true,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://embed-ssl.wistia.com/deliveries/3bc8e3bb31318d3ab95b4b4707dfb1e3e0187d21.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/d9133df1059cd0802704d4e879d2010a3b10ab35.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/5d92a1d6d036730b76c1ffdee9db095f338d96b5.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/353168b92589cea8f7eb72dde5adf330a5e1bde2.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/11f7f1351646cdee0c95e7c18dfbb7c0fd7a6cb9.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/84d4cf0b85be9063ac6efffa8492446ead7b853e.m3u8",
+    "https://fast.wistia.net/embed/iframe/d279sn3ish",
+    "https://fast.wistia.net/embed/iframe/l6i9jhve38",
+    "https://fast.wistia.net/embed/iframe/oaa4ovy4hc",
+    "https://fast.wistia.net/embed/iframe/wyg963lbly",
+    "https://fast.wistia.net/embed/iframe/rbdb2bczt3",
+    "https://fast.wistia.net/embed/iframe/d1wzvwwzjl",
+    "https://fast.wistia.com/player.js",
+    "https://fast.wistia.com/embed/d279sn3ish.js",
+    "https://fast.wistia.com/embed/l6i9jhve38.js",
+    "https://fast.wistia.com/embed/oaa4ovy4hc.js",
+    "https://fast.wistia.com/embed/wyg963lbly.js",
+    "https://fast.wistia.com/embed/rbdb2bczt3.js",
+    "https://fast.wistia.com/embed/d1wzvwwzjl.js",
+    "//fast.wistia.com/assets/external/E-v1.js"
+   ],
+   "plays": [],
+   "types": [
+    "VideoObject",
+    "Organization",
+    "ImageObject",
+    "Place",
+    "PostalAddress",
+    "ContactPoint",
+    "Country",
+    "WebPage",
+    "WebSite"
+   ],
+   "bodyLen": 3218
+  }
+ },
+ "pipedrive.com": {
+  "google": {
+   "status": 403,
+   "error": "",
+   "title": "Attention Required",
+   "finalUrl": "https://www.pipedrive.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 679
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Sales CRM & Pipeline Management Software | Pipedrive",
+   "finalUrl": "https://www.pipedrive.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Watch demo",
+     "href": "https://www.pipedrive.com/en/demo",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Organization",
+    "DefinedTerm",
+    "SubscribeAction",
+    "FAQPage",
+    "Question",
+    "Answer"
+   ],
+   "bodyLen": 12742
+  }
+ },
+ "close.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Close CRM | The CRM That Does the Work",
+   "finalUrl": "https://close.com/",
+   "videos": [
+    {
+     "src": "https://close.com/assets/videos/61717799a852418a278cfa9b_6a1ccc9d6251df8cb0c6edbd_Hero_Chloe_webm__74bd008b91a7.webm",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 378,
+     "h": 164,
+     "top": 447,
+     "visible": true,
+     "duration": 5,
+     "chrome": false,
+     "poster": "/assets/images/61717799a852418a278cfa9b_6a1ccc9d6251df8cb0c6edbd_Hero_Chloe_poster.0000000__98e09c6bb41f.jpg",
+     "cls": "absolute inset-0 h-full w-full object-cover"
+    },
+    {
+     "src": "https://close.com/assets/videos/61717799a852418a278cfa9b_69e148023f82112a6651ac85_Orb_-_Loop_2_1_dprob4ds_5_webm__b99c5e63c1e3.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 412,
+     "h": 1138,
+     "top": 2847,
+     "visible": true,
+     "duration": 20,
+     "chrome": false,
+     "poster": "/assets/images/61717799a852418a278cfa9b_69e148023f82112a6651ac85_Orb_-_Loop_2_1_dprob4ds_5_poster.0000000__cbeb5a0b06ff.",
+     "cls": "h-full w-full max-w-5xl object-contain opacity-60"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "Organization",
+    "ImageObject",
+    "Person",
+    "WebSite",
+    "SoftwareApplication",
+    "WebPage"
+   ],
+   "bodyLen": 3848
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Close CRM | The CRM That Does the Work",
+   "finalUrl": "https://close.com/",
+   "videos": [
+    {
+     "src": "https://close.com/assets/videos/61717799a852418a278cfa9b_6a1ccc9d6251df8cb0c6edbd_Hero_Chloe_webm__74bd008b91a7.webm",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 1214,
+     "h": 529,
+     "top": 491,
+     "visible": true,
+     "duration": 5,
+     "chrome": false,
+     "poster": "/assets/images/61717799a852418a278cfa9b_6a1ccc9d6251df8cb0c6edbd_Hero_Chloe_poster.0000000__98e09c6bb41f.jpg",
+     "cls": "absolute inset-0 h-full w-full object-cover"
+    },
+    {
+     "src": "https://close.com/assets/videos/61717799a852418a278cfa9b_69e148023f82112a6651ac85_Orb_-_Loop_2_1_dprob4ds_5_webm__b99c5e63c1e3.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 1024,
+     "h": 1130,
+     "top": 3040,
+     "visible": true,
+     "duration": 20,
+     "chrome": false,
+     "poster": "/assets/images/61717799a852418a278cfa9b_69e148023f82112a6651ac85_Orb_-_Loop_2_1_dprob4ds_5_poster.0000000__cbeb5a0b06ff.",
+     "cls": "h-full w-full max-w-5xl object-contain opacity-60"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "Organization",
+    "ImageObject",
+    "Person",
+    "WebSite",
+    "SoftwareApplication",
+    "WebPage"
+   ],
+   "bodyLen": 4029
+  }
+ },
+ "outreach.io": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Agentic AI Platform for Revenue Teams | Outreach",
+   "finalUrl": "https://www.outreach.ai/",
+   "videos": [
+    {
+     "src": "blob:https://www.outreach.ai/410a21c0-f34f-496d-9891-108a414a37eb",
+     "controls": false,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 371,
+     "h": 209,
+     "top": 0,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": ""
+    }
+   ],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "wistia-player",
+     "attrs": "wistia-popover=true",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "",
+     "visible": false,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://embed-ssl.wistia.com/deliveries/0391a5548a71c4bc3258129c11bcfa77922a3b59.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/631d7263a4914fc797404906dd1eb1984aa2347b.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/cb0181686a30b50ea64666d98d4d883aae852e67.m3u8",
+    "https://fast.wistia.com/embed/medias/7a4himjtj4.m3u8",
+    "https://fast.wistia.net/embed/iframe/vnshfvzz1f",
+    "https://fast.wistia.net/embed/iframe/7a4himjtj4",
+    "https://fast.wistia.net/embed/iframe/h72f46qmym",
+    "https://fast.wistia.com/player.js",
+    "https://fast.wistia.com/embed/7a4himjtj4.js",
+    "https://fast.wistia.com/embed/vnshfvzz1f.js",
+    "https://fast.wistia.com/embed/medias/vnshfvzz1f/swatch",
+    "https://fast.wistia.com/embed/h72f46qmym.js",
+    "https://fast.wistia.com/embed/medias/h72f46qmym/swatch",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Extended.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Cyrillic-Extended.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Cyrillic.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Greek-Extended.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Greek.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Vietnamese.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Latin-Extended.woff)"
+   ],
+   "plays": [
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "VideoObject",
+    "SeekToAction",
+    "WebPage",
+    "ImageObject",
+    "Organization"
+   ],
+   "bodyLen": 4218
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Home",
+   "finalUrl": "https://www.outreach.ai/home",
+   "videos": [
+    {
+     "src": "blob:https://www.outreach.ai/88b2bfe6-d16d-45b9-b555-b57ff44a2888",
+     "controls": false,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 1280,
+     "h": 720,
+     "top": 0,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": ""
+    }
+   ],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "wistia-player",
+     "attrs": "wistia-popover=true",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "wistia-player",
+     "attrs": "",
+     "visible": false,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://embed-ssl.wistia.com/deliveries/cb0181686a30b50ea64666d98d4d883aae852e67.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/0391a5548a71c4bc3258129c11bcfa77922a3b59.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/631d7263a4914fc797404906dd1eb1984aa2347b.m3u8",
+    "https://fast.wistia.com/embed/medias/7a4himjtj4.m3u8",
+    "https://fast.wistia.net/embed/iframe/h72f46qmym",
+    "https://fast.wistia.net/embed/iframe/vnshfvzz1f",
+    "https://fast.wistia.net/embed/iframe/7a4himjtj4",
+    "https://fast.wistia.com/player.js",
+    "https://fast.wistia.com/embed/7a4himjtj4.js",
+    "https://fast.wistia.com/embed/vnshfvzz1f.js",
+    "https://fast.wistia.com/embed/medias/vnshfvzz1f/swatch",
+    "https://fast.wistia.com/embed/h72f46qmym.js",
+    "https://fast.wistia.com/embed/medias/h72f46qmym/swatch",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Extended.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Cyrillic-Extended.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Cyrillic.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Greek-Extended.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Greek.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Vietnamese.woff)",
+    "https://fast.wistia.net/assets/external/fonts/Inter-Latin-Extended.woff)"
+   ],
+   "plays": [
+    {
+     "text": "Play Video: Outreach: The Agentic AI Platform for Revenue Teams",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "VideoObject",
+    "SeekToAction",
+    "WebPage",
+    "ImageObject",
+    "Organization"
+   ],
+   "bodyLen": 4566
+  }
+ },
+ "gong.io": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Gong - Revenue AI OS",
+   "finalUrl": "https://www.gong.io/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "//fast.wistia.net/assets/external/E-v1.js",
+    "https://gongio.wistia.com/medias/5lqgv3qxc8",
+    "https://fast.wistia.net/embed/iframe/"
+   ],
+   "plays": [],
+   "types": [
+    "Organization",
+    "PostalAddress",
+    "SoftwareApplication",
+    "WebSite",
+    "WebPage",
+    "ImageObject"
+   ],
+   "bodyLen": 5265
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Gong - Revenue AI OS",
+   "finalUrl": "https://www.gong.io/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "//fast.wistia.net/assets/external/E-v1.js",
+    "https://gongio.wistia.com/medias/5lqgv3qxc8",
+    "https://fast.wistia.net/embed/iframe/"
+   ],
+   "plays": [],
+   "types": [
+    "Organization",
+    "PostalAddress",
+    "SoftwareApplication",
+    "WebSite",
+    "WebPage",
+    "ImageObject"
+   ],
+   "bodyLen": 13614
+  }
+ },
+ "clari.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "The Leading Predictive Revenue System",
+   "finalUrl": "https://www.salesloft.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Resource CenterResearch, guides, videos, articles & on-demand webinars",
+     "href": "/resources",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Organization",
+    "WebSite",
+    "WebPage"
+   ],
+   "bodyLen": 2468
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "The Leading Predictive Revenue System",
+   "finalUrl": "https://www.salesloft.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "Organization",
+    "WebSite",
+    "WebPage"
+   ],
+   "bodyLen": 3496
+  }
+ },
+ "apollo.io": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "The AI GTM System for Go-to-Market Teams | Apollo",
+   "finalUrl": "https://www.apollo.io/",
+   "videos": [
+    {
+     "src": "https://www.apollo.io/_next/static/media/homepage-hero-mobile.05fbo._stkmhd.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 372,
+     "h": 186,
+     "top": 837,
+     "visible": true,
+     "duration": 22,
+     "chrome": false,
+     "poster": "",
+     "cls": "absolute z-10 h-full w-full rounded-xl object-cover"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "Organization",
+    "Person",
+    "QuantitativeValue",
+    "PostalAddress",
+    "Place",
+    "AggregateRating",
+    "WebSite"
+   ],
+   "bodyLen": 7921
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "The AI GTM System for Go-to-Market Teams | Apollo",
+   "finalUrl": "https://www.apollo.io/",
+   "videos": [
+    {
+     "src": "https://www.apollo.io/_next/static/media/homepage-hero-desktop.14via27jo8ryh.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 1284,
+     "h": 642,
+     "top": 686,
+     "visible": true,
+     "duration": 22,
+     "chrome": false,
+     "poster": "",
+     "cls": "absolute z-10 h-full w-full rounded-xl object-cover"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "Organization",
+    "Person",
+    "QuantitativeValue",
+    "PostalAddress",
+    "Place",
+    "AggregateRating",
+    "WebSite"
+   ],
+   "bodyLen": 6736
+  }
+ },
+ "klaviyo.com": {
+  "google": {
+   "status": 403,
+   "error": "",
+   "title": "Attention Required! | Cloudflare",
+   "finalUrl": "https://www.klaviyo.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 684
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Klaviyo: AI Email Marketing & SMS - Klaviyo",
+   "finalUrl": "https://www.klaviyo.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://vimeo.com/1223678585?share=copy&amp;fl=sv&amp;fe=ci&quot;],&quot;poster&quot;:[0,&quot;https://cdn.sanity.io/images/6ct6b26e/marketing-prod/14dd82bd9290",
+    "https://vimeo.com/1223222038?share=copy&amp;fl=sv&amp;fe=ci&quot;],&quot;poster&quot;:[0,&quot;https://cdn.sanity.io/images/6ct6b26e/marketing-prod/5ba173ae3bbd",
+    "https://vimeo.com/1223222037?share=copy&amp;fl=sv&amp;fe=ci&quot;],&quot;poster&quot;:[0,&quot;https://cdn.sanity.io/images/6ct6b26e/marketing-prod/e157edf9d655"
+   ],
+   "plays": [],
+   "types": [],
+   "bodyLen": 5826
+  }
+ },
+ "braze.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Braze Customer Engagement Platform",
+   "finalUrl": "https://www.braze.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "WebPage"
+   ],
+   "bodyLen": 5557
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Braze Customer Engagement Platform",
+   "finalUrl": "https://www.braze.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "WebPage"
+   ],
+   "bodyLen": 8262
+  }
+ },
+ "customer.io": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Customer.io: Customer Engagement Platform For Better Outcomes",
+   "finalUrl": "https://customer.io/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "Organization",
+    "PostalAddress",
+    "ContactPoint",
+    "Person",
+    "ImageObject",
+    "WebPage"
+   ],
+   "bodyLen": 3575
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Customer.io: Customer Engagement Platform For Better Outcomes",
+   "finalUrl": "https://customer.io/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [
+    "Organization",
+    "PostalAddress",
+    "ContactPoint",
+    "Person",
+    "ImageObject",
+    "WebPage"
+   ],
+   "bodyLen": 4622
+  }
+ },
+ "iterable.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "AI Customer Engagement Platform for Real-Time, Personalized Experiences",
+   "finalUrl": "https://iterable.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://iterable.com/wp-content/themes/iterable/assets/images/favicon/site.webm"
+   ],
+   "plays": [],
+   "types": [
+    "WebPage",
+    "ReadAction",
+    "ImageObject",
+    "BreadcrumbList",
+    "ListItem",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "PropertyValueSpecification",
+    "Organization"
+   ],
+   "bodyLen": 7764
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "AI Customer Engagement Platform for Real-Time, Personalized Experiences",
+   "finalUrl": "https://iterable.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://iterable.com/wp-content/themes/iterable/assets/images/favicon/site.webm"
+   ],
+   "plays": [],
+   "types": [
+    "WebPage",
+    "ReadAction",
+    "ImageObject",
+    "BreadcrumbList",
+    "ListItem",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "PropertyValueSpecification",
+    "Organization"
+   ],
+   "bodyLen": 8099
+  }
+ },
+ "semrush.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Semrush: Your Unfair Advantage for Growing Brand Visibility",
+   "finalUrl": "https://www.semrush.com/",
+   "videos": [
+    {
+     "src": "",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "srf-header__dropdown-promo-video"
+    },
+    {
+     "src": "https://www.semrush.com/static/videos/sem_one.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 334,
+     "h": 334,
+     "top": 971,
+     "visible": true,
+     "duration": 27,
+     "chrome": false,
+     "poster": "https://www.semrush.com/static/sem_one.webp",
+     "cls": "mp-promo-block__video"
+    },
+    {
+     "src": "https://www.semrush.com/static/videos/sem_mcp.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 334,
+     "h": 334,
+     "top": 1718,
+     "visible": true,
+     "duration": 35,
+     "chrome": false,
+     "poster": "https://www.semrush.com/static/sem_mcp.webp",
+     "cls": "mp-promo-block__video"
+    },
+    {
+     "src": "https://www.semrush.com/static/videos/enterprise_video.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 334,
+     "h": 223,
+     "top": 2608,
+     "visible": true,
+     "duration": 26,
+     "chrome": false,
+     "poster": "https://www.semrush.com/static/enterprise_poster.webp",
+     "cls": "mp-promo-cards__video"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://www.semrush.com/static/videos/sem_one.mp4",
+    "https://www.semrush.com/static/videos/sem_mcp.mp4",
+    "https://www.semrush.com/static/videos/enterprise_video.mp4"
+   ],
+   "plays": [],
+   "types": [
+    "Corporation",
+    "PostalAddress",
+    "micro:WebSite"
+   ],
+   "bodyLen": 3311
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Semrush: Your Unfair Advantage for Growing Brand Visibility",
+   "finalUrl": "https://www.semrush.com/",
+   "videos": [
+    {
+     "src": "",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 7790,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "",
+     "cls": "srf-header__dropdown-promo-video"
+    },
+    {
+     "src": "https://www.semrush.com/static/videos/sem_one.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 457,
+     "h": 444,
+     "top": 745,
+     "visible": true,
+     "duration": 27,
+     "chrome": false,
+     "poster": "https://www.semrush.com/static/sem_one.webp",
+     "cls": "mp-promo-block__video"
+    },
+    {
+     "src": "",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 457,
+     "h": 444,
+     "top": 745,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://www.semrush.com/static/sem_mcp.webp",
+     "cls": "mp-promo-block__video"
+    },
+    {
+     "src": "https://www.semrush.com/static/videos/enterprise_video.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 699,
+     "h": 466,
+     "top": 1515,
+     "visible": true,
+     "duration": 26,
+     "chrome": false,
+     "poster": "https://www.semrush.com/static/enterprise_poster.webp",
+     "cls": "mp-promo-cards__video"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://www.semrush.com/static/videos/sem_one.mp4",
+    "https://www.semrush.com/static/videos/sem_mcp.mp4",
+    "https://www.semrush.com/static/videos/enterprise_video.mp4"
+   ],
+   "plays": [],
+   "types": [
+    "Corporation",
+    "PostalAddress",
+    "micro:WebSite"
+   ],
+   "bodyLen": 5248
+  }
+ },
+ "ahrefs.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Ahrefs\u2014AI Marketing Platform Powered by Big Data",
+   "finalUrl": "https://ahrefs.com/",
+   "videos": [
+    {
+     "src": "https://ahrefs.com/assets/esbuild/hero-video-DJBMT2DT.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 380,
+     "h": 211,
+     "top": 775,
+     "visible": true,
+     "duration": 39,
+     "chrome": false,
+     "poster": "",
+     "cls": "css-13o7eu2-video css-8atqhb-video"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/brand-radar-XTGNTY6F.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 316,
+     "h": 179,
+     "top": 1718,
+     "visible": true,
+     "duration": 14,
+     "chrome": false,
+     "poster": "/assets/esbuild/brand-radar-TW64NGH5.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/rank-tracker-FFV5MG7K.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 316,
+     "h": 179,
+     "top": 1718,
+     "visible": true,
+     "duration": 14,
+     "chrome": false,
+     "poster": "/assets/esbuild/rank-tracker-JRX33GIZ.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/track-brand-visibility-YCQM7RGD.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 332,
+     "h": 288,
+     "top": 4695,
+     "visible": true,
+     "duration": 4,
+     "chrome": false,
+     "poster": "",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-vbhnl8-video css-p2h74e-video css-1428vgq"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/ahrefs-big-data-IUEYCYWZ.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 412,
+     "h": 806,
+     "top": 6447,
+     "visible": true,
+     "duration": 6,
+     "chrome": false,
+     "poster": "",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-12efcmn-video css-1etxbbi-video css-260zp"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://static.ahrefs.com/site.webm",
+    "https://www.mov"
+   ],
+   "plays": [
+    {
+     "text": "Watch demos",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization",
+    "PostalAddress"
+   ],
+   "bodyLen": 10709
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Ahrefs\u2014AI Marketing Platform Powered by Big Data",
+   "finalUrl": "https://ahrefs.com/",
+   "videos": [
+    {
+     "src": "https://ahrefs.com/assets/esbuild/hero-video-DJBMT2DT.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 1080,
+     "h": 600,
+     "top": 841,
+     "visible": true,
+     "duration": 39,
+     "chrome": false,
+     "poster": "",
+     "cls": "css-13o7eu2-video css-8atqhb-video"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/brand-radar-XTGNTY6F.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": true,
+     "duration": 14,
+     "chrome": false,
+     "poster": "/assets/esbuild/brand-radar-TW64NGH5.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/rank-tracker-FFV5MG7K.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": true,
+     "duration": 14,
+     "chrome": false,
+     "poster": "/assets/esbuild/rank-tracker-JRX33GIZ.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/site-explorer-RHFE7EZF.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2189,
+     "visible": false,
+     "duration": 13,
+     "chrome": false,
+     "poster": "/assets/esbuild/site-explorer-O4NPEARC.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/ai-content-helper-7VB54SSQ.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": false,
+     "duration": 28,
+     "chrome": false,
+     "poster": "/assets/esbuild/ai-content-helper-KJBVUUF6.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/keyword-explorer-IMNHBIZU.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": false,
+     "duration": 19,
+     "chrome": false,
+     "poster": "/assets/esbuild/keyword-explorer-3RM5YFZH.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/content-explorer-7Z7BUER6.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "/assets/esbuild/content-explorer-7NXD3AA6.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/site-audit-MNKCVHHS.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": false,
+     "duration": 13,
+     "chrome": false,
+     "poster": "/assets/esbuild/site-audit-K6BJ5IY6.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/web-analytics-V4LGRNNH.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": false,
+     "duration": 12,
+     "chrome": false,
+     "poster": "/assets/esbuild/web-analytics-HIP2QK6C.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/ai-tech-seo-GUAPPMV7.png",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "/assets/esbuild/ai-tech-seo-GUAPPMV7.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/rank-tracker-FFV5MG7K.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2169,
+     "visible": false,
+     "duration": 14,
+     "chrome": false,
+     "poster": "/assets/esbuild/rank-tracker-JRX33GIZ.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/social-media-monitor-GOVG6GEJ.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 622,
+     "h": 352,
+     "top": 2189,
+     "visible": false,
+     "duration": 15,
+     "chrome": false,
+     "poster": "/assets/esbuild/social-media-monitor-WGSMYUXN.png",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-0-videoBorderStyle"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/track-brand-visibility-YCQM7RGD.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 230,
+     "h": 366,
+     "top": 4854,
+     "visible": true,
+     "duration": 4,
+     "chrome": false,
+     "poster": "",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-vbhnl8-video css-p2h74e-video css-1428vgq"
+    },
+    {
+     "src": "https://ahrefs.com/assets/esbuild/ahrefs-big-data-IUEYCYWZ.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 1440,
+     "h": 900,
+     "top": 5926,
+     "visible": true,
+     "duration": 6,
+     "chrome": false,
+     "poster": "",
+     "cls": "css-13o7eu2-video css-8atqhb-video css-12efcmn-video css-1etxbbi-video css-260zp"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://static.ahrefs.com/site.webm",
+    "https://www.mov"
+   ],
+   "plays": [
+    {
+     "text": "Watch demos",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization",
+    "PostalAddress"
+   ],
+   "bodyLen": 10788
+  }
+ },
+ "vanta.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance",
+   "finalUrl": "https://www.vanta.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Vanta Delivers Watch now",
+     "href": "/webinars/goodbye-audit-chaos-hello-calm-pliance",
+     "visible": false
+    }
+   ],
+   "types": [],
+   "bodyLen": 4469
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance",
+   "finalUrl": "https://www.vanta.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Vanta Delivers Watch now",
+     "href": "/webinars/goodbye-audit-chaos-hello-calm-pliance",
+     "visible": true
+    }
+   ],
+   "types": [],
+   "bodyLen": 4531
+  }
+ },
+ "drata.com": {
+  "google": {
+   "status": 403,
+   "error": "",
+   "title": "Just a moment...",
+   "finalUrl": "https://drata.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 257
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "The Agentic Trust Management Platform | Drata",
+   "finalUrl": "https://drata.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://player.vimeo.com/video/1215290957?autoplay=1",
+    "https://vimeo.com/1215290957"
+   ],
+   "plays": [
+    {
+     "text": "Play AI Agent Governance Limited Availability",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization",
+    "ImageObject",
+    "ContactPoint",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "VideoObject"
+   ],
+   "bodyLen": 6744
+  }
+ },
+ "wiz.io": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Wiz: AI Cybersecurity for All Your Cloud and AI Applications",
+   "finalUrl": "https://www.wiz.io/",
+   "videos": [],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM.m3u8",
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM/high.mp4",
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM/medium.mp4",
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM/low.mp4",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw.m3u8",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw/high.mp4",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw/medium.mp4",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw/low.mp4",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9.m3u8",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9/high.mp4",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9/medium.mp4",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9/low.mp4",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG.m3u8",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG/high.mp4",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG/medium.mp4",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG/low.mp4",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI.m3u8",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI/high.mp4",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI/medium.mp4",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI/low.mp4",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47.m3u8",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47/high.mp4",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47/medium.mp4",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47/low.mp4",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V.m3u8",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V/high.mp4",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V/medium.mp4",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V/low.mp4"
+   ],
+   "plays": [],
+   "types": [],
+   "bodyLen": 25825
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Wiz: AI Cybersecurity for All Your Cloud and AI Applications",
+   "finalUrl": "https://www.wiz.io/",
+   "videos": [],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "class=",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "mux-player",
+     "attrs": "",
+     "visible": true,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM.m3u8",
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM/high.mp4",
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM/medium.mp4",
+    "https://stream.mux.com/ScpQDx7Qdr502E639Cu5D6bnXJ01fqFQiM/low.mp4",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw.m3u8",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw/high.mp4",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw/medium.mp4",
+    "https://stream.mux.com/rHxdJshRT455O01AUCSGsjEuuz004Uchqw/low.mp4",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9.m3u8",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9/high.mp4",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9/medium.mp4",
+    "https://stream.mux.com/Va5QwdCXGu5QHnPgVSGFTthRs5aZOJl9/low.mp4",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG.m3u8",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG/high.mp4",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG/medium.mp4",
+    "https://stream.mux.com/w2QRtREpWJ01waNTJX1PuxdHgNMGGtwVG/low.mp4",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI.m3u8",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI/high.mp4",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI/medium.mp4",
+    "https://stream.mux.com/44t7j6suT0200zOYAP01a02cETzDq2jV3UFI/low.mp4",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47.m3u8",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47/high.mp4",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47/medium.mp4",
+    "https://stream.mux.com/9jIHdjVzPBD8ZV6W9TjUUf1Qy6CMPn47/low.mp4",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V.m3u8",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V/high.mp4",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V/medium.mp4",
+    "https://stream.mux.com/nzjfcAzdM9Hn9L59VSZeGDb7WM1Y4a02V/low.mp4"
+   ],
+   "plays": [],
+   "types": [],
+   "bodyLen": 25826
+  }
+ },
+ "crowdstrike.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "CrowdStrike: We Stop Breaches with AI-native Cybersecurity",
+   "finalUrl": "https://www.crowdstrike.com/en-us/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://play.vidyard.com/5DMbYZEkt6stQS4uGJusoP.jpg",
+    "https://play.vidyard.com/Hp4DAKZQjXJRZ9FojykCM2.jpg",
+    "https://play.vidyard.com/XZH6T2VeDHDo5y7P1FbihB.jpg"
+   ],
+   "plays": [
+    {
+     "text": "Tech Hub Product Videos",
+     "href": "https://www.crowdstrike.com/tech-hub/",
+     "visible": false
+    },
+    {
+     "text": "Play AI Unlocked: Agents of Chaos for a chance to win up to $100,000*",
+     "href": "https://www.crowdstrike.com/en-us/platform/falcon-guardian-aidr/agents-of-chaos/",
+     "visible": true
+    },
+    {
+     "text": "Click to launch Video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Click to launch Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Click to launch Video",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Organization",
+    "ImageObject",
+    "WebPage",
+    "WebSite",
+    "Product",
+    "Brand",
+    "Offer",
+    "micro:ImageObject"
+   ],
+   "bodyLen": 6968
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "CrowdStrike: We Stop Breaches with AI-native Cybersecurity",
+   "finalUrl": "https://www.crowdstrike.com/en-us/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://play.vidyard.com/5DMbYZEkt6stQS4uGJusoP.jpg",
+    "https://play.vidyard.com/Hp4DAKZQjXJRZ9FojykCM2.jpg",
+    "https://play.vidyard.com/XZH6T2VeDHDo5y7P1FbihB.jpg"
+   ],
+   "plays": [
+    {
+     "text": "Tech Hub Product Videos",
+     "href": "https://www.crowdstrike.com/tech-hub/",
+     "visible": false
+    },
+    {
+     "text": "Play AI Unlocked: Agents of Chaos for a chance to win up to $100,000*",
+     "href": "https://www.crowdstrike.com/en-us/platform/falcon-guardian-aidr/agents-of-chaos/",
+     "visible": true
+    },
+    {
+     "text": "Click to launch Video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Click to launch Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Click to launch Video",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Organization",
+    "ImageObject",
+    "WebPage",
+    "WebSite",
+    "Product",
+    "Brand",
+    "Offer",
+    "micro:ImageObject"
+   ],
+   "bodyLen": 7318
+  }
+ },
+ "okta.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Secure Identity for Employees, Customers, and AI | Okta",
+   "finalUrl": "https://www.okta.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://play.vidyard.com/embed/v4.js"
+   ],
+   "plays": [
+    {
+     "text": "Watch now",
+     "href": "https://www.okta.com/oktane/",
+     "visible": true
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Organization",
+    "PostalAddress",
+    "micro:ImageObject"
+   ],
+   "bodyLen": 2990
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Secure Identity for Employees, Customers, and AI | Okta",
+   "finalUrl": "https://www.okta.com/",
+   "videos": [],
+   "iframes": [
+    {
+     "src": "https://play.vidyard.com/TAyrhYQYz1s5HZj1LhTvzx/type/background",
+     "w": 1312,
+     "h": 568,
+     "chrome": false
+    }
+   ],
+   "markers": [],
+   "urls": [
+    "https://play.vidyard.com/embed/v4.js",
+    "https://play.vidyard.com/TAyrhYQYz1s5HZj1LhTvzx/type/background",
+    "https://play.vidyard.com/u9jYyebzkJkHxjjHy7EkaQ/type/background?transparent=true",
+    "https://play.vidyard.com/uRJd9vWWtZq9KTYaiaXvsb/type/background?transparent=true",
+    "https://play.vidyard.com/dhdfpSXp7bZGLz8HGemYWD/type/background?transparent=true"
+   ],
+   "plays": [
+    {
+     "text": "Watch now",
+     "href": "https://www.okta.com/oktane/",
+     "visible": true
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause video background",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Organization",
+    "PostalAddress",
+    "micro:ImageObject"
+   ],
+   "bodyLen": 2722
+  }
+ },
+ "datadoghq.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Cloud Monitoring as a Service | Datadog",
+   "finalUrl": "https://www.datadoghq.com/",
+   "videos": [
+    {
+     "src": "",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 382,
+     "h": 215,
+     "top": 358,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/dd-homepage.jpg?width=1700&height=956&fit=crop&format=auto&quality=80",
+     "cls": ""
+    },
+    {
+     "src": "https://corp.dd-static.net/video/Hostmap-compressed.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home-hostmap-static.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/clickthrough-logs.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/clickthrough-logs.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/APM-comp.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home-apm-static.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/bits-ai-sre-autonomous_investigations_small_compressed.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/products/bits-ai-sre/bits-ai-sre_investigations.png?w=804&fit=crop&fm=jpg&auto=format&dpr",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/products/security-monitoring/cloud-siem-security-analyst-2026.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/homepage/prioritize_high-risk_vulnerabilities_1_desktop.png?w=804&fit=crop&fm=jpg&auto=fo",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/network-map-comp.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/network/network-map-poster.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/Browsertest_03.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/Browsertest_03.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/products/rum/rum-video.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/products/rum/rum-video.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/troubleshooting-serverless-1080p.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/serverless/serverless-1-all-your-functions-poster.png?w=804&fit=crop&fm=jpg&auto=format&d",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/Hostmap-compressed.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home-hostmap-static.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://player.vimeo.com/progressive_redirect/playback/463974151/rendition/1080p/file.mp4?loc=external&signature=2afe34669c97de79ea8c8dced28b4d1addeb383e0103cd6c1fcb4ee8e34320dc",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home/datadog-platform-video-tour.png?width=1140&format=auto&quality=1",
+     "cls": ""
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://corp.dd-static.net/video/Hostmap-compressed.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/Hostmap-compressed.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/clickthrough-logs.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/clickthrough-logs.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/APM-comp.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/APM-comp.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/bits-ai-sre-autonomous_investigations_small_compressed.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/bits-ai-sre-autonomous_investigations_small_compressed.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/products/security-monitoring/cloud-siem-security-analyst-2026.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/products/security-monitoring/cloud-siem-security-analyst-2026.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/network-map-comp.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/network-map-comp.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/Browsertest_03.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/Browsertest_03.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/products/rum/rum-video.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/products/rum/rum-video.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/troubleshooting-serverless-1080p.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/troubleshooting-serverless-1080p.mp4?fm=webm&amp;fit=max",
+    "https://player.vimeo.com/progressive_redirect/playback/463974151/rendition/1080p/file.mp4?loc=external&amp;signature=2afe34669c97de79ea8c8dced28b4d1addeb383e010"
+   ],
+   "plays": [
+    {
+     "text": "Datadog Video Tour",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "ImageObject",
+    "Offer",
+    "QuantitativeValue",
+    "SoftwareApplication",
+    "micro:Article"
+   ],
+   "bodyLen": 2026
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Cloud Monitoring as a Service | Datadog",
+   "finalUrl": "https://www.datadoghq.com/",
+   "videos": [
+    {
+     "src": "https://corp.dd-static.net//video/home/homepage-animation-1080.mp4?auto=format&fit=max",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 1312,
+     "h": 738,
+     "top": 345,
+     "visible": true,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/dd-homepage.jpg?width=1700&height=956&fit=crop&format=auto&quality=80",
+     "cls": ""
+    },
+    {
+     "src": "https://corp.dd-static.net/video/Hostmap-compressed.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 482,
+     "top": 2245,
+     "visible": true,
+     "duration": 18,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home-hostmap-static.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/clickthrough-logs.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 483,
+     "top": 2491,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/clickthrough-logs.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/APM-comp.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 482,
+     "top": 2560,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home-apm-static.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/bits-ai-sre-autonomous_investigations_small_compressed.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 452,
+     "top": 2629,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/products/bits-ai-sre/bits-ai-sre_investigations.png?w=804&fit=crop&fm=jpg&auto=format&dpr",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/products/security-monitoring/cloud-siem-security-analyst-2026.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 478,
+     "top": 2698,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/homepage/prioritize_high-risk_vulnerabilities_1_desktop.png?w=804&fit=crop&fm=jpg&auto=fo",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/network-map-comp.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 451,
+     "top": 2767,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/network/network-map-poster.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/Browsertest_03.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 482,
+     "top": 2836,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/Browsertest_03.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/products/rum/rum-video.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 452,
+     "top": 2905,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/products/rum/rum-video.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/troubleshooting-serverless-1080p.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 804,
+     "h": 453,
+     "top": 2974,
+     "visible": true,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/serverless/serverless-1-all-your-functions-poster.png?w=804&fit=crop&fm=jpg&auto=format&d",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://corp.dd-static.net/video/Hostmap-compressed.mp4?format=mp4&fit=bounds",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 4887,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home-hostmap-static.png?w=804&fit=crop&fm=jpg&auto=format&dpr=1.75&q=40",
+     "cls": "home-product-video tw-w-full desktop:tw-w-[694px] desktop-lg:tw-w-[804px] deskto"
+    },
+    {
+     "src": "https://player.vimeo.com/progressive_redirect/playback/463974151/rendition/1080p/file.mp4?loc=external&signature=2afe34669c97de79ea8c8dced28b4d1addeb383e0103cd6c1fcb4ee8e34320dc",
+     "controls": true,
+     "autoplay": false,
+     "muted": false,
+     "loop": false,
+     "w": 0,
+     "h": 0,
+     "top": 4887,
+     "visible": false,
+     "duration": null,
+     "chrome": false,
+     "poster": "https://corp.dd-static.net/img/home/datadog-platform-video-tour.png?width=1140&format=auto&quality=1",
+     "cls": ""
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://corp.dd-static.net//video/home/homepage-animation-1080.mp4?auto=format&amp;fit=max",
+    "https://corp.dd-static.net/video/Hostmap-compressed.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/Hostmap-compressed.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/clickthrough-logs.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/clickthrough-logs.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/APM-comp.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/APM-comp.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/bits-ai-sre-autonomous_investigations_small_compressed.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/bits-ai-sre-autonomous_investigations_small_compressed.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/products/security-monitoring/cloud-siem-security-analyst-2026.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/products/security-monitoring/cloud-siem-security-analyst-2026.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/network-map-comp.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/network-map-comp.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/Browsertest_03.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/Browsertest_03.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/products/rum/rum-video.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/products/rum/rum-video.mp4?fm=webm&amp;fit=max",
+    "https://corp.dd-static.net/video/troubleshooting-serverless-1080p.mp4?format=mp4&amp;fit=bounds",
+    "https://corp.dd-static.net/video/troubleshooting-serverless-1080p.mp4?fm=webm&amp;fit=max",
+    "https://player.vimeo.com/progressive_redirect/playback/463974151/rendition/1080p/file.mp4?loc=external&amp;signature=2afe34669c97de79ea8c8dced28b4d1addeb383e010"
+   ],
+   "plays": [
+    {
+     "text": "Datadog Video Tour",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "ImageObject",
+    "Offer",
+    "QuantitativeValue",
+    "SoftwareApplication",
+    "micro:Article"
+   ],
+   "bodyLen": 4195
+  }
+ },
+ "newrelic.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "AI-powered Observability",
+   "finalUrl": "https://newrelic.com/",
+   "videos": [
+    {
+     "src": "blob:https://newrelic.com/0a6c542f-6af3-4353-8d52-442aef0cbf0b",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 332,
+     "h": 249,
+     "top": 2041,
+     "visible": true,
+     "duration": 11,
+     "chrome": false,
+     "poster": "https://fast.wistia.com/assets/images/blank.gif",
+     "cls": ""
+    },
+    {
+     "src": "blob:https://newrelic.com/66061cb3-0ac4-4fa3-aa3a-482c54d8a550",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 332,
+     "h": 249,
+     "top": 2041,
+     "visible": true,
+     "duration": 29,
+     "chrome": false,
+     "poster": "https://fast.wistia.com/assets/images/blank.gif",
+     "cls": ""
+    },
+    {
+     "src": "blob:https://newrelic.com/3bb6ae4a-ec54-4576-b474-e920fb3bd62b",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 332,
+     "h": 249,
+     "top": 2041,
+     "visible": true,
+     "duration": 23,
+     "chrome": false,
+     "poster": "https://fast.wistia.com/assets/images/blank.gif",
+     "cls": ""
+    },
+    {
+     "src": "blob:https://newrelic.com/18b90426-286c-4351-9118-29712012885e",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 332,
+     "h": 249,
+     "top": 2041,
+     "visible": true,
+     "duration": 16,
+     "chrome": false,
+     "poster": "https://fast.wistia.com/assets/images/blank.gif",
+     "cls": ""
+    },
+    {
+     "src": "blob:https://newrelic.com/2a97f995-7b39-48cd-8961-7c72cde1d2eb",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 332,
+     "h": 249,
+     "top": 2041,
+     "visible": true,
+     "duration": 13,
+     "chrome": false,
+     "poster": "https://fast.wistia.com/assets/images/blank.gif",
+     "cls": ""
+    },
+    {
+     "src": "blob:https://newrelic.com/fa5606fc-3013-4c91-b7fa-4ab0e53b5408",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 332,
+     "h": 249,
+     "top": 2041,
+     "visible": true,
+     "duration": 15,
+     "chrome": false,
+     "poster": "https://fast.wistia.com/assets/images/blank.gif",
+     "cls": ""
+    }
+   ],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://embed-ssl.wistia.com/deliveries/4f33a4993386fb7e02677c1b59a5784b74f17cc0.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/7c5da68edb33d64810dfe94d525464151c871f77.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/1aa3415041233cf2bc757796705fc94bb17c86d6.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/03bdf2dfa0864c1db29c421c110e39a67445504b.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/a1594455b622663f806d32df10f7228c23e9e016.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/225d30865e376c18bb43e638e5f4da97256552eb.m3u8",
+    "https://fast.wistia.com/embed/medias/1enxzilg1j.m3u8",
+    "https://fast.wistia.com/embed/medias/upwtotuyui.m3u8",
+    "https://fast.wistia.com/embed/medias/6kqnwdpb9g.m3u8",
+    "https://fast.wistia.com/embed/medias/indksg92gl.m3u8",
+    "https://fast.wistia.com/embed/medias/9w6u1u7ru1.m3u8",
+    "https://fast.wistia.com/embed/medias/qayk113vou.m3u8",
+    "https://fast.wistia.net/embed/iframe/1enxzilg1j",
+    "https://fast.wistia.net/embed/iframe/upwtotuyui",
+    "https://fast.wistia.net/embed/iframe/9w6u1u7ru1",
+    "https://fast.wistia.net/embed/iframe/indksg92gl",
+    "https://fast.wistia.net/embed/iframe/qayk113vou",
+    "https://fast.wistia.net/embed/iframe/6kqnwdpb9g",
+    "https://fast.wistia.com/assets/external/E-v1.js",
+    "https://fast.wistia.com/assets/images/blank.gif"
+   ],
+   "plays": [
+    {
+     "text": "Pause Video: o11y_toolkit_apm",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Video controls: o11y_toolkit_apm",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Pause Video: o11y_toolkit_digital_experience",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Pause Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Video controls: o11y_toolkit_digital_experience",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play Video: o11y_toolkit_ai_and_agentic",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video: o11y_toolkit_infrastructure",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video: o11y_toolkit_logs",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video: o11y_toolkit_security",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Watch Demo",
+     "href": "/lp/on-demand-demo",
+     "visible": false
+    }
+   ],
+   "types": [
+    "VideoObject",
+    "Organization",
+    "ContactPoint",
+    "ImageObject",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "micro:SiteNavigationElement"
+   ],
+   "bodyLen": 4555
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "AI-powered Observability",
+   "finalUrl": "https://newrelic.com/",
+   "videos": [
+    {
+     "src": "blob:https://newrelic.com/c2ed537e-4d22-448b-8119-9ee941992b4a",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 875,
+     "h": 656,
+     "top": 1778,
+     "visible": true,
+     "duration": 11,
+     "chrome": false,
+     "poster": "https://fast.wistia.com/assets/images/blank.gif",
+     "cls": ""
+    }
+   ],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_1enxzilg1j videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_upwtotuyui videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_6kqnwdpb9g videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_indksg92gl videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_9w6u1u7ru1 videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    },
+    {
+     "tag": "div",
+     "attrs": "class=wistia_embed wistia-embed js-wistia-embed js-video-embed wistia_async_qayk113vou videoFoam data-video-loop=1",
+     "visible": false,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://embed-ssl.wistia.com/deliveries/1aa3415041233cf2bc757796705fc94bb17c86d6.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/03bdf2dfa0864c1db29c421c110e39a67445504b.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/7c5da68edb33d64810dfe94d525464151c871f77.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/a1594455b622663f806d32df10f7228c23e9e016.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/225d30865e376c18bb43e638e5f4da97256552eb.m3u8",
+    "https://embed-ssl.wistia.com/deliveries/4f33a4993386fb7e02677c1b59a5784b74f17cc0.m3u8",
+    "https://fast.wistia.com/embed/medias/1enxzilg1j.m3u8",
+    "https://fast.wistia.net/embed/iframe/9w6u1u7ru1",
+    "https://fast.wistia.net/embed/iframe/indksg92gl",
+    "https://fast.wistia.net/embed/iframe/upwtotuyui",
+    "https://fast.wistia.net/embed/iframe/qayk113vou",
+    "https://fast.wistia.net/embed/iframe/6kqnwdpb9g",
+    "https://fast.wistia.net/embed/iframe/1enxzilg1j",
+    "https://fast.wistia.com/assets/external/E-v1.js",
+    "https://fast.wistia.com/assets/images/blank.gif"
+   ],
+   "plays": [
+    {
+     "text": "Play Video: o11y_toolkit_apm",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play Video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Watch Demo",
+     "href": "/lp/on-demand-demo",
+     "visible": true
+    }
+   ],
+   "types": [
+    "VideoObject",
+    "Organization",
+    "ContactPoint",
+    "ImageObject",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "micro:SiteNavigationElement"
+   ],
+   "bodyLen": 3822
+  }
+ },
+ "hashicorp.com": {
+  "google": {
+   "status": 429,
+   "error": "",
+   "title": "Vercel Security Checkpoint",
+   "finalUrl": "https://www.hashicorp.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 117
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "HashiCorp | An IBM Company",
+   "finalUrl": "https://www.hashicorp.com/en",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [],
+   "types": [],
+   "bodyLen": 6965
+  }
+ },
+ "ramp.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp",
+   "finalUrl": "https://ramp.com/",
+   "videos": [
+    {
+     "src": "https://assets.ramp.com/nextjs/videos/homepage-hero-mobile-423.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 378,
+     "h": 378,
+     "top": 525,
+     "visible": true,
+     "duration": 13,
+     "chrome": false,
+     "poster": "",
+     "cls": "block w-full aspect-square object-cover rounded-xl lg:hidden"
+    },
+    {
+     "src": "https://assets.ramp.com/nextjs/videos/homepage-hero-423.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 0,
+     "visible": false,
+     "duration": 13,
+     "chrome": false,
+     "poster": "",
+     "cls": "hidden w-full aspect-[1312/585] object-cover rounded-xl lg:block"
+    },
+    {
+     "src": "https://assets.ramp.com/nextjs/videos/homepage-perplexity-thumbnail.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 378,
+     "h": 378,
+     "top": 8607,
+     "visible": true,
+     "duration": 10,
+     "chrome": false,
+     "poster": "",
+     "cls": "pointer-events-none absolute inset-0 size-full object-cover"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://assets.ramp.com/nextjs/videos/homepage-hero-mobile-423.webm",
+    "https://assets.ramp.com/nextjs/videos/homepage-hero-423.webm",
+    "https://assets.ramp.com/nextjs/videos/homepage-perplexity-thumbnail.mp4",
+    "https://assets.ramp.com/nextjs/videos/homepage-perplexity-thumbnail.webm",
+    "https://assets.ramp.com/nextjs/videos/demo.mp4",
+    "https://assets.ramp.com/nextjs/videos/demo.webm"
+   ],
+   "plays": [
+    {
+     "text": "Play Stack by Ramp video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play Perplexity customer story video",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization"
+   ],
+   "bodyLen": 8060
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp",
+   "finalUrl": "https://ramp.com/",
+   "videos": [
+    {
+     "src": "https://assets.ramp.com/nextjs/videos/homepage-hero-mobile-423.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 0,
+     "h": 0,
+     "top": 13012,
+     "visible": false,
+     "duration": 13,
+     "chrome": false,
+     "poster": "",
+     "cls": "block w-full aspect-square object-cover rounded-xl lg:hidden"
+    },
+    {
+     "src": "https://assets.ramp.com/nextjs/videos/homepage-hero-423.webm",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 1310,
+     "h": 584,
+     "top": 466,
+     "visible": true,
+     "duration": 13,
+     "chrome": false,
+     "poster": "",
+     "cls": "hidden w-full aspect-[1312/585] object-cover rounded-xl lg:block"
+    },
+    {
+     "src": "https://assets.ramp.com/nextjs/videos/homepage-perplexity-thumbnail.mp4",
+     "controls": false,
+     "autoplay": true,
+     "muted": true,
+     "loop": true,
+     "w": 753,
+     "h": 753,
+     "top": 8110,
+     "visible": true,
+     "duration": 10,
+     "chrome": false,
+     "poster": "",
+     "cls": "pointer-events-none absolute inset-0 size-full object-cover"
+    }
+   ],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://assets.ramp.com/nextjs/videos/homepage-hero-mobile-423.webm",
+    "https://assets.ramp.com/nextjs/videos/homepage-hero-423.webm",
+    "https://assets.ramp.com/nextjs/videos/homepage-perplexity-thumbnail.mp4",
+    "https://assets.ramp.com/nextjs/videos/homepage-perplexity-thumbnail.webm",
+    "https://assets.ramp.com/nextjs/videos/demo.mp4",
+    "https://assets.ramp.com/nextjs/videos/demo.webm"
+   ],
+   "plays": [
+    {
+     "text": "Play Stack by Ramp video Watch Video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play Perplexity customer story video Watch Video",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Organization"
+   ],
+   "bodyLen": 9844
+  }
+ },
+ "brex.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Brex: The Modern Finance Software Platform | Spend Smarter",
+   "finalUrl": "https://www.brex.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://brand.brex.com/asset/3700a891-a7d0-4430-87c9-06643b0df33e/mp4/HP-SmartestCorpprateCard_Optimized.mp4",
+    "https://brand.brex.com/m/2e6f4b37102ccc3e/original/HP-SmartestCorpprateCard_Optimized.mp4"
+   ],
+   "plays": [
+    {
+     "text": "See Brex in action",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "See Brex in action",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Corporation"
+   ],
+   "bodyLen": 10067
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Brex: The Modern Finance Software Platform | Spend Smarter",
+   "finalUrl": "https://www.brex.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [
+    "https://brand.brex.com/asset/3700a891-a7d0-4430-87c9-06643b0df33e/mp4/HP-SmartestCorpprateCard_Optimized.mp4",
+    "https://brand.brex.com/m/2e6f4b37102ccc3e/original/HP-SmartestCorpprateCard_Optimized.mp4"
+   ],
+   "plays": [
+    {
+     "text": "See Brex in action",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "See Brex in action",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "Corporation"
+   ],
+   "bodyLen": 10133
+  }
+ },
+ "deel.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Deel | Global Payroll, Compliance, HR Solutions | HRIS",
+   "finalUrl": "https://www.deel.com/",
+   "videos": [
+    {
+     "src": "https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 339,
+     "h": 250,
+     "top": 6282,
+     "visible": true,
+     "duration": 105,
+     "chrome": false,
+     "poster": "",
+     "cls": "mui-1hbrrqt"
+    },
+    {
+     "src": "https://website-media.deel.com/144ddb7a_bc53_4180_8193_76a9e3715957_fc410b502d.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 322,
+     "h": 238,
+     "top": 6295,
+     "visible": true,
+     "duration": 88,
+     "chrome": false,
+     "poster": "",
+     "cls": "mui-1hbrrqt"
+    }
+   ],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "video",
+     "attrs": "data-video-id=https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4 class=mui-1hbrrqt",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "video",
+     "attrs": "data-video-id=https://website-media.deel.com/144ddb7a_bc53_4180_8193_76a9e3715957_fc410b502d.mp4 class=mui-1hbrrqt",
+     "visible": true,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4",
+    "https://website-media.deel.com/144ddb7a_bc53_4180_8193_76a9e3715957_fc410b502d.mp4",
+    "https://website-media.deel.com/Cal_com_Brand_Love_Final_V1_1_1_720888d162.mp4",
+    "https://website-media.deel.com/How_Strada_uses_Deel_to_save_thousands_i_Media_hv_X7_Gm_Q5_Cx_A_001_1080p_9b8e5f1ca2.mp4",
+    "https://website-media.deel.com/How_Sardine_uses_Deel_to_build_a_world_c_Media_6_OM_94sus_Fwo_001_1080p_ce26f880bd.mp4",
+    "https://website-media.deel.com/How_Superfiliate_Streamlined_Global_Work_Media_qgu_xa_WN_Ug_001_1080p_3a81172692.mp4",
+    "https://website-media.deel.com/How_Bowmans_Unified_Payroll_Across_Six_C_Media_ns_Bkc_K_If_MM_001_1080p_04ef940e1f.mp4",
+    "https://website-media.deel.com/Brand_Love_Dicex_Deel_F5_f385fc27c5.mp4"
+   ],
+   "plays": [
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    }
+   ],
+   "types": [
+    "WebPage",
+    "BreadcrumbList",
+    "ListItem",
+    "VideoObject",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "bodyLen": 5334
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Deel | Global Payroll, Compliance, HR Solutions | HRIS",
+   "finalUrl": "https://www.deel.com/",
+   "videos": [
+    {
+     "src": "https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 840,
+     "h": 500,
+     "top": 4764,
+     "visible": true,
+     "duration": 105,
+     "chrome": false,
+     "poster": "",
+     "cls": "mui-1hbrrqt"
+    },
+    {
+     "src": "https://website-media.deel.com/144ddb7a_bc53_4180_8193_76a9e3715957_fc410b502d.mp4",
+     "controls": false,
+     "autoplay": false,
+     "muted": true,
+     "loop": true,
+     "w": 798,
+     "h": 475,
+     "top": 4782,
+     "visible": true,
+     "duration": 88,
+     "chrome": false,
+     "poster": "",
+     "cls": "mui-1hbrrqt"
+    }
+   ],
+   "iframes": [],
+   "markers": [
+    {
+     "tag": "video",
+     "attrs": "data-video-id=https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4 class=mui-1hbrrqt",
+     "visible": true,
+     "chrome": false
+    },
+    {
+     "tag": "video",
+     "attrs": "data-video-id=https://website-media.deel.com/144ddb7a_bc53_4180_8193_76a9e3715957_fc410b502d.mp4 class=mui-1hbrrqt",
+     "visible": true,
+     "chrome": false
+    }
+   ],
+   "urls": [
+    "https://website-media.deel.com/DEEL_REVOLUT_MASTER_01_16_X9_1080_2_416352e078.mp4",
+    "https://website-media.deel.com/144ddb7a_bc53_4180_8193_76a9e3715957_fc410b502d.mp4",
+    "https://website-media.deel.com/Cal_com_Brand_Love_Final_V1_1_1_720888d162.mp4",
+    "https://website-media.deel.com/How_Strada_uses_Deel_to_save_thousands_i_Media_hv_X7_Gm_Q5_Cx_A_001_1080p_9b8e5f1ca2.mp4",
+    "https://website-media.deel.com/How_Sardine_uses_Deel_to_build_a_world_c_Media_6_OM_94sus_Fwo_001_1080p_ce26f880bd.mp4",
+    "https://website-media.deel.com/How_Superfiliate_Streamlined_Global_Work_Media_qgu_xa_WN_Ug_001_1080p_3a81172692.mp4",
+    "https://website-media.deel.com/How_Bowmans_Unified_Payroll_Across_Six_C_Media_ns_Bkc_K_If_MM_001_1080p_04ef940e1f.mp4",
+    "https://website-media.deel.com/Brand_Love_Dicex_Deel_F5_f385fc27c5.mp4"
+   ],
+   "plays": [
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": true
+    },
+    {
+     "text": "Play video",
+     "href": "",
+     "visible": false
+    }
+   ],
+   "types": [
+    "WebPage",
+    "BreadcrumbList",
+    "VideoObject",
+    "WebSite",
+    "Organization",
+    "Person"
+   ],
+   "bodyLen": 5734
+  }
+ },
+ "rippling.com": {
+  "google": {
+   "status": 200,
+   "error": "",
+   "title": "Rippling: #1 Workforce Management System | HR, IT, Finance",
+   "finalUrl": "https://www.rippling.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Play video 1:00",
+     "href": "/#",
+     "visible": true
+    },
+    {
+     "text": "Watch tour video",
+     "href": "/tour-video",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Product",
+    "AggregateRating",
+    "Organization",
+    "PostalAddress",
+    "Country"
+   ],
+   "bodyLen": 8967
+  },
+  "desktop": {
+   "status": 200,
+   "error": "",
+   "title": "Rippling: #1 Workforce Management System | HR, IT, Finance",
+   "finalUrl": "https://www.rippling.com/",
+   "videos": [],
+   "iframes": [],
+   "markers": [],
+   "urls": [],
+   "plays": [
+    {
+     "text": "Play video 1:00",
+     "href": "/#",
+     "visible": true
+    },
+    {
+     "text": "Watch tour video",
+     "href": "/tour-video",
+     "visible": true
+    }
+   ],
+   "types": [
+    "Product",
+    "AggregateRating",
+    "Organization",
+    "PostalAddress",
+    "Country"
+   ],
+   "bodyLen": 8378
+  }
+ }
+}
