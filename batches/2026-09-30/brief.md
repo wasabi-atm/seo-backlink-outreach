@@ -19,3 +19,5 @@
 - Checkpoint 1: waiting on the user.
 - Step 3 (30 Sep, Ahrefs via 4 agents, in-content or all outbound links, capped at 100 rows per domain): all 111 have DR 40 or higher (40 to 91), so 02_low_dr.csv is empty and nothing goes to the pool. Ahrefs signed out mid-run, so 12 rows are backlinkExchange=unchecked (Cribl, Collibra, Seamless.ai, Filevine, gcc-marketing.com, Alation, Everlaw, Melio, Logikcull, Relativity, HireRight, GoodTime). Weak Yes calls flagged in the evidence: Zand, DP World, mrs.digital, Simplecast, Webcastle, Freuds, Ripjar, Yomly, OptinMonster.
 - Checkpoint 2: waiting on the user.
+- Step 4 (30 Sep, user approved Apify cheerio-scraper route): five agents picked one article and hook per company, checked no-video claims against raw HTML where they could. 03_backlink_targets.csv built from step4/out_0..4.csv.
+- Checkpoint: waiting on the user to drop or keep the weak and dead rows before Step 5.
