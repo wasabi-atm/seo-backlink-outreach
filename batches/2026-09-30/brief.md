@@ -9,3 +9,7 @@
 ## Progress log
 
 - Sync pull done (main 8ec9223). Repo SKILL.md differs from the claude.ai copy, so the repo version is followed. The claude.ai copy is out of date and should be re-uploaded.
+- Candidate research (30 Sep): four agents added 113 new candidates (A UK/UAE 28, A US 23, B UK/UAE 31, B US 30). Merged with 148 spares into 00_candidates.csv (260). Dedupe: 1 removed, Napier AI (possible match with Napier, backlink-2026-09-23-b).
+- Vetting route: Apify only (cloud blocks prospect sites). No screenshots, so no design score. Step 2c skipped.
+- Selection: 150 in 01_prospects.csv (A 75, B 75). UAE is thin: 9 A and 17 B. IFZA and DMCC (free-zone authorities) left out. 109 of 150 have a dated post since Oct 2025. Competitors held out for the user's decision: 01_competitors_to_decide.csv.
+- Checkpoint 1: waiting on the user.
