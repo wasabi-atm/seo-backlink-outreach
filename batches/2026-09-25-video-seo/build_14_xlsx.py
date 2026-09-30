@@ -13,7 +13,8 @@ a company was also in 08 or 09. Salesforce is left out: it blocks local renders,
 
 Sources: Ahrefs connector (official API, batch-analysis) for DR and organic traffic; Similarweb through
 Apify (radeance/similarweb-scraper for the 160, karamelo/similarweb-scraper-light for the other 860,
-same numbers) for visits, bounce rate, average visit duration and pages per visit; Apollo free company
+same numbers) for visits, bounce rate, average visit duration and pages per visit (41 sites too small
+for Similarweb use the Traffic panel of Ahrefs Site Explorer instead); Apollo free company
 search for the staff band (Startup up to 50, Scaleup 51 to 500, Enterprise 501+).
 """
 import csv, glob, json
@@ -46,6 +47,12 @@ for f in sorted(glob.glob("metrics/similarweb*.json"), key=lambda p: "test" not 
                    pages=it.get("pagesPerVisit"))
         if d not in sw or visits:
             sw[d] = rec
+# Sites too small for Similarweb: the Traffic panel of Ahrefs Site Explorer's Overview (last 30 days),
+# read from the Ahrefs app in the browser (not in the API yet), metrics/ahrefs_traffic_41.csv
+for r in rows("metrics/ahrefs_traffic_41.csv"):
+    if not (sw.get(r["webDomain"]) or {}).get("visits"):
+        sw[r["webDomain"]] = dict(visits=int(r["visits"]), bounce=float(r["bounceRate"]), secs=int(r["visitSeconds"]),
+                                  pages=float(r["pagesPerVisit"]))
 # Staff band
 band = {r["webDomain"]: r["apolloBand"] for r in rows("metrics/apollo_bands.csv") + rows("metrics/apollo_bands_860.csv")}
 
