@@ -13,3 +13,7 @@
 - Vetting route: Apify only (cloud blocks prospect sites). No screenshots, so no design score. Step 2c skipped.
 - Selection: 150 in 01_prospects.csv (A 75, B 75). UAE is thin: 9 A and 17 B. IFZA and DMCC (free-zone authorities) left out. 109 of 150 have a dated post since Oct 2025. Competitors held out for the user's decision: 01_competitors_to_decide.csv.
 - Checkpoint 1: waiting on the user.
+- Competitor answers (30 Sep): include, quote swap only: Here Now Films, Explainify, Lemonlight, Yum Yum Videos. Column Five and Radley Yeldar keep their earlier includes (25 and 29 Sep).
+- Cleanup: 13 spares dropped because their blogs were found dead or duplicate on 29 Sep (Turner Duckworth, Show + Tell, Eastside Co, Gleanin, Little Warden, Opteo, Talentera, Okadoc, Letswork, GBM, Saal.ai, Pyypl, Presight). 4 dropped for a last post older than Oct 2025 (Mapp, Seeker, Eventsforce, PushON).
+- Result: 01_prospects.csv has 111 (A 53, B 58) with a blog post since Oct 2025 or an included competitor. 01_unverified_spares.csv has 28 more (A 18, B 10) with no blog date. 150 is not reachable with verified blogs. Napier AI (possible match with Napier) is held out, awaiting the user.
+- Checkpoint 1: waiting on the user.
