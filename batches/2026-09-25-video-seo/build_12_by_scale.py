@@ -1,6 +1,7 @@
 """Builds 12_video_seo_by_scale.csv: the 126 companies in 07 (with contacts) plus the 34 the user added
 on 30 Sep (added34/), grouped by company scale, with Ahrefs and Similarweb metrics. Also writes one file
-per scale: 12a_startup.csv, 12b_scaleup.csv, 12c_enterprise.csv (and 12d_scale_unknown.csv if any).
+per scale: 12a_startup.csv, 12b_scaleup.csv, 12c_enterprise.csv (and 12d_scale_unknown.csv if any), and
+13_video_true_schema_false.csv: every company with a video and no VideoObject, grouped the same way.
 
     <repo>/.venv-crawl/bin/python build_12_by_scale.py
 
@@ -139,6 +140,10 @@ for i, s in enumerate(ORDER):
         write(path, part)
     elif os.path.exists(path):
         os.remove(path)
+# One file with every company that has a video and no VideoObject Google sees (user asked, 30 Sep)
+gaps = [r for r in data if r["hasVideo"] == "yes" and r["videoSchema"] == "FALSE"]
+write("13_video_true_schema_false.csv", gaps)
+print(len(gaps), "with a video and no schema ->", "13_video_true_schema_false.csv")
 count = lambda key: {v: sum(r[key] == v for r in data) for v in sorted({r[key] for r in data})}
 print(len(data), "companies; scale", count("companyScale"))
 print("Similarweb confidence:", count("similarwebConfidence"))
