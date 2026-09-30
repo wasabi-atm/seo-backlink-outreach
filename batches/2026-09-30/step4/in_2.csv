@@ -1,0 +1,23 @@
+companyName,webDomain,segment,country,serviceType,domainRating,competitor,competitorDecision,blogUrl,backlinkExchange,latestPost
+GCC Marketing,gcc-marketing.com,A,UAE,Digital agency (web and marketing),40,no,,https://www.gcc-marketing.com/en/blog/,unchecked,2026-08-16
+WordStream,wordstream.com,A,US,PPC and marketing SaaS and education,90,no,,https://www.wordstream.com/blog,Yes,2026-09-14
+Explainify,explainify.com,A,US,Explainer video and animation production for B2B,40,yes,include,https://www.explainify.com/blog,No,2026-08-03
+IRIS Software Group,iris.co.uk,B,UK,"Accounting, payroll and HR software",74,no,,https://www.iris.co.uk/blog/,Yes,2026-09-28
+Checkr,checkr.com,B,US,Background check HR tech,78,no,,https://checkr.com/blog,Yes,2026-09-22
+Filevine,filevine.com,B,US,Legal case management software,70,no,,https://www.filevine.com/blog/,unchecked,2026-06-02
+Blue Frontier,bluefrontier.co.uk,A,UK,Web design and digital marketing agency,66,no,,https://www.bluefrontier.co.uk/blog,Yes,2026-09-18
+Planoly,planoly.com,A,US,Social media marketing SaaS,80,no,,https://www.planoly.com/blog/,Yes,2026-09-28
+Zand,zand.ae,B,UAE,Digital bank (corporate and digital assets),51,no,,https://www.zand.ae/en/blogs,Yes,2026-07-05
+Panaseer,panaseer.com,B,UK,Cybersecurity (continuous controls monitoring),60,no,,https://panaseer.com/resources/blog,Yes,2026-09-08
+Monte Carlo,montecarlodata.com,B,US,Data and AI observability,74,no,,https://www.montecarlodata.com/blog/,Some,2026-03-12
+Cactix,cactix.com,A,UAE,"B2B digital marketing agency, HubSpot partner",43,no,,https://cactix.com/resources,Yes,2026-09-27
+Wrapped Agency,wrappedagency.co.uk,A,UK,"Healthcare, fintech and property marketing agency",41,no,,https://wrappedagency.co.uk/blog/,Yes,2026-09-16
+Hushly,hushly.com,A,US,"B2B marketing SaaS (ABM, content experience)",53,no,,https://www.hushly.com/blog,No,2026-09-29
+NCC Group,nccgroup.com,B,UK,Cybersecurity,79,no,,https://www.nccgroup.com/research-blog/,Yes,2026-04-15
+Honeycomb,honeycomb.io,B,US,Observability software,78,no,,https://www.honeycomb.io/blog,Yes,2026-09-29
+Melio,melio.com,B,US,B2B payments fintech,71,no,,https://melio.com/blog/,unchecked,2026-09-18
+Amplience,amplience.com,A,UK,Content and digital asset management SaaS for retail,68,no,,https://amplience.com/blog/,Yes,2026-08-25
+Yext,yext.com,A,US,Search and brand visibility SaaS,82,no,,https://www.yext.com/blog,Yes,2026-03-25
+Yomly,yomly.com,B,UAE,HR and payroll SaaS,59,no,,https://www.yomly.com/blog,Yes,2026-09-28
+Soldo,soldo.com,B,UK,Spend management / FinTech,62,no,,https://www.soldo.com/en-gb/blog/,Yes,2026-09-17
+Tines,tines.com,B,US,Workflow automation and security orchestration,74,no,,https://www.tines.com/blog/,Yes,2026-09-08
