@@ -1,0 +1,88 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+We Are Social,wearesocial.com,UK,Social-first creative and content agency,A,no,,84,https://wearesocial.com/uk/blog/,2026-09-28,HQ London (Finsbury Square per contact page)
+Harrison Carloss,harrisoncarloss.com,UK,Web design and brand agency,A,no,,57,https://www.harrisoncarloss.com/blog,2026-09-28,"Offices Stoke-on-Trent, Manchester, London"
+Limelight Digital,limelightdigital.co.uk,UK,Digital marketing and SEO agency,A,no,,53,https://www.limelightdigital.co.uk/blog/,2026-09-28,HQ Loughborough per site footer
+Synamedia,synamedia.com,UK,Video technology and streaming platform vendor,A,no,,58,https://www.synamedia.com/blog/,2026-09-25,"UK HQ from own knowledge, not confirmed on scraped page"
+MadeByShape,madebyshape.co.uk,UK,Web design and development agency,A,no,,72,https://www.madebyshape.co.uk/web-design-blog/,2026-07-07,"HQ Atherton, Manchester per contact page"
+B2B Marketing,b2bmarketing.net,UK,"B2B marketing community, research and training",A,no,,76,https://www.b2bmarketing.net/en-gb/resources/blog,2026-08-27,London; media and membership business rather than agency
+Duck Design,duck.design,UK,Web and product design studio,A,no,,54,https://duck.design/blog/,2026-05-05,"Address Covent Garden, London on site"
+NerdCow,nerdcow.co.uk,UK,B2B SaaS web design agency,A,no,,51,https://nerdcow.co.uk/blog/,2026-05-19,London; site also references offshore team
+Bozboz,bozboz.co.uk,UK,"Web, UX and brand design agency",A,no,,57,https://www.bozboz.co.uk/blog/,2026-05-19,Brighton
+CB Website Design (CreativeWeb),cbwebsitedesign.co.uk,UK,"Web design, SEO and digital strategy agency",A,no,,68,https://www.cbwebsitedesign.co.uk/blog/,2026-02-11,London per site text; HQ not strongly confirmed
+Luminous,luminous.co.uk,UK,"Communications, PR and corporate reporting agency",A,no,,49,https://luminous.co.uk/our-insights/,2025-10-01,London HQ (Great Sutton St); newest dated item seen is on the edge of the 12 month window
+Absolute Digital Media,absolute.digital,UK,"Digital marketing, SEO and digital PR agency",A,no,,63,https://absolute.digital/insights/,2026-05-15,"Describes itself as UK agency; exact HQ town not confirmed, London and Dubai offices mentioned"
+UnboundB2B,unboundb2b.com,UAE,B2B demand generation and ABM agency,A,no,,61,https://www.unboundb2b.com/blog/,2026-09-02,HQ Sheikh Zayed Road Dubai per contact page; US sales offices
+SEO Tech Experts,seotechexperts.com,UAE,SEO and digital marketing agency,A,no,,50,https://www.seotechexperts.com/blog.html,2026-08-26,"Business Bay Dubai per search result; SEO-heavy blog, check quality before pitching"
+Coalition Technologies,coalitiontechnologies.com,US,"Web design, SEO and digital marketing agency",A,no,,74,https://coalitiontechnologies.com/blog,2026-09-24,HQ Los Angeles per contact page
+Bounteous,bounteous.com,US,Digital experience and marketing consultancy,A,no,,77,https://www.bounteous.com/insights/,2026-03-16,Chicago
+NP Digital (Neil Patel),neilpatel.com,US,Performance marketing agency and SEO tools,A,no,,91,https://neilpatel.com/blog/,2026-09-28,US; city not confirmed from scrape
+TopRank Marketing,toprankmarketing.com,US,B2B content and influencer marketing agency,A,no,,75,https://www.toprankmarketing.com/blog/,2026-09-29,"Minneapolis, city from own knowledge"
+BuzzStream,buzzstream.com,US,Link building and digital PR outreach software,A,no,,77,https://www.buzzstream.com/blog/,2026-09-24,Austin per about page
+HawkSEM,hawksem.com,US,Performance marketing and SEM agency,A,no,,69,https://hawksem.com/blog/,2026-09-25,Los Angeles per contact page
+ActiveCampaign,activecampaign.com,US,Marketing automation SaaS,A,no,,91,https://www.activecampaign.com/blog,2026-09-17,Chicago per about page
+emfluence,emfluence.com,US,Digital marketing agency and marketing platform,A,no,,57,https://emfluence.com/blog,2026-09-28,Kansas City per contact page
+Mabbly,mabbly.com,US,B2B demand generation and brand agency,A,no,,50,https://mabbly.com/blog/,2026-09-15,Chicago per contact page
+Wowza,wowza.com,US,Video streaming technology platform,A,no,,77,https://www.wowza.com/blog,2026-09-28,Colorado per company page
+Brightcove,brightcove.com,US,Video hosting and streaming platform,A,no,,84,https://www.brightcove.com/en/resources/blog,2026-09-25,Boston
+CXL,cxl.com,US,Growth and conversion optimization training and research,A,no,,85,https://cxl.com/blog/,2026-08-27,Austin per about page
+Podchaser,podchaser.com,US,Podcast database and audience platform,A,no,,85,https://www.podchaser.com/articles,2026-09-29,"US, city from own knowledge"
+RedCircle,redcircle.com,US,Podcast hosting and monetization platform,A,no,,80,https://redcircle.com/blog,2026-09-18,"US, San Francisco from own knowledge"
+Stacker,stacker.com,US,Content distribution and studio,A,no,,77,https://stacker.com/stories,2026-09-29,Seattle per site text
+ZoomInfo,zoominfo.com,US,B2B data and go-to-market SaaS,A,no,,85,https://pipeline.zoominfo.com/,2026-09-29,"Vancouver WA, own knowledge; blog is Pipeline"
+The Thunderclap,thethunderclap.com,US,Webflow and web design agency for SaaS,A,no,,52,https://www.thethunderclap.com/blog,2026-09-16,Austin and San Francisco mentioned on site; HQ city not confirmed
+BoxCast,boxcast.com,US,Live video streaming platform,A,no,,74,https://www.boxcast.com/blog,2026-09-24,"US (Denver), own knowledge"
+Resi,resi.io,US,Live video streaming and media platform,A,no,,71,https://resi.io/blog/,2026-08-03,"US (Colorado), own knowledge"
+Blubrry,blubrry.com,US,Podcast hosting and stats platform,A,no,,85,https://blubrry.com/blog/,2026-09-28,"US, own knowledge"
+Podtrac,podtrac.com,US,Podcast measurement and audience analytics,A,no,,79,https://podtrac.com/blog/,2026-09-08,New York per site text
+Nielsen Norman Group,nngroup.com,US,"UX research, training and design consultancy",A,no,,91,https://www.nngroup.com/articles/,2026-09-25,"US (California), own knowledge"
+YuJa,yuja.com,US,Video platform for education and enterprise,A,no,,71,https://www.yuja.com/blog/,2026-09-24,"US, own knowledge"
+HubSpot,hubspot.com,US,"Marketing, sales and CRM SaaS",A,no,,93,https://blog.hubspot.com/,2026-09-29,Cambridge MA
+Mediafly,mediafly.com,US,Sales enablement and content SaaS,A,no,,74,https://www.mediafly.com/blog,2026-01-13,Chicago per contact page
+PortSwigger,portswigger.net,UK,"Cybersecurity (Burp Suite, web security research)",B,no,,84,https://portswigger.net/blog,2026-09-23,Research article 'HTTP/3 in Burp Suite'; HQ Knutsford
+Dext,dext.com,UK,Accounting automation SaaS,B,no,,76,https://dext.com/en/blog,2026-08-21,'The Bookkeeping App as a Client Communication Tool'; HQ London
+PolyAI,poly.ai,UK,Conversational AI (voice agents),B,no,,72,https://poly.ai/blog,2026-09-09,'Wren: the agent that improves your dialog agents'; HQ London
+BrightHR,brighthr.com,UK,HR software and employment law advice,B,no,,70,https://www.brighthr.com/blog/,2026-09-07,Monthly workplace roundup by CEO Alan Price; HQ Manchester
+Tyk,tyk.io,UK,API management platform (dev tools),B,no,,72,https://tyk.io/blog/,2026-09-23,Blog active Jan to Sep 2026; HQ London
+Redscan,redscan.com,UK,"Managed cybersecurity (MDR, pen testing)",B,no,,61,https://www.redscan.com/news/,2026-09-14,"Post on unapproved AI tool risk; Kroll owned, HQ London"
+Claromentis,claromentis.com,UK,Intranet and digital workplace software,B,no,,52,https://www.claromentis.com/blog,2026-09,Sept 2026 posts seen in search; exact day not confirmed; Claromentis 11 release June 2026
+Reapit,reapit.com,UK,Estate agency software (proptech SaaS),B,no,,54,https://www.reapit.com/resources/blog,2026-08-25,Making Tax Digital post; also 2026-07-16 post; HQ UK
+Plandek,plandek.com,UK,Engineering intelligence / dev productivity SaaS,B,no,,40,https://plandek.com/blog,2026-05,Gartner MQ recognition post May 2026; several 2026 posts; DR exactly 40; HQ London
+OpenPayd,openpayd.com,UK,Payments and banking infrastructure (fintech),B,no,,52,https://www.openpayd.com/blog/,2026-03-02,'Building enterprise-grade stablecoin payouts at scale'; HQ London
+Risk Ledger,riskledger.com,UK,Supply chain cyber risk SaaS,B,no,,55,https://riskledger.com/resources,2026-02-18,Zero-Friction Partner Programme launch; also Dec 2025 top 10 risks post; HQ London
+Pentest People,pentestpeople.com,UK,Penetration testing and cybersecurity services,B,no,,47,https://www.pentestpeople.com/blog,2026-03-10,'Essential Security Culture Behaviors'; HQ Manchester
+OneAdvanced,oneadvanced.com,UK,Business management software (SaaS),B,no,,76,https://www.oneadvanced.com/resources/,2026-04,Microsoft 365 updates post April 2026; education series from March 2026; HQ Birmingham
+Timetastic,timetastic.co.uk,UK,Leave management HR software,B,no,,60,https://timetastic.co.uk/blog,2026-07-15,Walkthrough page updated 2026-07-15; '2026 Annual Leave Report' seen; exact original post date not confirmed
+Access Group,theaccessgroup.com,UK,"Business software (HR, finance, care, hospitality)",B,no,,82,https://www.theaccessgroup.com/en-gb/blog/,2026-05,Access CYP Conference review (event 21 May 2026); HQ Newbury
+NymCard,nymcard.com,UAE,Payments and card issuing infrastructure (fintech),B,no,,50,https://nymcard.com/blog/,2026-02-26,B2B spend management Qashio post; Dubai HQ; also 2026-02-09 and 2026-01-29 posts
+Bayt.com,bayt.com,UAE,Recruitment platform and employer HR solutions,B,no,,75,https://www.bayt.com/en/employers/blog/,2026-09-23,Employee onboarding guide; Dubai HQ
+Swvl,swvl.com,UAE,Mobility SaaS and corporate/school transit (B2B),B,no,,52,https://www.swvl.com/blog,2026-06-02,'The True Cost of Running a School Bus Fleet in 2026'; Dubai HQ
+GulfTalent,gulftalent.com,UAE,Recruitment platform and employment data,B,no,,66,https://www.gulftalent.com/resources/employment-news,2026-07,'Hiring for AI accelerates in the Gulf'; Dubai HQ; exact day not confirmed
+Al Tamimi & Company,tamimi.com,UAE,"Law firm (B2B legal services, publishes legal updates)",B,no,,69,https://www.tamimi.com/our-knowledge/law-update/,2026-02,"2026 'Eyes on 2026' articles (AML, Civil Transactions Law) and Feb 2026 DIFC ruling news; Dubai HQ; exact day not confirmed"
+MAGNiTT,magnitt.com,UAE,Venture data and research platform (B2B data SaaS),B,no,,64,https://magnitt.com/research/,2026-07,'MENA Venture Capital: The H1 2026 Review' and Q2 2026 tech index; Dubai HQ; exact day not confirmed
+Meydan Free Zone,meydanfz.ae,UAE,Business setup and licensing services (B2B),B,no,,68,https://www.meydanfz.ae/blog,2026-08,Blog posts dated May to Aug 2026; Dubai HQ; exact day not confirmed
+Kitopi,kitopi.com,UAE,Cloud kitchen operator and food tech platform,B,no,,49,https://www.kitopi.com/blog,2026-06-23,'Best Homegrown Food Brands in Dubai 2026'; also tech/engineering blog; Dubai HQ; food operator so borderline B2B
+Kore.ai,kore.ai,US,Enterprise conversational and agentic AI platform,B,no,,74,https://www.kore.ai/blog,2026-09-01,LLM Hallucination Index post; Apollo US HQ
+Rasa,rasa.com,US,Conversational AI agent platform,B,no,,74,https://rasa.com/blog,2026-09-28,Agent platform post; Apollo US HQ
+Bullhorn,bullhorn.com,US,Staffing and recruitment software (ATS/CRM),B,no,,79,https://www.bullhorn.com/blog/,2026-09,Blog activity seen in Sept 2026 search snippet; exact day not seen; Apollo US HQ
+Tracker,tracker-rms.com,US,Recruitment ATS software for staffing agencies,B,no,,68,https://www.tracker-rms.com/blog/,2026-09-01,AI recruiting assistants post; Apollo US HQ
+OpenObserve,openobserve.ai,US,Open source observability platform,B,no,,64,https://openobserve.ai/blog/,2026-08-31,Telemetry agents guide; Apollo US HQ
+Xurrent,xurrent.com,US,ITSM and incident management software,B,no,,71,https://www.xurrent.com/blog,2026-09,September 2026 product updates post; Apollo US HQ
+SearchUnify,searchunify.com,US,AI enterprise search and support software,B,no,,53,https://www.searchunify.com/resource-center/blog/,2026-06-04,AI Agent Costs 2026 TCO guide; Apollo US HQ
+OnRamp,onramp.us,US,B2B customer onboarding software,B,no,,57,https://onramp.us/blog,2026-09-10,Enterprise onboarding bottlenecks post; Apollo US HQ
+OneReach.ai,onereach.ai,US,Agentic AI orchestration platform,B,no,,69,https://onereach.ai/blog/,2026-08-21,Vendor lock-in and AI architecture post; Apollo US HQ
+Crescendo,crescendo.ai,US,AI-native customer experience platform,B,no,,68,https://www.crescendo.ai/blog,2026-09-25,Customer support knowledge base post; Apollo US HQ; also offers CX outsourcing but core is AI software
+ContractSafe,contractsafe.com,US,Contract management software (CLM),B,no,,70,https://www.contractsafe.com/blog,2026-09,G2 Fall 2026 badges post (Fall reports out late Sept); Apollo US HQ
+Rocketlane,rocketlane.com,US,Customer onboarding and PS automation software,B,no,,69,https://www.rocketlane.com/blogs,2026-03-25,Series C announcement; Apollo US HQ; also has India presence
+Sprinto,sprinto.com,US,Compliance automation (SOC 2 ISO 27001) platform,B,no,,77,https://sprinto.com/blog/,2026-08,July-August 2026 Product Updates post; Apollo US HQ; large India team
+Scytale,scytale.ai,US,AI GRC and compliance automation platform,B,no,,67,https://scytale.ai/resources/,2026-09,G2 Fall 2026 Leader post; Apollo US HQ; Israel R&D
+Bright Defense,brightdefense.com,US,Cybersecurity compliance services and tooling,B,no,,66,https://www.brightdefense.com/resources/,2026-07,Compliance Statistics July 2026 resource; Apollo US HQ
+Xage Security,xage.com,US,Zero trust cybersecurity for critical infrastructure and AI,B,no,,54,https://xage.com/blog/,2026-08,Cyber Attack News Risk Roundup August 2026; Apollo US HQ
+Zycus,zycus.com,US,AI procurement and source-to-pay software,B,no,,66,https://www.zycus.com/blog,2026-07-03,Toronto AI World Tour 2026 post; Apollo US HQ
+CloudEagle.ai,cloudeagle.ai,US,SaaS management and governance platform,B,no,,70,https://www.cloudeagle.ai/blogs,2026-09-25,40% of AI prompts contain sensitive data post; Apollo US HQ
+Sirion,sirion.ai,US,AI contract lifecycle management platform,B,no,,68,https://www.sirion.ai/library/,2026-06-11,AI Impact on CLM in 2026 post (other pages show updated dates Aug/Sep 2026); Apollo US HQ
+DeepStrike,deepstrike.io,US,Penetration testing and offensive security services,B,no,,75,https://deepstrike.io/blog,2026-08,Penetration Testing Statistics 2026 updated Aug 2026 and other posts updated Sept 2026; Apollo US HQ
+Strac,strac.io,US,Data loss prevention and SaaS security software,B,no,,51,https://www.strac.io/blog,2026-09-23,SOC 2 Compliance 2026 guide; Apollo US HQ
+Centraleyes,centraleyes.com,US,AI GRC and cyber risk platform,B,no,,65,https://www.centraleyes.com/category/magazine/,2026-09,Blog posts dated Aug 24 to Sep 3 2026 in snippet; Apollo US HQ; Israel R&D
+Spendflo,spendflo.com,US,SaaS procurement and spend management platform,B,no,,67,https://www.spendflo.com/blog,2026-09-28,Accounts Payable Process post; Apollo US HQ
+Recruiterflow,recruiterflow.com,US,Recruiting ATS and CRM software,B,no,,76,https://recruiterflow.com/blog/,2026-09-29,AI Washing in Recruitment post; Apollo US HQ
+HighRadius,highradius.com,US,Autonomous finance and order-to-cash software,B,no,,75,https://www.highradius.com/resources/Blog/,2026-09-29,Dunning letter guide (last updated date; posts from Aug and Sep 2026 also seen); Apollo US HQ; large company

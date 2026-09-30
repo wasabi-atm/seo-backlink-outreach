@@ -1,0 +1,21 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+MadeByShape,madebyshape.co.uk,UK,Web design and development agency,A,no,,72,https://www.madebyshape.co.uk/web-design-blog/,2026-07-07,"HQ Atherton, Manchester per contact page"
+Synamedia,synamedia.com,UK,Video technology and streaming platform vendor,A,no,,58,https://www.synamedia.com/blog/,2026-09-25,"UK HQ from own knowledge, not confirmed on scraped page"
+Duck Design,duck.design,UK,Web and product design studio,A,no,,54,https://duck.design/blog/,2026-05-05,"Address Covent Garden, London on site"
+Luminous,luminous.co.uk,UK,"Communications, PR and corporate reporting agency",A,no,,49,https://luminous.co.uk/our-insights/,2025-10-01,London HQ (Great Sutton St); newest dated item seen is on the edge of the 12 month window
+ActiveCampaign,activecampaign.com,US,Marketing automation SaaS,A,no,,91,https://www.activecampaign.com/blog,2026-09-17,Chicago per about page
+Podchaser,podchaser.com,US,Podcast database and audience platform,A,no,,85,https://www.podchaser.com/articles,2026-09-29,"US, city from own knowledge"
+Brightcove,brightcove.com,US,Video hosting and streaming platform,A,no,,84,https://www.brightcove.com/en/resources/blog,2026-09-25,Boston
+Bounteous,bounteous.com,US,Digital experience and marketing consultancy,A,no,,77,https://www.bounteous.com/insights/,2026-03-16,Chicago
+Stacker,stacker.com,US,Content distribution and studio,A,no,,77,https://stacker.com/stories,2026-09-29,Seattle per site text
+BoxCast,boxcast.com,US,Live video streaming platform,A,no,,74,https://www.boxcast.com/blog,2026-09-24,"US (Denver), own knowledge"
+YuJa,yuja.com,US,Video platform for education and enterprise,A,no,,71,https://www.yuja.com/blog/,2026-09-24,"US, own knowledge"
+NymCard,nymcard.com,UAE,Payments and card issuing infrastructure (fintech),B,no,,50,https://nymcard.com/blog/,2026-02-26,B2B spend management Qashio post; Dubai HQ; also 2026-02-09 and 2026-01-29 posts
+PolyAI,poly.ai,UK,Conversational AI (voice agents),B,no,,72,https://poly.ai/blog,2026-09-09,'Wren: the agent that improves your dialog agents'; HQ London
+Redscan,redscan.com,UK,"Managed cybersecurity (MDR, pen testing)",B,no,,61,https://www.redscan.com/news/,2026-09-14,"Post on unapproved AI tool risk; Kroll owned, HQ London"
+Reapit,reapit.com,UK,Estate agency software (proptech SaaS),B,no,,54,https://www.reapit.com/resources/blog,2026-08-25,Making Tax Digital post; also 2026-07-16 post; HQ UK
+Recruiterflow,recruiterflow.com,US,Recruiting ATS and CRM software,B,no,,76,https://recruiterflow.com/blog/,2026-09-29,AI Washing in Recruitment post; Apollo US HQ
+CloudEagle.ai,cloudeagle.ai,US,SaaS management and governance platform,B,no,,70,https://www.cloudeagle.ai/blogs,2026-09-25,40% of AI prompts contain sensitive data post; Apollo US HQ
+Tracker,tracker-rms.com,US,Recruitment ATS software for staffing agencies,B,no,,68,https://www.tracker-rms.com/blog/,2026-09-01,AI recruiting assistants post; Apollo US HQ
+Spendflo,spendflo.com,US,SaaS procurement and spend management platform,B,no,,67,https://www.spendflo.com/blog,2026-09-28,Accounts Payable Process post; Apollo US HQ
+OnRamp,onramp.us,US,B2B customer onboarding software,B,no,,57,https://onramp.us/blog,2026-09-10,Enterprise onboarding bottlenecks post; Apollo US HQ
