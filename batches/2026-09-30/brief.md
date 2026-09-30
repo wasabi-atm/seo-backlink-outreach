@@ -21,3 +21,4 @@
 - Checkpoint 2: waiting on the user.
 - Step 4 (30 Sep, user approved Apify cheerio-scraper route): five agents picked one article and hook per company, checked no-video claims against raw HTML where they could. 03_backlink_targets.csv built from step4/out_0..4.csv.
 - Checkpoint: waiting on the user to drop or keep the weak and dead rows before Step 5.
+- User (30 Sep): drop the 10 weak and dead fits (Freuds, DP World, e& enterprise, eDirect, Checkr, Wrapped Agency, Simplecast, Pentagram, Telr, Code and Theory). Moved to 03_dropped_weak.csv, not logged in the ledger, so they can come up again. 03_backlink_targets.csv now holds 101 rows. Step 5 (emails) not started; waits for the user to ask.
