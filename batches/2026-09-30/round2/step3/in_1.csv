@@ -1,0 +1,21 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+We Are Social,wearesocial.com,UK,Social-first creative and content agency,A,no,,84,https://wearesocial.com/uk/blog/,2026-09-28,HQ London (Finsbury Square per contact page)
+Absolute Digital Media,absolute.digital,UK,"Digital marketing, SEO and digital PR agency",A,no,,63,https://absolute.digital/insights/,2026-05-15,"Describes itself as UK agency; exact HQ town not confirmed, London and Dubai offices mentioned"
+Bozboz,bozboz.co.uk,UK,"Web, UX and brand design agency",A,no,,57,https://www.bozboz.co.uk/blog/,2026-05-19,Brighton
+NerdCow,nerdcow.co.uk,UK,B2B SaaS web design agency,A,no,,51,https://nerdcow.co.uk/blog/,2026-05-19,London; site also references offshore team
+NP Digital (Neil Patel),neilpatel.com,US,Performance marketing agency and SEO tools,A,no,,91,https://neilpatel.com/blog/,2026-09-28,US; city not confirmed from scrape
+CXL,cxl.com,US,Growth and conversion optimization training and research,A,no,,85,https://cxl.com/blog/,2026-08-27,Austin per about page
+Blubrry,blubrry.com,US,Podcast hosting and stats platform,A,no,,85,https://blubrry.com/blog/,2026-09-28,"US, own knowledge"
+Podtrac,podtrac.com,US,Podcast measurement and audience analytics,A,no,,79,https://podtrac.com/blog/,2026-09-08,New York per site text
+Wowza,wowza.com,US,Video streaming technology platform,A,no,,77,https://www.wowza.com/blog,2026-09-28,Colorado per company page
+Coalition Technologies,coalitiontechnologies.com,US,"Web design, SEO and digital marketing agency",A,no,,74,https://coalitiontechnologies.com/blog,2026-09-24,HQ Los Angeles per contact page
+Resi,resi.io,US,Live video streaming and media platform,A,no,,71,https://resi.io/blog/,2026-08-03,"US (Colorado), own knowledge"
+Swvl,swvl.com,UAE,Mobility SaaS and corporate/school transit (B2B),B,no,,52,https://www.swvl.com/blog,2026-06-02,'The True Cost of Running a School Bus Fleet in 2026'; Dubai HQ
+Dext,dext.com,UK,Accounting automation SaaS,B,no,,76,https://dext.com/en/blog,2026-08-21,'The Bookkeeping App as a Client Communication Tool'; HQ London
+BrightHR,brighthr.com,UK,HR software and employment law advice,B,no,,70,https://www.brighthr.com/blog/,2026-09-07,Monthly workplace roundup by CEO Alan Price; HQ Manchester
+Risk Ledger,riskledger.com,UK,Supply chain cyber risk SaaS,B,no,,55,https://riskledger.com/resources,2026-02-18,Zero-Friction Partner Programme launch; also Dec 2025 top 10 risks post; HQ London
+Pentest People,pentestpeople.com,UK,Penetration testing and cybersecurity services,B,no,,47,https://www.pentestpeople.com/blog,2026-03-10,'Essential Security Culture Behaviors'; HQ Manchester
+Rasa,rasa.com,US,Conversational AI agent platform,B,no,,74,https://rasa.com/blog,2026-09-28,Agent platform post; Apollo US HQ
+Rocketlane,rocketlane.com,US,Customer onboarding and PS automation software,B,no,,69,https://www.rocketlane.com/blogs,2026-03-25,Series C announcement; Apollo US HQ; also has India presence
+Sirion,sirion.ai,US,AI contract lifecycle management platform,B,no,,68,https://www.sirion.ai/library/,2026-06-11,AI Impact on CLM in 2026 post (other pages show updated dates Aug/Sep 2026); Apollo US HQ
+OpenObserve,openobserve.ai,US,Open source observability platform,B,no,,64,https://openobserve.ai/blog/,2026-08-31,Telemetry agents guide; Apollo US HQ

@@ -1,0 +1,40 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+We Are Social,wearesocial.com,UK,Social-first creative and content agency,A,no,,84,https://wearesocial.com/uk/blog/,2026-09-28,HQ London (Finsbury Square per contact page)
+Harrison Carloss,harrisoncarloss.com,UK,Web design and brand agency,A,no,,57,https://www.harrisoncarloss.com/blog,2026-09-28,"Offices Stoke-on-Trent, Manchester, London"
+Limelight Digital,limelightdigital.co.uk,UK,Digital marketing and SEO agency,A,no,,53,https://www.limelightdigital.co.uk/blog/,2026-09-28,HQ Loughborough per site footer
+Synamedia,synamedia.com,UK,Video technology and streaming platform vendor,A,no,,58,https://www.synamedia.com/blog/,2026-09-25,"UK HQ from own knowledge, not confirmed on scraped page"
+MadeByShape,madebyshape.co.uk,UK,Web design and development agency,A,no,,72,https://www.madebyshape.co.uk/web-design-blog/,2026-07-07,"HQ Atherton, Manchester per contact page"
+B2B Marketing,b2bmarketing.net,UK,"B2B marketing community, research and training",A,no,,76,https://www.b2bmarketing.net/en-gb/resources/blog,2026-08-27,London; media and membership business rather than agency
+Duck Design,duck.design,UK,Web and product design studio,A,no,,54,https://duck.design/blog/,2026-05-05,"Address Covent Garden, London on site"
+NerdCow,nerdcow.co.uk,UK,B2B SaaS web design agency,A,no,,51,https://nerdcow.co.uk/blog/,2026-05-19,London; site also references offshore team
+Bozboz,bozboz.co.uk,UK,"Web, UX and brand design agency",A,no,,57,https://www.bozboz.co.uk/blog/,2026-05-19,Brighton
+CB Website Design (CreativeWeb),cbwebsitedesign.co.uk,UK,"Web design, SEO and digital strategy agency",A,no,,68,https://www.cbwebsitedesign.co.uk/blog/,2026-02-11,London per site text; HQ not strongly confirmed
+Luminous,luminous.co.uk,UK,"Communications, PR and corporate reporting agency",A,no,,49,https://luminous.co.uk/our-insights/,2025-10-01,London HQ (Great Sutton St); newest dated item seen is on the edge of the 12 month window
+Absolute Digital Media,absolute.digital,UK,"Digital marketing, SEO and digital PR agency",A,no,,63,https://absolute.digital/insights/,2026-05-15,"Describes itself as UK agency; exact HQ town not confirmed, London and Dubai offices mentioned"
+UnboundB2B,unboundb2b.com,UAE,B2B demand generation and ABM agency,A,no,,61,https://www.unboundb2b.com/blog/,2026-09-02,HQ Sheikh Zayed Road Dubai per contact page; US sales offices
+SEO Tech Experts,seotechexperts.com,UAE,SEO and digital marketing agency,A,no,,50,https://www.seotechexperts.com/blog.html,2026-08-26,"Business Bay Dubai per search result; SEO-heavy blog, check quality before pitching"
+Coalition Technologies,coalitiontechnologies.com,US,"Web design, SEO and digital marketing agency",A,no,,74,https://coalitiontechnologies.com/blog,2026-09-24,HQ Los Angeles per contact page
+Bounteous,bounteous.com,US,Digital experience and marketing consultancy,A,no,,77,https://www.bounteous.com/insights/,2026-03-16,Chicago
+NP Digital (Neil Patel),neilpatel.com,US,Performance marketing agency and SEO tools,A,no,,91,https://neilpatel.com/blog/,2026-09-28,US; city not confirmed from scrape
+TopRank Marketing,toprankmarketing.com,US,B2B content and influencer marketing agency,A,no,,75,https://www.toprankmarketing.com/blog/,2026-09-29,"Minneapolis, city from own knowledge"
+BuzzStream,buzzstream.com,US,Link building and digital PR outreach software,A,no,,77,https://www.buzzstream.com/blog/,2026-09-24,Austin per about page
+HawkSEM,hawksem.com,US,Performance marketing and SEM agency,A,no,,69,https://hawksem.com/blog/,2026-09-25,Los Angeles per contact page
+ActiveCampaign,activecampaign.com,US,Marketing automation SaaS,A,no,,91,https://www.activecampaign.com/blog,2026-09-17,Chicago per about page
+emfluence,emfluence.com,US,Digital marketing agency and marketing platform,A,no,,57,https://emfluence.com/blog,2026-09-28,Kansas City per contact page
+Mabbly,mabbly.com,US,B2B demand generation and brand agency,A,no,,50,https://mabbly.com/blog/,2026-09-15,Chicago per contact page
+Wowza,wowza.com,US,Video streaming technology platform,A,no,,77,https://www.wowza.com/blog,2026-09-28,Colorado per company page
+Brightcove,brightcove.com,US,Video hosting and streaming platform,A,no,,84,https://www.brightcove.com/en/resources/blog,2026-09-25,Boston
+CXL,cxl.com,US,Growth and conversion optimization training and research,A,no,,85,https://cxl.com/blog/,2026-08-27,Austin per about page
+Podchaser,podchaser.com,US,Podcast database and audience platform,A,no,,85,https://www.podchaser.com/articles,2026-09-29,"US, city from own knowledge"
+RedCircle,redcircle.com,US,Podcast hosting and monetization platform,A,no,,80,https://redcircle.com/blog,2026-09-18,"US, San Francisco from own knowledge"
+Stacker,stacker.com,US,Content distribution and studio,A,no,,77,https://stacker.com/stories,2026-09-29,Seattle per site text
+ZoomInfo,zoominfo.com,US,B2B data and go-to-market SaaS,A,no,,85,https://pipeline.zoominfo.com/,2026-09-29,"Vancouver WA, own knowledge; blog is Pipeline"
+The Thunderclap,thethunderclap.com,US,Webflow and web design agency for SaaS,A,no,,52,https://www.thethunderclap.com/blog,2026-09-16,Austin and San Francisco mentioned on site; HQ city not confirmed
+BoxCast,boxcast.com,US,Live video streaming platform,A,no,,74,https://www.boxcast.com/blog,2026-09-24,"US (Denver), own knowledge"
+Resi,resi.io,US,Live video streaming and media platform,A,no,,71,https://resi.io/blog/,2026-08-03,"US (Colorado), own knowledge"
+Blubrry,blubrry.com,US,Podcast hosting and stats platform,A,no,,85,https://blubrry.com/blog/,2026-09-28,"US, own knowledge"
+Podtrac,podtrac.com,US,Podcast measurement and audience analytics,A,no,,79,https://podtrac.com/blog/,2026-09-08,New York per site text
+Nielsen Norman Group,nngroup.com,US,"UX research, training and design consultancy",A,no,,91,https://www.nngroup.com/articles/,2026-09-25,"US (California), own knowledge"
+YuJa,yuja.com,US,Video platform for education and enterprise,A,no,,71,https://www.yuja.com/blog/,2026-09-24,"US, own knowledge"
+HubSpot,hubspot.com,US,"Marketing, sales and CRM SaaS",A,no,,93,https://blog.hubspot.com/,2026-09-29,Cambridge MA
+Mediafly,mediafly.com,US,Sales enablement and content SaaS,A,no,,74,https://www.mediafly.com/blog,2026-01-13,Chicago per contact page

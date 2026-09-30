@@ -1,0 +1,23 @@
+companyName,webDomain,segment,country,serviceType,domainRating,competitor,competitorDecision,blogUrl,backlinkExchange,latestPost
+Ometria,ometria.com,A,UK,Marketing SaaS (customer data and email/CRM platform),70,no,,https://www.ometria.com/blog,Yes,2026-09-21
+SparkToro,sparktoro.com,A,US,Audience research SaaS,85,no,,https://sparktoro.com/blog/,Yes,2026-08-25
+Radley Yeldar,ry.com,A,UK,Brand and communications agency,55,yes,include,https://ry.com/journal,Yes,
+Graphcore,graphcore.ai,B,UK,AI hardware / semiconductors,69,no,,https://www.graphcore.ai/posts,Yes,2026-08-26
+Tiger Data (Timescale),timescale.com,B,US,Time series database,76,no,,https://www.timescale.com/blog,No,2026-09-25
+Digital Graphiks,digitalgraphiks.ae,A,UAE,Web design and digital marketing agency,54,no,,https://digitalgraphiks.ae/blog/,No,2026-09-08
+MRS Digital,mrs.digital,A,UK,SEO and PPC agency,60,no,,https://mrs.digital/blog/,Yes,2026-09-29
+TapClicks,tapclicks.com,A,US,Marketing reporting and analytics SaaS,75,no,,https://www.tapclicks.com/blog/,Yes,2026-09-18
+Microminder Cyber Security,micromindercs.com,B,UAE,Cybersecurity services,45,no,,https://www.micromindercs.com/blog,No,2026-09-17
+Recurly,recurly.com,B,US,Subscription billing fintech,80,no,,https://recurly.com/blog/,Yes,2026-09-21
+Namely,namely.com,B,US,HR and payroll software,73,no,,https://namely.com/blog/,Yes,2026-07-23
+Trint,trint.com,A,UK,Audio and video transcription software (video tech),73,no,,https://trint.com/blog,Yes,2026-09-28
+Simplecast,simplecast.com,A,US,Podcast hosting platform,88,no,,https://blog.simplecast.com/,Yes,2026-07-28
+Yum Yum Videos,yumyumvideos.com,A,US,Animated explainer video studio,72,yes,include,https://www.yumyumvideos.com/blog/,Yes,2026-05-19
+Teya,teya.com,B,UK,Payments / FinTech,71,no,,https://www.teya.com/blog,Yes,2026-04-27
+TriNet,trinet.com,B,US,PEO and HR platform,77,no,,https://www.trinet.com/insights,Yes,2026-09-28
+Logikcull,logikcull.com,B,US,eDiscovery legal tech,61,no,,https://www.logikcull.com/blog,unchecked,2026-09-29
+Blend,blendb2b.com,A,UK,B2B growth and demand generation agency,61,no,,https://www.blendb2b.com/blog,Yes,2026-09-23
+Pentagram,pentagram.com,A,US,Brand and design studio,79,no,,https://www.pentagram.com/news,Yes,2026-09-29
+Eastnets,eastnets.com,B,UAE,Financial crime compliance software,48,no,,https://www.eastnets.com/blog,Yes,2026-09-02
+Griffin,griffin.com,B,UK,Banking as a service / FinTech,54,no,,https://www.griffin.com/blog,Yes,2026-09-17
+Relativity,relativity.com,B,US,eDiscovery legal tech,74,no,,https://www.relativity.com/blog/,unchecked,2026-09-14
