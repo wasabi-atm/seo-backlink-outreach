@@ -1,0 +1,29 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,competitorDecision,domainRating,blogUrl,latestPost,source,notes
+Webcastle,webcastle.ae,UAE,Web design and development company,A,no,,,52,https://webcastle.ae/blog/,2026-09-17,2026-09-30 research,Dubai
+Cactix,cactix.com,UAE,"B2B digital marketing agency, HubSpot partner",A,no,,,43,https://cactix.com/resources,2026-09-27,2026-09-30 research,Founded Dubai 2011; resources section acts as blog
+Trint,trint.com,UK,Audio and video transcription software (video tech),A,no,,,73,https://trint.com/blog,2026-09-28,2026-09-30 research,London HQ per site
+GrowthRocks,growthrocks.com,UK,Growth marketing agency,A,no,,,68,https://growthrocks.com/blog/,2026-09-29,2026-09-30 research,Site says based in the UK; London
+Pion,wearepion.com,UK,Gen Z insights and marketing agency,A,no,,,63,https://www.wearepion.com/blog,2026-09-22,2026-09-30 research,"London and New York; research led, not pure B2B"
+Impression,impression.co.uk,UK,B2B and performance marketing agency,A,no,,,57,https://www.impression.co.uk/blog/,2026-09-28,2026-09-30 research,Offices London and Nottingham
+Wrapped Agency,wrappedagency.co.uk,UK,"Healthcare, fintech and property marketing agency",A,no,,,41,https://wrappedagency.co.uk/blog/,2026-09-16,2026-09-30 research,London
+Simplecast,simplecast.com,US,Podcast hosting platform,A,no,,,88,https://blog.simplecast.com/,2026-07-28,2026-09-30 research,Blog on blog.simplecast.com subdomain; audio/podcast tech
+Sprinklr,sprinklr.com,US,Social media management and CX SaaS,A,no,,,83,https://www.sprinklr.com/blog/,2026-03-05,2026-09-30 research,"NYC; only the Mar 5 2026 editor's pick date was visible, blog index otherwise undated"
+Tailwind,tailwindapp.com,US,Social media marketing SaaS (Pinterest/Instagram),A,no,,,80,https://www.tailwindapp.com/blog,2026-07-10,2026-09-30 research,Posting cadence slower in 2026 but active
+Wpromote,wpromote.com,US,Performance marketing and creative agency,A,no,,,73,https://www.wpromote.com/blog,2026-07,2026-09-30 research,"Month only seen (Black Friday 2026 post, Jul 2026); merged with Giant Spoon; LA"
+Hushly,hushly.com,US,"B2B marketing SaaS (ABM, content experience)",A,no,,,53,https://www.hushly.com/blog,2026-09-29,2026-09-30 research,"Multiple posts per week; HQ city not verified, US company"
+Yum Yum Videos,yumyumvideos.com,US,Animated explainer video studio,A,yes,Main offer is animated explainer and video production for companies,include,72,https://www.yumyumvideos.com/blog/,2026-05-19,2026-09-30 research,Only a publish date (19 May 2026) was seen; several posts show later Last updated dates in Aug 2026
+Telr,telr.com,UAE,Payment gateway / FinTech,B,no,,,63,https://telr.com/blog,2026-09-16,2026-09-30 research,Dubai HQ; date seen in blog post sidebar (blog index itself lists older posts)
+e& enterprise,eandenterprise.com,UAE,"ICT, cloud and cybersecurity services",B,no,,,50,https://www.eandenterprise.com/en/blogs,2026-08-17,2026-09-30 research,Dubai; e& group unit; date read from page markup
+Alliance Prime,alliance-acc.com,UAE,Accounting and tax consultancy,B,no,,,42,https://alliance-acc.com/blog/,2026-09-14,2026-09-30 research,"Dubai; small firm, real blog with frequent posts"
+NCC Group,nccgroup.com,UK,Cybersecurity,B,no,,,79,https://www.nccgroup.com/research-blog/,2026-04-15,2026-09-30 research,Manchester HQ; newsroom shows 2026-09-22 but that is news not blog
+Teya,teya.com,UK,Payments / FinTech,B,no,,,71,https://www.teya.com/blog,2026-04-27,2026-09-30 research,"London HQ; blog index markup also shows later ISO dates, 2026-04-27 is the latest visible text date"
+Moneyhub,moneyhub.com,UK,Open finance / FinTech,B,no,,,64,https://www.moneyhub.com/blog,2026-09-17,2026-09-30 research,Wilmslow HQ
+Ripjar,ripjar.com,UK,Financial crime / data intelligence software,B,no,,,56,https://www.ripjar.com/resources/?post_types=blog,2026-05-26,2026-09-30 research,Cheltenham HQ
+PlanetScale,planetscale.com,US,Cloud database,B,no,,,79,https://planetscale.com/blog,2026-09-28,2026-09-30 research,
+Honeycomb,honeycomb.io,US,Observability software,B,no,,,78,https://www.honeycomb.io/blog,2026-09-29,2026-09-30 research,
+TriNet,trinet.com,US,PEO and HR platform,B,no,,,77,https://www.trinet.com/insights,2026-09-28,2026-09-30 research,
+SingleStore,singlestore.com,US,Distributed SQL database,B,no,,,75,https://www.singlestore.com/blog/,2026-08-17,2026-09-30 research,
+Alation,alation.com,US,Data intelligence and governance,B,no,,,74,https://www.alation.com/blog/,2026-09-08,2026-09-30 research,
+Everlaw,everlaw.com,US,eDiscovery legal tech,B,no,,,73,https://www.everlaw.com/blog/,2026-09-17,2026-09-30 research,
+Melio,melio.com,US,B2B payments fintech,B,no,,,71,https://melio.com/blog/,2026-09-18,2026-09-30 research,HQ New York
+Logikcull,logikcull.com,US,eDiscovery legal tech,B,no,,,61,https://www.logikcull.com/blog,2026-09-29,2026-09-30 research,

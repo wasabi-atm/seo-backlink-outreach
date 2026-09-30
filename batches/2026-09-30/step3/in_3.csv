@@ -1,0 +1,28 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,competitorDecision,domainRating,blogUrl,latestPost,source,notes
+ENH Media,enhmedia.com,UAE,Digital marketing agency,A,no,,,50,https://enhmedia.com/blog,2026-09-25,2026-09-30 research,Dubai
+DOT IT,dotit.ae,UAE,Web and app development studio,A,no,,,43,https://dotit.ae/blog/,2026-01-22,2026-09-30 research,Dubai; insights page only showed Jan 22 2026 dates
+Koozai,koozai.com,UK,"SEO and digital marketing agency (Hampshire, London office)",A,no,,,70,https://www.koozai.com/blog/,2026-09-21,2026-09-30 research,"Blog listing dated; HQ Lee-on-the-Solent, Hampshire"
+Amplience,amplience.com,UK,Content and digital asset management SaaS for retail,A,no,,,68,https://amplience.com/blog/,2026-08-25,2026-09-30 research,London HQ
+Blend,blendb2b.com,UK,B2B growth and demand generation agency,A,no,,,61,https://www.blendb2b.com/blog,2026-09-23,2026-09-30 research,UK city of HQ not confirmed on site
+SEC Newgate UK,secnewgate.co.uk,UK,PR and public affairs agency,A,no,,,48,https://www.secnewgate.co.uk/our-insights,2026-09-29,2026-09-30 research,London; insights section
+Buffer,buffer.com,US,Social media management SaaS,A,no,,,91,https://buffer.com/resources/,2026-09-29,2026-09-30 research,"Fully remote, US-incorporated; very active blog"
+OptinMonster,optinmonster.com,US,Lead generation and conversion SaaS,A,no,,,88,https://optinmonster.com/blog/,2026-07-09,2026-09-30 research,Awesome Motive brand; blog posts seen dated Jul 2026
+Yext,yext.com,US,Search and brand visibility SaaS,A,no,,,82,https://www.yext.com/blog,2026-03-25,2026-09-30 research,"NYC; latest dated post seen is Mar 25 2026, blog index shows no dates so newer posts likely exist"
+Pentagram,pentagram.com,US,Brand and design studio,A,no,,,79,https://www.pentagram.com/news,2026-09-29,2026-09-30 research,"Design partnership, NYC based (also London); blog is a News feed"
+Code and Theory,codeandtheory.com,US,Digital brand and design agency (Stagwell),A,no,,,73,https://www.codeandtheory.com/news,2026-05,2026-09-30 research,"Month only seen (One Show AI Pioneer news, May 2026); NYC; news/press feed rather than editorial blog"
+Here Now Films,herenow.film,UK,Video production agency,A,yes,Main offer is producing corporate and brand video for other companies,include,53,https://www.herenow.film/trimtab/,2026-09-22,2026-09-30 research,"Offices London, Bristol, Manchester; HQ city unconfirmed"
+Column Five,columnfivemedia.com,US,Content and design agency,A,yes,"Creative agency that makes infographics, motion graphics and video",include,76,https://www.columnfivemedia.com/blog/,,spares 2026-09-25 spares,homepage ok; blog at https://www.columnfivemedia.com/blog/; latest date none found; 0 dates in last 12 months; 0 bylines
+Yomly,yomly.com,UAE,HR and payroll SaaS,B,no,,,59,https://www.yomly.com/blog,2026-09-28,2026-09-30 research,Dubai Media City address; dates from blog index text
+Eastnets,eastnets.com,UAE,Financial crime compliance software,B,no,,,48,https://www.eastnets.com/blog,2026-09-02,2026-09-30 research,HQ Dubai per company profile; date from blog index markup
+Checkout.com,checkout.com,UK,Payments / FinTech,B,no,,,80,https://www.checkout.com/blog,2026-09-29,2026-09-30 research,London HQ
+Elliptic,elliptic.co,UK,Crypto compliance / RegTech,B,no,,,76,https://www.elliptic.co/insights/,2026-09-29,2026-09-30 research,London HQ
+Wayve,wayve.ai,UK,Embodied AI / autonomous driving,B,no,,,70,https://wayve.ai/thinking/,2026-08-03,2026-09-30 research,London HQ
+Soldo,soldo.com,UK,Spend management / FinTech,B,no,,,62,https://www.soldo.com/en-gb/blog/,2026-09-17,2026-09-30 research,London HQ
+Griffin,griffin.com,UK,Banking as a service / FinTech,B,no,,,54,https://www.griffin.com/blog,2026-09-17,2026-09-30 research,London HQ
+Cockroach Labs,cockroachlabs.com,US,Distributed database,B,no,,,79,https://www.cockroachlabs.com/blog/,2026-09-15,2026-09-30 research,
+Sumo Logic,sumologic.com,US,Log analytics and SIEM,B,no,,,78,https://www.sumologic.com/blog,2026-09-21,2026-09-30 research,
+Atlan,atlan.com,US,Data catalog and governance,B,no,,,76,https://atlan.com/know/,2026-09-16,2026-09-30 research,Engineering blog at blog.atlan.com; dated post seen there
+Tines,tines.com,US,Workflow automation and security orchestration,B,no,,,74,https://www.tines.com/blog/,2026-09-08,2026-09-30 research,Dual NYC/Dublin HQ
+Relativity,relativity.com,US,eDiscovery legal tech,B,no,,,74,https://www.relativity.com/blog/,2026-09-14,2026-09-30 research,
+HireRight,hireright.com,US,Background screening HR tech,B,no,,,73,https://www.hireright.com/blog,2026-09-01,2026-09-30 research,
+GoodTime,goodtime.io,US,Interview scheduling and recruiting software,B,no,,,71,https://goodtime.io/blog/,2026-07-17,2026-09-30 research,Date is last updated date of July 2026 product update
