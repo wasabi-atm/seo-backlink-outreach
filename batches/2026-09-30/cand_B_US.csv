@@ -1,0 +1,31 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Tines,tines.com,US,Workflow automation and security orchestration,B,no,,74,https://www.tines.com/blog/,2026-09-08,Dual NYC/Dublin HQ
+Hightouch,hightouch.com,US,Data activation and marketing AI platform,B,no,,78,https://hightouch.com/blog,2026-06-24,"Sells to marketers but is a software vendor, not an agency"
+Honeycomb,honeycomb.io,US,Observability software,B,no,,78,https://www.honeycomb.io/blog,2026-09-29,
+Atlan,atlan.com,US,Data catalog and governance,B,no,,76,https://atlan.com/know/,2026-09-16,Engineering blog at blog.atlan.com; dated post seen there
+Cribl,cribl.io,US,Telemetry data management,B,no,,74,https://cribl.io/blog/,2026-09-17,
+PlanetScale,planetscale.com,US,Cloud database,B,no,,79,https://planetscale.com/blog,2026-09-28,
+Tiger Data (Timescale),timescale.com,US,Time series database,B,no,,76,https://www.timescale.com/blog,2026-09-25,Rebranded Tiger Data; blog still on timescale.com
+Monte Carlo,montecarlodata.com,US,Data and AI observability,B,no,,74,https://www.montecarlodata.com/blog/,2026-03-12,Latest dated post seen is March 2026; verify cadence
+Alation,alation.com,US,Data intelligence and governance,B,no,,74,https://www.alation.com/blog/,2026-09-08,
+Logikcull,logikcull.com,US,eDiscovery legal tech,B,no,,61,https://www.logikcull.com/blog,2026-09-29,
+Melio,melio.com,US,B2B payments fintech,B,no,,71,https://melio.com/blog/,2026-09-18,HQ New York
+Relativity,relativity.com,US,eDiscovery legal tech,B,no,,74,https://www.relativity.com/blog/,2026-09-14,
+Seamless.AI,seamless.ai,US,B2B sales data and AI prospecting,B,no,,72,https://seamless.ai/customers/blog,2026-08-10,HQ Columbus OH
+SingleStore,singlestore.com,US,Distributed SQL database,B,no,,75,https://www.singlestore.com/blog/,2026-08-17,
+Filevine,filevine.com,US,Legal case management software,B,no,,70,https://www.filevine.com/blog/,2026-06-02,
+Namely,namely.com,US,HR and payroll software,B,no,,73,https://namely.com/blog/,2026-07-23,
+Blumira,blumira.com,US,Cloud SIEM cybersecurity,B,no,,65,https://www.blumira.com/blog,2026-08,Day not seen; August 2026 release notes
+GoodTime,goodtime.io,US,Interview scheduling and recruiting software,B,no,,71,https://goodtime.io/blog/,2026-07-17,Date is last updated date of July 2026 product update
+Sumo Logic,sumologic.com,US,Log analytics and SIEM,B,no,,78,https://www.sumologic.com/blog,2026-09-21,
+Everlaw,everlaw.com,US,eDiscovery legal tech,B,no,,73,https://www.everlaw.com/blog/,2026-09-17,
+Bluevine,bluevine.com,US,Small business banking fintech,B,no,,76,https://www.bluevine.com/blog,2026-07-15,
+Checkr,checkr.com,US,Background check HR tech,B,no,,78,https://checkr.com/blog,2026-09-22,
+Cockroach Labs,cockroachlabs.com,US,Distributed database,B,no,,79,https://www.cockroachlabs.com/blog/,2026-09-15,
+Collibra,collibra.com,US,Data governance software,B,no,,74,https://www.collibra.com/blog,2026-07-30,Search snippet suggested newer late August posts; date shown is latest confirmed
+Workhuman,workhuman.com,US,Employee recognition HR tech,B,no,,78,https://www.workhuman.com/blog/,2026-08-28,
+Arctic Wolf,arcticwolf.com,US,Managed detection and response cybersecurity,B,no,,79,https://arcticwolf.com/resources/category/blog/,2026-09-08,Higher end of DR range
+Recurly,recurly.com,US,Subscription billing fintech,B,no,,80,https://recurly.com/blog/,2026-09-21,Exact title not seen; blog dated Sept 21 2026
+HireRight,hireright.com,US,Background screening HR tech,B,no,,73,https://www.hireright.com/blog,2026-09-01,
+TriNet,trinet.com,US,PEO and HR platform,B,no,,77,https://www.trinet.com/insights,2026-09-28,
+Marqeta,marqeta.com,US,Card issuing fintech,B,no,,72,https://www.marqeta.com/blog,2026-06-09,
