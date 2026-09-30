@@ -1,0 +1,32 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Checkout.com,checkout.com,UK,Payments / FinTech,B,no,,80,https://www.checkout.com/blog,2026-09-29,London HQ
+Darktrace,darktrace.com,UK,Cybersecurity (AI),B,no,,79,https://www.darktrace.com/blog,2026-09-24,Cambridge HQ
+Faculty,faculty.ai,UK,Applied AI,B,no,,71,https://www.faculty.ai/blog,2026-09-16,London HQ
+Moneyhub,moneyhub.com,UK,Open finance / FinTech,B,no,,64,https://www.moneyhub.com/blog,2026-09-17,Wilmslow HQ
+Soldo,soldo.com,UK,Spend management / FinTech,B,no,,62,https://www.soldo.com/en-gb/blog/,2026-09-17,London HQ
+Graphcore,graphcore.ai,UK,AI hardware / semiconductors,B,no,,69,https://www.graphcore.ai/posts,2026-08-26,Bristol HQ; SoftBank owned
+Elliptic,elliptic.co,UK,Crypto compliance / RegTech,B,no,,76,https://www.elliptic.co/insights/,2026-09-29,London HQ
+Griffin,griffin.com,UK,Banking as a service / FinTech,B,no,,54,https://www.griffin.com/blog,2026-09-17,London HQ
+IRIS Software Group,iris.co.uk,UK,"Accounting, payroll and HR software",B,no,,74,https://www.iris.co.uk/blog/,2026-09-28,UK HQ
+Napier AI,napier.ai,UK,AML compliance software,B,no,,50,https://www.napier.ai/blog,2026-09-24,London HQ
+Panaseer,panaseer.com,UK,Cybersecurity (continuous controls monitoring),B,no,,60,https://panaseer.com/resources/blog,2026-09-08,London HQ; date read from page markup on blog index
+Yoti,yoti.com,UK,Digital identity,B,no,,79,https://www.yoti.com/blog/,2026-09-25,London HQ
+Zellis,zellis.com,UK,Payroll and HR software,B,no,,62,https://www.zellis.com/resources/blog/,2026-09-29,UK HQ
+Teya,teya.com,UK,Payments / FinTech,B,no,,71,https://www.teya.com/blog,2026-04-27,"London HQ; blog index markup also shows later ISO dates, 2026-04-27 is the latest visible text date"
+NCC Group,nccgroup.com,UK,Cybersecurity,B,no,,79,https://www.nccgroup.com/research-blog/,2026-04-15,Manchester HQ; newsroom shows 2026-09-22 but that is news not blog
+Ripjar,ripjar.com,UK,Financial crime / data intelligence software,B,no,,56,https://www.ripjar.com/resources/?post_types=blog,2026-05-26,Cheltenham HQ
+Countingup,countingup.com,UK,Business banking and accounting app,B,no,,53,https://countingup.com/resources/,2026-06-08,London HQ; date from resources index markup
+Beauhurst,beauhurst.com,UK,Company data / B2B intelligence,B,no,,69,https://www.beauhurst.com/blog/,2026-09-24,London HQ
+Wayve,wayve.ai,UK,Embodied AI / autonomous driving,B,no,,70,https://wayve.ai/thinking/,2026-08-03,London HQ
+CEQUENS,cequens.com,UAE,CPaaS / messaging SaaS,B,no,,47,https://www.cequens.com/blog,2026-09-28,Dubai HQ
+DP World,dpworld.com,UAE,Logistics and trade technology,B,no,,77,https://www.dpworld.com/en/insights,2026-09-28,Dubai HQ; large state linked group; insights hub rather than classic blog
+Foloosi,foloosi.com,UAE,Payment gateway / FinTech,B,no,,54,https://www.foloosi.com/blogs,2026-09-16,Dubai HQ
+Zand,zand.ae,UAE,Digital bank (corporate and digital assets),B,no,,51,https://www.zand.ae/en/blogs,2026-07-05,"Abu Dhabi/Dubai; licensed bank, blog covers fintech and digital asset topics"
+Telr,telr.com,UAE,Payment gateway / FinTech,B,no,,63,https://telr.com/blog,2026-09-16,Dubai HQ; date seen in blog post sidebar (blog index itself lists older posts)
+e& enterprise,eandenterprise.com,UAE,"ICT, cloud and cybersecurity services",B,no,,50,https://www.eandenterprise.com/en/blogs,2026-08-17,Dubai; e& group unit; date read from page markup
+Yomly,yomly.com,UAE,HR and payroll SaaS,B,no,,59,https://www.yomly.com/blog,2026-09-28,Dubai Media City address; dates from blog index text
+IFZA,ifza.com,UAE,Free zone / business setup services,B,no,,62,https://ifza.com/en/insights/blog/,2026-09-15,"Dubai; free zone authority, B2B services"
+DMCC,dmcc.ae,UAE,Free zone / commodities trade authority,B,no,,74,https://dmcc.ae/blog,2026-09-29,Dubai; government owned free zone authority
+Eastnets,eastnets.com,UAE,Financial crime compliance software,B,no,,48,https://www.eastnets.com/blog,2026-09-02,HQ Dubai per company profile; date from blog index markup
+Microminder Cyber Security,micromindercs.com,UAE,Cybersecurity services,B,no,,45,https://www.micromindercs.com/blog,2026-09-17,"Dubai listed; UK presence too, confirm HQ before sending"
+Alliance Prime,alliance-acc.com,UAE,Accounting and tax consultancy,B,no,,42,https://alliance-acc.com/blog/,2026-09-14,"Dubai; small firm, real blog with frequent posts"
