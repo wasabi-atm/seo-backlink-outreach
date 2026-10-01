@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Check the A/B subject lines in an emails CSV against the SKILL.md subject rules.
+"""Check the subject lines in an emails CSV against the SKILL.md subject rules.
 
-    python subject_check.py 04_backlink_emails.csv [--single]
+    python subject_check.py 04_backlink_emails.csv
 
---single checks emailSubject and subjectTypeA only, for a batch sent without an A/B test.
-
-Reads emailSubject, emailSubjectB, subjectTypeA, subjectTypeB (and firstName, emailBody when present)
+Reads emailSubject and subjectType (and firstName, emailBody when present)
 and prints every rule a row breaks. Exits 1 if anything is wrong, so it can gate a save.
 """
 import csv
@@ -19,12 +17,9 @@ BANNED = [r"\blinks?\b", r"backlinks?", r"link building", r"guest post", r"\bseo
           r"partnership", r"\bfree\b", r"quick question", r"following up", r"^\s*(re|fwd?)\s*:", r"!", r"[–—]|\s-\s"]
 
 
-def problems(row, single=False):
+def problems(row):
     out = []
-    subs = [(row.get("emailSubject", ""), row.get("subjectTypeA", ""), "A"),
-            (row.get("emailSubjectB", ""), row.get("subjectTypeB", ""), "B")]
-    if single:
-        subs = subs[:1]
+    subs = [(row.get("emailSubject", ""), row.get("subjectType", ""), "")]
     for s, t, v in subs:
         s = s.strip()
         if not s:
@@ -49,22 +44,18 @@ def problems(row, single=False):
             out.append(f"{v}: uses first name")
         if t not in TYPES:
             out.append(f"{v}: type {t!r} not in {sorted(TYPES)}")
-    if not single and subs[0][1] and subs[0][1] == subs[1][1]:
-        out.append("A and B are the same type")
-    if not single and subs[0][0].strip().lower() == subs[1][0].strip().lower() and subs[0][0].strip():
-        out.append("A and B are identical")
     return out
 
 
-def main(path, single=False):
+def main(path):
     rows = [r for r in csv.DictReader(open(path, newline="")) if (r.get("emailBody") or "").strip()]
     bad = 0
     for r in rows:
-        p = problems(r, single)
+        p = problems(r)
         if p:
             bad += 1
             print(r.get("webDomain", "?"), "|", "; ".join(p))
-    subs = [s.strip().lower() for r in rows for s in (r.get("emailSubject", ""), "" if single else r.get("emailSubjectB", "")) if s.strip()]
+    subs = [s.strip().lower() for r in rows for s in (r.get("emailSubject", ""),) if s.strip()]
     dupes = [s for s, c in Counter(subs).items() if c > 1]
     if dupes:
         bad += 1
@@ -75,12 +66,11 @@ def main(path, single=False):
         bad += 1
         print(f"too uniform: {count} of {len(subs)} subjects look like '{common}'")
     print(f"{len(rows)} rows with a body; {bad} problem lines;",
-          "types:", dict(Counter(r.get(k, "") for r in rows for k in (("subjectTypeA",) if single else ("subjectTypeA", "subjectTypeB")))))
+          "types:", dict(Counter(r.get("subjectType", "") for r in rows)))
     return 1 if bad else 0
 
 
 if __name__ == "__main__":
-    args = [a for a in sys.argv[1:] if a != "--single"]
-    if len(args) != 1:
+    if len(sys.argv) != 2:
         sys.exit(__doc__)
-    sys.exit(main(args[0], "--single" in sys.argv[1:]))
+    sys.exit(main(sys.argv[1]))

@@ -5,7 +5,7 @@ description: "Run a Motion The Agency SEO backlink outreach batch. Interview, de
 
 # MTA backlink outreach
 
-This skill builds a batch of 40 sites for SEO backlink exchange outreach for Motion The Agency (MTA, motiontheagency.com). The work runs in four main steps, in order. Step 5 (email drafting) only runs when the user asks for it.
+This skill builds a batch of 40 sites for SEO backlink exchange outreach for Motion The Agency (MTA, motiontheagency.com). The work runs in four main steps, in order. Step 5 (email drafting) only runs when the user asks for it, and it ends by drafting the campaign in Instantly (Step 6).
 
 Stop at the checkpoints below. Each one needs a yes from the user before you continue.
 
@@ -340,11 +340,9 @@ Rules:
 
 ### Subject lines
 
-Every row gets two subjects, so Instantly can A/B test them: `emailSubject` (variant A) and `emailSubjectB` (variant B). Record the type of each in `subjectTypeA` and `subjectTypeB`, so open rates can be compared by type across batches. Background: the old "your X piece" pattern opened at about 20%. In Overloop's link building test a generic subject ("Link building opportunity") opened at 24% and a personalised one at 62%; they test a trigger, a question and a direct-value variant.
+Every row gets one subject: `emailSubject`, with its type in `subjectType`, so open rates can be compared by type across batches. There is no A/B test: do not write a second subject or an `emailSubjectB` column. Background: the old "your X piece" pattern opened at about 20%. In Overloop's link building test a generic subject ("Link building opportunity") opened at 24% and a personalised one at 62%; they test a trigger, a question and a direct-value variant. Mix the types across the batch.
 
-If the user says a batch goes out without an A/B test, write one subject per row (`emailSubject` and `subjectTypeA` only, mixing types across the batch) and run the checker with `--single`.
-
-Pick two different types per row:
+Pick one type per row:
 
 - `trigger`: the most specific detail from articleHook, plus a short name for the article. It reads like a note from someone who actually read the page. For example "step 1 twice in your repurposing post", "the gmb heading in your local video guide", "2021 scam line in your money safety post".
 - `question`: a short question about the offer, tied to the article. For example "a quote for your employer branding guide?", "explainer for your onboarding post?", "swap quotes on your b2b video guide?".
@@ -358,20 +356,33 @@ Rules for both:
 - No em or en dashes, and no spaced hyphen as a separator. Hyphenated words such as "pre-hire" are fine.
 - Vary the wording across the batch. No more than a third of the rows may share the same opening words (for example "your ... piece"), and never paste the same subject on two rows.
 - For a mistake hook, keep it neutral and specific ("the 2021 line in your fraud post"), never mocking ("mistakes in your post").
-- videoSchemaGap yes rows: variant A is a trigger about their video and AI search, for example "your product videos and AI search". Variant B is any other type.
+- videoSchemaGap yes rows: use a trigger about their video and AI search, for example "your product videos and AI search".
 - Generic inboxes (emailType generic) use the same rules. The subject must make sense to whoever reads the shared inbox, so always name the article.
 
-Check every file with `python <repo>/skill/mta-backlink-outreach/scripts/subject_check.py <file>` before saving `04_backlink_emails.csv`, and fix whatever it lists. It checks length, banned words, dashes, the first name, the two types and duplicates across the batch. It cannot check that a subject is true, so read each one against its opening lines yourself.
+Check every file with `python <repo>/skill/mta-backlink-outreach/scripts/subject_check.py <file>` before saving `04_backlink_emails.csv`, and fix whatever it lists. It checks length, banned words, dashes, the first name, the type and duplicates across the batch. It cannot check that a subject is true, so read each one against its opening lines yourself.
 
-After a batch has sent about 100 emails per variant, look at opens by `subjectTypeA`/`subjectTypeB` in Instantly and tell the user which type is winning, so the next batch can lean on it.
+After a batch has sent about 100 emails, look at opens by `subjectType` in Instantly and tell the user which type is winning, so the next batch can lean on it.
 
-Save `04_backlink_emails.csv` (keep the videoSchemaGap column, so the user can see which emails open with the video lines, and the four subject columns), send it to the user, and say which rows need a manual check (for example no contact found, or the hook could not be confirmed on the live page).
+Save `04_backlink_emails.csv` (keep the videoSchemaGap column, so the user can see which emails open with the video lines, and the subject columns), tell the user, and say which rows need a manual check (for example no contact found, or the hook could not be confirmed on the live page).
 
 Straight after saving, log the batch in the ledger with `dedupe.py log 04_backlink_emails.csv --ledger <ledger> --status queued --campaign backlink-<YYYY-MM-DD>`. Do this every time, even if the user has not said they will send it. Queued rows block future batches just like sent ones, so a batch is never picked twice. Rows with no email are logged as `not_sent` on their own. Tell the user it is logged, then:
 
+- Then run Step 6 below to draft the campaign in Instantly.
 - When they confirm the batch went out, run `set-status --status sent` for that campaign.
 - If some rows were not sent (for example they removed them in Instantly), run `set-status --status not_sent --domains <those domains>` so those companies can be picked again later.
 - If the user adds rows before sending, put only the new rows in a CSV, run `check` on it, and log the clean file. Logging a row that is already in the ledger does nothing, so it never creates a second entry.
+
+### Step 6: draft the campaign in Instantly (automatic, no CSV upload)
+
+Once `04_backlink_emails.csv` is saved and logged, build the Instantly draft yourself. The user never uploads a CSV. Their only actions are choosing the sender accounts and reviewing inside Instantly. Do this straight away, without asking.
+
+1. Run `python <repo>/skill/mta-backlink-outreach/scripts/instantly_payload.py 04_backlink_emails.csv <batch>/instantly/ --chunk 40`. It writes `leads_N.json` and lists any row skipped (no email, no body, duplicate email).
+2. Create the campaign with `create_campaign`: name `<D Month YYYY> - Backlink Cold Outreach Campaign`, one step, delay 0, one variant only (no A/B), subject `{{emailSubject}}`, body `<div>{{emailBody}}</div>`, `stop_on_reply` true, `open_tracking` true, `link_tracking` false, `text_only` false. Do not pass `email_list` (the user picks senders) and never call `activate_campaign`, `campaigns_bulk_activate` or anything that starts sending. It must stay a draft.
+3. Add the leads with `add_leads_to_campaign_or_list_bulk` (campaign_id, `skip_if_in_workspace` false, `skip_if_in_campaign` true), one `leads_N.json` per call. Pass each file's contents exactly as the `leads` array.
+4. Check with `get_campaign` that the status is still draft and with `list_leads` (campaign filter) that the count matches the CSV. Save the campaign id and name in `<batch>/instantly/campaign.txt`.
+5. Tell the user the campaign name, the lead count, the rows needing a manual check, and that they now need to pick sender accounts, review and start it. Then push to GitHub as usual.
+
+If a step fails, say which one and what is already in Instantly, so nothing is added twice.
 
 ## Low DR companies (only when the user asks)
 
