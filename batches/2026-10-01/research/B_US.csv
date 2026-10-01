@@ -1,0 +1,39 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Aisera,aisera.com,US,AI service automation SaaS,B,no,,72,https://aisera.com/blog/,2026-01-27,HQ Palo Alto CA; dates read from blog index
+Bitsight,bitsight.com,US,Cyber risk ratings SaaS,B,no,,77,https://www.bitsight.com/blog,2026-09-29,HQ Boston MA; very active blog
+Coalition,coalitioninc.com,US,Cyber insurance and security,B,no,,75,https://www.coalitioninc.com/blog,2026-09-28,HQ San Francisco CA
+Common Room,commonroom.io,US,GTM signals SaaS,B,no,,72,https://www.commonroom.io/blog/,2026-09-16,HQ Seattle WA
+Embroker,embroker.com,US,Business insurance platform for startups,B,no,,75,https://www.embroker.com/blog/,2026-06-05,HQ San Francisco CA
+Karat,karat.com,US,Technical interviewing platform,B,no,,62,https://karat.com/blog/,2025-12-10,HQ Seattle WA; index also shows Sep 2026 image uploads
+Lendio,lendio.com,US,SMB lending marketplace,B,no,,75,https://www.lendio.com/blog/,2026-09-01,HQ Lehi UT
+Moov,moov.io,US,Payments infrastructure API,B,no,,62,https://moov.io/blog/,2026-05-15,HQ Cedar Falls IA
+PeopleKeep,peoplekeep.com,US,HRA benefits SaaS,B,no,,74,https://www.peoplekeep.com/blog,2026-09-29,HQ Salt Lake City UT
+Pulley,pulley.com,US,Equity management SaaS,B,no,,65,https://pulley.com/blog,2026-07-20,HQ San Francisco CA
+Nightfall AI,nightfall.ai,US,AI data loss prevention,B,no,,72,https://www.nightfall.ai/blog,2026-09-28,HQ San Francisco CA
+Rootly,rootly.com,US,Incident management SaaS,B,no,,75,https://rootly.com/blog,2026-08-31,HQ San Francisco CA
+Juniper Square,junipersquare.com,US,Fund admin and investment management SaaS,B,no,,79,https://www.junipersquare.com/blog,2026-09-01,HQ San Francisco CA
+Sardine,sardine.ai,US,Fraud and compliance AI platform,B,no,,69,https://www.sardine.ai/blog,2026-09-14,HQ San Francisco CA
+Sybill,sybill.ai,US,AI sales assistant SaaS,B,no,,66,https://www.sybill.ai/blog,2026-09-26,US HQ San Francisco CA with team in India; HQ from own knowledge
+Tango,tango.us,US,Workflow guidance SaaS,B,no,,77,https://www.tango.us/blog,2026-09-30,HQ San Francisco CA
+Trainual,trainual.com,US,Training and SOP SaaS,B,no,,73,https://trainual.com/manual,2026-09-14,HQ Scottsdale AZ; blog lives at /manual
+Unit21,unit21.ai,US,Fraud and AML FinTech,B,no,,62,https://www.unit21.ai/blog,2026-10-01,HQ San Francisco CA
+Descope,descope.com,US,Customer identity and auth dev tool,B,no,,75,https://www.descope.com/blog,2026-09-30,HQ Los Altos CA with R&D in Israel
+Criteria,criteriacorp.com,US,Pre-employment assessment HR tech,B,no,,71,https://www.criteriacorp.com/blog,2026-09-16,HQ Los Angeles CA
+WorkOS,workos.com,US,Enterprise auth dev tool,B,no,,83,https://workos.com/blog,2026-09-30,HQ San Francisco CA
+Pulumi,pulumi.com,US,Infrastructure as code dev tool,B,no,,78,https://www.pulumi.com/blog/,2026-09-28,HQ Seattle WA
+Edge Delta,edgedelta.com,US,Observability pipelines SaaS,B,no,,71,https://edgedelta.com/company/blog,2026-09-15,HQ Seattle WA
+AssemblyAI,assemblyai.com,US,Speech AI API,B,no,,78,https://www.assemblyai.com/blog,2026-09-30,HQ San Francisco CA
+Labelbox,labelbox.com,US,AI data and training platform,B,no,,71,https://labelbox.com/blog/,2026-06-30,HQ San Francisco CA
+Measurabl,measurabl.com,US,ESG data proptech SaaS,B,no,,56,https://www.measurabl.com/blog,2026-06-23,HQ San Diego CA
+LogicGate,logicgate.com,US,GRC risk management SaaS,B,no,,66,https://www.logicgate.com/blog/,2026-09-30,HQ Chicago IL
+SecurityScorecard,securityscorecard.com,US,Security ratings cybersecurity,B,no,,79,https://securityscorecard.com/blog/,2026-09-30,HQ New York NY
+Railway,railway.com,US,Cloud deployment dev platform,B,no,,86,https://blog.railway.com/,2026-09-17,HQ San Francisco CA; blog on subdomain
+ngrok,ngrok.com,US,API gateway and ingress dev tool,B,no,,86,https://ngrok.com/blog,2026-08-19,HQ San Francisco CA
+Coder,coder.com,US,Cloud development environments,B,no,,75,https://coder.com/blog,2026-09-15,HQ Austin TX
+Sourcegraph,sourcegraph.com,US,Code intelligence and AI coding,B,no,,80,https://sourcegraph.com/blog,2026-09-21,HQ San Francisco CA
+Fountain,fountain.com,US,Frontline hiring HR tech,B,no,,78,https://www.fountain.com/blog,2026-09-21,HQ San Francisco CA
+Legion,legion.co,US,Workforce management HR tech,B,no,,54,https://legion.co/blog/,2026-09-29,HQ Redwood City CA
+Finix,finix.com,US,Payments infrastructure FinTech,B,no,,67,https://finix.com/resources/blogs,2026-09-22,HQ San Francisco CA
+Highnote,highnote.com,US,Card issuing platform FinTech,B,no,,45,https://highnote.com/blog,2026-09-26,HQ San Francisco CA
+Treasury Prime,treasuryprime.com,US,Embedded banking API FinTech,B,no,,49,https://www.treasuryprime.com/blog,2026-07-14,HQ San Francisco CA
+When I Work,wheniwork.com,US,Employee scheduling SaaS,B,no,,75,https://wheniwork.com/blog,,"HQ Minneapolis MN; no visible post dates, featured image uploaded 2026-09-02"
