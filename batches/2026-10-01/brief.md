@@ -37,3 +37,4 @@
 - Contacts (agent, step5/CONTACTS_BRIEF.md): 112 named people (Instantly 76, Apollo 20, Apify 16), 17 shared inboxes from websites, 4 with nothing (Esendex, The Podcast Host, REIDIN, Arthur Online). Credits: Instantly 94 (798.8 left), Apollo 22 (693 left), Apify about $0.42. Apify emails are unverified. Dedupe with emails (after sync pull, main unchanged): 133 clean.
 - Already in another Instantly campaign: Seccl, Exclaimer, SureCloud, Bitsight, YuLife, Inviqa, Rocketmakers, Fuse Universal, Diffblue. User (1 Oct): drop all 9 (emails blanked in step5/targets_final.csv, will be logged not_sent).
 - Emails: five agents write 120 emails (step5/in_0..4.csv, STEP5_BRIEF.md, humanizer pass, two subjects per row).
+- Emails: groups 1 and 4 finished (0 subject problems). Groups 0, 2 and 3 wrote all their emails but hit the session rate limit before their final review; user said try again (1 Oct), so three agents are re-running the review and humanizer pass in place.
