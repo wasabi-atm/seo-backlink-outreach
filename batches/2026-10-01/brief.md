@@ -21,3 +21,4 @@
 - Competitor answers (1 Oct): Rewind Productions and Animation Studio: include, quote swap only. Dubai brokerages: user dropped all 8 (fill with US B2B). clay.com: user confirmed a different company from clay.global, added as a candidate.
 - Selection (select.py): 150 in 01_prospects.csv. A 75 (UK 58, UAE 17); B 75 (UK 54, UAE 11, US 10). Ranked UK and UAE first, then newest post, then DR. 146 of 150 have a dated post since Oct 2025 (4 UAE B rows without a visible date). 71 spares in 01_spares.csv (63 US). 01_dropped.csv holds the 3 hard fails and 7 brokerages.
 - Checkpoint 1: waiting on the user.
+- Checkpoint 1 approved by the user (1 Oct). Step 3 started: four agents check DR (site-explorer-domain-rating) and outbound linked domains in Ahrefs (step3/STEP3_BRIEF.md).
