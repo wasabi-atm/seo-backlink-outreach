@@ -1,0 +1,56 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Redgate Software,red-gate.com,UK,Database DevOps software,B,no,,80,https://www.red-gate.com/blog/,2026-09-25,HQ Cambridge UK (company knowledge); very active blog
+Scott Logic,scottlogic.com,UK,Software engineering consultancy,B,no,,69,https://blog.scottlogic.com/,2026-09-30,HQ Newcastle UK; blog on subdomain blog.scottlogic.com
+Equal Experts,equalexperts.com,UK,Software engineering consultancy,B,no,,56,https://www.equalexperts.com/blog/,2026-09-29,HQ London; date from page markup
+Made Tech,madetech.com,UK,Public sector digital and dev consultancy,B,no,,52,https://www.madetech.com/blog/,2026-09-23,HQ London; date confirmed via RSS feed
+Diffblue,diffblue.com,UK,AI unit test generation dev tool,B,no,,62,https://www.diffblue.com/resources/,2026-05-19,HQ Oxford; resources hub with articles; date from page markup
+Exclaimer,exclaimer.com,UK,Email signature management SaaS,B,no,,75,https://exclaimer.com/blog/,2026-09-24,HQ Farnborough UK; date from page markup
+Interact Software,interactsoftware.com,UK,Intranet and employee experience SaaS,B,no,,71,https://www.interactsoftware.com/blog/,2026-09-29,HQ Manchester; old domain interact-intranet.com redirects here (rebrand not acquisition)
+Sign In App,signinapp.com,UK,Visitor management SaaS,B,no,,68,https://signinapp.com/blog,2026-09-11,HQ UK
+Linnworks,linnworks.com,UK,Ecommerce operations SaaS,B,no,,76,https://www.linnworks.com/blog,2026-09-30,HQ Norwich UK
+Patchworks,patchworks.io,UK,Ecommerce iPaaS integration SaaS,B,no,,58,https://patchworks.io/resources/articles/,2026-09-14,HQ UK; wearepatchworks.com redirects to patchworks.io (same brand); date from page markup
+Prolific,prolific.com,UK,AI training data and research participant platform,B,no,,76,https://www.prolific.com/resources,2026-09-30,HQ London and Oxford
+causaLens,causalens.com,UK,Agentic AI for enterprise data science,B,no,,49,https://causalens.com/blogs,2026-09-23,HQ London
+Gradient Labs,gradient-labs.ai,UK,AI customer support agent for financial services,B,no,,54,https://gradient-labs.ai/blog,2026-09-30,HQ London; newest date from page markup (newest visible post 2026-08-19)
+Holistic AI,holisticai.com,UK,AI governance and risk platform,B,no,,71,https://www.holisticai.com/blog,2026-07-28,HQ London
+Aiimi,aiimi.com,UK,AI data insight software,B,no,,52,https://aiimi.com/resources,2026-08-14,HQ Milton Keynes UK; /insights redirects to /resources
+Cambridge Spark,cambridgespark.com,UK,AI and data skills training for business,B,no,,55,https://www.cambridgespark.com/blog,2026-09-11,HQ Cambridge UK
+Vestd,vestd.com,UK,Equity management and share scheme platform,B,no,,57,https://www.vestd.com/blog,2026-09-20,HQ UK
+ANNA Money,anna.money,UK,Business banking and accounting app for SMEs,B,no,,69,https://anna.money/blog/,2026-09-23,HQ UK (Cardiff/London)
+Seccl,seccl.tech,UK,Investment platform infrastructure fintech,B,no,,42,https://seccl.tech/blog/,2026-09-23,HQ Bath UK
+Calastone,calastone.com,UK,Funds transaction network fintech,B,no,,54,https://www.calastone.com/insights/,2026-09-22,HQ London
+Acquired.com,acquired.com,UK,Payments platform,B,no,,52,https://www.acquired.com/blog,2026-08-28,HQ UK
+Paymentology,paymentology.com,UK,Card issuer processing fintech,B,no,,57,https://www.paymentology.com/blog,2026-08-13,HQ London
+Yaspa,yaspa.com,UK,Open banking payments and verification,B,no,,42,https://www.yaspa.com/blog,2026-09-17,HQ UK
+Zodia Custody,zodia-custody.com,UK,Institutional digital asset custody,B,no,,55,https://zodia-custody.com/insights/,2026-08-27,HQ London (backed by Standard Chartered)
+Stream,stream.co,UK,Earned wage access and financial wellbeing fintech,B,no,,60,https://stream.co/resources,2026-08-21,HQ London; formerly Wagestream (wagestream.com redirects to stream.co after rebrand); date from page markup
+Uncapped,weareuncapped.com,UK,Revenue-based finance for founders,B,no,,59,https://www.weareuncapped.com/blog,2026-05-30,HQ London; date from page markup
+SteelEye,steel-eye.com,UK,Trade surveillance and compliance regtech,B,no,,54,https://www.steel-eye.com/news,2026-09-28,HQ London; news and insights section
+Moorepay,moorepay.co.uk,UK,Payroll and HR software,B,no,,63,https://www.moorepay.co.uk/blog/,2026-09-24,HQ Manchester UK
+Reward Gateway,rewardgateway.com,UK,Employee engagement and benefits platform,B,no,,75,https://www.rewardgateway.com/blog,2026-09-30,HQ London (owned by Edenred since 2023 but keeps own site); date via RSS feed
+YuLife,yulife.com,UK,Employee wellbeing and group insurance,B,no,,62,https://yulife.com/blog/,2026-09-23,HQ London; date from page markup
+Fuse Universal,fuseuniversal.com,UK,Workplace learning platform,B,no,,58,https://www.fuseuniversal.com/insights,2026-09-23,HQ London; /blog redirects to /insights
+Peninsula,peninsulagrouplimited.com,UK,Employment law HR and H&S services,B,no,,64,https://www.peninsulagrouplimited.com/resource-hub/,2026-09-25,HQ Manchester UK
+Citation,citation.co.uk,UK,HR and health and safety compliance services,B,no,,65,https://www.citation.co.uk/news/,2026-09-24,HQ Wilmslow UK
+SenseOn,senseon.io,UK,AI threat detection cybersecurity,B,no,,42,https://www.senseon.io/blog,2026-09-24,HQ London
+Hack The Box,hackthebox.com,UK,Cybersecurity upskilling platform,B,no,,82,https://www.hackthebox.com/blog,2026-09-30,HQ UK (London/Kent)
+Bridewell,bridewell.com,UK,Cybersecurity services,B,no,,62,https://www.bridewell.com/insights,2026-09-23,HQ UK
+CyberSmart,cybersmart.co.uk,UK,SME cybersecurity and Cyber Essentials,B,no,,57,https://cybersmart.co.uk/blog/,2026-09-23,HQ London
+iProov,iproov.com,UK,Biometric identity verification,B,no,,71,https://www.iproov.com/blog,2026-08-20,HQ London; date from page markup
+SureCloud,surecloud.com,UK,GRC and cyber risk SaaS,B,no,,55,https://www.surecloud.com/blog-hub,2026-09-29,HQ UK
+Sapphire,sapphire.net,UK,Cybersecurity services,B,no,,51,https://www.sapphire.net/blog,2026-09-17,HQ Scotland UK; date from page markup
+Arthur Online,arthuronline.co.uk,UK,Property management software,B,no,,57,https://www.arthuronline.co.uk/arthur-insight/blog,2026-09-28,HQ London
+Fixflo,fixflo.com,UK,Property repairs and maintenance proptech,B,no,,75,https://www.fixflo.com/blog,2026-09-28,HQ London
+Landmark Information,landmark.co.uk,UK,Property and land data proptech,B,no,,70,https://www.landmark.co.uk/news-insights/blog/,2026-09-23,HQ UK; /insights redirected to a blog post
+InventoryBase,inventorybase.co.uk,UK,Property inventory and inspection software,B,no,,45,https://inventorybase.co.uk/blog/,2026-09-02,HQ UK
+Dezrez,dezrez.com,UK,Estate agency CRM proptech,B,no,,53,https://www.dezrez.com/resources/blog/,2026-09-15,HQ Swansea UK
+Hubble,hubblehq.com,UK,Office space search and flexible workspace platform,B,no,,68,https://hubblehq.com/blog,2026-09-21,HQ London
+Avvoka,avvoka.com,UK,Legal document automation,B,no,,51,https://avvoka.com/blog,2026-09-30,HQ London; date from page markup
+Perfect Portal,perfectportal.co.uk,UK,Conveyancing quoting legal tech,B,no,,52,https://www.perfectportal.co.uk/blog/,2026-09-23,HQ UK
+Legalesign,legalesign.com,UK,Electronic signature SaaS,B,no,,49,https://legalesign.com/blog/,2026-08-28,HQ Edinburgh; date from page markup only
+Corndel,corndel.com,UK,Workplace apprenticeships and training,B,no,,52,https://www.corndel.com/toolkits-and-reports,2026-09-25,HQ London; /insights redirects to toolkits and reports hub; newest from page markup
+Firebrand Training,firebrand.training,UK,Accelerated IT training for business,B,no,,62,https://firebrand.training/uk/blog,2026-09-25,HQ UK
+iHasco,ihasco.co.uk,UK,Compliance e-learning for business,B,no,,62,https://www.ihasco.co.uk/blog,2026-09-03,HQ Bracknell UK
+Babble,babble.cloud,UK,Cloud communications and IT services,B,no,,54,https://www.babble.cloud/resources/blog,2026-09-16,HQ London
+The Accountancy Partnership,theaccountancy.co.uk,UK,Online accountancy services for small business,B,no,,52,https://www.theaccountancy.co.uk/accountancy-news-and-articles,2026-09-24,HQ UK
+Market Dojo,marketdojo.com,UK,E-sourcing and procurement SaaS,B,no,,46,https://marketdojo.com/resources/,2026-07-15,HQ UK; /blog redirects to resources hub
