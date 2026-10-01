@@ -33,3 +33,4 @@
 - Weak (fit weak): Dalziel & Pow, Mirriad, AmiViz, Taylor Herring, WPP, Social Chain, Portland, GoSquared, adam&eveTBWA, Mother, Robot Food, venturethree, Saatchi & Saatchi, Holistic AI. Waiting on the user to keep or drop them before Step 5.
 - Step 5 notes: Branex, Bigfoot Digital and Igloo sell video themselves, and Stornaway and Seenit are video platforms: quote swap only, no video pitch. Check The Accountancy Partnership graphic, Webgains and Releasd video claims in a browser.
 - User (1 Oct): drop the 14 weak fits. Moved to 03_dropped_weak.csv, not logged in the ledger, so they can come up again. 03_backlink_targets.csv now holds 133 rows, all strong or ok. Step 5 waits for the user to ask.
+- User (1 Oct): go to Step 5 with the 133. Caps not given, so last run's caps apply: Instantly 200, Apollo 100, Apify $1. Contacts agent started (step5/CONTACTS_BRIEF.md); email brief ready (step5/STEP5_BRIEF.md).
