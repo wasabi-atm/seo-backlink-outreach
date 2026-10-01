@@ -38,3 +38,5 @@
 - Already in another Instantly campaign: Seccl, Exclaimer, SureCloud, Bitsight, YuLife, Inviqa, Rocketmakers, Fuse Universal, Diffblue. User (1 Oct): drop all 9 (emails blanked in step5/targets_final.csv, will be logged not_sent).
 - Emails: five agents write 120 emails (step5/in_0..4.csv, STEP5_BRIEF.md, humanizer pass, two subjects per row).
 - Emails: groups 1 and 4 finished (0 subject problems). Groups 0, 2 and 3 wrote all their emails but hit the session rate limit before their final review; user said try again (1 Oct), so three agents are re-running the review and humanizer pass in place.
+- Review pass done on groups 0, 2 and 3 (humanizer, fact check against hooks, subject fixes). All 120 emails: under 110 words, no dashes, no merge-tag braces, subject_check 0 problems across the file.
+- 04_backlink_emails.csv: 133 rows, 120 with an email, 33 with a manualCheck note (plus 13 not sent: 9 campaign overlaps, 4 no contact). 04_backlink_emails_send.csv has the upload columns for the 120. Final dedupe after sync pull: 133 clean. Logged in the ledger straight away under backlink-2026-10-01: 120 queued, 13 not_sent.
