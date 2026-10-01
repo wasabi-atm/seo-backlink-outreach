@@ -26,3 +26,4 @@
 - Checkpoint 2: waiting on the user.
 - Checkpoint 2 approved by the user (1 Oct), all 150 kept (Mirriad stays; Step 4 checks for spam links). Step 4 started: five agents pick one article and hook per company via Apify cheerio (crawl4ai cannot reach sites from the cloud; the user agreed to the Apify route at Checkpoint 2). step4/STEP4_BRIEF.md.
 - Step 4 group 0: 14 strong, 10 ok, 6 weak (Dalziel & Pow, Mirriad (RNS lists intention to appoint administrators, Apr 2026), Social Chain, adam&eveTBWA, Saatchi & Saatchi, Holistic AI). Cake is a Shopify agency; Igloo sells video production (kept to quote).
+- Step 4 group 1: 13 strong, 15 ok, 1 weak (Mother), 1 dead (Make: real gambling content, 'Sports & Betting' industry and a sportsbook UX article; hard fail). Step 4 group 3 first pass: 12 strong, 14 ok, 3 weak (Taylor Herring, YuLife, GoSquared), 1 dead (thinkbdw blog 404); follow-up run being read.
