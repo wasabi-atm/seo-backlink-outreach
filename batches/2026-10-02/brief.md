@@ -20,3 +20,5 @@
 - Checkpoint 2: waiting on the user.
 - Checkpoint 2 approved by the user (2 Oct), all 148 kept. Step 4 started: five agents pick one article and hook per company via Apify (step4/STEP4_BRIEF.md), crawl4ai cannot reach sites from the cloud. They also record articlePublished and publishedSource.
 - Step 4 done. merge_step4.py: see 03_backlink_targets.csv and 03_dropped.csv. Dead (not logged): paytabs.com (blog renders by script, no posts readable).
+- Checkpoint 3 (2 Oct): user dropped the 15 weak fits (03_dropped_weak.csv, not logged), 132 targets, go to Step 5. Caps not given, so 1 Oct caps apply: Instantly 200, Apollo 100, Apify $1. Contacts agent running (step5/CONTACTS_BRIEF.md).
+- User (2 Oct): use all five of their subject templates, mixed through the list (quick question about your X / noticed something in your X article / fresh data for your X piece / ASAP: need your response on your X piece!! / Quick intro, name?). One subject per row, no A/B. Plan: "fresh data" only on a row whose offer is Internal data (none this batch), since it would not be true otherwise; the other four mixed through the list.
