@@ -1,0 +1,21 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Krystal,krystal.io,UK,Web hosting provider,B,no,,80,https://krystal.io/blog,2026-06-18,"HQ UK (Cardiff) from prior knowledge; serves SMEs and agencies, slightly consumer-leaning"
+6DG,6dg.co.uk,UK,Managed IT and cybersecurity services,B,no,,52,https://www.6dg.co.uk/blog/,2026-06-26,HQ UK from prior knowledge
+Homeflow,homeflow.co.uk,UK,Proptech websites and software for estate agents,B,no,,61,https://www.homeflow.co.uk/blog,2026-10-01,"HQ UK from prior knowledge; sells to agents, not consumers"
+Unifrog,unifrog.org,UK,Education tech platform for schools,B,no,,67,https://www.unifrog.org/blog,2026-09-21,"HQ UK (London) from prior knowledge; a 27 Oct 2026 date on the page is a future event, ignored"
+Sparx Learning,sparx-learning.com,UK,Education tech (maths platform for schools),B,no,,52,https://sparx-learning.com/blog/,2026-07-20,HQ UK from prior knowledge; slow posting
+Pandle,pandle.com,UK,Accounting software for SMEs and bookkeepers,B,no,,44,https://www.pandle.com/blog/,2026-09-23,HQ UK from prior knowledge
+Croner,croner.co.uk,UK,"HR, health and safety and compliance services and software",B,no,,60,https://www.croner.co.uk/resources/,2026-01-08,HQ UK from prior knowledge; only one ISO date found on index
+Signable,signable.com,UK,E-signature SaaS,B,no,,56,https://www.signable.com/blog/,2026-07-17,HQ UK (Leeds area) from prior knowledge
+Boxphish,boxphish.com,UK,Cybersecurity awareness training SaaS,B,no,,40,https://www.boxphish.com/blog/,2026-09-29,HQ UK from prior knowledge; DR exactly 40
+Red Flag Alert,redflagalert.com,UK,B2B company credit risk and sales data platform,B,no,,52,https://www.redflagalert.com/articles,2026-01-21,HQ UK (Leeds) from prior knowledge
+Matillion,matillion.com,UK,Data integration SaaS,B,no,,74,https://www.matillion.com/blog,2026-04-10,HQ Manchester UK per prior knowledge; also large US presence
+takepayments,takepayments.com,UK,Card payments and merchant services for small businesses,B,no,,64,https://www.takepayments.com/blog/,2026-04-08,HQ UK (Warrington/Stockport area) from prior knowledge
+CPOMS,cpoms.co.uk,UK,Safeguarding software for schools,B,no,,43,https://www.cpoms.co.uk/blog/,2026-09-16,HQ UK (Thirsk) from prior knowledge
+Natterbox,natterbox.com,UK,Salesforce-native cloud telephony and contact centre SaaS,B,no,,55,https://natterbox.com/blog/,2026-06-04,HQ UK (London) from prior knowledge; date from a post page
+CENTURY Tech,century.tech,UK,AI learning platform for schools,B,no,,69,https://www.century.tech/news,2026-09-28,HQ UK (London) from prior knowledge
+Kortext,kortext.com,UK,Digital textbook platform for universities,B,no,,64,https://www.kortext.com/news/,2026-06-01,"HQ UK from prior knowledge; /blog is thin, dated items are on /news (labelled Kortext US)"
+FleetCheck,fleetcheck.co.uk,UK,Fleet management software,B,no,,43,https://www.fleetcheck.co.uk/blog/,,"HQ UK from prior knowledge; articles index is live with a 2026/06 image upload path but no visible post dates, so latestPost unconfirmed"
+Fleximize,fleximize.com,UK,SME finance and business advice hub,B,no,,64,https://www.fleximize.com/articles/,,"HQ UK from prior knowledge; recent article cites a July 2026 BCC report but no visible post date, so latestPost unconfirmed"
+Landlord Vision,landlordvision.co.uk,UK,Landlord accounting and compliance SaaS,B,no,,53,https://www.landlordvision.co.uk/blog/,,"HQ UK from prior knowledge; live blog with 2026 guides but no visible dates, so latestPost unconfirmed; landlords are small business owners, mildly B2C-leaning"
+Spektrix,spektrix.com,UK,Ticketing and CRM SaaS for arts organisations,B,no,,78,https://www.spektrix.com/blog,,"HQ London from prior knowledge; blog images uploaded 2026/07 and 2026/08 but no visible post dates, so latestPost unconfirmed"
