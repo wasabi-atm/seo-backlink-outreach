@@ -15,3 +15,6 @@
 - Hard fails (8, 01_dropped.csv): contentful.com, century.tech, netdocuments.com, amvbbdo.com (do not load), spyfu.com, expel.com, buildium.com (doubleclick), shipbob.com (outbrain). treasuryprime.com has the word betting in visible text, kept to check.
 - Selection (select.py): 148 in 01_prospects.csv, A 73 (UK 8, UAE 6, US 59), B 75 (UK 19, UAE 4, US 52). 3 spares. 21 picks have no visible post date.
 - Checkpoint 1: waiting on the user.
+- Checkpoint 1 approved by the user (2 Oct), all 148 go to Step 3. Ahrefs had about 33k units left until 30 Oct, so DR came from the free endpoint and linked-domains was capped at 50 rows (about 14k units in total). Counts of outside domains are lower bounds.
+- Step 3 done: all 148 at DR 40 or higher, so 02_low_dr.csv is empty and nothing goes to the pool. See Checkpoint 2.
+- Checkpoint 2: waiting on the user.
