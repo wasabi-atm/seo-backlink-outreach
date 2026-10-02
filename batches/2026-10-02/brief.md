@@ -18,3 +18,5 @@
 - Checkpoint 1 approved by the user (2 Oct), all 148 go to Step 3. Ahrefs had about 33k units left until 30 Oct, so DR came from the free endpoint and linked-domains was capped at 50 rows (about 14k units in total). Counts of outside domains are lower bounds.
 - Step 3 done: all 148 at DR 40 or higher, so 02_low_dr.csv is empty and nothing goes to the pool. See Checkpoint 2.
 - Checkpoint 2: waiting on the user.
+- Checkpoint 2 approved by the user (2 Oct), all 148 kept. Step 4 started: five agents pick one article and hook per company via Apify (step4/STEP4_BRIEF.md), crawl4ai cannot reach sites from the cloud. They also record articlePublished and publishedSource.
+- Step 4 done. merge_step4.py: see 03_backlink_targets.csv and 03_dropped.csv. Dead (not logged): paytabs.com (blog renders by script, no posts readable).
