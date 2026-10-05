@@ -1,0 +1,11 @@
+companyName,webDomain,country,serviceType,segment,visualScore,visualNotes,competitor,competitorDecision,domainRating,blogUrl,latestPost,notes,dropReason
+Digital Marketing Depot,digitalmarketingdepot.com,US,Martech and digital marketing resource publisher,A,,,no,,64,https://www.digitalmarketingdepot.com/blog/,2026-10-02,"Run by Third Door Media; HQ from knowledge, verify",hard fail: ad network doubleclick
+eMediaWire,emediawire.com,US,Press release distribution service,A,,,no,,59,https://www.emediawire.com/blog/,2026-04-18,HQ US (from knowledge); check no paid-post emphasis,hard fail: redirects to https://prgun.com/
+Dribbble,dribbble.com,US,Design community and talent marketplace,A,,,no,,93,https://dribbble.com/stories,2026-09-30,Blog is Dribbble Stories; HQ US (from knowledge),hard fail: homepage does not load
+Vista Social,vistasocial.com,US,Social media management martech SaaS,A,,,no,,73,https://vistasocial.com/insights/,2026-10-02,"HQ from knowledge, verify",hard fail: ad network doubleclick
+Brandastic,brandastic.com,US,Digital marketing and web design agency,A,,,no,,60,https://brandastic.com/blog/,2026-09-24,HQ Florida (from knowledge),hard fail: ad network googlesyndication
+LendInvest,lendinvest.com,UK,Property finance fintech for landlords and developers,B,,,no,,57,https://www.lendinvest.com/blog,2026-09-30,Blog index dated 30 Sept 2026; London HQ per own knowledge; lender sold via brokers so partly B2B only; review fit before outreach,hard fail: homepage does not load
+Cybereason,cybereason.com,US,Cybersecurity EDR/XDR,B,,,no,,77,https://www.cybereason.com/blog,2026-10-01,HQ Boston MA,hard fail: redirects to https://www.levelblue.com/
+VTS,vts.com,US,Commercial real estate software (proptech),B,,,no,,73,https://www.vts.com/blog,2026-07-09,HQ New York; B2B only. Date seen on blog index,hard fail: homepage does not load
+Wordfence (Defiant),wordfence.com,US,WordPress security (B2B/B2SMB),B,,,no,,91,https://www.wordfence.com/blog/,2026-09-29,HQ Seattle WA,hard fail: homepage does not load
+Red Canary,redcanary.com,US,Managed detection and response,B,,,no,,75,https://redcanary.com/blog/,2026-10-04,HQ Denver CO,hard fail: redirects to https://www.zscaler.com/products-and-solutions/managed-detection-and-response
