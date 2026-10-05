@@ -11,7 +11,15 @@ Backlink outreach through prospects' own website contact forms, for companies wh
   - `02_low_dr.csv`: sites under DR 40 (also added to the shared `low_dr_pool.csv`).
   - `03_form_targets.csv`: tracking detail for each site: DR (checked that day with the Ahrefs API or Apify), article, segment, offer, CAPTCHA and consent notes.
   - `06_form_outreach.csv`: the file for whoever submits the forms. Five columns: companyName, formUrl, beforeSubmit (anything to do besides pasting), subjectText and messageText. Use the name and reply email from `brief.md` on every form.
-  - `brief.md`: the answers from the interview.
+  - `07_left_out.csv`: companies the daily run left out (competitors, unsure fits) and why.
+  - `brief.md`: the brief used for that run.
+  - `slack.json`: the Slack canvas the list was sent as, so the next run can read which boxes were ticked.
+- `standing_brief.md`: the answers the daily scheduled run uses instead of an interview. Edit and push to change them.
+- `build_canvas.py`: turns a batch folder into the Slack canvas.
+
+## Daily run
+
+A scheduled task runs the skill every weekday at 2PM Bali time. It finds 50 companies, sends a Slack canvas of form links and messages to C07SWGY4MNV and D0ADQ3Y6CG5, logs them, and pushes. Tick "Submitted" in the canvas after each form; the next run marks those rows sent in the ledger and the master list.
 
 ## Keeping it synced
 

@@ -1,11 +1,11 @@
 ---
 name: mta-backlink-form-outreach
-description: Run Motion The Agency backlink outreach through website contact forms: find sites whose blogs match Motion's topics, verify DR with Ahrefs or Apify, find each contact form, and deliver a CSV of form links with messages copied from the Instantly backlink emails.
+description: Run Motion The Agency backlink outreach through website contact forms: find sites whose blogs match Motion's topics, verify DR with Ahrefs or Apify, find each contact form, and deliver a Slack canvas of form links with messages copied from the Instantly backlink emails. Also runs unattended every weekday as a scheduled task.
 ---
 
 # MTA backlink outreach through contact forms
 
-This skill runs backlink collaboration outreach for Motion The Agency (motiontheagency.com) through prospects' own website contact forms instead of email. Claude finds the sites, picks an on-topic article, checks DR, finds the form on each one and writes the message. The output is a CSV with the link to each form and the text to paste in. Claude does not fill in or submit any form. A person opens each link, pastes the message and submits.
+This skill runs backlink collaboration outreach for Motion The Agency (motiontheagency.com) through prospects' own website contact forms instead of email. Claude finds the sites, picks an on-topic article, checks DR, finds the form on each one and writes the message. The output is a Slack canvas with the link to each form and the text to paste in, sent to C07SWGY4MNV and D0ADQ3Y6CG5 (the CSV is still saved in the repo). Claude does not fill in or submit any form. A person opens each link, pastes the message and submits.
 
 Use it in two modes:
 
@@ -42,6 +42,17 @@ The repo is shared between devices and between the email and form workflows, so 
 
 Run `sh <repo>/form-outreach/sync.sh push "<short message>"`, for example "backlinkform-2026-10-05: 10 forms ready, logged as queued" or "backlinkform-2026-10-05: 6 marked sent". If the push fails, stop and tell the user. The ledger, the low DR pool and the master list use git's union merge, so rows added on two devices at once are both kept; after a merge, run `dedupe.py status` to check the ledger still reads cleanly.
 
+## Daily scheduled run
+
+A scheduled task runs this skill every weekday (Mon to Fri) at 2PM Bali time (Asia/Makassar). Nobody is there to answer questions, so:
+
+- Skip Step 1. Use `form-outreach/standing_brief.md` as the brief (batch size 50, segments, countries, reply email, phone, sign-off, Slack destinations) and copy it into the batch's `brief.md`.
+- Skip the checkpoints. Leave out competitors and anything you are unsure about, and write each one to `07_left_out.csv` (companyName, webDomain, reason) so it shows in the canvas under "Left out".
+- If the pull or push fails, the built-in browser cannot be reached, or the ledger looks wrong, do not guess. Send a short Slack message to both destinations saying the run stopped and why, and stop.
+- If fewer than 50 pass every check, send what passed and say in the canvas callout how many short and why. Never lower the bar to reach 50.
+- If today's batch folder already exists with a `slack.json`, a run already happened today: stop without sending anything.
+- Mix sources so 50 is reachable: leftovers first (ledger rows with status `not_sent` whose DR is 40 or more), then new sites. Gather at least 120 candidates for new sites, since only about half have a usable form and some more fail the article check.
+
 ## Which browser
 
 Finding forms (Step 3) and reading articles (Step 4) can happen in the built-in browser: the browser pane inside the Claude desktop app, with tools named `mcp__Claude_Browser__*` or `mcp__remote-devices__Claude_Browser__*`. The browser is only used to read pages.
@@ -66,6 +77,8 @@ Finding forms (Step 3) and reading articles (Step 4) can happen in the built-in 
 ## Step 0: Sync, ledger and the current email template
 
 Run `sh <repo>/form-outreach/sync.sh pull` (see "Sync with GitHub before and after every task"), stop on any error, and run `dedupe.py status` to tell the user how many companies are already in the ledger. Never build a batch on a ledger that might be out of date. A company that was emailed must not also get a form, and the other way round.
+
+Then mark the last batch: open the newest `form-outreach/batches/*/slack.json`, read its canvas with `slack_read_canvas`, and for each company whose "Submitted" box is ticked (`- [x]`), run `set-status --campaign <its campaign> --status sent --domains <domain> --channel form` and set status "sent" and sentDate (today) in the master list. Leave unticked rows as queued. Push straight after.
 
 Then open the most recent Instantly backlink campaign (`list_campaigns` with search "backlink", newest first) and pull its leads with `list_leads` (limit 100). This does two jobs:
 
@@ -210,11 +223,18 @@ companyName, formUrl, beforeSubmit, subjectText, messageText
 - `subjectText`: only for forms with a subject field, otherwise blank.
 - Name and reply email are the same on every form, so they go in the message to the user and in `brief.md`, not in a column.
 
-Everything else (DR, drSource, drDate, country, segment, offer, article, captcha, consentBox) stays in `03_form_targets.csv` and the master list for tracking. Send `06_form_outreach.csv` to the user with SendUserFile, and say in the message which name and reply email to use on every form.
+Everything else (DR, drSource, drDate, country, segment, offer, article, captcha, consentBox) stays in `03_form_targets.csv` and the master list for tracking.
+
+Deliver it as a Slack canvas, not a file:
+
+1. Run `python <repo>/form-outreach/build_canvas.py <repo>/form-outreach/batches/<YYYY-MM-DD> > canvas.md`. It writes a callout with the name, reply email and phone to use on every form, then one section per company: a "Submitted" tick box, the form link, Before submit, the subject if any, and the message in a code block for copy and paste. Rows in `07_left_out.csv` are listed at the end.
+2. Create the canvas with `slack_create_canvas`, title "Form outreach <YYYY-MM-DD>", content the file as written.
+3. Send the canvas link with `slack_send_message` to C07SWGY4MNV and to D0ADQ3Y6CG5: one bold line with the date and number of forms, the link, and "Each one has the form link, what to fill in, and the message to paste. Tick each box once it's submitted."
+4. Save `slack.json` in the batch folder (canvasId, canvasUrl, sentTo, campaign). The next run reads the canvas ticks from it.
 
 ## Step 7: Log the batch
 
-Straight after sending the CSV:
+Straight after sending the canvas:
 
 1. Log it so these companies are not picked again by an email or form batch. Form rows have no email, so always pass `--channel form`, which makes them block like emailed rows:
 
@@ -227,7 +247,7 @@ Straight after sending the CSV:
 
 If a company is dropped after logging, run `set-status --campaign backlinkform-<YYYY-MM-DD> --status not_sent --domains <domain> --channel form` and remove it from the master list.
 
-When the user says which forms went through, run `set-status --campaign backlinkform-<YYYY-MM-DD> --status sent --domains <those domains> --channel form`, set status "sent" and sentDate in the master list, and `--status not_sent` for the ones they did not send. Pull before making these changes and run `sh <repo>/form-outreach/sync.sh push` straight after.
+Ticked boxes in the canvas are picked up by the next run (Step 0). When the user says directly which forms went through, run `set-status --campaign backlinkform-<YYYY-MM-DD> --status sent --domains <those domains> --channel form`, set status "sent" and sentDate in the master list, and `--status not_sent` for the ones they did not send. Pull before making these changes and run `sh <repo>/form-outreach/sync.sh push` straight after.
 
 Remind the user that replies come to the reply email in the brief, not to Instantly.
 
