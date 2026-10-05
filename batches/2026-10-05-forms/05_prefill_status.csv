@@ -1,0 +1,10 @@
+order,companyName,webDomain,formUrl,status,whatYouNeedToDo
+1,ServiceM8,servicem8.com,https://www.servicem8.com/contact-us,prefilled,Click Submit
+2,Cin7,cin7.com,https://www.cin7.com/contact-us/,needsCaptcha,Complete the reCAPTCHA if it appears; click Submit
+3,IMA B2B,imab2b.com,https://www.imab2b.com/contact/,needsConsent,Tick the privacy policy box if you agree; reCAPTCHA may appear; click Submit
+4,Melotti Media,melottimedia.com.au,https://www.melottimedia.com.au/contact/,prefilled,Click Submit
+5,Inviqa,inviqa.com,https://inviqa.com/contact,needsConsent,"Phone box shows a default +62 (optional, clear it if you like); tick the comms consent box if you agree; click Submit"
+6,Diffblue,diffblue.com,https://www.diffblue.com/contact/,needsCaptcha,Country shows Indonesia; invisible reCAPTCHA may challenge; click Submit
+7,Rocketmakers,rocketmakers.com,https://www.rocketmakers.com/contact,prefilled,Click Submit
+8,Elevation Marketing,elevationb2b.com,https://elevationb2b.com/contact-us/,needsCaptcha,Newsletter box left unticked; reCAPTCHA may challenge; click Get in touch
+9,Velaris,velaris.io,https://www.velaris.io/contact,prefilled,Click Submit

@@ -1,0 +1,19 @@
+companyName,webDomain,domainRating,country,segment,source,formUrl,formPurpose,formType,formFields,hasSubjectField,captcha,consentBox,altEmail,fit,fitReason
+ServiceM8,servicem8.com,84,Australia,B,new,https://www.servicem8.com/contact-us,general,native,"email*, subject*, message* (5000)",yes,unknown,none,pr@servicem8.com,good,General enquiries form with no phone or budget
+Cin7,cin7.com,78,Australia,B,new,https://www.cin7.com/contact-us/,general,native,"first*, last*, email*, phone*, company*, reason* (Sales/Media & PR/Partnership Opportunities), message*",no,unknown,none,,ok,Has a Partnership Opportunities option; phone required
+IMA B2B,imab2b.com,45,Australia,A,new,https://www.imab2b.com/contact/,general,native,"name*, phone*, email*, message (500)",no,unknown,optionalTerms,,ok,Short message limit; phone required; privacy box left for human
+Melotti Media,melottimedia.com.au,45,Australia,A,new,https://www.melottimedia.com.au/contact/,general,native,"first*, last, phone*, email*, message",no,unknown,none,info@melottimedia.com.au,ok,Phone required
+First Page Digital,firstpagedigital.sg,58,Singapore,A,new,https://www.firstpagedigital.sg/contact-us/,general,native,"name*, phone*, email*, website, message",no,unknown,none,info@firstpagedigital.sg,ok,Phone required
+Inviqa,inviqa.com,72,UK,A,leftover,https://inviqa.com/contact,general,hubspot-like,"first*, last*, job title*, company*, email*, phone, country, message*, comms consent*",no,unknown,requiredTerms,,good,Phone optional; required consent box left for human
+Diffblue,diffblue.com,62,UK,B,leftover,https://www.diffblue.com/contact/,general,native,"first*, last*, job title, company*, work email*, country, phone, message*",no,recaptchaEnterprise,none,,good,General tab then Ask us anything opens the form
+Rocketmakers,rocketmakers.com,48,UK,A,leftover,https://www.rocketmakers.com/contact,general,netlify,"name, ?, email, reason (Find out more about something else), message",no,unknown,none,firstcontact@rocketmakers.com,good,Has a non-sales reason option
+Elevation Marketing,elevationb2b.com,65,US,A,leftover,https://elevationb2b.com/contact-us/,general,native,"first*, last*, email*, phone*, message*, newsletter (optional)",no,recaptchaCheckbox,optionalMarketing,,ok,Phone required; reCAPTCHA for human
+Velaris,velaris.io,48,UK,B,leftover,https://www.velaris.io/contact,general,native,"first*, last*, email*, company*, phone*, subject, message*",yes,unknown,none,,ok,Phone required
+Online Marketing Gurus,onlinemarketinggurus.com.au,66,Australia,A,new,https://www.onlinemarketinggurus.com.au/contact-us/,general,,,,cloudflare,,,skip,Cloudflare human check before the page loads
+Prosperity Media,prosperitymedia.com.au,65,Australia,A,new,https://prosperitymedia.com.au/contact/,demoOnly,gravity,,,recaptchaCheckbox,,hello@prosperitymedia.com.au,skip,Required revenue and SEO budget; no message box
+StudioHawk,studiohawk.com.au,60,Australia,A,new,https://studiohawk.com.au/contact-us/,demoOnly,native,,,,,contact@studiohawk.com.au,skip,Required monthly budget
+MediaOne,mediaonemarketing.com.sg,72,Singapore,A,new,https://mediaonemarketing.com.sg/contact-us/,demoOnly,native,,,,,contact@mediaone.co,skip,Sells guest posting (SEO farm signal); forced service choice
+Aspire,aspireapp.com,70,Singapore,B,new,https://aspireapp.com/en-sg/partners,partnership,partnerstack,,,,,,skip,Partner form needs a PartnerStack account
+Deputy,deputy.com,77,Australia,B,new,https://www.deputy.com/press,press,,,,,,,skip,No form found
+REIDIN,reidin.com,44,UAE,B,leftover,https://reidin.com/contact/,demoOnly,,,,,,info@reidin.com,skip,Only demo and newsletter forms
+The Good,thegood.com,75,US,A,leftover,https://thegood.com/contact/,,,,,,,bizdev@thegood.com,skip,No form; bizdev@ email found (better for email batch)
