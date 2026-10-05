@@ -13,6 +13,10 @@ Backlink outreach through prospects' own website contact forms, for companies wh
   - `06_form_outreach.csv`: the deliverable. Form link, any clicks needed to reach the form, DR (checked that day with the Ahrefs API or Apify), article, ready-to-paste message and what to do before submitting.
   - `brief.md`: the answers from the interview.
 
+## Keeping it synced
+
+Run `sh form-outreach/sync.sh pull` before any form outreach work, and `sh form-outreach/sync.sh push "what changed"` straight after anything changes (a batch saved, rows logged in the ledger, the master list updated, forms marked sent). It works from any folder and uses the same sync script as the email workflow, so the ledger, the low DR pool, the master list and the batches always move together. If either command fails, stop and fix it before carrying on, so a company is never contacted twice.
+
 ## Shared with email outreach
 
 The ledger (`outreach_ledger.csv`) and the low DR pool (`low_dr_pool.csv`) stay at the repo root and are shared with the email workflow, so a company is never contacted by both. Form rows are logged with `dedupe.py log ... --channel form`, which makes them block repeats even though they have no email address. Form campaigns are named `backlinkform-<YYYY-MM-DD>`.

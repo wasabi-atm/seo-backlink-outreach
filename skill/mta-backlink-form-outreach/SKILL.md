@@ -24,6 +24,24 @@ Everything lives in the `seo-backlink-outreach` repo (`<repo>`, see `mta-backlin
 
 The repo copy of this skill (`<repo>/skill/mta-backlink-form-outreach/SKILL.md`) is the source of truth. If it differs from the loaded skill, follow the repo copy and tell the user their claude.ai copy is out of date.
 
+## Sync with GitHub before and after every task
+
+The repo is shared between devices and between the email and form workflows, so it must be pulled before anything is read and pushed after anything is changed. The sync command is `sh <repo>/form-outreach/sync.sh pull|push "<message>"`. It runs the email workflow's `sync.sh` on this repo, so the ledger, the low DR pool, the master list and the batches always move together.
+
+**Before anything else**, including the interview and small tasks such as marking forms as sent:
+
+1. Run `sh <repo>/form-outreach/sync.sh pull`. If the repo is not on this machine yet, run `sh <repo>/skill/mta-backlink-outreach/scripts/sync.sh pull` from the loaded `mta-backlink-outreach` skill folder (it clones the repo), or in a cloud session attach `wasabi-atm/seo-backlink-outreach` and clone it.
+2. If it exits with an error (conflict, no network, no access), stop and tell the user. Never build a batch or log anything on a ledger that might be out of date.
+3. If `<repo>/skill/mta-backlink-form-outreach/SKILL.md` differs from the loaded skill, follow the repo copy.
+
+**Push straight after every change**, not only at the end, so another device cannot pick the same company in between:
+
+- after `dedupe.py log`, `set-status` or `pool` changes the ledger or the low DR pool
+- after appending to or editing `form-outreach/form_outreach_master.csv`
+- after saving the batch's `06_form_outreach.csv`
+
+Run `sh <repo>/form-outreach/sync.sh push "<short message>"`, for example "backlinkform-2026-10-05: 10 forms ready, logged as queued" or "backlinkform-2026-10-05: 6 marked sent". If the push fails, stop and tell the user. The ledger, the low DR pool and the master list use git's union merge, so rows added on two devices at once are both kept; after a merge, run `dedupe.py status` to check the ledger still reads cleanly.
+
 ## Which browser
 
 Finding forms (Step 3) and reading articles (Step 4) can happen in the built-in browser: the browser pane inside the Claude desktop app, with tools named `mcp__Claude_Browser__*` or `mcp__remote-devices__Claude_Browser__*`. The browser is only used to read pages.
@@ -47,7 +65,7 @@ Finding forms (Step 3) and reading articles (Step 4) can happen in the built-in 
 
 ## Step 0: Sync, ledger and the current email template
 
-Do exactly what `mta-backlink-outreach` says under "Sync with GitHub before and after every task": run `sync.sh pull`, stop on any error, and run `dedupe.py status` to tell the user how many companies are already in the ledger. Never build a batch on a ledger that might be out of date. A company that was emailed must not also get a form, and the other way round.
+Run `sh <repo>/form-outreach/sync.sh pull` (see "Sync with GitHub before and after every task"), stop on any error, and run `dedupe.py status` to tell the user how many companies are already in the ledger. Never build a batch on a ledger that might be out of date. A company that was emailed must not also get a form, and the other way round.
 
 Then open the most recent Instantly backlink campaign (`list_campaigns` with search "backlink", newest first) and pull its leads with `list_leads` (limit 100). This does two jobs:
 
@@ -199,11 +217,11 @@ Straight after sending the CSV:
    `python dedupe.py log form-outreach/batches/<YYYY-MM-DD>/06_form_outreach.csv --ledger outreach_ledger.csv --status queued --campaign backlinkform-<YYYY-MM-DD> --channel form`
 
 2. Append the rows to `form-outreach/form_outreach_master.csv` (batch, companyName, webDomain, domainRating, drDate, country, segment, offer, formUrl, articleTitle, articleUrl, status "ready", sentDate empty).
-3. Run `dedupe.py status` and check the campaign shows every row as queued, then run `sync.sh push`.
+3. Run `dedupe.py status` and check the campaign shows every row as queued, then run `sh <repo>/form-outreach/sync.sh push "backlinkform-<YYYY-MM-DD>: <n> forms ready, logged as queued"`.
 
 If a company is dropped after logging, run `set-status --campaign backlinkform-<YYYY-MM-DD> --status not_sent --domains <domain> --channel form` and remove it from the master list.
 
-When the user says which forms went through, run `set-status --campaign backlinkform-<YYYY-MM-DD> --status sent --domains <those domains> --channel form`, set status "sent" and sentDate in the master list, and `--status not_sent` for the ones they did not send. Push again after each change.
+When the user says which forms went through, run `set-status --campaign backlinkform-<YYYY-MM-DD> --status sent --domains <those domains> --channel form`, set status "sent" and sentDate in the master list, and `--status not_sent` for the ones they did not send. Pull before making these changes and run `sh <repo>/form-outreach/sync.sh push` straight after.
 
 Remind the user that replies come to the reply email in the brief, not to Instantly.
 
