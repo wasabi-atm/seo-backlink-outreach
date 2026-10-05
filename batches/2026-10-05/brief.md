@@ -14,5 +14,5 @@
 - Vetting: Apify homepage scan (vetting.csv). Same as 2 Oct: no screenshots, no video schema, visualScore and videoSchemaGap blank. 10 hard fails dropped (01_dropped.csv). 83 in 01_prospects.csv: A 30, B 53; UK 17, UAE 2, US 64. Short of the 150 target.
 - Checkpoint 1: waiting on the user.
 - Checkpoint 1 approved by the user (5 Oct): run the 83 as is (no extra research round), put back jellyfish.co and seo.co (both homepage scans clean), drop the 12 undated sites (01_dropped_undated.csv). 73 go to Step 3.
-- Step 3 done: DR from the free endpoint, linked-domains capped at 50 rows (about 6,900 units). All 73 at DR 40 or higher, so 02_low_dr.csv is empty and nothing goes to the pool. Link habits: Yes 54, Some 13, No 5 and see 02_enriched.csv.
+- Step 3 done: DR from the free endpoint, linked-domains capped at 50 rows (about 6,900 units). All 73 at DR 40 or higher, so 02_low_dr.csv is empty and nothing goes to the pool. Link habits: Yes 55, Some 13, No 5, see 02_enriched.csv.
 - Checkpoint 2: waiting on the user.
