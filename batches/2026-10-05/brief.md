@@ -18,3 +18,9 @@
 - Checkpoint 2: waiting on the user.
 - Checkpoint 2 approved by the user (5 Oct), all 73 go to Step 4. Three agents picked one article per company via Apify (step4/STEP4_BRIEF.md). merge_step4.py: 73 targets, 0 dead. Fit: strong 26, ok 36, weak 11. 26 have no readable article date. Segment B offers: video 25, graphic 22, internal data 2, founder's quote 1.
 - Step 4 done. 03_backlink_targets.csv sent to the user. Step 5 only when the user asks.
+- Checkpoint 3 (5 Oct): user dropped the 11 weak fits (03_dropped_weak.csv, not logged), 62 targets, go to Step 5. Caps not given, so 2 Oct caps apply: Instantly 200, Apollo 100, Apify $1.
+- Contacts (agent, step5/CONTACTS_BRIEF.md): 53 named people (Instantly 43, Apollo 10), 3 shared inboxes (credas, seo.co, meetedgar), 6 with nothing (idibu, scoutapm, insightly, pentestpartners, jobvite, datto). Credits: Instantly 67 (606.3 left), Apollo 10 (88 left, no gap), Apify about $0.17. Six rows added by hand where the email domain differs from the target domain.
+- Already in another Instantly campaign: 5 (mongodb, capium, jellyfish.co, onfleet, botkeeper). User (5 Oct): drop all 5 (emails blanked, logged not_sent).
+- Subjects: user (5 Oct) chose their templates mixed again (quick question about your X / noticed something in your X article / Quick intro, name? / ASAP...!!), no 'fresh data' since no row offers data. subject_check.py flags these by design.
+- Emails: three agents wrote 51, three review agents ran the humanizer and a fact check (23 emails fixed). 04_backlink_emails.csv via step5/assemble.py: 62 rows, 51 with an email, 33 with a manualCheck note.
+- Dedupe with emails: seo.co matches seo.ae by brand and jellyfish.co the UK agency, both different companies (user confirmed at Checkpoint 1), so dedupe.py log may not add them as their own rows.
