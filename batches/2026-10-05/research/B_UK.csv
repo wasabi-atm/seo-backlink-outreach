@@ -1,0 +1,15 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+HR Dept,hrdept.co.uk,UK,HR advice and outsourced HR services,B,no,,55,https://www.hrdept.co.uk/blog,2026-09-30,Weekly posts seen on blog index; UK franchise HR consultancy; HQ from my own knowledge not site-checked
+Credas,credas.com,UK,AML and identity verification SaaS,B,no,,43,https://www.credas.com/blog,2026-07-08,Blog index shows case studies and podcast posts dated June and July 2026; UK customers; HQ not site-verified
+Capium,capium.com,UK,Accounting and tax practice software,B,no,,47,https://www.capium.com/blog,2026-09-28,Frequent dated posts through Sept 2026; UK practice software for accountants; HQ from own knowledge
+StatusCake,statuscake.com,UK,Website monitoring SaaS,B,no,,77,https://www.statuscake.com/blog,2026-08-26,Dated posts on blog index (latest 26 Aug 2026); UK company per own knowledge
+LendInvest,lendinvest.com,UK,Property finance fintech for landlords and developers,B,no,,57,https://www.lendinvest.com/blog,2026-09-30,Blog index dated 30 Sept 2026; London HQ per own knowledge; lender sold via brokers so partly B2B only; review fit before outreach
+idibu,idibu.com,UK,Recruitment job distribution SaaS,B,no,,50,https://www.idibu.com/blog,2026-07-06,Dated posts (6 Jul 2026 and 29 Jun 2026) seen on homepage blog feed; /blog path not directly crawled; UK per own knowledge
+Street Group,street.co.uk,UK,Proptech software for estate agents,B,no,,70,https://www.street.co.uk/blog,2026-09-24,Blog index dated 24 Sept 2026; UK per own knowledge
+Eploy,eploy.com,UK,Recruitment ATS SaaS,B,no,,56,https://www.eploy.com/blog,2026-10-02,Latest dated item 2 Oct 2026 was on /about-eploy/news; /blog index itself did not render dates; UK per own knowledge
+Quorum Cyber,quorumcyber.com,UK,Managed cybersecurity services,B,no,,63,https://www.quorumcyber.com/insights,2026-08-28,Dated insights articles (28 Aug 2026 CRN Fast Growth 150); Edinburgh HQ per own knowledge
+Pen Test Partners,pentestpartners.com,UK,Penetration testing and cybersecurity consultancy,B,no,,71,https://www.pentestpartners.com/security-blog/,2026-09-30,Active security blog with many dated 2026 posts; UK per own knowledge
+Causeway Technologies,causeway.com,UK,Construction and property software,B,no,,67,https://www.causeway.com/blog/,2026-10-01,Blog index dated 1 Oct 2026; UK HQ per own knowledge
+Softcat,softcat.com,UK,IT infrastructure reseller and services,B,no,,72,https://www.softcat.com/blog/,,Blog index shows September 2026 article (month only; no day); Marlow UK HQ per own knowledge
+Funding Options,fundingoptions.com,UK,SME business finance marketplace,B,no,,60,https://www.fundingoptions.com/blog,,Blog articles seen dated Nov 2025 and Feb 2026 (month only); UK per own knowledge; serves SMEs only
+TPXimpact,tpximpact.com,UK,Digital transformation consultancy,B,no,,61,https://www.tpximpact.com/knowledge-hub,,Knowledge hub shows April 2026 item (month only); UK per own knowledge
