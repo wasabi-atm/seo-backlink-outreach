@@ -1,16 +1,18 @@
 """Local dedupe ledger for backlink outreach. One company is only ever emailed once.
 
     python dedupe.py check  candidates.csv --ledger LEDGER [--out-dir DIR]
-    python dedupe.py log    emails.csv     --ledger LEDGER --status queued|sent|not_sent|excluded --campaign NAME [--date YYYY-MM-DD]
+    python dedupe.py log    emails.csv     --ledger LEDGER --status queued|sent|not_sent|excluded --campaign NAME [--date YYYY-MM-DD] [--channel form]
     python dedupe.py status LEDGER
-    python dedupe.py set-status --ledger LEDGER --campaign NAME --status sent|not_sent [--domains a.com,b.com]
+    python dedupe.py set-status --ledger LEDGER --campaign NAME --status sent|not_sent [--domains a.com,b.com] [--channel form]
     python dedupe.py remove     --ledger LEDGER --campaign NAME   (test runs only)
     python dedupe.py pool       02_low_dr.csv --pool POOL --batch NAME [--date YYYY-MM-DD]
 
 check  Compares every row against the ledger and against earlier rows in the same
        file. Writes <name>_clean.csv (safe to use) and <name>_duplicates.csv (removed,
        with the reason). Exit code 2 when anything was removed.
-log    Appends rows to the ledger. Rows with no email are logged as not_sent.
+log    Appends rows to the ledger. Rows with no email are logged as not_sent, unless
+       --channel form is passed: contact-form outreach has no email address, so those
+       rows take the given status and block like emailed rows.
 
 Match keys (any hit removes the row):
   domain   root domain of webDomain, the email address and articleUrl
@@ -149,7 +151,7 @@ def cmd_log(a):
     new, skipped = [], []
     for row in rows:
         email = (row.get("email") or "").strip().lower()
-        status = a.status if ("@" in email or a.status == "excluded") else "not_sent"
+        status = a.status if ("@" in email or a.status == "excluded" or a.channel == "form") else "not_sent"
         rec = {
             "companyName": (row.get("companyName") or "").strip(),
             "webDomain": (row.get("webDomain") or "").strip().lower(),
@@ -187,7 +189,8 @@ def cmd_set_status(a):
     n = 0
     for r in ledger:
         if r.get("campaign") == a.campaign and (not wanted or r.get("rootDomain") in wanted):
-            if r.get("status") != "not_sent" or a.status == "not_sent":  # rows with no email stay not_sent
+            # rows with no email stay not_sent, except contact-form rows (--channel form)
+            if r.get("status") != "not_sent" or a.status == "not_sent" or a.channel == "form":
                 r["status"], n = a.status, n + 1
     with open(a.ledger, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fields or LEDGER_FIELDS); w.writeheader(); w.writerows(ledger)
@@ -246,10 +249,12 @@ def main():
     l = sub.add_parser("log"); l.add_argument("csv_path"); l.add_argument("--ledger", required=True)
     l.add_argument("--status", required=True, choices=["queued", "sent", "not_sent", "excluded"])
     l.add_argument("--campaign", required=True); l.add_argument("--date")
+    l.add_argument("--channel", choices=["email", "form"], default="email", help="form: rows without an email still block")
     s = sub.add_parser("status"); s.add_argument("ledger")
     ss = sub.add_parser("set-status"); ss.add_argument("--ledger", required=True); ss.add_argument("--campaign", required=True)
     ss.add_argument("--status", required=True, choices=["queued", "sent", "not_sent", "excluded"])
     ss.add_argument("--domains", help="comma-separated; default is every row in the campaign")
+    ss.add_argument("--channel", choices=["email", "form"], default="email", help="form: also update rows without an email")
     po = sub.add_parser("pool"); po.add_argument("csv_path"); po.add_argument("--pool", required=True)
     po.add_argument("--batch", required=True); po.add_argument("--date")
     rm = sub.add_parser("remove"); rm.add_argument("--ledger", required=True); rm.add_argument("--campaign", required=True)
