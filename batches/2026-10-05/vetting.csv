@@ -1,0 +1,94 @@
+webDomain,loaded,finalUrl,redirectedToOtherDomain,adNetworks,farmWords,writeForUs,outboundLinks,wordCount,title,notes
+captivate.fm,True,https://www.captivate.fm/,False,,,False,7,4640,Unlimited podcast hosting - Best podcast platform - Captivate.fm,
+kanukadigital.com,True,https://www.kanukadigital.com/,False,,,False,5,754,WordPress Development Agency UK | Kanuka Digital,
+conversion.com,True,https://www.conversion.com/,False,,,False,4,1802,Conversion | The World's Leading Dedicated CRO Agency,
+fenti.co.uk,True,https://fenti.co.uk/,False,,,False,11,1372,Digital Marketing Agency Sheffield | Proven ROI | Fenti Marketing,
+smartsites.com,True,https://www.smartsites.com/,False,,,False,7,3532,"Digital Marketing Agency | 2,100+ Reviews | SmartSites",
+rocketreach.co,True,https://rocketreach.co/,False,,,False,0,0,RocketReach Lead Intelligence: Phone and Email Finder,Loaded 200 but no visible text (JS rendered); check manually
+marq.com,True,https://www.marq.com/,False,,,True,8,2409,Marq (formerly Lucidpress) | Brand Enablement Software,Write-for-us or contribute text/link found
+mabbly.com,True,https://www.mabbly.com/,False,,,False,3,1033,Mabbly | Go to Market Agency for Professional Services Firms,
+conversionlogix.com,True,https://conversionlogix.com/,False,,,False,4,1344,Apartment & Senior Living Marketing Agency | Conversion Logix,
+digitalmarketingdepot.com,True,https://martech.org/,True,doubleclick,,False,10,2263,MarTech - Marketing Technology News and Community for MarTech Professionals,HARD FAIL: redirects to different domain martech.org; HARD FAIL: ad network doubleclick
+webstrategiesinc.com,True,https://www.geear.io/,True,,loans,False,1,822,"Geear: Credit Union, Bank & Manufacturing Marketing | HubSpot Diamond Partner","HARD FAIL: redirects to different domain geear.io (likely rebrand); Farm word 'loans' present (not a hard-fail word, likely legitimate finance content)"
+wpforms.com,True,https://wpforms.com/,False,,,False,12,3742,WPForms - World's Leading WordPress AI Form Builder Plugin,
+insightly.com,True,https://www.insightly.com/,False,,,False,11,1053,"Insightly CRM: Modern, scalable Customer Relationship Management software platform",
+localfalcon.com,True,https://www.localfalcon.com/,False,,,False,9,6083,Generative AI & Local SEO Search Visibility - Local Falcon,
+podbean.com,True,https://www.podbean.com/,False,,,False,10,2087,Free Podcast hosting and Monetizing Platform | Podbean,
+fishmanpr.com,True,https://www.fishmanpr.com/,False,,,False,2,541,Franchising's #1 Integrated Marketing Agency - Fishman PR,
+dubsado.com,True,https://www.dubsado.com/,False,,,False,8,910,Dubsado,
+brandpoint.com,True,https://www.brandpoint.com/,False,,,False,6,403,Brandpoint - MarCom intelligence for PR and marketing teams,
+cardinaldigitalmarketing.com,True,https://www.cardinaldigitalmarketing.com/,False,,,False,3,2105,Healthcare Performance Marketing Agency | Cardinal Digital Marketing,
+emediawire.com,True,https://prgun.com/,True,,,False,0,492,PR Gun | Press Release Distribution from $49 on AP News and Google News,HARD FAIL: redirects to different domain prgun.com
+meetedgar.com,True,https://meetedgar.com/,False,,,False,10,1123,MeetEdgar | Social Media Management Tool,
+dribbble.com,False,https://dribbble.com/,False,,,False,0,0,,"HARD FAIL: did not load, HTTP 202 empty body (bot challenge) on datacenter and RESIDENTIAL proxy; check manually"
+vistasocial.com,True,https://vistasocial.com/,False,doubleclick,,False,11,133,Vista Social | AI-powered command center for social media,HARD FAIL: ad network doubleclick
+oktopost.com,True,https://www.oktopost.com/,False,,,False,4,855,Oktopost: B2B social media management platform,
+firstpagesage.com,True,https://firstpagesage.com/,False,,,False,2,754,Best SEO Agency | First Page Sage,
+listennotes.com,True,https://www.listennotes.com/,False,,,False,9,588,Listen Notes: The best podcast search engine,"Failed on datacenter proxy, OK via RESIDENTIAL retry"
+tella.tv,True,https://www.tella.com/,True,,,False,2,743,"Tella | All-in-One Screen Recorder for Mac, Windows & Chrome","HARD FAIL: redirects to different domain tella.com (likely same company, different TLD)"
+interbrand.com,True,https://interbrand.com/,False,,,False,3,277,Interbrand | Leading Global Brand Consultancy | Strategy & Design,
+brandastic.com,True,https://brandastic.com/,False,googlesyndication,,False,8,2025,Digital Marketing Agency in Orange County | Brandastic,HARD FAIL: ad network googlesyndication
+podscribe.com,True,https://podscribe.com/,False,,,False,3,1175,Podscribe | IAB-Certified Podcast & Audio Ad Measurement,
+linkgraph.com,True,https://linkgraph.com/,False,,,True,5,1855,Elevate Your Brand with Top SEO & Link Building Experts,Write-for-us or contribute text/link found
+spinsucks.com,True,https://spinsucks.com/,False,,,False,9,1685,Spin Sucks: Professional Development for PR and Marketing Pros,
+podcastinsights.com,True,https://www.podcastinsights.com/,False,,,True,8,947,"Podcast Insights - How To Start, Grow & Monetize A Podcast",Write-for-us or contribute text/link found
+monsterinsights.com,True,https://www.monsterinsights.com/,False,,,False,12,1909,MonsterInsights - The Best Google Analytics Plugin for WordPress,
+keap.com,True,https://keap.com/,False,,,False,11,1407,Small Business CRM & Automation | Keap,
+dataflowgroup.com,True,https://dataflowgroup.com/,False,,,False,6,1419,DataFlow Group - Primary Source Verification,
+meydanfz.ae,True,https://www.meydanfz.ae/,False,,,False,9,2599,"Business Setup in Dubai: Free Zone Company Formation, Fast & Easy",
+hrdept.co.uk,True,https://www.hrdept.co.uk/,False,,,False,7,874,Outsourced HR consultants | HR Dept | HR Dept,
+credas.com,True,https://credas.com/,False,,,False,6,1956,Credas | Certified Digital Identity Verification Service,
+capium.com,True,https://www.capium.com/,False,,,False,12,2432,Accountancy Software | Software for Accountants - Capium,
+statuscake.com,True,https://www.statuscake.com/,False,,,False,2,1100,"StatusCake - Uptime monitoring, Page speed monitoring, and more",
+lendinvest.com,False,,False,,,False,,,,HARD FAIL: did not load (failed on datacenter and RESIDENTIAL proxy)
+idibu.com,True,https://idibu.com/,False,,,False,10,865,idibu: Job Distribution that Works Seamlessly with your CRM,
+street.co.uk,True,https://street.co.uk/,False,,,False,9,983,Street.co.uk | The CRM built for modern estate agents,
+eploy.com,True,https://www.eploy.com/,False,,,False,11,3936,Applicant Tracking System - Eploy Talent Acquisition Platform - Eploy ATS,
+quorumcyber.com,True,https://www.quorumcyber.com/,False,,,False,4,1274,Microsoft Cyber Security Services Provider | Quorum Cyber,
+pentestpartners.com,True,https://www.pentestpartners.com/,False,,,False,9,1308,Cyber Security Consulting & Testing,
+causeway.com,True,https://www.causeway.com/,False,,,False,4,1488,Causeway construction and maintenance management software | Causeway,
+softcat.com,True,https://www.softcat.com/,False,,,False,4,1060,IT Infrastructure & Services Provider | Softcat,"Datacenter proxy returned 404, OK via RESIDENTIAL retry"
+fundingoptions.com,True,https://www.fundingoptions.com/,False,,loans,False,9,1738,The UK's leading marketplace for business finance,"Farm word 'loans' present (not a hard-fail word, likely legitimate finance content)"
+tpximpact.com,True,https://www.tpximpact.com/,False,,,False,3,645,People-powered transformation | Digital Transformation Consultancy - TPXimpact,
+datto.com,True,https://www.datto.com/,False,,,False,11,2279,Datto | IT Solutions Built for You,
+comet.com,True,https://www.comet.com/site/,False,,,False,7,1611,Comet - The AI Developer Platform,
+couchbase.com,True,https://www.couchbase.com/,False,,,False,8,1153,Couchbase | Home,
+cybereason.com,True,https://www.levelblue.com/,True,,,False,8,867,Secure What's Next | LevelBlue,HARD FAIL: redirects to different domain levelblue.com
+datarobot.com,True,https://www.datarobot.com/,False,,,False,2,1251,DataRobot | Unified Agent Workforce Platform for Enterprise,
+jobvite.com,True,https://www.jobvite.com/,False,,,False,6,3074,Simplify Complex Hiring with Recruitment Software | Jobvite,
+kaseya.com,True,https://www.kaseya.com/,False,,,False,6,1294,Kaseya: IT Management Software & Solutions for IT Pros,
+botkeeper.com,True,https://www.botkeeper.com/,False,,,False,6,902,Botkeeper | Bookkeeping for Accounting Firms,
+confluent.io,True,https://www.confluent.io/,False,,,False,11,2718,Confluent | The Data Streaming Platform,
+egnyte.com,True,https://www.egnyte.com/,False,,,False,9,1433,Egnyte Content Cloud for Enterprises | Start Free Trial,
+entrata.com,True,https://www.entrata.com/,False,,,False,8,1246,Property Management Software | Entrata,
+flexport.com,True,https://www.flexport.com/,False,,,False,6,2869,Freight Forwarding & Supply Chain Platform | Flexport | Flexport,
+intapp.com,True,https://www.intapp.com/,False,,,False,6,3303,Intelligence Applied,
+jfrog.com,True,https://jfrog.com/,False,,,False,7,2026,Software Supply Chain Solutions for DevOps & Security | JFrog,
+fleetio.com,True,https://www.fleetio.com/,False,,,False,14,639,Fleet Management Software to Run Your Fleet Smarter,
+mend.io,True,https://www.mend.io/,False,,,False,4,2419,"Mend.io | Application Security and AI Security, Unified",
+onfleet.com,True,https://onfleet.com/,False,,,False,10,1799,Last Mile Delivery Software for Dispatch and Route Management,
+optiv.com,True,https://www.optiv.com/,False,,,False,6,1013,Optiv | Cybersecurity Consultants and Solutions,
+rechargepayments.com,True,https://getrecharge.com/,True,,,False,6,797,Recharge: The world's leading subscription platform,"HARD FAIL: redirects to different domain getrecharge.com (likely same company, rebrand)"
+realpage.com,True,https://www.realpage.com/,False,,,False,7,4730,"Property Management Software, Analytics & AI | Realpage",
+trustedsec.com,True,https://trustedsec.com/,False,,,False,6,827,TrustedSec | Your Trusted Cybersecurity Partner | TrustedSec,
+vts.com,False,,False,,,False,,,,HARD FAIL: did not load (failed on datacenter and RESIDENTIAL proxy)
+wordfence.com,False,https://www.wordfence.com/,False,,,False,0,0,,"HARD FAIL: did not load, HTTP 202 empty body (bot challenge) on datacenter and RESIDENTIAL proxy; check manually"
+akamai.com,True,https://www.akamai.com/,False,,betting,False,7,1272,"Cloud Computing, Security, Content Delivery (CDN) | Akamai","HARD FAIL: farm word betting (likely false positive in corporate copy, verify)"
+pingidentity.com,True,https://www.pingidentity.com/en.html,False,,,False,1,1032,Identity Security for the Digital Enterprise | Ping Identity,
+dynatrace.com,True,https://www.dynatrace.com/,False,,,False,0,631,Dynatrace | Observability built for the age of AI,
+databricks.com,True,https://www.databricks.com/,False,,,False,8,1362,Databricks: Leading Data and AI Platform for Enterprises,
+mongodb.com,True,https://www.mongodb.com/,False,,,False,1,1108,MongoDB | The Intelligent Data Platform for the AI Era | MongoDB,
+malwarebytes.com,True,https://www.malwarebytes.com/,False,,,False,9,1513,"All-in-One Cybersecurity Protection: Antivirus, VPN & Scam Guard",
+paloaltonetworks.com,True,https://www.paloaltonetworks.com/,False,,,False,7,1729,Leader in Cybersecurity Protection & Software for the Modern Enterprises - Palo Alto Networks,
+anomali.com,True,https://www.anomali.com/,False,,betting,False,5,4263,Anomali | Agentic SOC Platform for Governed Security Action,"HARD FAIL: farm word betting (likely false positive in corporate copy, verify)"
+amperity.com,True,https://amperity.com/,False,,,False,0,489,AI Customer Data Platform for Enterprise Brands | Amperity,
+pinecone.io,True,https://www.pinecone.io/,False,,,False,5,523,The trusted AI knowledge company | Pinecone,
+recordedfuture.com,True,https://www.recordedfuture.com/,False,,,False,1,997,Advanced Cyber Threat Intelligence | Recorded Future,
+redcanary.com,True,https://www.zscaler.com/products-and-solutions/managed-detection-and-response,True,,,False,16,1941,Zscaler Managed Detection & Response (MDR) | Zscaler,HARD FAIL: redirects to different domain zscaler.com
+scoutapm.com,True,https://www.scoutapm.com/,False,,,False,6,1037,"Scout Monitoring: Errors, Logs, and Traces for Dev Teams",
+illumio.com,True,https://www.illumio.com/,False,,,False,6,931,Breach Containment & AI Cloud Detection and Response | Illumio,
+helpjuice.com,True,https://helpjuice.com/,False,,,False,19,2761,Knowledge Base Software - Helpjuice,
+alchemer.com,True,https://www.alchemer.com/,False,,,False,3,1360,Alchemer | Online Survey Software & Tools,
+attentive.com,True,https://www.attentive.com/,False,,,False,9,1573,Attentive | AI-Powered SMS and Email Marketing Platform,
+dremio.com,True,https://www.dremio.com/,False,,,False,8,1186,Dremio: The Agentic Lakehouse for AI and Analytics | Dremio,
+lawmatics.com,True,https://www.lawmatics.com/,False,,,False,9,2132,Lawmatics - #1 Legal Software for Law Firms & Attorneys,

@@ -1,0 +1,45 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Datto,datto.com,US,IT management and MSP software SaaS,B,no,,79,https://www.datto.com/blog/,2026-05-12,HQ Norwalk CT; Kaseya owned but runs its own blog
+Comet,comet.com,US,ML experiment tracking and LLM observability,B,no,,73,https://www.comet.com/site/blog/,2026-09-29,HQ New York
+Couchbase,couchbase.com,US,NoSQL database platform,B,no,,79,https://www.couchbase.com/blog/,2026-05-27,HQ Santa Clara CA
+Cybereason,cybereason.com,US,Cybersecurity EDR/XDR,B,no,,77,https://www.cybereason.com/blog,2026-10-01,HQ Boston MA
+DataRobot,datarobot.com,US,Enterprise AI platform,B,no,,78,https://www.datarobot.com/blog/,2026-09-30,HQ Boston MA
+Insightly,insightly.com,US,CRM SaaS,B,no,,77,https://www.insightly.com/blog/,2026-09-09,HQ San Francisco CA
+Jobvite,jobvite.com,US,Recruiting software (HR tech),B,no,,84,https://www.jobvite.com/blog/,2026-08-27,HQ Indianapolis IN (Employ Inc)
+Kaseya,kaseya.com,US,IT management software for MSPs,B,no,,79,https://www.kaseya.com/blog/,2026-09-30,HQ Miami FL
+Botkeeper,botkeeper.com,US,AI bookkeeping and accounting automation,B,no,,56,https://www.botkeeper.com/blog,2026-08-07,HQ Boston MA
+Confluent,confluent.io,US,Data streaming platform,B,no,,83,https://www.confluent.io/blog/,2026-10-01,HQ Mountain View CA
+Egnyte,egnyte.com,US,Content governance and file sharing SaaS,B,no,,82,https://www.egnyte.com/blog,2026-10-02,HQ Mountain View CA
+Entrata,entrata.com,US,Property management software (proptech),B,no,,85,https://www.entrata.com/blog,2026-07-24,HQ Lehi UT
+Flexport,flexport.com,US,Supply chain and freight technology,B,no,,78,https://www.flexport.com/blog/,2026-09-16,HQ San Francisco CA
+Intapp,intapp.com,US,Software for professional services firms,B,no,,72,https://www.intapp.com/blog/,2026-10-02,HQ Palo Alto CA
+Jellyfish,jellyfish.co,US,Engineering management platform,B,no,,69,https://jellyfish.co/blog/,2026-09-10,HQ Boston MA; not the UK agency jellyfish.com (excluded) so different company
+JFrog,jfrog.com,US,DevOps and software supply chain platform,B,no,,83,https://jfrog.com/blog/,2026-09-02,HQ Sunnyvale CA (large R&D in Israel)
+Fleetio,fleetio.com,US,Fleet management software,B,no,,72,https://www.fleetio.com/blog,2026-10-02,HQ Raleigh NC
+Mend.io,mend.io,US,"Application security (SCA, SAST)",B,no,,76,https://www.mend.io/blog/,2026-10-01,HQ New York per company site; R&D in Israel. Date seen on blog index
+Onfleet,onfleet.com,US,Last mile delivery management software,B,no,,70,https://onfleet.com/blog/,2026-10-01,HQ San Francisco CA
+Optiv,optiv.com,US,Cybersecurity services and solutions,B,no,,74,https://www.optiv.com/insights,2026-09-29,"HQ Denver CO; insights section, not a classic blog"
+Recharge,rechargepayments.com,US,Subscription payments platform for ecommerce,B,no,,80,https://rechargepayments.com/blog/,2026-09-24,HQ Santa Monica CA; use rechargepayments.com (recharge.com is a different company)
+RealPage,realpage.com,US,Property management software (proptech),B,no,,88,https://www.realpage.com/blog/,2026-09-29,HQ Richardson TX
+TrustedSec,trustedsec.com,US,Cybersecurity consulting,B,no,,72,https://trustedsec.com/blog,2026-10-01,HQ Fairlawn OH
+VTS,vts.com,US,Commercial real estate software (proptech),B,no,,73,https://www.vts.com/blog,2026-07-09,HQ New York; B2B only. Date seen on blog index
+Wordfence (Defiant),wordfence.com,US,WordPress security (B2B/B2SMB),B,no,,91,https://www.wordfence.com/blog/,2026-09-29,HQ Seattle WA
+Akamai,akamai.com,US,CDN and cloud security,B,no,,90,https://www.akamai.com/blog,2026-09-30,HQ Cambridge MA
+Ping Identity,pingidentity.com,US,Identity and access management,B,no,,82,https://www.pingidentity.com/en/resources/blog.html,2026-09-23,HQ Denver CO; absorbed ForgeRock
+Dynatrace,dynatrace.com,US,Observability platform,B,no,,83,https://www.dynatrace.com/news/blog/,2026-10-02,HQ Waltham MA
+Databricks,databricks.com,US,Data and AI platform,B,no,,89,https://www.databricks.com/blog,2026-10-05,HQ San Francisco CA
+MongoDB,mongodb.com,US,Database platform,B,no,,90,https://www.mongodb.com/company/blog,2026-09-30,HQ New York
+Malwarebytes,malwarebytes.com,US,Cybersecurity (business and consumer),B,no,,87,https://www.malwarebytes.com/blog,2026-10-01,"HQ Santa Clara CA; has consumer line too, business blog content"
+Palo Alto Networks,paloaltonetworks.com,US,Cybersecurity platform,B,no,,89,https://www.paloaltonetworks.com/blog,2026-10-01,HQ Santa Clara CA
+Anomali,anomali.com,US,Threat intelligence and security analytics,B,no,,73,https://www.anomali.com/blog,2026-10-01,HQ Redwood City CA
+Amperity,amperity.com,US,Customer data platform,B,no,,70,https://amperity.com/blog,2026-09-10,HQ Seattle WA
+Pinecone,pinecone.io,US,Vector database for AI,B,no,,81,https://www.pinecone.io/blog/,2026-09-23,HQ New York
+Recorded Future,recordedfuture.com,US,Threat intelligence,B,no,,79,https://www.recordedfuture.com/blog,2026-09-30,HQ Somerville MA; owned by Mastercard
+Red Canary,redcanary.com,US,Managed detection and response,B,no,,75,https://redcanary.com/blog/,2026-10-04,HQ Denver CO
+Scout APM (Scout Monitoring),scoutapm.com,US,Application performance monitoring,B,no,,73,https://scoutapm.com/blog,2026-10-01,HQ Colorado
+Illumio,illumio.com,US,Zero trust segmentation cybersecurity,B,no,,73,https://www.illumio.com/blog,2026-10-01,HQ Sunnyvale CA. Date from a post linked on blog index
+Helpjuice,helpjuice.com,US,Knowledge base software,B,no,,81,https://helpjuice.com/blog,2026-09-22,HQ Miami FL. Date from a post linked on blog index
+Alchemer,alchemer.com,US,Survey and feedback SaaS,B,no,,86,https://www.alchemer.com/resources/blog/,2026-09-29,HQ Louisville CO. Date from a post linked on blog index
+Attentive,attentive.com,US,SMS and email marketing platform for ecommerce,B,no,,81,https://www.attentive.com/blog,2026-09-25,HQ New York (attentive.ai is an unrelated Indian company). Date from a post linked on blog index
+Dremio,dremio.com,US,Data lakehouse platform,B,no,,74,https://www.dremio.com/blog/,2026-09-30,HQ Santa Clara CA. Date from a post linked on blog index
+Lawmatics,lawmatics.com,US,Legal CRM and marketing automation (legal tech),B,no,,73,https://www.lawmatics.com/blog/,2026-07-09,HQ Phoenix AZ. Date from a post linked on blog index
