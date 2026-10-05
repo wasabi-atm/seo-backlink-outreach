@@ -1,0 +1,20 @@
+webDomain,firstName,lastName,jobTitle,email,emailSource,emailType,linkedinUrl,location,reason
+akamai.com,Felipe Duarte,Navarro,"Head of Marketing, LATAM",fnavarro@akamai.com,instantly,person,linkedin.com/in/fdnavarro,"São Paulo, São Paulo, Brazil","Head of Marketing LATAM, regional role (Brazil), better global or US lead likely"
+dynatrace.com,Renee,Byatt,Head of Marketing ANZ,renee.byatt@dynatrace.com,instantly,person,linkedin.com/in/renee-byatt-4b5a74b,"Sydney, New South Wales, Australia","Head of Marketing ANZ, regional role (Australia), better global or US lead likely"
+datarobot.com,Mays,Talib,"Head of Marketing, Emerging",mt@datarobot.com,instantly,person,linkedin.com/in/mays-talib-51768b33,United Arab Emirates,"Head of Marketing Emerging markets (UAE), regional role"
+flexport.com,Vera,Jakobs,"Head of Marketing, EMEA",vjakobs@flexport.com,instantly,person,linkedin.com/in/veraboennemann,"Hamburg, Hamburg, Germany","Head of Marketing EMEA (Germany), regional role"
+kaseya.com,Cameron,Smith,"Head of Marketing, vPenTest",cameron.smith@kaseya.com,instantly,person,linkedin.com/in/camsmith6,"Rochester, Michigan, United States","Head of Marketing for vPenTest product only, not company marketing lead"
+entrata.com,Amanda,Fults,Head of Marketing Operations,amanda.fults@entrata.com,instantly,person,linkedin.com/in/amandafults,"Lehi, Utah, United States","Head of Marketing Operations, not content or brand marketing lead"
+comet.com,Michelle,Stunkard,Head of Marketing Operations and Analytics,michelles@comet.com,instantly,person,linkedin.com/in/michelle-stunkard,"Cockrell Hill, Texas, United States","Head of Marketing Operations and Analytics, ops role not content lead"
+jellyfish.co,Lauren,Hamberg,Senior Product Marketing Director,lauren.hamberg@jellyfish.co,instantly,person,linkedin.com/in/laurenhamberg,"Salt Lake City, Utah, United States","Senior Product Marketing Director, product marketing not content lead"
+dynatrace.com,Miranda,Allen,Partner Marketing Director,miranda.allen@dynatrace.com,instantly,person,linkedin.com/in/mirandasuzanne,"Coventry, England, United Kingdom","Partner Marketing Director, partner role not company marketing lead"
+akamai.com,Kerri,Reich,Channel Marketing Director,kreich@akamai.com,instantly,person,linkedin.com/in/kerri-reich-9a95162,"Woodridge, Illinois, United States","Channel Marketing Director, channel role not company marketing lead"
+akamai.com,Saulo,Miranda,Managing Director - Latin America,smiranda@akamai.com,instantly,person,,,"regional MD (Brazil), not company founder or marketing lead"
+pingidentity.com,Christina,Kite,Office of the CEO | Global Business Operations,christinakite@pingidentity.com,instantly,person,,,"operations staff in CEO office, not marketing lead"
+trustedsec.com,Paul,Sems,"Managing Director, Remediation Services",paul.sems@trustedsec.com,instantly,person,,,"MD of one service line, not company lead"
+kaseya.com,Damon,Venger,Founder & Principal,damon.venger@kaseya.com,instantly,person,,,"founder of Nomad Consulting Group, a different company on a kaseya.com address"
+dynatrace.com,Michael,Gomez,Owner,gomez@gomez.pl,instantly,person,,,"unrelated person at gomez.pl, wrong company"
+causeway.com,Vincent,Minzer,Product Owner,vincent.minzer@causeway.com,instantly,person,,,"product owner, not marketing"
+datarobot.com,Yama,Wendschlag,Executive Business Partner to the CEO,yama.wendschlag@datarobot.com,instantly,person,,,executive assistant role
+datto.com,Wayne,Martin Jr,Company Owner,wayne.martin@datto.com,instantly,person,,,not a Datto leader (profile is a recruiter); Datto is owned by Kaseya
+hrdept.co.uk,Sarah,Asprey,Managing Director,sara@hrdept.co.uk,instantly,person,,,"MD of one franchise (South Warwickshire), not the HR Dept head office"
