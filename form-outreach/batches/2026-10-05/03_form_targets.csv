@@ -1,10 +1,11 @@
-companyName,webDomain,domainRating,country,segment,source,offer,formUrl,articleTitle,articleUrl
-ServiceM8,servicem8.com,84,Australia,B,new,Blog graphic,https://www.servicem8.com/contact-us,High fuel costs? Try Auto Routing,https://blog.servicem8.com/2026/04/high-fuel-costs-try-auto-routing/
-Cin7,cin7.com,78,Australia,B,new,Blog graphic,https://www.cin7.com/contact-us/,How to Audit Your Inventory Infrastructure Before Q4 Hits,https://www.cin7.com/blog/audit-your-inventory-infrastructure/
-IMA B2B,imab2b.com,45,Australia,A,new,Founder's quote swap,https://www.imab2b.com/contact/,B2B Marketing Playbook: 7 Steps To Plan A Perfect Project,https://www.imab2b.com/b2b-marketing/
-Melotti Media,melottimedia.com.au,45,Australia,A,new,Founder's quote swap,https://www.melottimedia.com.au/contact/,Why Original Human-Led Content Matters in the Age of AI,https://www.melottimedia.com.au/blog/why-original-human-led-content-matters-in-the-age-of-ai/
-Inviqa,inviqa.com,72,UK,A,leftover,Founder's quote swap,https://inviqa.com/contact,The core disciplines that make up Experience Design,https://inviqa.com/blog/the-core-disciplines-that-make-up-experience-design
-Diffblue,diffblue.com,62,UK,B,leftover,Video for the blog post,https://www.diffblue.com/contact/,Benchmark Report: Autonomous unit test generation at enterprise scale,https://www.diffblue.com/resources/benchmark-report-autonomous-unit-test-generation-at-enterprise-scale/
-Rocketmakers,rocketmakers.com,48,UK,A,leftover,Founder's quote swap,https://www.rocketmakers.com/contact,Off-the-Shelf vs Bespoke Software: How to Choose,https://www.rocketmakers.com/blog/off-the-shelf-software-vs-bespoke-software
-Elevation Marketing,elevationb2b.com,65,US,A,leftover,Founder's quote swap,https://elevationb2b.com/contact-us/,B2B Case Studies That Win Deals,https://elevationb2b.com/blog/b2b-case-studies-sales-decisions/
-Velaris,velaris.io,48,UK,B,leftover,Video for the blog post,https://www.velaris.io/contact,Top 8 Customer Success Dashboard Examples and Best Practices,https://www.velaris.io/articles/customer-success-dashboard-examples
+companyName,webDomain,domainRating,country,segment,offer,formUrl,articleTitle,articleUrl
+Elevation Marketing,elevationb2b.com,65,US,A,Founder's quote swap,https://elevationb2b.com/contact-us/,B2B Case Studies That Win Deals,https://elevationb2b.com/blog/b2b-case-studies-sales-decisions/
+Inviqa,inviqa.com,72,UK,A,Founder's quote swap,https://inviqa.com/contact,The core disciplines that make up Experience Design,https://inviqa.com/blog/the-core-disciplines-that-make-up-experience-design
+Melotti Media,melottimedia.com.au,45,Australia,A,Founder's quote swap,https://www.melottimedia.com.au/contact/,Why Original Human-Led Content Matters in the Age of AI,https://www.melottimedia.com.au/blog/why-original-human-led-content-matters-in-the-age-of-ai/
+IMA B2B,imab2b.com,45,Australia,A,Founder's quote swap,https://www.imab2b.com/contact/,B2B Marketing Playbook: 7 Steps To Plan A Perfect Project,https://www.imab2b.com/b2b-marketing/
+Velaris,velaris.io,48,UK,B,Video for the blog post,https://www.velaris.io/contact,7 Types of Customer Education for Better Product Adoption,https://www.velaris.io/articles/7-types-of-customer-education
+Builtvisible,builtvisible.com,69,UK,A,Founder's quote swap,https://builtvisible.com/contact/,2025 SEO Predictions: Alternative Search Journeys,https://builtvisible.com/2025-seo-predictions-alternative-search-journeys/
+CIENCE,cience.com,74,US,A,Founder's quote swap,https://www.cience.com/contact-us/,5 Proven Video Lead Generation Strategies (2026),https://www.cience.com/blog/video-lead-generation
+Nectafy,nectafy.com,57,US,A,Founder's quote swap,https://www.nectafy.com/contact,5 Simple Microphone Upgrades to Make Your Videos Sound Pro (No Studio Required),https://www.nectafy.com/blog/5-simple-microphone-upgrades-for-better-videos
+Communicate Online,communicateonline.me,65,UAE,A,Founder's quote swap,https://communicateonline.me/contact/,"Short-Form Video: Punch, Space and Courage",https://communicateonline.me/news/short-form-video-punch-space-and-courage/
+Uplift Content,upliftcontent.com,48,US,A,Founder's quote swap,https://www.upliftcontent.com/lets-talk/,How to Write an Effective Case Study in 8 Steps (2025),https://www.upliftcontent.com/blog/how-to-write-a-case-study/
