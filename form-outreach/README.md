@@ -9,8 +9,8 @@ Backlink outreach through prospects' own website contact forms, for companies wh
   - `00_candidates*.csv`: candidates and the dedupe check.
   - `02_forms.csv`: what was found on each site's contact page, including skipped sites and any public email (`altEmail`) worth using in an email batch instead.
   - `02_low_dr.csv`: sites under DR 40 (also added to the shared `low_dr_pool.csv`).
-  - `03_form_targets.csv`: the article picked for each site.
-  - `06_form_outreach.csv`: the deliverable. Form link, any clicks needed to reach the form, DR (checked that day with the Ahrefs API or Apify), article, ready-to-paste message and what to do before submitting.
+  - `03_form_targets.csv`: tracking detail for each site: DR (checked that day with the Ahrefs API or Apify), article, segment, offer, CAPTCHA and consent notes.
+  - `06_form_outreach.csv`: the file for whoever submits the forms. Five columns: companyName, formUrl, beforeSubmit (anything to do besides pasting), subjectText and messageText. Use the name and reply email from `brief.md` on every form.
   - `brief.md`: the answers from the interview.
 
 ## Keeping it synced

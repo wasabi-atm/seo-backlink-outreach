@@ -146,7 +146,7 @@ If a company has no article like this, drop it, even if its form is perfect. Do 
 
 For each company, record one article and a hook. A hook is something specific and checkable on that page: the article recommends video but has none, a typo or garbled sentence, a paragraph repeated in two sections, two numbers that disagree, a date error, images with empty alt text. Write down what you saw, not a guess, and check it again on the live page before writing the message.
 
-Save `03_form_targets.csv` with companyName, webDomain, domainRating, country, segment, offer, formUrl, articleTitle, articleUrl, articleTopic, linkPlacement, articleHook.
+Save `03_form_targets.csv` with companyName, webDomain, domainRating, country, segment, offer, formUrl, formSteps, articleTitle, articleUrl, articleTopic, linkPlacement, articleHook, captcha, consentBox. Add drSource and drDate after Step 5. This is the tracking file; the submit file in Step 6 stays short.
 
 If fewer than the batch size pass Steps 3 and 4, top up from spare candidates and tell the user how many were topped up. If the brief cannot be met (for example one country routes everything through sales forms), stop short of the target and say why rather than lowering the bar.
 
@@ -170,7 +170,7 @@ The form message is the Instantly backlink email, word for word, with only these
 - Add the sign-off line from the brief under "Sam" (default "Founder @ Motion The Agency"), since the form has no email signature.
 - Greet the person by first name if the form goes to them, otherwise "Hey [Company] team,".
 
-Do not add anything else: no "could you pass this on", no "best place to reach me" line, no fuller introduction. The reply email goes in the form's own email field (and the replyEmail column), not in the message.
+Do not add anything else: no "could you pass this on", no "best place to reach me" line, no fuller introduction. The reply email goes in the form's own email field, not in the message.
 
 Current template, from the Instantly backlink campaigns (check it against the live campaign in Step 0):
 
@@ -202,11 +202,15 @@ Rules:
 - Run every message through the `humanizer` skill with the Skill tool and apply its fixes, but keep the template lines unchanged.
 - Build the CSV with a small script that also prints word count, character count and any dash, so limits are checked rather than guessed.
 
-Save `06_form_outreach.csv` with these columns, one row per site:
+`06_form_outreach.csv` is for the person who submits the forms, so it only has what they need, in this order:
 
-companyName, webDomain, domainRating, drSource, drDate, country, segment, offer, formUrl, formSteps, articleTitle, articleUrl, subjectText, messageText, replyEmail, phone, captcha, consentBox, beforeSubmit
+companyName, formUrl, beforeSubmit, subjectText, messageText
 
-`beforeSubmit` says in plain words what the person must do on that form (for example "Pick Partnership Opportunities, tick the privacy box if you agree, complete the reCAPTCHA"). Send the CSV to the user with SendUserFile.
+- `beforeSubmit`: in plain words, anything to do on that form besides pasting the message: clicks to reveal the form, the dropdown choice, any extra required field and what to put in it (for example "Phone is required: +44 ...", "Job title: Founder"), consent boxes and CAPTCHAs. Write "Nothing extra" if there is nothing.
+- `subjectText`: only for forms with a subject field, otherwise blank.
+- Name and reply email are the same on every form, so they go in the message to the user and in `brief.md`, not in a column.
+
+Everything else (DR, drSource, drDate, country, segment, offer, article, captcha, consentBox) stays in `03_form_targets.csv` and the master list for tracking. Send `06_form_outreach.csv` to the user with SendUserFile, and say in the message which name and reply email to use on every form.
 
 ## Step 7: Log the batch
 

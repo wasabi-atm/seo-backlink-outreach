@@ -1,5 +1,5 @@
-companyName,webDomain,domainRating,drSource,drDate,country,segment,offer,formUrl,formSteps,articleTitle,articleUrl,subjectText,messageText,replyEmail,phone,captcha,consentBox,beforeSubmit
-Elevation Marketing,elevationb2b.com,65,Ahrefs API (site-explorer-domain-rating),2026-10-05,US,A,Founder's quote swap,https://elevationb2b.com/contact-us/,,B2B Case Studies That Win Deals,https://elevationb2b.com/blog/b2b-case-studies-sales-decisions/,,"Hey Elevation team,
+companyName,formUrl,beforeSubmit,subjectText,messageText
+Elevation Marketing,https://elevationb2b.com/contact-us/,Phone is required: +44 2039847787; reCAPTCHA may appear,,"Hey Elevation team,
 
 Just read your piece ""B2B Case Studies That Win Deals"" (https://elevationb2b.com/blog/b2b-case-studies-sales-decisions/). It says ""Hierarchy, callouts, and a memorable visual or data point"" can anchor a message, but the page has no image, chart or video.
 
@@ -11,8 +11,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,+44 2039847787,recaptchaCheckbox,optionalMarketing,Newsletter box left unticked; reCAPTCHA may challenge; click Get in touch
-Inviqa,inviqa.com,72,Ahrefs API (site-explorer-domain-rating),2026-10-05,UK,A,Founder's quote swap,https://inviqa.com/contact,,The core disciplines that make up Experience Design,https://inviqa.com/blog/the-core-disciplines-that-make-up-experience-design,,"Hey Inviqa team,
+Founder @ Motion The Agency"
+Inviqa,https://inviqa.com/contact,Tick the comms consent box if you agree,,"Hey Inviqa team,
 
 Just read your piece ""The core disciplines that make up Experience Design"" (https://inviqa.com/blog/the-core-disciplines-that-make-up-experience-design). There's a small typo under ""UI, interaction and visual design"": ""Where visual design in a broader design discipline"" (should be ""is a broader"").
 
@@ -24,8 +24,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,,check,requiredTerms,"Phone box shows a default +62 (optional, clear it if you like); tick the comms consent box if you agree; click Submit"
-Melotti Media,melottimedia.com.au,45,Ahrefs API (site-explorer-domain-rating),2026-10-05,Australia,A,Founder's quote swap,https://www.melottimedia.com.au/contact/,,Why Original Human-Led Content Matters in the Age of AI,https://www.melottimedia.com.au/blog/why-original-human-led-content-matters-in-the-age-of-ai/,,"Hey Melotti team,
+Founder @ Motion The Agency"
+Melotti Media,https://www.melottimedia.com.au/contact/,Phone is required: +44 2039847787,,"Hey Melotti team,
 
 Just tried to read your piece ""Why Original Human-Led Content Matters in the Age of AI"" (https://www.melottimedia.com.au/blog/why-original-human-led-content-matters-in-the-age-of-ai/). It loads with no heading or article text, only the orange banner and the contact block.
 
@@ -37,8 +37,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,+44 2039847787,check,none,Click Submit
-IMA B2B,imab2b.com,45,Ahrefs API (site-explorer-domain-rating),2026-10-05,Australia,A,Founder's quote swap,https://www.imab2b.com/contact/,,B2B Marketing Playbook: 7 Steps To Plan A Perfect Project,https://www.imab2b.com/b2b-marketing/,,"Hey IMA team,
+Founder @ Motion The Agency"
+IMA B2B,https://www.imab2b.com/contact/,Phone is required: +44 2039847787; tick the privacy policy box if you agree; reCAPTCHA may appear,,"Hey IMA team,
 
 Just read your piece ""B2B Marketing Playbook"" (https://www.imab2b.com/b2b-marketing/). The buyer's journey section opens with the same paragraph as the sales funnel section.
 
@@ -48,8 +48,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,+44 2039847787,check,optionalTerms,Tick the privacy policy box if you agree; reCAPTCHA may appear; click Submit
-Velaris,velaris.io,48,Ahrefs API (site-explorer-domain-rating),2026-10-05,UK,B,Video for the blog post,https://www.velaris.io/contact,,7 Types of Customer Education for Better Product Adoption,https://www.velaris.io/articles/7-types-of-customer-education,noticed something in your customer education article,"Hey Velaris team,
+Founder @ Motion The Agency"
+Velaris,https://www.velaris.io/contact,Phone is required: +44 2039847787,noticed something in your customer education article,"Hey Velaris team,
 
 Just read your piece ""7 Types of Customer Education for Better Product Adoption"" (https://www.velaris.io/articles/7-types-of-customer-education). The ""Introduction videos"" section recommends short, narrated video tutorials and points to Notion's, but the section itself has no video.
 
@@ -61,8 +61,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,+44 2039847787,check,none,Click Submit
-Builtvisible,builtvisible.com,69,Ahrefs API (site-explorer-domain-rating),2026-10-05,UK,A,Founder's quote swap,https://builtvisible.com/contact/,How can we help: Partnership Opportunities,2025 SEO Predictions: Alternative Search Journeys,https://builtvisible.com/2025-seo-predictions-alternative-search-journeys/,,"Hey Builtvisible team,
+Founder @ Motion The Agency"
+Builtvisible,https://builtvisible.com/contact/,"How can we help: Partnership Opportunities; Job title (Founder) and company are required; ""Where did you hear about us?"" is required, pick Other",,"Hey Builtvisible team,
 
 Just read your piece ""2025 SEO Predictions: Alternative Search Journeys"" (https://builtvisible.com/2025-seo-predictions-alternative-search-journeys/). It points to short-form video and Google's ""Short Videos"" tab as where search is heading, but the page itself has no video.
 
@@ -74,8 +74,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,,check,none,"Job title (Founder) and company are required; ""Where did you hear about us?"" is required, pick Other; click Submit"
-CIENCE,cience.com,74,Ahrefs API (site-explorer-domain-rating),2026-10-05,US,A,Founder's quote swap,https://www.cience.com/contact-us/,,5 Proven Video Lead Generation Strategies (2026),https://www.cience.com/blog/video-lead-generation,,"Hey CIENCE team,
+Founder @ Motion The Agency"
+CIENCE,https://www.cience.com/contact-us/,Phone is required: +44 2039847787,,"Hey CIENCE team,
 
 Just read your piece ""5 Proven Video Lead Generation Strategies (2026)"" (https://www.cience.com/blog/video-lead-generation). It says ""a 90-second video showing exactly how you solved a prospect's problem does more work than three cold emails combined"", yet the page has no video of its own.
 
@@ -87,8 +87,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,+44 2039847787,check,none,Phone is required; click Submit
-Nectafy,nectafy.com,57,Ahrefs API (site-explorer-domain-rating),2026-10-05,US,A,Founder's quote swap,https://www.nectafy.com/contact,,5 Simple Microphone Upgrades to Make Your Videos Sound Pro (No Studio Required),https://www.nectafy.com/blog/5-simple-microphone-upgrades-for-better-videos,your microphone upgrades piece,"Hey Lance,
+Founder @ Motion The Agency"
+Nectafy,https://www.nectafy.com/contact,Nothing extra,your microphone upgrades piece,"Hey Lance,
 
 Just read your piece ""5 Simple Microphone Upgrades to Make Your Videos Sound Pro"" (https://www.nectafy.com/blog/5-simple-microphone-upgrades-for-better-videos). The text still reads like the video transcript (""if you're ready to kind of take that next step""), and the upgrades run as plain paragraphs with no headings.
 
@@ -100,8 +100,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,,check,none,Click Submit
-Communicate Online,communicateonline.me,65,Ahrefs API (site-explorer-domain-rating),2026-10-05,UAE,A,Founder's quote swap,https://communicateonline.me/contact/,,"Short-Form Video: Punch, Space and Courage",https://communicateonline.me/news/short-form-video-punch-space-and-courage/,,"Hey Communicate team,
+Founder @ Motion The Agency"
+Communicate Online,https://communicateonline.me/contact/,Complete the reCAPTCHA,,"Hey Communicate team,
 
 Just read your piece ""Short-Form Video: Punch, Space and Courage"" (https://communicateonline.me/news/short-form-video-punch-space-and-courage/). It still says video's share of mobile traffic ""will increase to 75 percent by 2020"", and the Nielsen link in the crafting tips is broken.
 
@@ -113,8 +113,8 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,,recaptchaCheckbox,none,Complete the reCAPTCHA; click Submit
-Uplift Content,upliftcontent.com,48,Ahrefs API (site-explorer-domain-rating),2026-10-05,US,A,Founder's quote swap,https://www.upliftcontent.com/lets-talk/,Leave the service checkboxes empty,How to Write an Effective Case Study in 8 Steps (2025),https://www.upliftcontent.com/blog/how-to-write-a-case-study/,,"Hey Uplift team,
+Founder @ Motion The Agency"
+Uplift Content,https://www.upliftcontent.com/lets-talk/,"Leave the service checkboxes empty; Company is required; ""How did you hear about us?"" is required (for example: your blog)",,"Hey Uplift team,
 
 Just read your piece ""How to Write an Effective Case Study in 8 Steps (2025)"" (https://www.upliftcontent.com/blog/how-to-write-a-case-study/). Step 7 repeats the same line twice in a row (""See 13 ways to repurpose your case studies""), and the title still says 2025.
 
@@ -126,4 +126,4 @@ Would you be open to exploring this?
 
 Cheers,
 Sam
-Founder @ Motion The Agency",sam.jupp@globalmotiontheagency.com,,check,none,"Company is required; ""How did you hear about us?"" is required (for example: your blog); click Submit"
+Founder @ Motion The Agency"
