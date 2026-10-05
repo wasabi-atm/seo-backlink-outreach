@@ -218,9 +218,11 @@ Straight after sending the CSV:
 
 1. Log it so these companies are not picked again by an email or form batch. Form rows have no email, so always pass `--channel form`, which makes them block like emailed rows:
 
-   `python dedupe.py log form-outreach/batches/<YYYY-MM-DD>/06_form_outreach.csv --ledger outreach_ledger.csv --status queued --campaign backlinkform-<YYYY-MM-DD> --channel form`
+   `python dedupe.py log form-outreach/batches/<YYYY-MM-DD>/03_form_targets.csv --ledger outreach_ledger.csv --status queued --campaign backlinkform-<YYYY-MM-DD> --channel form`
 
-2. Append the rows to `form-outreach/form_outreach_master.csv` (batch, companyName, webDomain, domainRating, drDate, country, segment, offer, formUrl, articleTitle, articleUrl, status "ready", sentDate empty).
+   Log the targets file, not the submit file: the dedupe matches on webDomain and articleUrl, which only the targets file has. Make sure it holds exactly the rows that went into `06_form_outreach.csv`.
+
+2. Append the rows from `03_form_targets.csv` to `form-outreach/form_outreach_master.csv` (batch, companyName, webDomain, domainRating, drDate, country, segment, offer, formUrl, articleTitle, articleUrl, status "ready", sentDate empty).
 3. Run `dedupe.py status` and check the campaign shows every row as queued, then run `sh <repo>/form-outreach/sync.sh push "backlinkform-<YYYY-MM-DD>: <n> forms ready, logged as queued"`.
 
 If a company is dropped after logging, run `set-status --campaign backlinkform-<YYYY-MM-DD> --status not_sent --domains <domain> --channel form` and remove it from the master list.
