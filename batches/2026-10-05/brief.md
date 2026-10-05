@@ -16,3 +16,5 @@
 - Checkpoint 1 approved by the user (5 Oct): run the 83 as is (no extra research round), put back jellyfish.co and seo.co (both homepage scans clean), drop the 12 undated sites (01_dropped_undated.csv). 73 go to Step 3.
 - Step 3 done: DR from the free endpoint, linked-domains capped at 50 rows (about 6,900 units). All 73 at DR 40 or higher, so 02_low_dr.csv is empty and nothing goes to the pool. Link habits: Yes 55, Some 13, No 5, see 02_enriched.csv.
 - Checkpoint 2: waiting on the user.
+- Checkpoint 2 approved by the user (5 Oct), all 73 go to Step 4. Three agents picked one article per company via Apify (step4/STEP4_BRIEF.md). merge_step4.py: 73 targets, 0 dead. Fit: strong 26, ok 36, weak 11. 26 have no readable article date. Segment B offers: video 25, graphic 22, internal data 2, founder's quote 1.
+- Step 4 done. 03_backlink_targets.csv sent to the user. Step 5 only when the user asks.
