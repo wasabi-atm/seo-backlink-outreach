@@ -1,0 +1,26 @@
+webDomain,firstName,lastName,jobTitle,email,source,reason
+gofishdigital.com,Mya,Surrency,Founder,,instantly preview,"Wrong company: Go Fish Tourism + Business Events, not Go Fish Digital. Used Go Fish Digital President RJ Wilson instead"
+logicalposition.com,Connor,Jones,"Co-Founder, Chief Operating Officer",,instantly preview,Wrong company: Dual Legacy Capital matched on a target domain
+ignyte.ae,Gotz,Thumecke,Co-Founder & Director,,instantly preview,"Wrong company: Bridgeafrica, Munich"
+ignyte.ae,Anthony,Mccarthy,CEO,,instantly preview,"Wrong company: a Swiss decision intelligence firm also called Ignyte, not the UAE agency"
+freshconsulting.com,Christa,Banks,Technical Product Owner,,instantly preview,Matched on Owner but is a product role. Used Founder and CEO Jeff Dance instead
+freshconsulting.com,Ryan,Smith,Owner,,instantly preview,Unclear Owner title at a 300 person firm; founder Jeff Dance available
+drip.com,Mogens,Moller,CEO,,instantly preview,Wrong company: a Danish firm called Drip. Apollo found Drip.com CEO Elia Zeidan
+drip.com,Seydou,Ba,Owner,,instantly and apollo preview,"Wrong company: other firms named Drip (Senegal, India)"
+niftymarketing.com,Rajiv,Maitra,Managing Director,rajiv@niftymarketing.com,instantly preview and apify,"Based in Saudi Arabia, not the US agency; Apify email is a pattern guess"
+niftymarketing.com,Ryan,Amen,Fractional CMO / Consulting,,instantly preview,"Fractional consultant, not founder or CEO (competitor row wants founder or CEO)"
+niftymarketing.com,Josh,Gazelka,Managing Director,josh@thriveagency.com,apify,"Email on another company domain (thriveagency.com, also a target in this half); Nifty Marketing may now sit under Thrive"
+cognitomedia.com,Emma,Arora,"Managing Director, Asia",,instantly preview,Regional MD in Singapore; London Director of Marketing Services Harry Sheward used instead
+stability.ai,Prem,Akkaraju,Chief Executive Officer,,instantly preview,"CEO of a large company, out of reach for a quote swap; content lead Louisa Marshall used instead"
+cyjax.com,Jovana,Macakanja,CTI Analyst and Editor,,instantly preview,"Threat intelligence analyst, not content marketing; VP Marketing Chandni Trehan used instead"
+cvent.com,Mark,Sivy,"Director of Content, Data Management",,instantly preview,"Listed under Active Starcite (now part of Cvent), stale record; Apollo found Julie Haddix instead"
+cvent.com,Charlie,Hensen,Marketing Director,,instantly preview,"Listed under Social Tables (now part of Cvent), stale record"
+lrqa.com,Rishi,Rajak,Photo Editor,,instantly preview,Junior and in India; Global Head of Marketing Michelle Tiech used instead
+signifyd.com,Lais Regina,Lima,"Senior Director, Marketing LATAM",,instantly preview,Regional LATAM role; US Associate VP Marketing Angie Mazza Assennato used instead
+rainsalestraining.com,Ed,Barbosa,Founder,,instantly preview,Wrong company: a UK firm also called Rain Group
+culture.ai,Beth,Hobson,Marketing Executive,,instantly preview,Junior; Head of Marketing Ria Manzanero found via Apify
+culture.ai,Desola,F.,Founder + HR Consultant,,instantly preview,Wrong company: Read The Room
+abmagency.com,Amanda,Bohan,President,amanda@abmagency.com,instantly import and apify,"Instantly found no email; Apify email is a pattern guess, not used. Shared inbox abm.sales@ used"
+influencermatchmaker.co.uk,John,Hayes,CEO,jhayes@influencermatchmaker.co.uk,apify,"Email is a pattern guess, not used. Shared inbox contact@ used"
+influencermatchmaker.co.uk,Matthew,Hayes,Managing Director,mhayes@influencermatchmaker.co.uk,apify,"Email is a pattern guess, not used"
+ignyte.ae,Bhanu,Prakash,Mentoring Startup Founders,bhanu@ignyte.ae,apify,Email is a pattern guess and the role is not founder or marketing; shared inbox info@ used
