@@ -26,3 +26,4 @@
 - backlinkExchange rule on the Apify path: Yes = 8+ distinct outside domains in the posts read, or a contributor/guest page, or a post quoting an outside founder or exec; Some = 3 to 7 or one weak sign; No = 0 to 2.
 - Results, 200 rows, all DR 40 to 93 (02_enriched.csv, 02_low_dr.csv empty, nothing to pool): main 160 = Yes 51, Some 56, No 50, unchecked 3 (whalar, drip, iomart: script-rendered or blocked); buffer 40 = Yes 15, Some 10, No 15. recentPosts (up to 12 per site) kept for Step 4.
 - Checkpoint 2: waiting on the user.
+- Checkpoint 2 approved by the user (6 Oct): all 200 go to Step 4; keep the best 160 after it (fit first, then link habits, 80 per segment).
