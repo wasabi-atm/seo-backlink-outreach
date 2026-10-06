@@ -4,9 +4,9 @@ Working folder: `/home/user/seo-backlink-outreach/batches/2026-10-06` (BATCH). R
 
 Motion The Agency (MTA, motiontheagency.com) is a motion design and explainer video studio run by its founder, Sam Jupp. Each company below has one article picked (Step 4) and one contact already found and checked against the ledger. You write one email per company in Sam's voice. You do not look for contacts and you do not spend any credits.
 
-Your input: `BATCH/step5/in_<N>.csv` (about 27 rows). Your output: `BATCH/step5/emails_<N>.csv`.
+Your input: `BATCH/step5/in_<N>.csv` (about 24 rows). Your output: `BATCH/step5/emails_<N>.csv`.
 
-Input columns: companyName, webDomain, country, segment, offer, competitorDecision, firstName, lastName, jobTitle, email, emailType, contactIsFounder, articleTitle, articleUrl, articleDate, articlePublished, linkPlacement, articleHook, fit, notes, instantlyCampaign.
+Input columns: companyName, webDomain, country, segment, offer, competitorDecision, firstName, lastName, jobTitle, email, emailType, contactIsFounder, contactNote, articleTitle, articleUrl, articleDate, articlePublished, linkPlacement, articleHook, fit, notes, instantlyCampaign.
 
 ## Before writing
 
@@ -88,3 +88,5 @@ Reply with: emails written, rows left blank, and the manualCheck rows with a one
 - Never say a page has no images, video, chart or graphic unless articleHook says so plainly; the crawl text often drops images.
 - If contactIsFounder is no on a quote swap row, say "one from your side for ours" and add `founder not reached` to manualCheck.
 - Rows whose contact role is weak for the offer (for example a sales or partnerships person): add `contact role check` to manualCheck.
+- contactNote: if it is not blank, copy it into manualCheck (join with "; "). Do not mention it in the email.
+- No row in your input is in another Instantly campaign (those were dropped by the user).
