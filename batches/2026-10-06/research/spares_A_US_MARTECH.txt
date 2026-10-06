@@ -1,0 +1,15 @@
+# A_US_MARTECH spares: passed NEW and DR 40+, blog dates NOT yet checked (domains as named by the agent, unverified)
+AdRoll
+Invoca
+Triple Whale
+Pantheon
+dotCMS
+Traackr
+Impartner
+WhatConverts
+Default
+Justuno
+Interact
+BlueConic
+Sendlane
+# cut for balance but passed every rule: buttercms.com (newest post 2025-11-20), rockerbox.com (acquired by DoubleVerify)

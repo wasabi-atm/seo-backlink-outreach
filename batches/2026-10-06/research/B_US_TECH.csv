@@ -1,0 +1,36 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Kong,konghq.com,US,API gateway and API management platform,B,no,,79,https://konghq.com/blog,2026-09-30,HQ San Francisco (company page lists San Francisco HQ)
+Yugabyte,yugabyte.com,US,Distributed SQL database,B,no,,72,https://www.yugabyte.com/blog/,2026-10-01,HQ Sunnyvale CA (contact page address)
+InfluxData,influxdata.com,US,Time series database platform,B,no,,81,https://www.influxdata.com/blog/,2026-10-05,"HQ San Francisco (627 Davis St, confirmed via web search)"
+Bigeye,bigeye.com,US,Data observability platform,B,no,,70,https://www.bigeye.com/blog,2026-09-23,HQ South San Francisco CA (site schema address on home and about pages)
+Unstructured,unstructured.io,US,AI data preprocessing and ETL for LLMs,B,no,,72,https://unstructured.io/blog,2026-10-05,Privacy policy says headquartered in the United States (Sacramento CA address)
+Fiddler AI,fiddler.ai,US,AI observability platform,B,no,,72,https://www.fiddler.ai/blog,2026-09-30,HQ Palo Alto CA (privacy policy address)
+Snorkel AI,snorkel.ai,US,AI data development platform,B,no,,72,https://snorkel.ai/blog/,2026-10-02,"US company, contact page lists New York NY address"
+Kentik,kentik.com,US,Network observability platform,B,no,,73,https://www.kentik.com/blog/,2026-09-02,HQ San Francisco CA (contact and privacy pages)
+NinjaOne,ninjaone.com,US,IT management and RMM software,B,no,,78,https://www.ninjaone.com/blog/,2026-09-28,"HQ Austin TX (contact page). Blog index shows no dates, date taken from newest post page"
+Zylo,zylo.com,US,SaaS management platform,B,no,,76,https://zylo.com/blog/,2026-09-28,HQ Indianapolis IN (company page)
+BetterCloud,bettercloud.com,US,SaaS management and IT automation,B,no,,77,https://www.bettercloud.com/monitor/,2026-10-02,HQ New York NY (privacy policy). Blog is branded Monitor
+Backblaze,backblaze.com,US,Cloud object storage and backup,B,no,,84,https://www.backblaze.com/blog/,2026-09-29,"HQ San Mateo CA (public company, NASDAQ BLZE; address not captured in crawl). Mostly B2B cloud storage, also sells personal backup"
+Socket,socket.dev,US,Software supply chain security,B,no,,79,https://socket.dev/blog,2026-10-02,US company (privacy policy lists Wilmington DE address)
+Cobalt,cobalt.io,US,Pentest as a service platform,B,no,,75,https://www.cobalt.io/blog,2026-10-01,"US HQ Boston MA (contact page), also has a UK office"
+Todyl,todyl.com,US,"SASE, SIEM and MXDR security platform",B,no,,52,https://www.todyl.com/blog,2026-10-01,HQ Denver CO (about page and privacy policy)
+Teleport,goteleport.com,US,Infrastructure identity and access platform,B,no,,75,https://goteleport.com/blog/,2026-10-01,Global HQ Oakland CA (footer and about page). Post dates read from page data
+Twingate,twingate.com,US,Zero trust network access,B,no,,73,https://www.twingate.com/blog,2026-07-16,HQ Redwood City CA (privacy policy address)
+Swimlane,swimlane.com,US,AI security automation (SOAR),B,no,,70,https://swimlane.com/blog/,2026-10-01,"Global HQ Denver CO (contact page), London office too"
+Keyfactor,keyfactor.com,US,PKI and machine identity security,B,no,,74,https://www.keyfactor.com/blog/,2026-10-05,HQ Independence OH (privacy policy address)
+Loadsmart,loadsmart.com,US,Freight technology and TMS,B,no,,57,https://blog.loadsmart.com/,2026-09-30,HQ Chicago IL (contact page). loadsmart.com/blog redirects to blog subdomain
+Magaya,magaya.com,US,Freight forwarding and logistics software,B,no,,69,https://www.magaya.com/blog/,2026-09-28,USA HQ Miami FL (contact page)
+Logiwa,logiwa.com,US,Cloud WMS for high volume fulfillment,B,no,,68,https://www.logiwa.com/blog,2026-09-24,"HQ Chicago IL (company page), engineering hub in Istanbul"
+Deposco,deposco.com,US,Cloud WMS and order management,B,no,,67,https://deposco.com/blog/,2026-08-26,HQ Alpharetta GA (contact page)
+Tive,tive.com,US,Real time shipment tracking and supply chain visibility,B,no,,64,https://www.tive.com/blog,2026-10-02,HQ Boston MA (contact page)
+Shipium,shipium.com,US,Shipping and fulfillment optimization platform,B,no,,54,https://www.shipium.com/blog,2026-09-30,HQ Seattle WA (about page)
+Netradyne,netradyne.com,US,AI fleet safety and telematics,B,no,,70,https://www.netradyne.com/resources/blog,2026-10-06,"HQ San Diego CA (contact page), R&D in Bengaluru. Fleet dashcam AI, not a video producer"
+Extensiv,extensiv.com,US,Warehouse and fulfillment software for 3PLs,B,no,,77,https://www.extensiv.com/blog,2026-09-25,Global HQ El Segundo CA (contact page)
+Orderful,orderful.com,US,API based EDI platform,B,no,,59,https://www.orderful.com/blog,2026-09-30,"HQ San Francisco CA (privacy policy). Blog index shows no dates, date taken from newest post page"
+Healthie,gethealthie.com,US,EHR and practice management for virtual care,B,no,,81,https://www.gethealthie.com/blog,2026-10-01,"US company (privacy policy lists Beaverton OR address). Blog index shows no dates, date taken from newest post page"
+Spruce Health,sprucehealth.com,US,Healthcare communication platform,B,no,,69,https://sprucehealth.com/blog/,2026-09-18,HQ San Francisco CA (about page schema)
+Suki,suki.ai,US,AI clinical documentation assistant,B,no,,66,https://www.suki.ai/blog/,2026-10-06,HQ Redwood City CA (contact page)
+Redox,redoxengine.com,US,Healthcare data integration platform,B,no,,64,https://redoxengine.com/blog/,2026-09-16,HQ Madison WI (company page)
+Zus Health,zushealth.com,US,Shared healthcare data platform,B,no,,56,https://www.zushealth.com/blog,2026-08-11,HQ Boston MA (contact page)
+Pearl,hellopearl.com,US,Dental AI for radiograph analysis,B,no,,62,https://hellopearl.com/blog,2026-09-30,HQ Los Angeles CA (about page)
+NexHealth,nexhealth.com,US,Patient experience platform and healthcare API,B,no,,82,https://www.nexhealth.com/resources,2026-09-10,"HQ San Francisco (333 Bush St, confirmed via web search). /blog redirects to /resources"

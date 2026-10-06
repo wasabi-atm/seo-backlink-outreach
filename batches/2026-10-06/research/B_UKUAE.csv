@@ -1,0 +1,41 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Red Sift,redsift.com,UK,Email security and DMARC SaaS,B,no,,72,https://redsift.com/blog,2026-10-02,"HQ London. Blog index shows dated posts, newest Oct 2 2026."
+Sophos,sophos.com,UK,Cybersecurity software and MDR,B,no,,90,https://www.sophos.com/en-us/blog,2026-10-05,"HQ Abingdon, Oxfordshire. news.sophos.com now redirects to sophos.com/en-us/blog."
+SecurEnvoy,securenvoy.com,UK,MFA and identity security SaaS,B,no,,59,https://securenvoy.com/blog/,2026-04-15,UK cyber vendor (Shearwater Group). Several 2026 posts on blog index.
+usecure,usecure.io,UK,Security awareness training SaaS,B,no,,63,https://blog.usecure.io/,2026-01-13,HQ Leeds. Blog lives on blog.usecure.io subdomain.
+JUMPSEC,jumpsec.com,UK,Cybersecurity services and threat intelligence,B,no,,56,https://www.jumpsec.com/insights/,2026-09-15,HQ London. Dated guides and research on homepage feed.
+Intercede,intercede.com,UK,Identity and credential management software,B,no,,61,https://www.intercede.com/blog/,2026-09-15,"HQ Lutterworth, Leicestershire. Date from article schema on site."
+Searchlight Cyber,slcyber.io,UK,Dark web intelligence and attack surface management,B,no,,73,https://www.slcyber.io/blog,2026-09-16,HQ Portsmouth. Blog index undated; post page dated Sep 16 2026.
+CultureAI,culture.ai,UK,AI security and human risk SaaS,B,no,,45,https://www.culture.ai/resources/blog,2026-08-11,HQ Manchester. Blog at /resources/blog (not /blog).
+Cyjax,cyjax.com,UK,Threat intelligence platform,B,no,,56,https://www.cyjax.com/resources/blog,2026-08-18,HQ London. Blog at /resources/blog; date from post page.
+LRQA,lrqa.com,UK,"Assurance, certification and cybersecurity services",B,no,,77,https://www.lrqa.com/en-gb/latest-news/,2026-09-30,UK HQ (LRQA Group). nettitude.com redirects here (its cyber arm). Also has /insights/articles/.
+Wavenet,wavenet.co.uk,UK,"Managed IT, cloud and communications services",B,no,,67,https://www.wavenet.co.uk/resource-centre,2026-10-02,HQ Solihull. /blog redirects to resource centre; posts under /blog/.
+Node4,node4.co.uk,UK,"Cloud, data centre and managed IT services",B,no,,64,https://node4.co.uk/blog,2026-03-10,HQ Derby. Blog index undated; post page dated Mar 10 2026.
+iomart,iomart.com,UK,Cloud and managed services provider,B,no,,69,https://www.iomart.com/resource-centre/insights,2026-07-02,HQ Glasgow. Old /blog 404s; insights hub is live.
+Datatonic,datatonic.com,UK,Data and AI consultancy (Google Cloud partner),B,no,,57,https://datatonic.com/insights/,2026-05-27,HQ London. Insights hub with dated articles.
+Stability AI,stability.ai,UK,Generative AI models and enterprise licensing,B,no,,84,https://stability.ai/news-updates,2026-08-25,"HQ London. AI model company, not an agency; has a Brand Studio creative platform (adjacent to MTA space)."
+Mind Foundry,mindfoundry.ai,UK,AI platform for defence and insurance,B,no,,62,https://www.mindfoundry.ai/blog,2026-03-03,HQ Oxford (University of Oxford spin out). Date from post page.
+Wordsmith AI,wordsmith.ai,UK,Legal AI for in-house teams,B,no,,57,https://www.wordsmith.ai/blog,2026-09-02,HQ Edinburgh. Legal tech.
+10x Banking,10xbanking.com,UK,Cloud core banking SaaS,B,no,,57,https://www.10xbanking.com/insights,2026-08-26,HQ London. Also /news.
+Moneycorp,moneycorp.com,UK,Business FX and international payments,B,no,,63,https://www.moneycorp.com/en-gb/news,2026-10-05,"HQ London. Weekly Market Pulse posts. Also serves private clients, core is business payments."
+SumUp,sumup.com,UK,Merchant payments and POS for small businesses,B,no,,90,https://www.sumup.com/en-gb/business-guide/,2026-09-24,HQ London. Business guide blog for merchants.
+Amiqus,amiqus.co,UK,"ID verification and compliance SaaS (RegTech, legal)",B,no,,50,https://amiqus.co/blog,2026-10-01,HQ Edinburgh. Serves law firms and regulated businesses.
+Inform Direct,informdirect.co.uk,UK,Company secretarial software,B,no,,47,https://www.informdirect.co.uk/blog/,2026-09-17,UK. Has /blog/ and /news/.
+Legal Island,legal-island.com,UK,Employment law training and compliance services,B,no,,41,https://www.legal-island.com/employment-law-hub/articles,2026-03-23,HQ Northern Ireland. Content in Employment Law Hub.
+Ben,thanksben.com,UK,Employee benefits platform (HR tech),B,no,,53,https://www.thanksben.com/blog,2026-09-28,HQ London. Brand name Ben; date from post page.
+StaffCircle,staffcircle.com,UK,Performance management and engagement SaaS,B,no,,48,https://www.staffcircle.com/blog/,2026-02-04,HQ Leicester (confirmed via web search). Posts sit under /blogs/.
+Oak Engage,oak.com,UK,Employee intranet and comms SaaS,B,no,,71,https://www.oak.com/category/blog,2026-09-21,HQ Manchester. Domain oak.com.
+LandTech,land.tech,UK,Land sourcing and planning data SaaS (proptech),B,no,,46,https://land.tech/blog,2026-09-24,HQ London. Product LandInsight.
+Twenty7tec,twenty7tec.com,UK,Mortgage sourcing and advice software,B,no,,46,https://www.twenty7tec.com/news/,2026-09-17,UK mortgage tech. Homepage served a bot check once; dates seen on first crawl.
+PropertyData,propertydata.co.uk,UK,Property market data and analytics SaaS,B,no,,57,https://propertydata.co.uk/newsroom,2026-09-14,UK proptech. Newsroom with dated posts.
+Constructionline,constructionline.co.uk,UK,Construction supply chain prequalification platform,B,no,,80,https://www.constructionline.co.uk/insights/,2026-07-06,UK. Insights section includes blog and whitepapers.
+Alcumus,alcumus.com,UK,"Risk, safety and compliance software",B,no,,73,https://www.alcumus.com/en-gb/insights/,2026-03-03,UK HQ. Owns SafeContractor.
+Joblogic,joblogic.com,UK,Field service management software,B,no,,67,https://www.joblogic.com/blog,2026-10-05,UK. Very active blog.
+Commusoft,commusoft.com,UK,Field service management software,B,no,,57,https://www.commusoft.com/en-gb/blog/,2026-09-30,HQ London. commusoft.co.uk redirects to commusoft.com (same company).
+Blick Rothenberg,blickrothenberg.com,UK,"Tax, accounting and business advisory",B,no,,55,https://www.blickrothenberg.com/insights/,2026-10-05,HQ London. Part of Azets group but runs its own site and insights.
+UHY Hacker Young,uhy-uk.com,UK,Chartered accountants and business advisers,B,no,,58,https://www.uhy-uk.com/insights,2026-10-01,HQ London. Insights hub.
+Xeinadin,xeinadin.com,UK,Accountancy and business advisory group,B,no,,58,https://www.xeinadin.com/blog,2026-09-17,UK. Also /insights/ and /news/.
+Saffery,saffery.com,UK,"Accountancy, tax and advisory",B,no,,58,https://www.saffery.com/insights/all-insights/,2026-08-13,HQ London.
+Crunch,crunch.co.uk,UK,Online accounting for freelancers and small businesses,B,no,,64,https://www.crunch.co.uk/knowledge,2026-10-01,HQ Brighton. Knowledge hub articles; newest date seen was an updated article.
+Silobreaker,silobreaker.com,UK,Security and threat intelligence SaaS,B,no,,59,https://www.silobreaker.com/blog/,2025-12-09,HQ London. Posting is slower than others.
+Alpen Capital,alpencapital.com,UAE,Investment banking advisory (B2B financial services),B,no,,43,https://alpencapital.com/news/,2026-09-25,HQ Dubai (datelined posts). Also publishes GCC sector research at /sector-insights/.
