@@ -1,0 +1,8 @@
+# A_US_AGENCY spares: pass every check, left out to stay near target
+boostability.com (DR 69, Aug 2026)
+seoteric.com (DR 56, Oct 2026, daily news-style posts)
+scorpion.co (DR 83, Sep 2026, company news page)
+sociallyin.com (DR 67, Oct 2026, social media agency)
+avalaunchmedia.com (DR 52, Apr 2026)
+lyntonweb.com (DR 63, Dec 2025)
+# dropped: npdigital.com (Neil Patel's agency, neilpatel.com already excluded)
