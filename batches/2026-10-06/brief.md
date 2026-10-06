@@ -21,3 +21,4 @@
 - select.py: 160 in 01_prospects.csv, A 80 (UK 27, UAE 1, US 52), B 80 (UK 38, UAE 1, US 41); UK and UAE first, then newest post, then DR. 97 US spares in 01_spares.csv (A 39, B 58). DR 40 to 93, median 66.
 - Ahrefs: 196,762 of 200,000 units used until 30 Oct (about 3,200 left), so Step 3 link habits will use the Apify fallback (outbound domains in recent posts); DR from the free endpoint.
 - Checkpoint 1: waiting on the user.
+- Checkpoint 1 approved by the user (6 Oct): all 160 as is. Carry the 40 best spares (20 A, 20 B) through Steps 3 and 4 as a buffer, then keep the best 160 targets. Ad-tag drops stay out. SEO Inc (seoinc.com) is a different company from SEO.co: add it to the spares pool (dedupe.py log will not add it as its own ledger row, as with seo.co on 5 Oct).
