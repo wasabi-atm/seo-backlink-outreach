@@ -14,7 +14,10 @@ if os.path.exists("step2/competitor_decisions.csv"):
 # Manual calls from reading the scan (see brief.md)
 MANUAL_DROP = {"alcumus.com": "hard fail: homepage says the website is no longer available"}
 RESEGMENT = {"harmonicinc.com": ("B", "Broadband network infrastructure (video business no longer on homepage)")}
-FLAG_COMPETITOR = {"visla.us": "AI video creation platform for businesses (title: AI Video Workflow Platform for Business)"}
+FLAG_COMPETITOR = {"visla.us": "AI video creation platform for businesses (title: AI Video Workflow Platform for Business)",
+                   "trypencil.com": "Generative AI ad creative platform, video and static ads for brands",
+                   "whalar.com": "Creator and social agency, creator-led social video for brands",
+                   "bravebison.com": "Digital marketing and social media group, social content arm"}
 rows = list(csv.DictReader(open("00_candidates_clean.csv")))
 
 def hard(d):
