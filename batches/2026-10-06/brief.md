@@ -22,3 +22,7 @@
 - Ahrefs: 196,762 of 200,000 units used until 30 Oct (about 3,200 left), so Step 3 link habits will use the Apify fallback (outbound domains in recent posts); DR from the free endpoint.
 - Checkpoint 1: waiting on the user.
 - Checkpoint 1 approved by the user (6 Oct): all 160 as is. Carry the 40 best spares (20 A, 20 B) through Steps 3 and 4 as a buffer, then keep the best 160 targets. Ad-tag drops stay out. SEO Inc (seoinc.com) is a different company from SEO.co: add it to the spares pool (dedupe.py log will not add it as its own ledger row, as with seo.co on 5 Oct).
+- Step 3 done (6 Oct): five agents (step3/STEP3_BRIEF.md), Apify cheerio only: blog index (step3/indexFunction.js), then 4 recent posts per site (step3/postFunction.js, fixed as postFunction_v2.js for co.uk roots and empty bodies; affected rows re-read and noted). DR kept from the free Ahrefs endpoint (checked 6 Oct during research); no paid Ahrefs units used. Apify about $0.40 for all five chunks.
+- backlinkExchange rule on the Apify path: Yes = 8+ distinct outside domains in the posts read, or a contributor/guest page, or a post quoting an outside founder or exec; Some = 3 to 7 or one weak sign; No = 0 to 2.
+- Results, 200 rows, all DR 40 to 93 (02_enriched.csv, 02_low_dr.csv empty, nothing to pool): main 160 = Yes 51, Some 56, No 50, unchecked 3 (whalar, drip, iomart: script-rendered or blocked); buffer 40 = Yes 15, Some 10, No 15. recentPosts (up to 12 per site) kept for Step 4.
+- Checkpoint 2: waiting on the user.
