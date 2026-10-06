@@ -1,0 +1,2 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice,dedupeMatch,dedupeReason
+SEO Inc,seoinc.com,US,SEO and search marketing agency,A,no,,63,https://www.seoinc.com/seo-blog/,2026-07-28,"HQ Carlsbad CA per homepage. Blog index shows Last reviewed dates, newest seen 2026-07-28; posts cover 2026 news.",A_US_AGENCY,exact,"name 'SEO Inc' matches SEO.co (queued 2026-10-05, backlink-2026-10-05); brand 'seo' matches SEO.AE (queued 2026-09-28, backlink-2026-09-28)"
