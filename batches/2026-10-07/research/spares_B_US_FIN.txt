@@ -1,0 +1,10 @@
+Checked NEW by check_domains.py, DR 40+, US (HQ from general knowledge), weaker blog evidence:
+rillet.com | DR 66 | AI ERP/accounting | blog https://www.rillet.com/blog | newest date seen 2025-10-20 (index likely has newer, not parsed)
+appfolio.com | DR 90 | property management SaaS | blog https://www.appfolio.com/blog | dates seen 2026-01-21 and 2026-06-09 (header), unclear
+ncino.com | DR 73 | bank software | https://www.ncino.com/blog | live, no dates parsed
+ocrolus.com | DR 62 | lending document automation | https://www.ocrolus.com/blog | live, no dates parsed
+middesk.com | DR 61 | business identity verification | https://www.middesk.com/blog | live, no dates parsed
+digits.com | DR 78 | AI accounting | https://digits.com/blog | live 2026 product posts, no dates parsed
+smartpm.com | DR 46 | construction schedule analytics | https://smartpm.com/blog | live, no dates parsed
+mycase.com | DR 81 | legal practice mgmt (AffiniPay, TX) | https://www.mycase.com/blog | 2026 content, no date parsed
+q2.com | DR 71 | digital banking | https://www.q2.com/resources | no dates parsed
