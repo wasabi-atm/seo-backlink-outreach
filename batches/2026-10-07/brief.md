@@ -22,3 +22,7 @@
 - Step 3 done (7 Oct): five agents (step3/STEP3_BRIEF.md), Apify cheerio only, DR from the free Ahrefs endpoint (research day), no paid Ahrefs units. 190 rows, all DR 40 to 91 (02_enriched.csv, 02_low_dr.csv empty). Yes 36, Some 62, No 71, unchecked 21 (script-rendered or missing blogs; Step 4 will try to read them). Weak Yes: jobscore, passle, thrivecart.
 - Checkpoint 2: waiting on the user.
 - Checkpoint 2 approved by the user (7 Oct): all 190 go to Step 4; keep best 160 after (fit first, then link habits, balance A/B as far as the pool allows).
+- Step 4 done (7 Oct): five agents (step4/STEP4_BRIEF.md), Apify cheerio, website-content-crawler and playwright retries. 190 rows: dead 6 (3sidedcube, accesswire, nexhealth, rillet, whalar, iomart; 03_dropped.csv, not logged).
+- merge_step4.py: 160 in 03_backlink_targets.csv, A 73 (UK 4, US 69), B 87 (UK 12, US 75), no UAE. Fit strong 51, ok 88, weak 21. Links Yes 35, Some 53, No 62, unchecked 10. Offers: Founder's quote swap 73, Video for the blog post 52, Blog graphic or infographic 34, Internal data 1. 03_spares.csv holds the other 24 weak rows. Old first-published: copypress (2023-12), goguardian (2019, updated 2026-07). 71 rows have no confirmed article date, check before emailing.
+- Competitors in the list (quote swap only): bluetext.com. Whalar dead, not carried.
+- Step 5 requested by the user (7 Oct, "continue with step 5"). Credit caps still to confirm.
