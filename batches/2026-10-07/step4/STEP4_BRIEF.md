@@ -8,7 +8,7 @@ Motion The Agency (MTA, motiontheagency.com) is a motion design and video studio
 
 ## Your input
 
-`BATCH/step4/in_<N>.csv` (N is given in your task): about 40 companies with companyName, webDomain, segment, country, serviceType, domainRating, competitor, competitorDecision, blogUrl, backlinkExchange, latestPost, notes, and recentPosts (a JSON list of up to 12 recent posts with url, title and date, read from the blog index during Step 3 today).
+`BATCH/step4/in_<N>.csv` (N is given in your task): 38 companies with companyName, webDomain, segment, country, serviceType, domainRating, competitor, competitorDecision, blogUrl, backlinkExchange, latestPost, notes, and recentPosts (a JSON list of up to 12 recent posts with url, title and date, read from the blog index during Step 3 today).
 
 Start from recentPosts. If none of them fits (see "How to choose"), pull a longer list of titles from the blog index page 2, a category page or the sitemap (see Tools), then pick.
 
@@ -55,7 +55,7 @@ Write `BATCH/step4/out_<N>.csv` with python's csv module, one row per company in
 - linkPlacement: the section where MTA's link fits plus suggested natural anchor text, for example `Under "3. Choose a style"; anchor: animated explainer video`.
 - offer: Segment A, and any row with competitorDecision "include", always gets `Founder's quote swap`. Segment B gets whichever one fits the article best: `Video for the blog post`, `Founder's quote`, `Internal data` or `Blog graphic or infographic`.
 - fit: `strong` (natural link spot and a solid hook), `ok`, `weak` (thin fit or hook not confirmed), or `dead` (no usable article found; explain in notes).
-- hookSource: `live page, Apify crawl 6 Oct 2026`, or say what else you used.
+- hookSource: `live page, Apify crawl 7 Oct 2026`, or say what else you used.
 - notes: anything the email writer should know (for example "page loads a paywall", "article is by a guest author", "blog moved to X").
 
 Style for every field: no em dashes or en dashes anywhere (use commas or plain hyphens), plain simple words, British spelling.
@@ -69,9 +69,9 @@ Reply with a short summary: counts of strong, ok, weak and dead; the weak and de
 ## Notes for this batch
 
 - Input columns: companyName, webDomain, domainRating, country, serviceType, segment, visualScore, backlinkExchange, backlinkEvidence, dataSource, competitor, drStatus, videoSchemaGap, latestPost, blogUrl, competitorDecision, pool, postsRead, outsideDomainCount, recentPosts, notes. Keep the pool column out of your output; the merge adds it back.
-- Competitor rows (competitorDecision include): niftymarketing.com, bluetext.com, abstraktmg.com, thriveagency.com, visla.us, trypencil.com, whalar.com, bravebison.com. Offer is always `Founder's quote swap`, never a video or graphic. Pick an article where a quote from a motion studio founder would sit naturally (for example video marketing, creative, brand, AI creative). Same for any other site that turns out to sell video or animation itself: say so in notes.
+- Competitor rows (competitorDecision include): bluetext.com and whalar.com. Offer is always `Founder's quote swap`, never a video or graphic. Pick an article where a quote from a motion studio founder would sit naturally (for example video marketing, creative, brand, AI creative). Same for any other site that turns out to sell video or animation itself: say so in notes.
 - Segment A is always `Founder's quote swap`.
 - Some sites have no strong video angle (security vendors, infrastructure software, accountancy firms, logistics). Still pick the best article, but set fit `weak` if a link to MTA would look forced.
-- Row notes to carry: Whalar is being acquired by Accenture Song. Brave Bison owns Builtvisible. Fueled owns 10up. Pond5 is owned by Shutterstock and Frame.io by Adobe. harmonicinc.com now sells broadband only. Stability AI makes generative image and video models. nationalfunding.com, forafinancial.com and fundbox.com are business lenders.
+- Row notes to carry: Whalar is being acquired by Accenture Song. harmonicinc.com now sells broadband only. nationalfunding.com and forafinancial.com are business lenders. Email on Acid is owned by Sinch. Many rows are `unchecked` for link habits because their blog is script-rendered: for those, list posts from the sitemap, a category page or recentPosts, and try playwright:adaptive in your retry run. Dates in recentPosts for sitemap-sourced rows are lastmod values, so confirm the article date on the live page.
 - Some blogs live on subdomains (blog.example.com) or render by script (try playwright:adaptive in your retry run).
-- Do not read from other batch folders; those companies are already contacted.
+- Do not read from other batch folders; those companies are already contacted. Some rows have no real blog (alkami.com uses gated resources, antennagroup.com is a podcast): pick the best readable page and set fit weak if forced.

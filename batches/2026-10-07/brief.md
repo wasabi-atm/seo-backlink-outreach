@@ -21,3 +21,4 @@
 - Checkpoint 1 approved by the user (7 Oct): all 188 as is, wickedreports.com and puzzle.io kept (190 rows), bluetext and whalar included quote swap only. Carry all 190 through Steps 3 and 4, keep best 160 after.
 - Step 3 done (7 Oct): five agents (step3/STEP3_BRIEF.md), Apify cheerio only, DR from the free Ahrefs endpoint (research day), no paid Ahrefs units. 190 rows, all DR 40 to 91 (02_enriched.csv, 02_low_dr.csv empty). Yes 36, Some 62, No 71, unchecked 21 (script-rendered or missing blogs; Step 4 will try to read them). Weak Yes: jobscore, passle, thrivecart.
 - Checkpoint 2: waiting on the user.
+- Checkpoint 2 approved by the user (7 Oct): all 190 go to Step 4; keep best 160 after (fit first, then link habits, balance A/B as far as the pool allows).
