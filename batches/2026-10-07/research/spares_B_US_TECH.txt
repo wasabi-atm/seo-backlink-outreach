@@ -1,0 +1,7 @@
+Checked NEW, DR 40+, US, dated post since Oct 2025 (not in CSV, no room):
+truveta.com | DR 62 | https://www.truveta.com/blog/ | 2026-10-01 | health data platform
+cedar.com | DR 73 | https://www.cedar.com/blog | 2026-07-22 | healthcare billing SaaS
+interos.ai | DR 62 | https://www.interos.ai/blog/ | 2026-08-26 | supply chain risk AI
+chainguard.dev | DR 76 | https://www.chainguard.dev/unchained | 2026-06-22 | software supply chain security
+zilliz.com | DR 72 | https://zilliz.com/blog | 2026-05-26 | vector database
+Unverified blog dates (need a post-level crawl): spacelift.io (DR 75, posts uploaded 2026/09), datafold.com (DR 60, index shows "May 8" no year)
