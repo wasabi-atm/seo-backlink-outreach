@@ -1,0 +1,2 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice,dedupeMatch,dedupeReason
+Red Sift,redsift.com,UK,Email and domain security SaaS,B,no,,72,https://redsift.com/blog,2026-08-26,HQ London per company knowledge,B_UKUAE,exact,"domain redsift.com matches Red Sift (queued 2026-10-06, backlink-2026-10-06); brand 'redsift' matches Red Sift (queued 2026-10-06, backlink-2026-10-06); name 'Red Sift' matches Red Sift (queued 2026-10-06, backlink-2026-10-06)"
