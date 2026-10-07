@@ -1,0 +1,7 @@
+Checked NEW but not placed (verify before use):
+perspectum.com  DR 54, Oxford medtech, news section dated 2026-10-05 (news not a classic blog)
+apadmi.com  DR 56, Manchester app dev agency, insights page shows only dated events, no dated article seen
+gbgplc.com  DR 73, Chester identity SaaS, active blog but no post date confirmed
+creditsafe.com  DR 78, Cardiff, content hub with no dates seen
+emis.com  DR 70, UK health software, news page undated
+totalmobile.co.uk  DR 51, UK field service software, blog index undated
