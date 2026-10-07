@@ -1,0 +1,8 @@
+NEW, DR40+, UK/UAE, but blog post date NOT verified (Apify cheerio could not read JS blog indexes). Not in CSV.
+wearegecko.co.uk | DR 42 | Edinburgh web/digital agency | blog https://www.wearegecko.co.uk/blog/ | search shows Q1 and Q2 2026 Digital Trends Roundup posts, exact date unseen
+wearetwogether.com | DR 47 | B2B tech marketing agency UK | blog https://www.wearetwogether.com/blog | no dates visible
+addpeople.co.uk | DR 62 | B2B SEO/PPC agency UK | blog https://www.addpeople.co.uk/blogs/ | 2026 posts referenced, no dates visible
+asdaa-bcw.com | DR 44 | Dubai PR and comms | news https://asdaa-bcw.com/en/news/press-release/ | press releases only, dates unseen
+fiasco.design | DR 51 | UK brand and digital agency | https://fiasco.design/journal/ | blog index unreadable
+zazzlemedia.co.uk | DR 64 | Manchester content/SEO agency | blog https://www.zazzlemedia.co.uk/blog/ | blog looks stale in search results
+Rejected: hallam.agency, jacquard.com (EXCLUDED); sendtric.com (DR66, blog fresh to 2026-10-06 but registered in Delaware, UK HQ unconfirmed); clickdo.co.uk (guest post farm); brightonseo.com (event site, no blog); ayima.com (no blog)

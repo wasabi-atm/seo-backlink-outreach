@@ -1,0 +1,5 @@
+a90d3ebd-012f-4c4c-a317-283058484ead
+7 October 2026 - Backlink Cold Outreach Campaign
+Status: draft (0), no sender accounts, not activated.
+Leads: 124 of 124 added (4 payload files, 0 skipped, 0 failed). Count checked with list_leads (100 + 24).
+Note: the four lead uploads ran as parallel agents, all succeeded on the first try.

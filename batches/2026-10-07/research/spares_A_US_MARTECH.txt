@@ -1,0 +1,11 @@
+Checked NEW and DR 40+, US, but not in main file (reason):
+airship.com | DR 79 | Portland OR | blog live with 2026 posts (Gartner MQ 2026, iOS 27) but no printed date; image paths 2026/09 | https://www.airship.com/blog
+madgicx.com | DR 72 | HQ not confirmed | newest post Aug 12 2026 | https://madgicx.com/blog
+factors.ai | DR 71 | HQ ambiguous (Delaware/Bengaluru/SF) | newest post 2026-10-06 | https://www.factors.ai/blog
+traackr.com | DR 74 | New York NY | live blog, 2026 content, no printed dates | https://www.traackr.com/influencer-marketing-blog
+onesignal.com | DR 86 | San Mateo CA | post image path 2026/07, no printed date | https://onesignal.com/blog
+triplewhale.com | DR 77 | San Francisco CA | live blog, no printed dates | https://www.triplewhale.com/blog
+folloze.com | DR 71 | Redwood City CA | 2026 titled posts, no printed dates | https://www.folloze.com/blog
+brightspot.com | DR 69 | Reston VA | resources hub, 2026 content, no printed dates | https://www.brightspot.com/cms-resources
+beefree.io | DR 75 | US | newest dated seen 2025-09-25 (too old) | https://beefree.io/blog
+encharge.io | DR 75 | HQ Bulgaria, excluded for country

@@ -1,0 +1,10 @@
+Checked NEW by check_domains.py, DR 40+, US, but blog date or HQ not confirmed (not enough room or evidence):
+launchsquad.com  DR 42  tech PR, SF; blog launchsquad.com/blog has 25th anniversary posts (2026) but no dates seen
+prophet.com  DR 75  brand/growth consultancy; prophet.com/thinking shows blog dated 2025-05 and a 2026 research report, no recent dated post confirmed
+klientboost.com  DR 76  PPC/CRO agency (CA); blog index undated
+refokus.com  DR 60  brand and Webflow design studio; blog undated
+webstacks.com  DR 63  B2B web design agency; blog not read
+jacobtyler.com  DR 53  branding agency; blog undated
+ethos3.com  DR 59  presentation design agency; blog undated
+edelman.com  DR 88  PR firm; blog not verified
+finnpartners.com  DR 72  PR firm; insights page not read
