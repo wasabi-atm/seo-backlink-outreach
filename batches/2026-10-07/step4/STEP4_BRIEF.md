@@ -1,6 +1,6 @@
-# Step 4 brief: pick one article per company (backlink-2026-10-06)
+# Step 4 brief: pick one article per company (backlink-2026-10-07)
 
-Working folder: `/home/user/seo-backlink-outreach/batches/2026-10-06` (call it BATCH below).
+Working folder: `/home/user/seo-backlink-outreach/batches/2026-10-07` (call it BATCH below).
 
 ## What this is for
 

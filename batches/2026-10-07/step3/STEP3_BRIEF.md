@@ -1,6 +1,6 @@
-# Step 3 brief: link habits (backlink-2026-10-06)
+# Step 3 brief: link habits (backlink-2026-10-07)
 
-Working folder: `/home/user/seo-backlink-outreach/batches/2026-10-06` (BATCH below).
+Working folder: `/home/user/seo-backlink-outreach/batches/2026-10-07` (BATCH below).
 
 Motion The Agency (motiontheagency.com) is a motion design studio doing SEO backlink outreach. For each company in your input we need to know whether its blog links out to other businesses (a sign it would accept a link or a quote swap). Ahrefs is almost out of units this month, so we use the Apify fallback: read 3 to 5 recent posts per blog and count the distinct outside business domains they link to in the article body.
 
@@ -8,13 +8,13 @@ DR is already known (free Ahrefs endpoint, checked today during research): keep 
 
 ## Input
 
-`BATCH/step3/in_<N>.csv` (40 rows): companyName, webDomain, country, serviceType, segment, visualScore, visualNotes, competitor, competitorDecision, domainRating, blogUrl, latestPost, notes, pool.
+`BATCH/step3/in_<N>.csv` (38 rows): companyName, webDomain, country, serviceType, segment, visualScore, visualNotes, competitor, competitorDecision, domainRating, blogUrl, latestPost, notes. There is no pool column, leave pool blank in the output.
 
 ## Tools
 
 The sandbox cannot reach company sites (curl and WebFetch are blocked). Use Apify only: load with ToolSearch `select:mcp__Apify_Neu__call-actor,mcp__Apify_Neu__get-dataset-items`. Actor `apify/cheerio-scraper` (free apart from tiny compute). Two tested page functions are on disk; pass the file contents exactly as `pageFunction` (build the input JSON with a Python script in your scratchpad and print it):
 
-1. Blog index: `BATCH/step3/indexFunction.js`. ONE run for all 40 blog URLs. startUrls = [{"url": blogUrl, "userData": {"domain": webDomain}}]. Input: proxyConfiguration {"useApifyProxy": true}, maxRequestRetries 2, linkSelector "", pageLoadTimeoutSecs 45, maxConcurrency 20. Returns posts (url, title, date) found on the index.
+1. Blog index: `BATCH/step3/indexFunction.js`. ONE run for all 38 blog URLs. startUrls = [{"url": blogUrl, "userData": {"domain": webDomain}}]. Input: proxyConfiguration {"useApifyProxy": true}, maxRequestRetries 2, linkSelector "", pageLoadTimeoutSecs 45, maxConcurrency 20. Returns posts (url, title, date) found on the index.
 2. Posts: `BATCH/step3/postFunction.js`. ONE run for all chosen post URLs (about 4 per company, so about 160 URLs), same settings, userData.domain = webDomain. Returns published, modified, author, words, outsideDomains (already excludes social networks, Google, CDNs, video hosts and the site's own domain), h2, images, videoEmbeds, quoteHits.
 
 waitSecs 45; if the run is still running, poll with `get-dataset-items` (fields "webDomain", limit 1, read totalItemCount) rather than get-actor-run. Read results with `get-dataset-items` (limit 250, the fields you need); large results are saved to a file whose path the tool gives you: copy it into your scratchpad as `s3_<N>_*.json` (other agents share the scratchpad) and parse it with Python. Do not paste whole results into your context.
@@ -33,7 +33,7 @@ backlinkExchange:
 
 ## Output
 
-Write `BATCH/step3/out_<N>.csv` with Python's csv module, one row per input row (all 40, in input order), columns exactly:
+Write `BATCH/step3/out_<N>.csv` with Python's csv module, one row per input row (all 38, in input order), columns exactly:
 
 companyName,webDomain,domainRating,country,serviceType,segment,visualScore,backlinkExchange,backlinkEvidence,dataSource,competitor,drStatus,videoSchemaGap,latestPost,blogUrl,competitorDecision,pool,postsRead,outsideDomainCount,recentPosts,notes
 

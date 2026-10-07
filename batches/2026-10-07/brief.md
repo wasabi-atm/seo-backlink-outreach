@@ -18,3 +18,4 @@
 - Vetting (Apify cheerio, step2/vetting.csv): hard fails digitalcurrent.com (redirects to semify.com), hookagency.com (doubleclick), netcall.com (media.net), pond5.com (no load). Held pending user: wickedreports.com and puzzle.io (farm word "betting", likely incidental, sentence not visible). 7 "loans" checks on finance sites, kept.
 - 01_prospects.csv: 188 rows, A 74 (UK 5, US 69), B 114 (UK 23, US 91). No UAE. Competitors included yesterday by user: bluetext.com, whalar.com (quote swap only), carried over, to reconfirm.
 - Checkpoint 1: waiting on the user.
+- Checkpoint 1 approved by the user (7 Oct): all 188 as is, wickedreports.com and puzzle.io kept (190 rows), bluetext and whalar included quote swap only. Carry all 190 through Steps 3 and 4, keep best 160 after.
