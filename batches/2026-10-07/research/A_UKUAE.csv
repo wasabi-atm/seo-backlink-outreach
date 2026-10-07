@@ -1,0 +1,4 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Passle,passle.net,UK,Thought leadership and expert content marketing platform (martech),A,no,,71,https://blog.passle.net/,2026-10-06,HQ UK (London); blog dated posts seen via Apify crawl; blog lives on blog.passle.net subdomain
+Resonate Recordings,resonaterecordings.com,UK,B2B podcast production agency,A,no,,66,https://resonaterecordings.com/resources/,2026-09-28,UK podcast studio; post dates Sep 2026 seen via web search; HQ London not independently re-confirmed
+Marketing Labs,marketinglabs.co.uk,UK,"SEO, PPC and content marketing agency",A,no,,52,https://marketinglabs.co.uk/blog/,2026-08-17,UK agency (.co.uk); post dates seen via web search; exact city not confirmed

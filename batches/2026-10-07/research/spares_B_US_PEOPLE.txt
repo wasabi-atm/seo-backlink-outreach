@@ -1,0 +1,14 @@
+Checked NEW and DR 40+, US-based B2B people/sales/CS/ed tech, but blog post date NOT confirmed (needs a date check before use). No em dashes.
+seekout.com (DR 71) blog 2026 content, no dates seen
+coderpad.io (DR 72) blog has 2026 recap posts, no dates seen
+hackerrank.com (DR 84) blog has 2026 posts, no dates seen
+phenom.com (DR 74) newest seen 2025-09-30
+crelate.com (DR 74) blog live, no post date seen
+loxo.co (DR 76) blog live, no dates seen
+skilljar.com (DR 82) newest seen 2024
+thoughtindustries.com (DR 74) blog live, no date seen
+trakstar.com (DR 78), slab.com (DR 74), tettra.com (DR 71), custify.com (DR 74): JS blogs, no dates read
+insperity.com (DR 76), jazzhr.com (DR 80), breezy.hr (DR 85), paylocity.com (DR 90), icims.com (DR 89), uservoice.com (DR 86), regie.ai (DR 67): blogs live, no dates read
+ukg.com (DR 81), dayforce.com (DR 74), businessolver.com (DR 73), goodhire.com (DR 72, blog index showed 2023), talentreef.com (DR 72), hiringthing.com (DR 71), betterteam.com (DR 75): not date-verified
+kudos.com (DR 67) dated 2026-09-23 but HQ may be Canada, unverified
+Dropped as not US or not independent: culturamp, workleap, teamtailor, recruitee, 360learning, talentlms, tinypulse (WebMD), northpass (Gainsight), modernhire (HireVue), sterlingcheck (First Advantage), totango (now Odie), lessonly (Seismic), zenefits (404).
