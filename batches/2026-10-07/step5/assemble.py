@@ -1,7 +1,7 @@
-"""Builds 04_backlink_emails.csv for backlink-2026-10-06: merges emails_0..5 onto targets_final.csv and gives each sendable
+"""Builds 04_backlink_emails.csv for backlink-2026-10-07: merges emails_0..5 onto targets_final.csv and gives each sendable
 row one subject from the user's four templates, mixed through the list (no 'fresh data' line: no Internal data rows)."""
 import csv, random, collections, re, html
-B = "/home/user/seo-backlink-outreach/batches/2026-10-06"
+B = "/home/user/seo-backlink-outreach/batches/2026-10-07"
 rows = list(csv.DictReader(open(f"{B}/step5/targets_final.csv")))
 em = {}
 for i in range(6):
@@ -17,7 +17,7 @@ for r in rows:
 send = [r for r in rows if r["emailBody"]]
 missing = [r["webDomain"] for r in rows if r["email"] and not r["emailBody"]]
 assert not missing, missing
-random.Random(20261006).shuffle(send)
+random.Random(20261007).shuffle(send)
 T = ["quick_question", "noticed_something", "quick_intro", "asap"]
 used = set()
 for i, r in enumerate(send):
