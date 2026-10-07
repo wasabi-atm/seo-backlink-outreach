@@ -1,15 +1,15 @@
-# Step 5 contacts brief (backlink-2026-10-06)
+# Step 5 contacts brief (backlink-2026-10-07)
 
-BATCH = /home/user/seo-backlink-outreach/batches/2026-10-06, REPO = /home/user/seo-backlink-outreach, scripts in REPO/skill/mta-backlink-outreach/scripts/.
+BATCH = /home/user/seo-backlink-outreach/batches/2026-10-07, REPO = /home/user/seo-backlink-outreach, scripts in REPO/skill/mta-backlink-outreach/scripts/.
 Read REPO/skill/mta-backlink-outreach/SKILL.md, section "Contact waterfall", and follow it.
 
 Two agents work in parallel, each on its own half (N = 0 or 1, given in your task). Only touch files with your N.
 
 - Targets: BATCH/step5/targets_<N>.csv (80 companies).
 - Role groups: BATCH/step5/domains_<N>.json. "founder": founder's quote swap rows, want Founder, Co-Founder, CEO, Owner or Managing Director (for a big company where the founder is out of reach, head of marketing or CMO is fine). "content": the Segment B rows offered a video, graphic or founder's quote, want Head of Content, Content Marketing Manager or Lead, Editor, Head of Marketing, CMO or Marketing Director.
-- Your contacts file: BATCH/step5/contacts_<N>.csv (contacts.py creates it). Your Instantly list: "Backlink 2026-10-06 contacts <N>".
+- Your contacts file: BATCH/step5/contacts_<N>.csv (contacts.py creates it). Your Instantly list: "Backlink 2026-10-07 contacts <N>".
 
-User caps for YOUR half (hard limits, never exceed): Instantly 125 credits, Apollo 25 lead credits, Apify $0.50. Check `workspace_billing_plan_details` (credits.available_credits) and `apollo_usage_stats_credit_usage_stats` (lead_credit.left_over) before and after each paid pass, and stop a source when its cap would be passed. The other agent spends from the same balances at the same time, so measure your spend by what you imported or revealed, not only by the balance change, and report both.
+User caps for YOUR half (hard limits, never exceed): Instantly 125 credits, Apollo 10 lead credits, Apify $0.50. Check `workspace_billing_plan_details` (credits.available_credits) and `apollo_usage_stats_credit_usage_stats` (lead_credit.left_over) before and after each paid pass, and stop a source when its cap would be passed. The other agent spends from the same balances at the same time, so measure your spend by what you imported or revealed, not only by the balance change, and report both.
 
 Tools: load with ToolSearch. Instantly (`mcp__Instantly__*`; if ToolSearch finds none, wait a moment and search again, the server reconnects), Apollo (`mcp__Apollo_io__*`), Apify (`mcp__Apify_Neu__*`). Company sites and the Apify API host are blocked from this machine, so the website step runs through Apify cheerio-scraper, not `contacts.py site`.
 
@@ -32,8 +32,9 @@ Short summary: companies with a named person, with a shared inbox, with nothing;
 
 ## Batch notes
 
-- Competitor rows (quote swap only, founder or CEO wanted): niftymarketing.com, abstraktmg.com, thriveagency.com, visla.us, trypencil.com, bravebison.com.
-- Blogs or brands that moved: concordnow.com now lives at concord.app; accesswire.com is ACCESS Newswire (accessnewswire.com); directus.io is directus.com; joinwarp.com is warp.co. Search by both domains where a company has two.
-- Parents: Frame.io (Adobe), Fueled (owns 10up), Brave Bison (owns Builtvisible: someone from Builtvisible is NOT a valid contact for Brave Bison, it was reached through a form on 5 Oct).
-- Big companies (Sophos, SumUp, Cvent, WP Engine, Weber Shandwick, Moneycorp): the founder is out of reach, so take the head of content or marketing, or a content or communications lead.
+- Competitor row (quote swap only, founder or CEO wanted): bluetext.com.
+- Moved or renamed brands: passle.net now serves passle.ai; daisygroup.com is daisygroup.co.uk; mintsoft.co.uk is mintsoft.com; concordnow.com is concord.app; accesswire.com is accessnewswire.com; digitalcurrent.com is Semify (not in the list). Search by both domains where a company has two.
+- Parents and owners: Email on Acid (emailonacid.com) is owned by Sinch; SuperAwesome (superawesome.com) is part of Epic Games; Vidmob blog is vidblog.vidmob.com; Sorted (sorted.com) is being folded into Huboo and Location Sciences.
+- Big companies (Jack Henry, Pluralsight, Paycom, NP Digital, Mintel, Amsive, Datavant, Lambda, Crusoe, Cowbell): the founder is out of reach, so take the head of content or marketing, or a content or communications lead.
 - Export helper: python3 /home/user/seo-backlink-outreach/batches/2026-09-29/step5/export_leads.py (if missing, write the CSV from the list_leads JSON yourself).
+- Apollo has only 23 lead credits left in total until 10 Oct and the other agent shares them: your cap is 10. Instantly credits: about 440 available in total, your cap 125.
