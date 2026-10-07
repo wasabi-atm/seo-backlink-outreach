@@ -1,10 +1,10 @@
-# Step 5 brief: emails (backlink-2026-10-06)
+# Step 5 brief: emails (backlink-2026-10-07)
 
-Working folder: `/home/user/seo-backlink-outreach/batches/2026-10-06` (BATCH). Repo root: `/home/user/seo-backlink-outreach` (REPO).
+Working folder: `/home/user/seo-backlink-outreach/batches/2026-10-07` (BATCH). Repo root: `/home/user/seo-backlink-outreach` (REPO).
 
 Motion The Agency (MTA, motiontheagency.com) is a motion design and explainer video studio run by its founder, Sam Jupp. Each company below has one article picked (Step 4) and one contact already found and checked against the ledger. You write one email per company in Sam's voice. You do not look for contacts and you do not spend any credits.
 
-Your input: `BATCH/step5/in_<N>.csv` (about 24 rows). Your output: `BATCH/step5/emails_<N>.csv`.
+Your input: `BATCH/step5/in_<N>.csv` (about 21 rows). Your output: `BATCH/step5/emails_<N>.csv`.
 
 Input columns: companyName, webDomain, country, segment, offer, competitorDecision, firstName, lastName, jobTitle, email, emailType, contactIsFounder, contactNote, articleTitle, articleUrl, articleDate, articlePublished, linkPlacement, articleHook, fit, notes, instantlyCampaign.
 
@@ -33,7 +33,7 @@ Shape (reference only; do not copy its facts):
 Rules:
 - Greeting: `Hey {firstName},`. If emailType is `generic` (a shared inbox, no name), use `Hey {companyName} team,`.
 - Then the article, linked by its title: `<a href="{articleUrl}">{articleTitle}</a>`. If the title has square brackets or odd quotes, keep the link text readable.
-- Then one or two specific things from articleHook. These were read from the live page through an Apify crawl on 6 Oct 2026. Keep exact quoted words where the hook quotes them. Do not add facts that are not in articleHook, linkPlacement or notes. If notes say a point needs a browser check (for example "may load by script", "not in the crawl"), leave that point out or phrase it so it stays true, and put it in manualCheck.
+- Then one or two specific things from articleHook. These were read from the live page through an Apify crawl on 7 Oct 2026. Keep exact quoted words where the hook quotes them. Do not add facts that are not in articleHook, linkPlacement or notes. If notes say a point needs a browser check (for example "may load by script", "not in the crawl"), leave that point out or phrase it so it stays true, and put it in manualCheck.
 - Tone for mistakes: helpful, not smug ("small thing, but...").
 - No video schema lines in this batch (videoSchemaGap is blank for every row).
 - If notes say the page already has a video (YouTube, Vimeo, Wistia or a video tag), never say the page has no video.
@@ -76,17 +76,18 @@ Do not edit any other file, do not touch the ledger, do not commit.
 
 Reply with: emails written, rows left blank, and the manualCheck rows with a one-line reason each.
 
-## Notes for backlink-2026-10-06
+## Notes for backlink-2026-10-07
 
 - Sender is Sam, offer paid placement as in the shape. Segment A is always the founder's quote swap.
-- Competitor rows the user included (competitorDecision include): niftymarketing.com, abstraktmg.com, thriveagency.com, visla.us, trypencil.com, bravebison.com. Quote swap only, use the "we're both in the video space" style wording (adapt it: for an agency with a video line, "we both work on video for brands"), never offer to make anything for them, never pitch "I run a motion studio" as a service.
-- Other rows that sell some video themselves (quote swap only, same wording style): equinetmedia.com, gorilla76.com, gofishdigital.com, mindstamp.com, vidizmo.ai, frame.io (Adobe). Stability AI (stability.ai) is Segment B but sells generative video models: quote swap only, same wording.
-- Articles first published before Oct 2024 but updated since (midnight.co.uk, searchinfluence.com, benchmarkemail.com, validity.com, equinetmedia.com, modo25.com, babelquest.co.uk, slcyber.io, financial-cents.com): never call the piece recent or new, never state a date unless articleHook gives it, and put `old article, check` in manualCheck.
-- Articles with a blank articleDate: never state a date.
-- Hooks that need a browser check (leave the point out or phrase it so it stays true, and put `check in browser` in manualCheck): freshconsulting.com (leftover AI assistant line; mention it kindly or skip it), securenvoy.com (editing note left in text), babelquest.co.uk (placeholder copy), tive.com (Webflow placeholder text may be hidden), slcyber.io (lorem ipsum may be a hidden field), stability.ai ("check it out here:" may hide a video block), yugabyte.com ("demo above" may be a YouTube link only), webershandwick.com, cobalt.io, thanksben.com, crunch.co.uk. Also any row whose notes say "check in browser", "may load by script" or "not in the crawl".
-- wpengine.com: its post already cites Wyzowl (a competitor). Do not mention Wyzowl or competitors in the email.
+- Competitor row the user included (competitorDecision include): bluetext.com. Quote swap only, "we both work on video for brands" style wording, never offer to make anything for them, never pitch "I run a motion studio" as a service.
+- Other rows that sell some video or video tech themselves (quote swap only, same wording style): supademo.com (interactive demos), sundaysky.com (personalised video), vidmob.com, overit.com (own studio), modop.com (may have a video team), thrivecart.com is NOT video. Pinkston's article features a guest who runs a video agency: do not mention the guest.
+- Articles first published before Oct 2024 but updated since (copypress.com first published 2023-12, goguardian.com 2019 then updated 2026-07): never call the piece recent or new, never state a date unless articleHook gives it, put `old article, check` in manualCheck. Articles with a blank articleDate: never state a date; also put `date unconfirmed` in manualCheck when articlePublished is blank AND notes say the date is unconfirmed.
+- Hooks that need a browser check (leave the point out or phrase it so it stays true, and put `check in browser` in manualCheck): trovata (blank headings may be a crawl gap), jobscore (screenshots may exist), adaptavist (event promo, 29 September, now passed), ylopo ("watch the full session below" may be an iframe), spycloud (missing checklist), degreed (a stray 25/04/2024 date), plus any row whose notes say "check in browser", "may load by script" or "not in the crawl".
 - Never say a page has no images, video, chart or graphic unless articleHook says so plainly; the crawl text often drops images.
 - If contactIsFounder is no on a quote swap row, say "one from your side for ours" and add `founder not reached` to manualCheck.
-- Rows whose contact role is weak for the offer (for example a sales or partnerships person): add `contact role check` to manualCheck.
+- Rows whose contact role is weak for the offer (a manager, a CTO or co-founder on a content row, a VP with no stated function such as Zach Crenshaw at Pinkston): add `contact role check` to manualCheck.
+- Rows with a weak fit (fit is weak): add `weak fit` to manualCheck.
 - contactNote: if it is not blank, copy it into manualCheck (join with "; "). Do not mention it in the email.
+- Amsive, Overdrive, Teneo, Lambda, Concord and Passle contacts use a different domain from the website; that is fine, do not mention it. Keyloop's name and email differ (Ellie Hazell, ellie.pickles@keyloop.com): use first name Ellie only if firstName says so, and add `name and email differ` to manualCheck.
+- Rows with emailType generic (13 shared inboxes) use `Hey <companyName> team,`.
 - No row in your input is in another Instantly campaign (those were dropped by the user).
