@@ -17,3 +17,7 @@
 - Checkpoint (8 Oct): user chose a second research pass for the gap, and to include rotorvideos.com as a competitor, quote swap only. impact.com stays removed (ledger brand match, no answer given).
 - Second pass: 143 unverified DR 40+ leads (research2/leads_new.txt, all NEW) split over 4 agents (research2/BRIEF2.md) to read real post dates with browser crawls, sitemaps and searches.
 - impact.com put back (user 8 Oct: keep, different company from IMPACT). 96 clean.
+- Second pass done (8 Oct): four agents verified 42 more (part_00 15, part_01 3, part_02 16, part_03 8). 00_candidates_all.csv = 138 (A 57, B 81; UK 15, US 123, no UAE).
+- Step 2b vetting (Apify cheerio, one run for 138 homepages, 2 retried): no screenshots possible. Hard fails: teampay.co (redirects to paystand), northpass.com (redirects to gainsight). Dropped also: deepnote.com (HubSpot customer with a deal), newfront.com (now part of WTW). Held for user: insperity.com and uplight.com (doubleclick), moburst.com and tuffgrowth.com (betting), tax1099.com (casino), plainlyvideos.com (competitor). "loans" on nav, q2, webolutions kept (finance/marketing). HubSpot leads only (kept): fieldguide, langchain, coreweave, chainguard, adroll, hackerrank, avalara. 01_prospects_proposed.csv holds the status per row.
+- Video schema check (2c) skipped, no site access, videoSchemaGap left blank.
+- Checkpoint 1: waiting on the user.
