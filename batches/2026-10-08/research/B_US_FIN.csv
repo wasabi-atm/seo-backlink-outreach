@@ -1,0 +1,12 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Teampay,teampay.co,US,Spend management and AP automation SaaS,B,no,,59,https://www.teampay.co/blog,2026-10-06,"HQ New York (from company knowledge, not crawled)"
+Trullion,trullion.com,US,AI accounting and lease accounting software,B,no,,56,https://trullion.com/blog/,2026-09-28,"HQ New York (from company knowledge, not crawled)"
+Fieldguide,fieldguide.io,US,Audit and advisory workflow software for CPA firms,B,no,,55,https://fieldguide.io/blog,2026-09-29,"HQ San Francisco (from company knowledge, not crawled)"
+Payroc,payroc.com,US,Payments and merchant services for ISVs and businesses,B,no,,73,https://www.payroc.com/blog,2026-10-07,"HQ Chicago (from company knowledge, not crawled); B2B payments"
+Zeni,zeni.ai,US,AI bookkeeping and finance automation for startups,B,no,,60,https://zeni.ai/blog,2025-12-11,"HQ Palo Alto (from company knowledge, not crawled); blog index showed only one dated post"
+Mitratech,mitratech.com,US,"Legal, compliance and GRC software",B,no,,78,https://www.mitratech.com/resource-hub/blog/,2026-10-07,"HQ Austin TX (from company knowledge, not crawled)"
+Tax1099 (Zenwork),tax1099.com,US,1099 and tax information reporting SaaS,B,no,,73,https://www.tax1099.com/blog,2026-09-30,"HQ per company knowledge (Zenwork, US), not crawled; blog on /blog subfolder"
+Newfront,newfront.com,US,Insurance brokerage and risk tech (insurtech),B,no,,60,https://www.newfront.com/blog,2025-10-21,"HQ San Francisco (from company knowledge, not crawled); newest post seen is Oct 2025, borderline"
+Liscio,liscio.me,US,Client communication platform for accounting firms,B,no,,68,https://www.liscio.me/blog,2026-08-06,"HQ Dallas TX (from company knowledge, not crawled)"
+Repay,repay.com,US,Integrated B2B and consumer-lending payments,B,no,,71,https://www.repay.com/blog,2026-03-11,"HQ Atlanta (from company knowledge, not crawled); newest posts are Q4 2026 themed but only 2026-03-11 had an explicit date"
+IVANS,ivans.com,US,Insurance data exchange and agency tech,B,no,,52,https://www.ivans.com/blog/,2026-08-11,"HQ Arlington VA (from company knowledge, not crawled); date taken from post image filename ivans-august-11-2026"
