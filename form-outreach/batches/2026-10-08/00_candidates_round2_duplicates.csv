@@ -1,0 +1,3 @@
+companyName,webDomain,country,segment,serviceType,oldDR,source,articleTitle,articleUrl,articleHook,linkPlacement,offer,dedupeMatch,dedupeReason
+ArabAd,arabadonline.com,UAE,A,Marketing news,54.0,spare-segA,,,,,,exact,"name 'ArabAd' matches ArabAd (queued 2026-09-25, backlink-2026-09-25); brand 'arabad' matches ArabAd (queued 2026-09-25, backlink-2026-09-25)"
+The Marketing Practice,themarketingpractice.com,UK,A,B2B marketing agency,46.0,spare-segA,,,,,,exact,"domain themarketingpractice.com matches tmp (The Marketing Practice) (queued 2026-09-25, backlink-2026-09-25); brand 'themarketingpractice' matches tmp (The Marketing Practice) (queued 2026-09-25, backlink-2026-09-25)"
