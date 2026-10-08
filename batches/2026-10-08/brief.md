@@ -22,3 +22,4 @@
 - Video schema check (2c) skipped, no site access, videoSchemaGap left blank.
 - Checkpoint 1: waiting on the user.
 - Checkpoint 1 answers (8 Oct): doubleclick on insperity, uplight kept; betting/casino on moburst, tuffgrowth, tax1099 kept; plainlyvideos included quote swap only. 01_prospects.csv = 134 rows. Waiting on approval to start Step 3.
+- Step 3 started (8 Oct, user approved Checkpoint 1): DR rechecked with the free Ahrefs tool for all 134, all 40 or higher (lowest exactly 40: castfromclay.co.uk, enlightworks.com), so 02_low_dr.csv is empty. Five agents (step3/STEP3_BRIEF.md) read 3 to 5 posts per blog with Apify cheerio for backlinkExchange.

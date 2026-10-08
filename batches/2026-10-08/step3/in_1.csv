@@ -1,0 +1,28 @@
+companyName,webDomain,country,serviceType,segment,visualScore,visualNotes,competitor,competitorDecision,domainRating,blogUrl,latestPost,notes
+Traackr,traackr.com,US,Influencer marketing SaaS,A,,,no,,74,https://www.traackr.com/influencer-marketing-blog,2026-05-05,HQ New York per company profile. Post dated May 5 2026 seen via search
+CJ (Commission Junction),cj.com,US,Affiliate marketing network,A,,,no,,85,https://junction.cj.com/most-recent,2026-04-17,HQ Santa Barbara CA. Blog lives on junction.cj.com (DR85 as well). Spring 2026 post dated Apr 17 2026; Sept 2026 conference coverage also seen
+BigCommerce,bigcommerce.com,US,Ecommerce platform (SaaS CMS),A,,,no,,92,https://www.bigcommerce.com/blog/,2026-08-01,"HQ Austin TX. July and August 2026 posts seen via search, day approximate"
+Ontraport,ontraport.com,US,Marketing automation and CRM SaaS,A,,,no,,80,https://ontraport.com/blog,2026-08-18,HQ Santa Barbara CA. AI manifesto post dated Aug 18 2026
+Reprise,reprise.com,US,Interactive demo platform for marketing and sales,A,,,no,,55,https://www.reprise.com/resources/blog,2026-01-26,HQ San Francisco CA. Newest explicit date is a Jan 26 2026 guide update; 2026 State of Demos post leads blog
+Postmark,postmarkapp.com,US,Transactional email delivery SaaS,A,,,no,,85,https://postmarkapp.com/blog,2026-04-28,"HQ Philadelphia PA (part of ActiveCampaign). Domain is postmarkapp.com (postmark.com is a separate NEW domain, DR44). Date from crawl of blog index"
+Buttondown,buttondown.com,US,Newsletter and email marketing SaaS,A,,,no,,85,https://buttondown.com/blog,2026-09-25,"US based indie SaaS (HQ from my knowledge, not verified on site). Post Sept 25 2026 seen via search"
+Olark,olark.com,US,Live chat SaaS for marketing and sales,A,,,no,,86,https://blog.olark.com/,2026-09-29,"HQ Ann Arbor MI. Blog on blog.olark.com, post dated Sep 29 2026"
+Listrak,listrak.com,US,Email and SMS marketing platform for retail,A,,,no,,74,https://www.listrak.com/learn/blog,2026-05-13,HQ Lititz PA. Post dated May 13 2026 seen via search
+Pantheon,pantheon.io,US,"WebOps and CMS hosting platform (Drupal, WordPress)",A,,,no,,78,https://pantheon.io/blog,2026-02-10,HQ San Francisco CA. Hackathon recap dated Feb 10 2026; blog index has newer undated posts
+Bloomfire,bloomfire.com,US,Knowledge management SaaS,A,,,no,,71,https://bloomfire.com/blog/,2026-05-01,"HQ Austin TX. May 2026 metrics post seen via search, day approximate. Adjacent to martech rather than core martech"
+Upfluence,upfluence.com,US,Influencer marketing SaaS,A,,,no,,78,https://www.upfluence.com/blog/,2026-09-15,"HQ NEEDS CONFIRMING (US operations, French roots). Post dated Sep 15 2026 seen via search"
+EasyWebinar,easywebinar.com,US,Webinar platform,A,,,no,,71,https://easywebinar.com/blog/,2026-07-22,US webinar SaaS; HQ city NOT verified. Post dated Jul 22 2026 seen via search. Blog posts rank own product first
+Humaans,humaans.io,UK,HR tech SaaS (HRIS),B,,,no,,55,https://humaans.io/blog,2026-09-23,"London HQ from my knowledge, not site-verified; date from 2026-09 blog image upload on index, monthly product update post"
+Pulsant,pulsant.com,UK,Managed hosting and data centre services,B,,,no,,60,https://www.pulsant.com/knowledge-hub/blog/,2026-09-15,UK HQ (Edinburgh/Reading) from my knowledge; dated post 15 Sep 2026 seen
+Mimecast,mimecast.com,UK,Email security and cyber resilience SaaS,B,,,no,,91,https://www.mimecast.com/blog/,2026-07-31,"Registered HQ London (US ops in Lexington MA), Permira-owned; verify before sending. Dated post 31 Jul 2026 seen"
+Trullion,trullion.com,US,AI accounting and lease accounting software,B,,,no,,56,https://trullion.com/blog/,2026-09-28,"HQ New York (from company knowledge, not crawled)"
+Fieldguide,fieldguide.io,US,Audit and advisory workflow software for CPA firms,B,,,no,,55,https://fieldguide.io/blog,2026-09-29,"HQ San Francisco (from company knowledge, not crawled)"
+Payroc,payroc.com,US,Payments and merchant services for ISVs and businesses,B,,,no,,73,https://www.payroc.com/blog,2026-10-07,"HQ Chicago (from company knowledge, not crawled); B2B payments"
+Zeni,zeni.ai,US,AI bookkeeping and finance automation for startups,B,,,no,,60,https://zeni.ai/blog,2025-12-11,"HQ Palo Alto (from company knowledge, not crawled); blog index showed only one dated post"
+Mitratech,mitratech.com,US,"Legal, compliance and GRC software",B,,,no,,78,https://www.mitratech.com/resource-hub/blog/,2026-10-07,"HQ Austin TX (from company knowledge, not crawled)"
+Tax1099 (Zenwork),tax1099.com,US,1099 and tax information reporting SaaS,B,,farm word: casino,no,,73,https://www.tax1099.com/blog,2026-09-30,"HQ per company knowledge (Zenwork, US), not crawled; blog on /blog subfolder"
+Liscio,liscio.me,US,Client communication platform for accounting firms,B,,,no,,68,https://www.liscio.me/blog,2026-08-06,"HQ Dallas TX (from company knowledge, not crawled)"
+Repay,repay.com,US,Integrated B2B and consumer-lending payments,B,,,no,,71,https://www.repay.com/blog,2026-03-11,"HQ Atlanta (from company knowledge, not crawled); newest posts are Q4 2026 themed but only 2026-03-11 had an explicit date"
+IVANS,ivans.com,US,Insurance data exchange and agency tech,B,,,no,,52,https://www.ivans.com/blog/,2026-08-11,"HQ Arlington VA (from company knowledge, not crawled); date taken from post image filename ivans-august-11-2026"
+SeekOut,seekout.com,US,AI recruiting and talent sourcing SaaS,B,,,no,,71,https://www.seekout.com/blog/,2026-09-29,HQ Bellevue WA from public knowledge; newest post confirmed via article JSON-LD
+Insperity,insperity.com,US,"PEO, HR outsourcing and payroll services",B,,ad network: doubleclick,no,,76,https://www.insperity.com/blog/,2026-09-29,HQ Houston TX (public knowledge); public company; post date from JSON-LD
