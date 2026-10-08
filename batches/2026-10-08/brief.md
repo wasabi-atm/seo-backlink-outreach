@@ -16,3 +16,4 @@
 - Short of 160: waiting on the user to choose how to close the gap.
 - Checkpoint (8 Oct): user chose a second research pass for the gap, and to include rotorvideos.com as a competitor, quote swap only. impact.com stays removed (ledger brand match, no answer given).
 - Second pass: 143 unverified DR 40+ leads (research2/leads_new.txt, all NEW) split over 4 agents (research2/BRIEF2.md) to read real post dates with browser crawls, sitemaps and searches.
+- impact.com put back (user 8 Oct: keep, different company from IMPACT). 96 clean.
