@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+QuestDB,questdb.com,US,time-series database,B,no,,71,https://questdb.com/blog/,2026-10-01,HQ San Francisco
+Deepnote,deepnote.com,US,data science notebook platform,B,no,,72,https://deepnote.com/blog,2026-09-29,HQ San Francisco
+Thoropass,thoropass.com,US,compliance automation SaaS,B,no,,72,https://www.thoropass.com/blog,2026-10-06,HQ New York; an Oct 9 2026 date also appeared (scheduled post)
+Cyera,cyera.io,US,data security posture platform,B,no,,71,https://www.cyera.com/blog,2026-10-07,HQ New York; site now cyera.com
+Rollbar,rollbar.com,US,error monitoring dev tool,B,no,,78,https://rollbar.com/blog/,2026-07-26,HQ San Francisco; date shown as 26/07/2026
+Zilliz,zilliz.com,US,vector database platform,B,no,,72,https://zilliz.com/blog,2026-05-26,"HQ Redwood City; newest date seen in static crawl, blog likely newer"
+Upbound,upbound.io,US,cloud control plane platform,B,no,,67,https://blog.upbound.io/,2026-08-19,HQ Seattle
+Orca Security,orca.security,US,cloud security platform,B,no,,75,https://orca.security/resources/blog/,2026-08-06,"US HQ Portland OR, large Israel R&D"
+Chainguard,chainguard.dev,US,software supply chain security,B,no,,76,https://www.chainguard.dev/unchained,2026-06-22,HQ Kirkland WA
+ReadMe,readme.com,US,API documentation platform,B,no,,87,https://readme.com/blog,2026-09-22,HQ San Francisco
+Mintlify,mintlify.com,US,developer documentation platform,B,no,,91,https://mintlify.com/blog,2026-09-28,HQ San Francisco
+Inngest,inngest.com,US,durable workflow dev platform,B,no,,74,https://www.inngest.com/blog,2026-10-06,HQ San Francisco; date shown as 10/06/2026
+Speakeasy,speakeasy.com,US,API SDK generation dev tool,B,no,,73,https://www.speakeasy.com/blog,2026-09-29,HQ San Francisco
+Upstash,upstash.com,US,serverless data platform,B,no,,81,https://upstash.com/blog,2026-09-30,HQ San Francisco
+Stainless,stainless.com,US,SDK generation dev tool,B,no,,71,https://www.stainless.com/blog,2026-05-15,HQ New York; newest date seen in static crawl
+CoreWeave,coreweave.com,US,AI cloud infrastructure,B,no,,76,https://www.coreweave.com/blog,2026-07-14,HQ Livingston NJ
+LangChain,langchain.com,US,LLM app dev framework,B,no,,87,https://blog.langchain.com/,2026-10-07,HQ San Francisco; blog on blog.langchain.com
