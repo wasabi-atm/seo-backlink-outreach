@@ -12,3 +12,4 @@
 - Checkpoint 1 answers (9 Oct): include idomoo.com and nowsourcing.com as quote swap only; keep the Hoth and Respona; keep kixie, codesignal, okteto, motherduck. 01_prospects.csv = 52 rows. Step 3: DR rechecked with the free Ahrefs tool, all 52 are 40 or higher; five agents (step3/STEP3_BRIEF.md) read posts for backlinkExchange.
 - Step 3 done (9 Oct): five agents, 52 rows, 02_enriched.csv (all DR 40+), 02_low_dr.csv empty. Checkpoint 2: waiting on the user.
 - Step 3 approved by the user (9 Oct): run Step 4 on all 52. Step 4 started: five agents (step4/STEP4_BRIEF.md), Apify, one article per company with a hook.
+- Step 4 done (9 Oct): five agents, 52 rows. merge_step4.py -> 03_backlink_targets.csv (strong 19, ok 23, weak 10, dead 0). Step 5 only when the user asks.
