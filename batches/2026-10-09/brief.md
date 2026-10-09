@@ -16,3 +16,4 @@
 - Checkpoint 1 answers (9 Oct): keep all 48, pocus.com and metronome.com dropped, inventry.co.uk and mpulsesoftware.com (doubleclick) kept. 01_prospects.csv = 50 rows. Step 3 starting.
 - Step 3 DR (9 Oct): free Ahrefs tool on all 50, all 40 or higher (searchberg.com exactly 40), 02_low_dr.csv will be empty. Five agents (step3/STEP3_BRIEF.md, 10 rows each) read 3 to 5 posts per blog with Apify for backlinkExchange.
 - Step 3 done (9 Oct): five agents, 50 rows, 02_enriched.csv (all DR 40+), 02_low_dr.csv empty. Checkpoint 2: waiting on the user.
+- Step 3 approved by the user (9 Oct, 'next step'). Step 4 started: five agents (step4/STEP4_BRIEF.md), Apify, one article per company with a hook, also confirm a post dated after Oct 2025.
