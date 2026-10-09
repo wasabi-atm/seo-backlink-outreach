@@ -1,0 +1,13 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+OneTrust,onetrust.com,US,Privacy and data governance SaaS,B,no,,92,https://www.onetrust.com/blog/,2026-09-14,HQ Atlanta GA (well known); featured post dated on blog index
+Roboflow,roboflow.com,US,Computer vision developer platform,B,no,,77,https://blog.roboflow.com/,2026-10-08,HQ Des Moines IA (well known); blog on subdomain blog.roboflow.com
+Optro (formerly AuditBoard),auditboard.com,US,GRC and audit software,B,no,,74,https://www.auditboard.com/blog/,2026-08-27,HQ Cerritos CA (well known); company rebranded to Optro but blog still lives on auditboard.com
+MPulse Software,mpulsesoftware.com,US,CMMS maintenance software,B,no,,54,https://www.mpulsesoftware.com/blog/,2026-10-09,"HQ Eugene OR per About page (JDM Technology Group); near daily posts, content looks mass produced so review before outreach"
+UpKeep,upkeep.com,US,Maintenance management SaaS (CMMS),B,no,,73,https://upkeep.com/blog/,2026-10-07,HQ Los Angeles CA (well known); date from page JSON metadata of newest post
+Cleverbridge,cleverbridge.com,US,Software ecommerce and merchant of record,B,no,,77,https://www.cleverbridge.com/corporate/blog/,2026-09-24,HQ Chicago IL (well known); posts link to grow.cleverbridge.com/blog; sells to software companies
+Rebuy Engine,rebuyengine.com,US,Ecommerce personalization SaaS (retail tech),B,no,,79,https://www.rebuyengine.com/blog,2025-12-11,"HQ Minneapolis MN per Craft and CB Insights (remote team); blog is slow, newest dated post Dec 2025"
+LanceDB,lancedb.com,US,Multimodal data lakehouse and vector database,B,no,,71,https://lancedb.com/blog/,2026-09-01,"HQ San Francisco CA (well known); newest post slug newsletter-september-2026, exact day not shown so month used"
+Torq,torq.io,US,Security automation SaaS (AI SOC),B,no,,71,https://torq.io/blog/,2026-09-01,"HQ Portland OR per Built In and Coverager (Tel Aviv second office); index shows no dates, month taken from upload path 2026/09"
+HiddenLayer,hiddenlayer.com,US,AI security platform,B,no,,72,https://hiddenlayer.com/innovation-hub/,2026-09-09,HQ Austin TX (well known); Innovation Hub holds blog posts
+Veza,veza.com,US,Identity security and access management SaaS,B,no,,65,https://www.veza.com/blog,2026-08-13,"HQ Los Altos CA (recalled, not re-verified by search); dates on blog index"
+ConductorOne (C1),conductorone.com,US,Identity governance SaaS,B,no,,64,https://www.conductorone.com/blog/,2026-10-02,"HQ Portland OR (recalled, not re-verified); company now brands as C1.ai but blog still served on conductorone.com, check for future redirect"

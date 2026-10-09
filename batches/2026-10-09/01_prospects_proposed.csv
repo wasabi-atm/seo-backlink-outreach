@@ -1,0 +1,53 @@
+companyName,webDomain,country,segment,domainRating,serviceType,visualScore,competitor,vetStatus,vetNotes
+Flourish,flourish.studio,UK,A,86,Data visualisation SaaS,,no,keep,
+Lumanu,lumanu.com,UK,A,57,Influencer marketing platform,,no,keep,
+Audiomob,audiomob.com,UK,A,57,In-game audio advertising platform,,no,keep,"HubSpot lead only, no deal"
+Searchable,searchable.com,UK,A,62,AI search optimisation SaaS,,no,keep,
+Yospace,yospace.com,UK,A,45,Video ad insertion and streaming tech platform,,no,keep,post date inferred
+LXA,lxahub.com,UK,A,74,Martech and AI marketing training and insights,,no,keep,
+Clinked,clinked.com,UK,A,72,Client portal and collaboration SaaS,,no,keep,weak fit (client portal SaaS)
+Bowler Hat,bowlerhat.co.uk,UK,A,67,SEO and digital marketing agency,,no,keep,
+Browser Media,browsermedia.agency,UK,A,56,Digital marketing and SEO agency,,no,keep,
+Kurve,kurve.co.uk,UK,A,59,App marketing and growth agency,,no,keep,
+JumpFly,jumpfly.com,US,A,57,Digital marketing and PPC agency,,no,keep,
+Oneupweb,oneupweb.com,US,A,55,Digital marketing and SEO agency,,no,keep,
+Matchbox Design Group,matchboxdesigngroup.com,US,A,59,Web design and digital marketing agency,,no,keep,
+SearchBerg,searchberg.com,US,A,40,SEO and web design agency,,no,keep,"DR exactly 40, HQ unconfirmed, 30 outbound links on homepage"
+HigherVisibility,highervisibility.com,US,A,79,SEO and digital marketing agency,,no,keep,
+Cypress North,cypressnorth.com,US,A,58,Digital marketing agency,,no,keep,
+Triple Whale,triplewhale.com,US,A,78,Ecommerce marketing analytics and attribution SaaS,,no,keep,
+Perpetua,perpetua.io,US,A,66,Amazon advertising software (ad tech),,no,keep,"slow blog, newest post Jan 2026"
+Demostack,demostack.com,US,A,50,Product demo and simulation platform (sales/marketing tech),,no,keep,
+NextRoll,nextroll.com,US,A,83,Ad tech and marketing platform (AdRoll parent),,no,keep,newest post approx Nov 2025
+Sonix,sonix.ai,US,A,74,AI transcription and captioning platform for audio and video,,no,keep,
+Sprift,sprift.com,UK,B,53,Property data and proptech SaaS,,no,keep,
+Secure.com,secure.com,UAE,B,53,AI cybersecurity platform,,no,keep,
+Tractivity,tractivity.co.uk,UK,B,59,Stakeholder engagement software,,no,keep,
+BridgeHead Software,bridgeheadsoftware.com,UK,B,47,Healthcare data management software,,no,keep,
+Cloudsoft,cloudsoft.io,UK,B,55,Cloud and SaaS marketplace software and consulting,,no,keep,
+InVentry,inventry.co.uk,UK,B,57,School and workplace visitor management SaaS,,no,hold,"hold: doubleclick on homepage (hard fail, needs your call)"
+Federato,federato.ai,US,B,42,Insurtech underwriting SaaS,,no,keep,
+Intellum,intellum.com,US,B,70,Enterprise LMS and customer education SaaS,,no,keep,
+Ambition,ambition.com,US,B,66,Sales performance management SaaS,,no,keep,
+Nanonets,nanonets.com,US,B,73,AI document processing and AP automation,,no,keep,
+TaxDome,taxdome.com,US,B,83,Accounting practice management SaaS,,no,keep,homepage blocked (403) so ads and farm words not checked
+Pocus,pocus.com,US,B,55,"Sales tech, product led sales platform",,no,drop,"drop: acquired, blog says Pocus is joining Apollo; HubSpot lead only, no deal"
+Digits,digits.com,US,B,78,AI accounting and ledger software,,no,keep,
+CaptivateIQ,captivateiq.com,US,B,63,Sales commission and compensation SaaS,,no,keep,
+Jirav,jirav.com,US,B,57,FP&A and financial forecasting SaaS,,no,keep,
+Centerbase,centerbase.com,US,B,55,Law firm practice management and legal tech,,no,keep,homepage failed SSL so not checked
+LeadIQ,leadiq.com,US,B,71,Sales prospecting and contact data tool,,no,keep,
+Findem,findem.ai,US,B,65,AI talent acquisition and recruiting platform,,no,keep,
+Metronome,metronome.com,US,B,71,Usage based billing SaaS,,no,drop,"drop: acquired, blog says Metronome is now part of Stripe"
+OneTrust,onetrust.com,US,B,92,Privacy and data governance SaaS,,no,keep,
+Roboflow,roboflow.com,US,B,77,Computer vision developer platform,,no,keep,
+Optro (formerly AuditBoard),auditboard.com,US,B,74,GRC and audit software,,no,keep,"HubSpot lead only, no deal"
+MPulse Software,mpulsesoftware.com,US,B,54,CMMS maintenance software,,no,hold,"hold: doubleclick on homepage (hard fail, needs your call); mass-produced blog"
+UpKeep,upkeep.com,US,B,73,Maintenance management SaaS (CMMS),,no,keep,"HubSpot lead only, no deal"
+Cleverbridge,cleverbridge.com,US,B,77,Software ecommerce and merchant of record,,no,keep,off-slice fit (merchant of record)
+Rebuy Engine,rebuyengine.com,US,B,79,Ecommerce personalization SaaS (retail tech),,no,keep,"slow blog, newest post Dec 2025"
+LanceDB,lancedb.com,US,B,71,Multimodal data lakehouse and vector database,,no,keep,"HubSpot lead only, no deal"
+Torq,torq.io,US,B,71,Security automation SaaS (AI SOC),,no,keep,
+HiddenLayer,hiddenlayer.com,US,B,72,AI security platform,,no,keep,
+Veza,veza.com,US,B,65,Identity security and access management SaaS,,no,keep,
+ConductorOne (C1),conductorone.com,US,B,64,Identity governance SaaS,,no,keep,

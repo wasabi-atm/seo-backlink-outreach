@@ -1,0 +1,9 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Zype,zype.com,US,OTT video streaming platform,A,no,,62,https://www.zype.com/blog,2026-09-25,"HQ: JSON-LD address New York NY (Backlight Parent Corporation, owner). Date from BlogPosting datePublished on post."
+Idomoo,idomoo.com,US,Personalized video platform (video tech),A,no,,72,https://www.idomoo.com/blog/,2026-07-20,"HQ New York per Built In NYC, TrustRadius (Israel R&D). Date from article:published_time on newest post."
+Zuddl,zuddl.com,US,Event and webinar platform,A,no,,69,https://www.zuddl.com/blog,2026-10-05,HQ San Francisco per several directories (team also in India). Date from Article datePublished on post.
+Strapi,strapi.io,US,Headless CMS,A,no,,80,https://strapi.io/blog,2026-10-02,"HQ ambiguous: Delaware per own FAQ, San Francisco per LinkedIn/Built In, Paris origin. Verify before sending. Date from blog index listing; a post JSON-LD shows 2026-09-03."
+Craft CMS (Pixel & Tonic),craftcms.com,US,CMS for web teams,A,no,,80,https://craftcms.com/blog,2026-01-27,"Operator Pixel & Tonic, Inc. (Portland OR, from memory, not verified on site). Newest dated post seen is Craft 5.9 release, JSON-LD datePublished. Index undated so a newer post may exist."
+Respona,respona.com,US,SEO and PR outreach software,A,no,,76,https://respona.com/blog/,2026-07-28,HQ Rockville MD per G2 and Findstack (one directory says Los Angeles). Date from blog index listing.
+RainFocus,rainfocus.com,US,Event marketing platform,A,no,,77,https://www.rainfocus.com/blog/,2026-10-01,"HQ Lehi, Utah per LinkedIn and company press release. Date from blog index listing."
+Folloze,folloze.com,US,ABM and buyer engagement platform,A,no,,70,https://www.folloze.com/blog,2026-06-15,"HQ US (Redwood City CA area, from memory, Israel R&D; not verified on site). Date from BlogPosting datePublished on post."

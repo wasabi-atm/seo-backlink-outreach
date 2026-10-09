@@ -1,0 +1,11 @@
+companyName,webDomain,country,serviceType,segment,visualScore,visualNotes,competitor,competitorDecision,domainRating,blogUrl,latestPost,notes
+Nanonets,nanonets.com,US,AI document processing and AP automation,B,,,no,,73,https://nanonets.com/blog/,2026-07-01,HQ San Francisco from general knowledge; date from a post seen on the blog
+TaxDome,taxdome.com,US,Accounting practice management SaaS,B,,homepage blocked (403) so ads and farm words not checked,no,,83,https://taxdome.com/blog,2026-04-06,"HQ listed as Delaware USA from general knowledge, large team abroad; verify before send"
+Digits,digits.com,US,AI accounting and ledger software,B,,,no,,78,https://digits.com/blog,2026-09-16,HQ San Francisco from general knowledge; not verified on site
+CaptivateIQ,captivateiq.com,US,Sales commission and compensation SaaS,B,,,no,,63,https://www.captivateiq.com/blog,2026-07-07,HQ San Francisco from general knowledge; not verified on site
+Jirav,jirav.com,US,FP&A and financial forecasting SaaS,B,,,no,,57,https://www.jirav.com/blog,2026-07-14,HQ Boulder CO from general knowledge; not verified on site
+Centerbase,centerbase.com,US,Law firm practice management and legal tech,B,,homepage failed SSL so not checked,no,,55,https://centerbase.com/blog/,2026-10-02,HQ Utah from general knowledge; verify before send
+LeadIQ,leadiq.com,US,Sales prospecting and contact data tool,B,,,no,,71,https://leadiq.com/blog,2026-10-05,HQ San Francisco from general knowledge; not verified on site
+Findem,findem.ai,US,AI talent acquisition and recruiting platform,B,,,no,,65,https://www.findem.ai/blog,2026-10-07,HQ San Francisco Bay Area from general knowledge; another date of Oct 9 2026 on page may be an event
+OneTrust,onetrust.com,US,Privacy and data governance SaaS,B,,,no,,92,https://www.onetrust.com/blog/,2026-09-14,HQ Atlanta GA (well known); featured post dated on blog index
+Roboflow,roboflow.com,US,Computer vision developer platform,B,,,no,,77,https://blog.roboflow.com/,2026-10-08,HQ Des Moines IA (well known); blog on subdomain blog.roboflow.com

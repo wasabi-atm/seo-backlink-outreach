@@ -1,0 +1,53 @@
+companyName,webDomain,country,segment,domainRating,serviceType,visualScore,competitor,vetStatus,vetNotes
+Zype,zype.com,US,A,62,OTT video streaming platform,,no,keep,
+Idomoo,idomoo.com,US,A,72,Personalized video platform (video tech),,possible,hold,"sells AI personalized video to businesses, possible competitor (needs your call)"
+Zuddl,zuddl.com,US,A,69,Event and webinar platform,,no,keep,
+Strapi,strapi.io,US,A,80,Headless CMS,,no,keep,
+Craft CMS (Pixel & Tonic),craftcms.com,US,A,80,CMS for web teams,,no,keep,
+Respona,respona.com,US,A,76,SEO and PR outreach software,,no,hold,"homepage title is 'Link Building Services: SEO Backlinks Service' and has a write-for-us flag, may be a link vendor"
+RainFocus,rainfocus.com,US,A,77,Event marketing platform,,no,keep,
+Folloze,folloze.com,US,A,70,ABM and buyer engagement platform,,no,keep,
+Herdl,herdl.com,UK,A,67,"Digital marketing, SEO and PPC agency",,no,keep,
+The HOTH,thehoth.com,US,A,75,SEO and link building agency,,no,hold,"sells links and 'High Authority Backlinks', may be a link vendor"
+Rival Digital,rivaldigital.com,US,A,50,Digital marketing agency for HVAC and home service,,no,keep,
+Trust Insights,trustinsights.ai,US,A,65,"Marketing analytics, data and AI consultancy",,no,keep,"write-for-us / guest post page seen, they already take outside content"
+NowSourcing,nowsourcing.com,US,A,57,Infographic design and content marketing agency,,possible,hold,"infographic design agency for other companies, possible competitor (needs your call)"
+Dynamic Planner,dynamicplanner.com,UK,B,46,Wealth management advice platform (fintech SaaS),,no,keep,
+Giacom,giacom.com,UK,B,58,Cloud and comms distribution platform for MSPs (B2B),,no,keep,
+NquiringMinds,nquiringminds.com,UK,B,42,Defence and cyber AI company,,no,keep,
+FluidOne,fluidone.com,UK,B,54,"Managed IT, connectivity and cyber services (B2B)",,no,keep,
+Lupl,lupl.com,UK,B,45,Legal project management SaaS,,no,keep,"HubSpot lead only, no deal"
+Claranet,claranet.com,UK,B,77,"Managed IT, cloud and cyber security services",,no,keep,
+FNZ,fnz.com,UK,B,69,Wealth management platform (fintech),,no,keep,
+Softwire,softwire.com,UK,B,47,Software and data consultancy,,no,keep,
+Kainos,kainos.com,UK,B,71,Digital services and Workday partner,,no,keep,
+Judopay,judopay.com,UK,B,50,Payments gateway and acquiring (B2B fintech),,no,keep,
+Ethyca,ethyca.com,US,B,75,Privacy engineering and data governance SaaS,,no,keep,
+Revenue.io,revenue.io,US,B,72,Sales coaching and conversation intelligence SaaS,,no,keep,
+Attention,attention.com,US,B,60,AI sales assistant and conversation intelligence,,no,keep,
+Akoya,akoya.com,US,B,53,Open finance data access network (FinTech),,no,keep,
+i3 Verticals,i3verticals.com,US,B,72,Integrated payments and vertical software,,no,keep,
+Veriato,veriato.com,US,B,60,Insider risk and employee activity monitoring software,,no,keep,
+Kixie,kixie.com,US,B,71,Sales dialer and revenue communications platform,,no,hold,"doubleclick on homepage (hard fail, needs your call); newest post date shows a future date"
+Ocrolus,ocrolus.com,US,B,62,Lending document automation and fintech AI,,no,keep,
+Prove,prove.com,US,B,72,Digital identity verification and authentication,,no,keep,
+CodeSignal,codesignal.com,US,B,74,Technical hiring and skills assessment platform,,no,hold,"doubleclick on homepage (hard fail, needs your call)"
+Phreesia,phreesia.com,US,B,72,Healthcare patient intake SaaS,,no,keep,
+Synack,synack.com,US,B,73,Crowdsourced penetration testing / cybersecurity,,no,keep,
+AttackIQ,attackiq.com,US,B,67,Breach and attack simulation cybersecurity,,no,keep,
+Omni Analytics,omni.co,US,B,71,Business intelligence / data analytics SaaS,,no,keep,
+Qventus,qventus.com,US,B,53,Healthcare operations AI software,,no,keep,
+SafeBreach,safebreach.com,US,B,71,Breach and attack simulation cybersecurity,,no,keep,
+Sigma Computing,sigmacomputing.com,US,B,75,Cloud BI / analytics platform,,no,keep,
+Action1,action1.com,US,B,71,Patch management / IT ops SaaS,,no,keep,
+Rewst,rewst.io,US,B,62,MSP automation / IT ops platform,,no,keep,
+Okteto,okteto.com,US,B,61,Kubernetes developer environments / dev tools,,no,hold,"doubleclick on homepage (hard fail, needs your call)"
+LinearB,linearb.io,US,B,73,Engineering productivity / dev tools,,no,keep,
+Fly.io,fly.io,US,B,84,Developer cloud platform / app hosting,,no,keep,
+Scale AI,scale.com,US,B,80,AI data and evaluation platform,,no,keep,
+Temporal Technologies,temporal.io,US,B,79,Durable execution / dev tools,,no,keep,
+Augury,augury.com,US,B,62,Industrial AI machine health SaaS,,no,keep,
+MotherDuck,motherduck.com,US,B,74,Cloud data warehouse (DuckDB),,no,hold,"farm word 'betting' on homepage, probably wording not content (needs your call)"
+Constant Contact,constantcontact.com,US,A,92,Email marketing SaaS (martech),,no,keep,"homepage fetch failed (bot block), not scanned; large brand"
+LlamaIndex,llamaindex.ai,US,B,81,AI data framework / agents platform,,no,keep,
+Prefect,prefect.io,US,B,75,Data workflow orchestration,,no,keep,

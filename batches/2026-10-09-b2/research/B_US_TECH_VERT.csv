@@ -1,0 +1,12 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Phreesia,phreesia.com,US,Healthcare patient intake SaaS,B,no,,72,https://www.phreesia.com/blog/,2026-09-29,HQ Raleigh NC (known); date read from cheerio blog index
+Synack,synack.com,US,Crowdsourced penetration testing / cybersecurity,B,no,,73,https://www.synack.com/blog/,2026-09-22,HQ Redwood City CA (known); date from blog index
+AttackIQ,attackiq.com,US,Breach and attack simulation cybersecurity,B,no,,67,https://www.attackiq.com/blog/,2026-09-24,HQ Leesburg VA (known); date from blog index
+Omni Analytics,omni.co,US,Business intelligence / data analytics SaaS,B,no,,71,https://omni.co/blog,2026-10-06,HQ San Francisco (known); date from blog index
+Qventus,qventus.com,US,Healthcare operations AI software,B,no,,53,https://www.qventus.com/resources/blog/,2026-08-11,HQ Santa Clara CA (known); date from article:published_time on newest posts
+SafeBreach,safebreach.com,US,Breach and attack simulation cybersecurity,B,no,,71,https://www.safebreach.com/blog/,2026-09-23,HQ Sunnyvale CA (known; large Israel R&D team); date from post JSON-LD datePublished
+Sigma Computing,sigmacomputing.com,US,Cloud BI / analytics platform,B,no,,75,https://www.sigmacomputing.com/blog,2026-10-08,"HQ San Francisco (known); cheerio failed, date read via playwright:adaptive"
+Action1,action1.com,US,Patch management / IT ops SaaS,B,no,,71,https://www.action1.com/blog/,2026-10-06,HQ Houston TX (known); date from blog index
+Rewst,rewst.io,US,MSP automation / IT ops platform,B,no,,62,https://rewst.io/resources/blog,2026-09-30,HQ Tampa FL (JSON-LD address on site); date from post JSON-LD datePublished
+Okteto,okteto.com,US,Kubernetes developer environments / dev tools,B,no,,61,https://www.okteto.com/blog/,2026-09-10,HQ San Francisco (known); date from post article:published_time
+LinearB,linearb.io,US,Engineering productivity / dev tools,B,no,,73,https://linearb.io/blog,2026-10-02,HQ Los Altos CA per public listings (Israel R&D); verify HQ if strict; date from post JSON-LD datePublished
