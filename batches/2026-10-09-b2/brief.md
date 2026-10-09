@@ -13,3 +13,7 @@
 - Step 3 done (9 Oct): five agents, 52 rows, 02_enriched.csv (all DR 40+), 02_low_dr.csv empty. Checkpoint 2: waiting on the user.
 - Step 3 approved by the user (9 Oct): run Step 4 on all 52. Step 4 started: five agents (step4/STEP4_BRIEF.md), Apify, one article per company with a hook.
 - Step 4 done (9 Oct): five agents, 52 rows. merge_step4.py -> 03_backlink_targets.csv (strong 19, ok 23, weak 10, dead 0). Step 5 only when the user asks.
+- Step 5 requested by the user (9 Oct) on the 42 strong and ok rows (targets_42.csv); the 10 weak rows are held in 03_held_weak.csv, not contacted. Subject style: the user's four templates as batch 1 (to reconfirm).
+- Step 5 contacts done (9 Oct): Instantly SuperSearch three passes (list "backlink-2026-10-09-b2 contacts"; balance 110.8 before, 84.8 after the first two passes), Apollo 0 lead credits left (resets 10 Oct) so not used, Apify leads scraper not used, company-site emails via cheerio (hello@lupl.com taken; support@ and sales@ inboxes at kixie, qventus and dynamicplanner skipped as poor targets). 35 of 42 have an email (34 instantly, 1 website). No email: zype.com, thehoth.com, kixie.com, sigmacomputing.com, dynamicplanner.com, phreesia.com, qventus.com (step5/no_contact.csv). dedupe.py check: 0 removed.
+- Correction (9 Oct): batch 1 Instantly credit use was about 80 (190.8 to 110.8), not about 31 as reported earlier.
+- Emails: four agents (step5/STEP5_BRIEF.md) writing; Instantly campaign check by a background agent (step5/campaign_check.csv). Subjects: the user's four templates, as in batch 1.
