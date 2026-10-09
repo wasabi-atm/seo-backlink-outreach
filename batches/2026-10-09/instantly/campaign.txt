@@ -1,0 +1,4 @@
+b3c97e56-2a8d-48f8-b08e-cb6e4de01aad
+9 October 2026 - Backlink Cold Outreach Campaign
+Status: draft (0), no sender accounts, not activated.
+Leads: 35 of 38 added. Held out because they are already in other Instantly campaigns: jake@triplewhale.com (4. Campaign - Head of Content), wilfrid@audiomob.com (BB May Campaign), chang@lancedb.com (3. Startups - March / Dec leads Campaign). Payload for them: instantly/leads_held.json.
