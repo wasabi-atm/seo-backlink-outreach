@@ -1,0 +1,5 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+The HOTH,thehoth.com,US,SEO and link building agency,A,no,,75,https://www.thehoth.com/blog/,2026-10-06,"HQ St. Petersburg FL (DesignRush, BuiltIn, LeadIQ). Blog dates read from cheerio crawl. Note: also sells links a la carte, so review for link-vendor fit"
+Rival Digital,rivaldigital.com,US,Digital marketing agency for HVAC and home service,A,no,,50,https://rivaldigital.com/blog/,2026-10-08,"HQ Chesapeake VA (DesignRush, G2). Dates from cheerio crawl of blog index; niche home-services vertical"
+Trust Insights,trustinsights.ai,US,"Marketing analytics, data and AI consultancy",A,no,,65,https://trustinsights.ai/blog/,2026-10-07,"HQ Massachusetts (from own knowledge, not re-verified by search). Dated posts in blog index text (newsletter 2026-10-07)"
+NowSourcing,nowsourcing.com,US,Infographic design and content marketing agency,A,no,,57,https://nowsourcing.com/blog/,2026-09-29,"HQ Louisville KY (directory listings, address varies across sources). Produces infographics and some visual content, not a video studio"
