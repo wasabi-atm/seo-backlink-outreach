@@ -8,3 +8,4 @@
 ## Progress log
 
 - Research started (9 Oct): 7 agents (RESCUE, A_UK_AGENCY, A_US_AGENCY, A_MARTECH, B_UKUAE, B_US_PEOPLE_FIN, B_US_TECH_VERT) with the script-rendered blog method. Exclude list 3428 domains.
+- Step 2b vetting (9 Oct): no screenshots possible. One Apify cheerio run on 52 homepages (51 loaded; constantcontact.com blocked). No parked sites, no redirects off-domain. Doubleclick: kixie.com, codesignal.com, okteto.com. Farm word betting: motherduck.com. Possible link vendors: thehoth.com, respona.com. Possible competitors: idomoo.com, nowsourcing.com. HubSpot: only lupl.com (lead, no deal). 01_prospects_proposed.csv holds the status per row. Checkpoint 1: waiting on the user.
