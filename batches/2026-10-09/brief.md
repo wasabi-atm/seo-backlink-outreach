@@ -10,3 +10,6 @@
 ## Progress log
 
 - Sync (9 Oct): checkout equals origin/main (52e5136). Repo SKILL.md is newer than the claude.ai copy (video schema check, crawl4ai, Step 6). Interview answered with the recommended defaults.
+- Candidates (9 Oct): 8 research agents returned 52 rows (A_UK_CREATIVE 0, A_UK_AGENCY 3, A_UKUAE_MARTECH 7, A_US_AGENCY 6, A_US_MARTECH 5, B_UKUAE 6, B_US_FIN_PEOPLE 13, B_US_TECH_VERT 12). dedupe.py check: 52 clean, 0 removed. UAE: only secure.com.
+- Step 2b vetting (9 Oct): no screenshots possible (sandbox blocks sites, no Chrome). One Apify cheerio run on 52 homepages (48 loaded first pass, nextroll and bridgehead on retry, taxdome 403, centerbase SSL error). No farm words, no parked, no write-for-us flags. Doubleclick: inventry.co.uk, mpulsesoftware.com (held for user). Acquired: pocus.com (Apollo), metronome.com (Stripe), proposed drops. HubSpot: lancedb, audiomob, pocus, auditboard, upkeep are leads only, no deals, kept. videoSchemaGap not checked. 01_prospects_proposed.csv holds the status per row.
+- Checkpoint 1: waiting on the user.
