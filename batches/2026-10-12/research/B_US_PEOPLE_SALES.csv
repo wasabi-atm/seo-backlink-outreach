@@ -1,0 +1,14 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+PlanSource,plansource.com,US,Benefits administration SaaS,B,no,,64,https://plansource.com/blog/,2026-10-08,"HQ Orlando FL (company knowledge). Date read from blog index listing (Oct 8, 2026)."
+PhoneBurner,phoneburner.com,US,Sales dialer and outbound calling SaaS,B,no,,67,https://www.phoneburner.com/blog,2026-04-27,"US HQ (company knowledge). Date read from blog index (April 27, 2026); posting cadence looks slower than others."
+Momentum,momentum.io,US,Revenue intelligence and GTM data SaaS,B,no,,56,https://www.momentum.io/blog,2026-02-25,"HQ San Francisco (company knowledge). Date read from blog index (February 25, 2026)."
+Shelf,shelf.io,US,Knowledge management for CX and support SaaS,B,no,,72,https://shelf.io/blog/,2026-09-21,"HQ Chicago (company knowledge). Date read from blog index (September 21, 2026); several posts per week."
+Businessolver,businessolver.com,US,Benefits administration SaaS,B,no,,73,https://businessolver.com/blog/,2026-10-08,"HQ West Des Moines IA (company knowledge). Date read from blog index (October 8, 2026)."
+Employee Navigator,employeenavigator.com,US,Benefits admin and HR SaaS for brokers,B,no,,75,https://www.employeenavigator.com/blog,2026-10-08,"HQ Raleigh NC (company knowledge). Dates read from blog index (Oct 8, Oct 2, Oct 1 2026)."
+Perceptyx,perceptyx.com,US,Employee listening and engagement SaaS,B,no,,72,https://blog.perceptyx.com/,2026-10-06,"HQ Temecula CA (company knowledge). Blog on blog.perceptyx.com subdomain; date read from index (October 6, 2026)."
+Compt,compt.io,US,Lifestyle spending account and employee perks SaaS,B,no,,64,https://compt.io/blog/,2026-09-01,HQ Boston (company knowledge). Date from article:published_time on product updates September 2026 post.
+Crosschq,crosschq.com,US,Hiring intelligence and reference check SaaS,B,no,,65,https://www.crosschq.com/blog,2026-04-23,HQ San Francisco (company knowledge). Date from JSON-LD datePublished on newest index post (NFL draft lessons).
+LeanData,leandata.com,US,Lead routing and revenue orchestration SaaS,B,no,,73,https://www.leandata.com/blog/,2026-10-07,HQ Bay Area CA (company knowledge). Date from article:published_time on OpsStars 2026 recap post; 216 posts on index.
+Zingtree,zingtree.com,US,CX agent guidance and support automation SaaS,B,no,,63,https://zingtree.com/en/resources/blog,2026-10-06,HQ San Francisco (company knowledge). Date from JSON-LD datePublished on consumer survey 2026 post.
+UJET,ujet.cx,US,Contact center and CX platform SaaS,B,no,,70,https://ujet.cx/blog,2026-10-05,HQ San Francisco (company knowledge). Date from JSON-LD datePublished on AXO FAQ post.
+QuotaPath,quotapath.com,US,Sales commission and compensation SaaS,B,no,,64,https://www.quotapath.com/blog/,2026-10-08,"HQ Philadelphia area, remote first (company knowledge). Date from article:published_time on newest index post."
