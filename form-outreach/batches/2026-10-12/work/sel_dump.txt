@@ -1,0 +1,867 @@
+### constructor.io | Constructor | seg B | US
+  formUrl: https://constructor.com/partners
+  formSteps: Scroll to the partner form; pick "No" for immediate client need; pick "Other" for nature of interest
+  requiredExtras: Job title: Founder; Company: Motion The Agency; Country: United Kingdom; Immediate client need dropdown: No; Nature of interest dropdown: Other; Terms checkbox (shown with asterisk)
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: requiredTerms
+  articleTitle: Ecommerce Merchandising: A Strategic Guide for the Modern Commerce Era
+  articleUrl: https://constructor.com/blog/e-commerce-merchandising-everything-you-need-to-know
+  articleDate: 2026-09-08 (updated)
+  linkPlacement: No-code visual merchandising (pin/boost/hide) from a dashboard or merchandising console
+  articleHook: The "No-code visual merchandising" section explains pinning, boosting and burying items in the Constructor dashboard in words only, while the best practices part says videos help "boosting customer confidence in their purchase".
+  offerSuggestion: Video for the post
+  offerLine: make a short animated walkthrough for the "No-code visual merchandising" section
+  greetingName: 
+  notes: Domain redirects to constructor.com. H1 now differs from the meta title ("Do You Have a Successful Ecommerce Merchandising Strategy?"). Article has one YouTube embed elsewhere on the page, so do not claim the page has no video. Partner form is HubSpot with invisible reCAPTCHA Enterprise; marketing checkbox label also shows an asterisk but is not marked required in the DOM. Options also include "Ch
+### monsterinsights.com | MonsterInsights | seg A | US
+  formUrl: https://www.monsterinsights.com/contact/
+  formSteps: Use the "I have a basic question" form (not the support ticket link)
+  requiredExtras: Website: motiontheagency.com
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: 12 Ways to Increase User Engagement on Your Website
+  articleUrl: https://www.monsterinsights.com/proven-ways-to-increase-user-engagement-on-your-website/
+  articleDate: 2026-10-01 (updated)
+  linkPlacement: 8. Add Videos to Your Pages
+  articleHook: Section 8 says a video "can also explain a step that's hard to follow in writing", but the section has no example video; the only one is the tutorial at the very end.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "8. Add Videos to Your Pages" section
+  greetingName: 
+  notes: WPForms contact form for pre-sales or general questions; page HTML has reCAPTCHA and Turnstile markers but no visible widget was found. Sitemaps returned no URLs to the scanner; article found from /blog/. MonsterInsights is part of Awesome Motive.
+### ebiquity.com | Ebiquity | seg A | UK
+  formUrl: https://ebiquity.com/contact/
+  formSteps: Form loads in an iframe on the contact page; pick "Agency" in Organisation Type and "United Kingdom" in Country
+  requiredExtras: Company: Motion The Agency; Country: United Kingdom; Organisation Type dropdown: Agency
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: none
+  articleTitle: Retail Media is ready. The data is playing catch-up.
+  articleUrl: https://ebiquity.com/news-insights/retail-media-is-ready-the-data-is-playing-catch-up/
+  articleDate: 2026-09-09 (published)
+  linkPlacement: Four Techniques That Actually Work
+  articleHook: The post makes its case with one number, online at just 10% of UK food sales against 90% in stores, then sets out four measurement techniques, all in text with no chart or diagram.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Four Techniques That Actually Work" section
+  greetingName: 
+  notes: Pardot form (www4.ebiquity.com) in an iframe with a reCAPTCHA Enterprise widget; hidden honeypot "Comments" field must stay empty. Article by Priya Patel, Group Director of Marketing Effectiveness; section labels are styled paragraphs, not H2s. Ebiquity plc is LSE listed and may be slightly over 500 staff; not clearly far over, so kept.
+### prosek.com | Prosek Partners | seg A | US
+  formUrl: https://www.prosek.com/contact-us/
+  formSteps: 
+  requiredExtras: None beyond name, email and message
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: Digital Blink
+  articleUrl: https://www.prosek.com/news/digital-blink/
+  articleDate: 2025-12-03 (published)
+  linkPlacement: Offense is the best defense.
+  articleHook: The tips list says AI answers vary across "Gemini, Groc, Anthropic and ChatGPT", and the last line reads "If Malcom Gladwell were writing Blinkin 2025", so a couple of small typos have slipped through.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Offense is the best defense" tip on publishing high signal content
+  greetingName: 
+  notes: Given article (Building Muscle for Agency, 2026-09-17) is a parenting and leadership newsletter, off topic, so swapped for Digital Blink. Gravity Forms with a hidden honeypot field (leave blank). Phone consent text shown under form but no checkbox. Tip headings are bold lines, not H2.
+### onlineoptimism.com | Online Optimism | seg A | US
+  formUrl: https://onlineoptimism.com/contact/
+  formSteps: 
+  requiredExtras: None beyond name, email and message
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: optionalMarketing
+  articleTitle: How Marketing Agencies Can Strengthen Brand Visibility Through Strategic Content Distribution
+  articleUrl: https://onlineoptimism.com/blog/strengthen-brand-visibility-content-distribution/
+  articleDate: 2026-09-17 (published, shown as Last Updated)
+  linkPlacement: 2. Understand the Essence and Rules of Each Platform
+  articleHook: Section 2 lists "TikTok: Short, entertaining videos with an immediate hook" and "YouTube: Longer-form videos with storytelling", yet the post itself has no video example of either.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Understand the Essence and Rules of Each Platform" section
+  greetingName: 
+  notes: Message field on the main contact form is a single line text input (required, no max length), not a textarea, so line breaks will be lost; keep the message as one paragraph. A form with a real Message textarea (Name, Email Address, Message) sits on /service/social-media-management-marketing-agency/ if preferred. Gravity Forms honeypot field present (leave blank). reCAPTCHA script seen on site but 
+### jwplayer.com | JW Player | seg A | US
+  formUrl: https://jwx.com/contact-us
+  formSteps: Click the "Other" tab above the form to show the general form
+  requiredExtras: Company Name: Motion The Agency; Headquarters Region: pick the Asia Pacific option (Motion is in Bali)
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: none
+  articleTitle: Social Is the New Destination: How Premium Publishers Are Rebuilding Reach
+  articleUrl: https://jwx.com/blog/social-is-the-new-destination-how-premium-publishers-are-rebuilding-reach
+  articleDate: 2026-05-11 (published)
+  linkPlacement: What Effective Distribution Actually Requires
+  articleHook: The section "What Effective Distribution Actually Requires" says an Instagram Reel, a YouTube Short and a Threads post "are not interchangeable executions of the same idea", yet the post has no video at all, only a header image.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "What Effective Distribution Actually Requires" section
+  greetingName: 
+  notes: jwplayer.com now redirects to jwx.com (JWP Connatix rebranded as JWX). Given URL was an archive page, so swapped for this post by CEO John Nardone. Staff count may be near or over 500 after the Connatix merger; not skipped as unsure. Other tabs (Streamer, Publisher, Advertiser) are sales forms; Billing needs an account number. JWX sells video tech, not video production, so not a competitor.
+### browsermedia.agency | Browser Media | seg A | UK
+  formUrl: https://browsermedia.agency/contact-us/
+  formSteps: Form sits in the footer panel at the bottom of the page
+  requiredExtras: None beyond name, email and message
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: 10 ways to extend the life (and benefits) of your PR campaigns
+  articleUrl: https://browsermedia.agency/blog/10-ways-to-extend-the-life-and-benefits-of-your-pr-campaigns/
+  articleDate: 2026-09-02 (published)
+  linkPlacement: Sweat the assets across your other marketing channels
+  articleHook: Under "Sweat the assets across your other marketing channels" it says "A strong statistic might make a great LinkedIn post", but the post never shows what that repurposed asset could look like, and there is no video in it.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Sweat the assets across your other marketing channels" section
+  greetingName: 
+  notes: The /contact-us/ page body still shows internal placeholder notes ("Not really too sure what to put on this page, as there is a contact form on every page"); the same form is on every page, so any page works. Author: Kerry Sheahan. reCAPTCHA script only, no visible widget.
+### whitespace.agency | White Space Agency | seg A | UK
+  formUrl: https://whitespace.agency/contact/
+  formSteps: 
+  requiredExtras: Consent checkbox required
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: requiredTerms
+  articleTitle: How to make a PPC Landing Page Convert - 2026 Best Practices for Conversions
+  articleUrl: https://whitespace.agency/insight/how-to-make-a-ppc-landing-page-convert/
+  articleDate: 2026-03-13 (updated)
+  linkPlacement: Align visuals with copy
+  articleHook: "Align visuals with copy" says images and illustrations should reinforce the message at each stage, yet step 3 warns to "Avoid heavy background videos", leaving short light animation as the middle route the post never covers.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Align visuals with copy" section
+  greetingName: 
+  notes: Full service marketing agency in Devon (branding, web, paid and organic social, media buying), not a video studio. Same form is repeated three times on the page. Exact H1 uses a dash before 2026; written here with a hyphen. Page has one image and no video.
+### triplewhale.com | Triple Whale | seg A | US
+  formUrl: https://www.triplewhale.com/contact
+  formSteps: "I'm Reaching Out About..." dropdown: pick "General Question"; message box may appear after that choice
+  requiredExtras: Reaching Out About dropdown: General Question; Agency or Brand: Agency (optional)
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: none
+  articleTitle: 6 advanced strategies to increase LTV and retention (without growing ad spend)
+  articleUrl: https://www.triplewhale.com/blog/6-advanced-strategies-ltv-and-retention
+  articleDate: 2026-10-01 (published)
+  linkPlacement: 4. Build win-back campaigns around purchase timing
+  articleHook: The contents list jumps from "4. Build win-back campaigns around purchase timing" straight to "6. Improve abandonment campaigns with Sonar Send", because step 5 on loyalty rewards is not set as a heading.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "4. Build win-back campaigns around purchase timing" section
+  greetingName: 
+  notes: HubSpot form in iframe; most dropdown options are support topics, General Question is the honest pick. Old hook said no video, but the post now has 4 YouTube embeds, so hook rewritten. About page lists maggie_h@triplewhale.com (likely press contact). Intercom chat also on site.
+### mcgaw.io | McGaw | seg A | US
+  formUrl: https://mcgaw.io/contact/
+  formSteps: 
+  requiredExtras: How did you hear about us (free text) required
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: How to Build a Marketing Attribution Stack Without Engineering Dependencies
+  articleUrl: https://mcgaw.io/blog/marketing-attribution-stack-without-engineering/
+  articleDate: 2026-09-16 (updated)
+  linkPlacement: The 5-Layer Marketing Attribution Stack Marketing Ops Can Own
+  articleHook: The five layers and the "Implementation: Your 4-Week Marketing Attribution Rollout" plan are all in text across about 3,300 words, with a single image and no diagram or video.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "The 5-Layer Marketing Attribution Stack Marketing Ops Can Own" section
+  greetingName: 
+  notes: Contact page is titled "Book Your Free Consultation" but has no required budget or size fields, only a pain points message box. Page HTML has both recaptcha and turnstile markers, no visible checkbox seen in scan.
+### system1group.com | System1 | seg A | UK
+  formUrl: https://system1group.com/contact
+  formSteps: I'm Interested In dropdown: Something Else; Company Type dropdown: Creative Agency
+  requiredExtras: Industry dropdown: Professional Services; Company: Motion The Agency; Company Type dropdown: Creative Agency; Country dropdown: United Kingdom or as fits; How Did You Find Us? dropdown: Article/News story; privacy agreement checkbox
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: requiredTerms
+  articleTitle: Less is More in Outdoor: The Design Rule for Ads that Actually Stand Out
+  articleUrl: https://system1group.com/blog/less-is-more-in-outdoor-the-design-rule-for-ads-that-actually-stand-out
+  articleDate: 2026-10-08 (published)
+  linkPlacement: Enter The 60/30/10 Rule.
+  articleHook: The Jaffa Cakes poster scoring 88% on Fast Fluency, 28% above your UK outdoor average, is a neat proof that the 60/30/10 rule from web design carries over to billboards.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Enter The 60/30/10 Rule." section
+  greetingName: 
+  notes: System1 Group is AIM listed but around 300 staff. Form also used for sales and has a second Test Your Ad lead form on the page; use the general one with "I'm Interested In". Privacy checkbox treated as required (label says by submitting I agree). Page has a separate "Do you have a business email?" form widget.
+### oneupweb.com | Oneupweb | seg A | US
+  formUrl: https://www.oneupweb.com/contact-us/
+  formSteps: Tick "Other" in "I'd like to ... (select all that apply)" to reveal the "Drop us a note" message box
+  requiredExtras: I'd like to checkboxes: Other
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: How to Choose a Marketing Agency
+  articleUrl: https://www.oneupweb.com/blog/how-to-choose-marketing-agency/
+  articleDate: 2026-04-10 (published and updated)
+  linkPlacement: 3. Define Deliverables (and Intangibles)
+  articleHook: The examples under "3. Define Deliverables (and Intangibles)" cover social media and a new website, but nothing on video, and the page itself has no images or video.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "3. Define Deliverables (and Intangibles)" section
+  greetingName: 
+  notes: HubSpot form (portal 268255), fields read from the HubSpot form definition. Browser tab title is "3 Tips for Choosing a Digital Marketing Agency" while the H1 is "How to Choose a Marketing Agency". Oneupweb is a full service digital marketing agency, not a video studio.
+### terakeet.com | Terakeet | seg A | US
+  formUrl: https://terakeet.com/contact/
+  formSteps: 
+  requiredExtras: How did you hear about us? (free text) required
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: turnstile
+  consentBox: none
+  articleTitle: Strategic B2B Content Marketing: Evergreen Guide
+  articleUrl: https://terakeet.com/blog/b2b-content-marketing/
+  articleDate: 2026-07-23 (updated; first published 2022-07-26)
+  linkPlacement: 5. Use video and webinars for B2B content marketing
+  articleHook: Section "5. Use video and webinars for B2B content marketing" still quotes a stat on B2B marketers planning to invest in videos in 2022, and the guide itself has no video.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "5. Use video and webinars for B2B content marketing" section
+  greetingName: 
+  notes: Visible byline date is Jul 26, 2022; article:modified_time meta is 2026-07-23. Turnstile marker on contact page. Terakeet is an SEO and reputation agency (around 200 to 300 staff), not a video studio. Separate /get-started/ sales form also exists; use /contact/.
+### listrak.com | Listrak | seg A | US
+  formUrl: https://www.listrak.com/partners/become-a-partner
+  formSteps: Mutual clients radio: No; retailer size dropdown optional, leave blank
+  requiredExtras: Phone required; Company: Motion The Agency
+  hasSubjectField: no
+  messageMaxChars: 5000
+  captcha: turnstile
+  consentBox: none
+  articleTitle: Stop Reporting on Channels in Isolation
+  articleUrl: https://www.listrak.com/blog/stop-reporting-on-channels-in-isolation
+  articleDate: 2026-09-24 (sitemap lastmod; no date shown on page)
+  linkPlacement: Building the Cross-Channel View
+  articleHook: The intro follows a shopper who "opens an Email on Monday, gets a back-in-stock text on Wednesday, and buys on Friday", but that journey is only told in text, with no visual of the path.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Building the Cross-Channel View" section
+  greetingName: 
+  notes: Contact page has no form, only info@listrak.com and a Talk to an Expert sales flow; the Become a Partner form is the usable one (Comments textarea not marked required). No date on the article page; sitemap lastmod 2026-09-24 and sibling posts reference October 2026. Captcha marker is Cloudflare Turnstile, likely invisible.
+### bruceclay.com | Bruce Clay Inc | seg A | US
+  formUrl: https://www.bruceclay.com/about/press/
+  formSteps: 
+  requiredExtras: Phone required; Company URL: https://motiontheagency.com
+  hasSubjectField: no
+  messageMaxChars: 2000
+  captcha: hcaptcha
+  consentBox: none
+  articleTitle: 3 Content Formats That Attract More Organic Traffic and Engagement
+  articleUrl: https://www.bruceclay.com/blog/content-formats-attract-organic-traffic-engagement/
+  articleDate: 2026-08-20 (updated; published 2025-02-04)
+  linkPlacement: 3. Video Content
+  articleHook: The "3. Video Content" section leans on Wyzowl's "Video Marketing Statistics 2024", although the post was updated in August 2026, so the video numbers are two years old.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "3. Video Content" section
+  greetingName: 
+  notes: The same short contact form (with hCaptcha) appears in the page footer site-wide, including /about/ and /about/press/; /about/contact-us/ did not show it in static HTML. The separate /quoteform/ is a sales quote form, avoid it. Blog has a recent post titled "Bruce Clay has passed" (2026-08-10), so do not address the founder by name; greeting left blank. Section already embeds one YouTube video.
+### lform.com | Lform | seg A | US
+  formUrl: https://lform.com/contact/
+  formSteps: 
+  requiredExtras: Phone required; service checkboxes optional, leave unticked
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: What Pages Does a Manufacturing Website Need?
+  articleUrl: https://lform.com/blog/post/what-pages-does-manufacturing-website-need/
+  articleDate: 2026-09-10 (updated)
+  linkPlacement: Case Studies
+  articleHook: The "Capabilities" and "Case Studies" sections tell manufacturers to show the work, yet the post has no video or process graphic, and 6 of its 7 images have no alt text.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Case Studies" section
+  greetingName: 
+  notes: Form has a hidden honeypot text field; leave it empty. Article footer links to a guest post invitation ("Write a guest post!"). Calendly embed on site is for sales calls; use the contact form.
+### digitalauthority.me | Digital Authority Partners | seg A | US
+  formUrl: https://www.digitalauthority.me/contact-us/
+  formSteps: 
+  requiredExtras: Phone required
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: none
+  articleTitle: How Healthcare Content Marketing Works for You And Your Patients
+  articleUrl: https://www.digitalauthority.me/resources/how-healthcare-content-marketing-works/
+  articleDate: 2026-09-14 (updated; published 2026-07-23)
+  linkPlacement: Types of Healthcare Content That Earn Patient Trust
+  articleHook: The post lists "Videos: Walk patients through procedures or conditions" and says adding videos and infographics helps patients understand complex topics, yet the page itself has no video.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Types of Healthcare Content That Earn Patient Trust" section
+  greetingName: 
+  notes: Contact form is the agency's own lead form (message box asks for marketing goals) with invisible reCAPTCHA Enterprise; text under it says submitting consents to service-related SMS. Site has about 2,500 posts in its sitemap, so it is a high-volume content site. Alternative article: 11 Business-to-Consumer Content Marketing Trends for 2025 and Beyond (updated 2026-04-08), whose first trend is "Shor
+### emulent.com | Emulent Digital Marketing | seg A | US
+  formUrl: https://emulent.com/contact/
+  formSteps: 
+  requiredExtras: Website we will be discussing: motiontheagency.com
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: Diagram: How ChatGPT Chooses What Sources To Include
+  articleUrl: https://emulent.com/resources/how-chatgpt-chooses-sources/
+  articleDate: 2026-08-26 (updated)
+  linkPlacement: Cut most of them: retrieval is not citation
+  articleHook: The page is billed as a diagram, yet the five numbered steps (01 to 05) are all text with no images, and step 04 says roughly 85 percent of retrieved pages are never cited.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Cut most of them: retrieval is not citation" section
+  greetingName: 
+  notes: Contact form is a general enquiry form with a honeypot field; captcha scripts referenced in page source but no visible widget. Date from og:updated_time.
+### rainfocus.com | RainFocus | seg A | US
+  formUrl: https://www.rainfocus.com/contact-us/
+  formSteps: Reason for request dropdown: pick "Partnership"
+  requiredExtras: Company: Motion The Agency; Reason dropdown: Partnership
+  hasSubjectField: no
+  messageMaxChars: 2000
+  captcha: none
+  consentBox: none
+  articleTitle: How to Prevent Registration Abandonment
+  articleUrl: https://www.rainfocus.com/blog/how-to-prevent-registration-abandonment/
+  articleDate: 2026-09-22 (published, date shown on blog index)
+  linkPlacement: What to Do When Attendees Abandon Their Cart
+  articleHook: The opening line says the average registration abandonment rate sits around 33% with no source given, and the post has no images or video at all.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "What to Do When Attendees Abandon Their Cart" section
+  greetingName: 
+  notes: Marketo form; text under it says submitting consents to occasional marketing emails (no checkbox). No date on the article page itself; Sep 22, 2026 shown next to it on /blog/.
+### artversion.com | ArtVersion | seg A | US
+  formUrl: https://artversion.com/contact-us/
+  formSteps: Pick the "General Inquiry" radio (reveals the message box; do not pick Looking for a Quote, which reveals Budget)
+  requiredExtras: Company: Motion The Agency; Phone required; Enquiry type radio: General Inquiry; required checkbox agreeing to email and/or SMS messages
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: requiredTerms
+  articleTitle: What Design Language Actually Does for Brand Trust
+  articleUrl: https://artversion.com/blog/what-design-language-actually-does-for-brand-trust/
+  articleDate: 2026-10-07 (published)
+  linkPlacement: Interface Behavior as Brand Behavior
+  articleHook: Interface Behavior as Brand Behavior says even the speed at which a transition animates is a brand decision, yet the 1,300 word post has no images or motion examples at all.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Interface Behavior as Brand Behavior" section
+  greetingName: 
+  notes: Brand, web and UI agency, not a video or animation studio. Formidable form; page source has a Cloudflare challenge-platform script but the site loads normally. Required consent box covers email and SMS marketing messages.
+### anvilmediainc.com | Anvil Media | seg A | US
+  formUrl: https://www.anvilmediainc.com/contact/
+  formSteps: 
+  requiredExtras: 
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: none
+  articleTitle: The Hidden Costs of DIY Marketing Photography
+  articleUrl: https://www.anvilmediainc.com/blog/the-hidden-costs-of-diy-marketing-photography/
+  articleDate: 2026-09-22 (published)
+  linkPlacement: What Does a Year of Intentional Photography Look Like?
+  articleHook: "A Quick Audit You Can Run Right Now" asks four questions about your photos, and the post says buyers judge visuals "before a headline, before a price", yet video and motion never come up.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "What Does a Year of Intentional Photography Look Like?" section
+  greetingName: 
+  notes: HubSpot form rendered by JS with reCAPTCHA Enterprise (invisible style). Post has no images.
+### lullabot.com | Lullabot | seg A | US
+  formUrl: https://www.lullabot.com/contact
+  formSteps: 
+  requiredExtras: Your organization: Motion The Agency; How you heard about us: required free text (e.g. Your articles)
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: Content Management Trends: What Changed in 2025 and What Comes Next
+  articleUrl: https://www.lullabot.com/articles/content-management-trends-what-changed-2025-and-what-comes-next
+  articleDate: 2026-02-05 (published)
+  linkPlacement: The acceleration of design systems
+  articleHook: The post walks through four 2025 shifts and five predictions under "Looking ahead", including "The acceleration of design systems", all in text with no visuals beyond the author photo.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "The acceleration of design systems" section
+  greetingName: 
+  notes: Drupal webform posting to /antibot (JS anti bot check, no visible captcha). A hidden "Leave this field blank" honeypot exists; leave it empty. Alternative: "HCIC 2025: Key Insights from Healthcare Digital Marketers" (2025-12-03).
+### steerpoint.com | SteerPoint | seg A | US
+  formUrl: https://www.steerpoint.com/contact/
+  formSteps: 
+  requiredExtras: Phone required; Company: Motion The Agency; Website: motiontheagency.com; Today's date required (text, 2026-10-12)
+  hasSubjectField: no
+  messageMaxChars: 455
+  captcha: none
+  consentBox: none
+  articleTitle: 7 Small Website Changes That Can Increase Leads Without a Redesign
+  articleUrl: https://www.steerpoint.com/7-small-website-changes-that-can-increase-leads-without-a-redesign/
+  articleDate: 2026-07-21 (published)
+  linkPlacement: 3. Build Trust With Social Proof
+  articleHook: The social proof section lists reviews, ratings, before and after photos, awards and client logos, but no video testimonial, and the page itself has no video at all.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "3. Build Trust With Social Proof" section
+  greetingName: 
+  notes: Contact page has a hidden honeypot field (labelled Name/LinkedIn, not required). Message box limited to 455 characters. Second small form gf_18 on every page is a newsletter style form, ignore.
+### gumgum.com | GumGum | seg A | US
+  formUrl: https://gumgum.com/contact
+  formSteps: Who are you? dropdown: Other
+  requiredExtras: Job title: Founder; Company: Motion The Agency; Who are you?: Other; Country dropdown required (no Indonesia in the top list, pick from full list)
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: turnstile
+  consentBox: optionalMarketing
+  articleTitle: 3 Ways to Win with CTV Right Now
+  articleUrl: https://gumgum.com/blog/3-ways-to-win-with-ctv-right-now
+  articleDate: 2026-08-28 (updated; published 2026-05-22)
+  linkPlacement: Create CTV Experiences People Will Never Forget
+  articleHook: In "Create CTV Experiences People Will Never Forget", Rob Auger says years of optimisation have started to flatten brands creatively, yet the post about memorable CTV storytelling has no video or ad example on the page.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Create CTV Experiences People Will Never Forget" section
+  greetingName: 
+  notes: Webflow form with Cloudflare Turnstile (sitekey on form) and a disabled reCAPTCHA block. Page title is Contact / Request a Demo but the form is general with an Other option and a required free text message. Segment set to A (advertising company, creative adjacent).
+### improvado.io | Improvado | seg A | US
+  formUrl: https://improvado.io/company/partners
+  formSteps: Scroll to the partner form; leave Partnership type unselected (optional; options are Integration Partner, Business intelligence)
+  requiredExtras: Company: Motion The Agency
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: Battle of Video: Facebook vs. YouTube Ads
+  articleUrl: https://improvado.io/blog/battle-of-video-facebook-vs-youtube
+  articleDate: 2026-07-24 (updated; first published 2018-02-07)
+  linkPlacement: Reasons to Run Facebook Video Ads
+  articleHook: "Reasons to Run Facebook Video Ads" still lists Periscope as a live video network and quotes 2.8 billion Facebook users, and for a post about video ads there is no video on the page.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Reasons to Run Facebook Video Ads" section
+  greetingName: 
+  notes: No general contact page (/contact-us redirects to pricing, talk-to-an-expert is a signup flow). Partner form is the only free text route; Partnership type is optional so no wrong option needs picking. Technology partnership form also exists but needs phone and job title. Periscope closed in 2021, so the hook is checkable.
+### vistasocial.com | Vista Social | seg A | US
+  formUrl: https://vistasocial.com/contact/
+  formSteps: Typeform, one question per screen. Q1 Which team would you like us to connect you with?: Partnerships
+  requiredExtras: Team choice: Partnerships; Subject required (keep under 50 characters)
+  hasSubjectField: yes
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: How the LinkedIn Algorithm Works in 2026
+  articleUrl: https://vistasocial.com/insights/linkedin-algorithm-in-2026/
+  articleDate: 2026-10-07 (published, visible date)
+  linkPlacement: Match the format to the job
+  articleHook: "Match the format to the job" says video earns its place when motion, voice or demonstration improves the explanation, and the myths section rejects the idea that video automatically outranks every format, yet the post has no video example.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Match the format to the job" section
+  greetingName: 
+  notes: Contact form is a Typeform embed (form.typeform.com/to/SBGQi4gJ); 5 required questions. The max 50 limit was read from form config and probably applies to the subject. Page also shows an older date (October 1, 2024) in the byline area, likely the original publish; the visible top date is October 7, 2026.
+### highwirepr.com | Highwire PR | seg A | US
+  formUrl: https://www.teamhighwire.com/contact
+  formSteps: I Am dropdown: something else; Industry dropdown: Other
+  requiredExtras: I Am: something else; Company: Motion The Agency; Company Website: motiontheagency.com; Industry: Other
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: none
+  articleTitle: How to Build a Successful Brand Launch Strategy
+  articleUrl: https://www.teamhighwire.com/insights/brand-launch-strategy
+  articleDate: 2026-07-10 (updated; published 2026-04-29)
+  linkPlacement: 3. Develop A Comms Plan
+  articleHook: Step 3 says "Videos are the most popular form of social media right now", yet the guide has one image and no video, and its steps heading reads "5 Steps For Building An Effective Brand Strategy" rather than brand launch.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "3. Develop A Comms Plan" section
+  greetingName: 
+  notes: highwirepr.com redirects to teamhighwire.com. HubSpot form rendered on page; reCAPTCHA Enterprise invisible. PR and marcomms agency, not a video studio.
+### socialpilot.co | SocialPilot | seg A | US
+  formUrl: https://www.socialpilot.co/contact-us
+  formSteps: 
+  requiredExtras: 
+  hasSubjectField: no
+  messageMaxChars: 2000
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: 6 Amazing Video Marketing Strategies for Your Brand
+  articleUrl: https://www.socialpilot.co/blog/video-marketing-strategy
+  articleDate: 2026-07-10 (updated)
+  linkPlacement: 3. Who will develop your video content?
+  articleHook: Section 3, "Who will develop your video content?", points readers to creators for "YouTube and Vine", though Vine closed years ago and the page was updated in July 2026.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "3. Who will develop your video content?" section
+  greetingName: 
+  notes: Social media management SaaS, marketing adjacent so Segment A. Contact form 7 with reCAPTCHA v3 (invisible). Article published 2024-01-03, modified 2026-07-10. Intro also cites "In early 2017, Facebook announced".
+### dsmn8.com | DSMN8 - The Employee Advocacy Platform | seg A | UK
+  formUrl: https://dsmn8.com/contact-us/
+  formSteps: 
+  requiredExtras: Job title: Founder
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: optionalMarketing
+  articleTitle: Does LinkedIn Content Format Actually Matter? 10 Experts Weigh In
+  articleUrl: https://dsmn8.com/blog/does-linkedin-content-format-matter/
+  articleDate: 2026-09-02 (updated)
+  linkPlacement: Start With the Outcome, Not the Format
+  articleHook: The intro asks "Is video really essential on LinkedIn?" and Vaibhav Kakkar says video suits posts that need emotion, but none of the ten experts actually makes video for a living.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Start With the Outcome, Not the Format" section
+  greetingName: 
+  notes: Employee advocacy SaaS, marketing adjacent so Segment A. HubSpot form in iframe; consent checkbox not marked required. Article published 2026-05-08, modified 2026-09-02; built from expert quotes, so a quote swap fits well. Home also has Chili Piper for demos.
+### blastmedia.com | BLASTmedia | seg A | US
+  formUrl: https://www.panblastpr.com/contact-us/
+  formSteps: Dropdown "I'm interested in...": Other
+  requiredExtras: Company: Motion The Agency; I'm interested in: Other; How did you hear about us: Google/Search Engine
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: optionalMarketing
+  articleTitle: PR and Social Trends To Care About in 2026 (So Far)
+  articleUrl: https://www.panblastpr.com/resources/pr-social-trends-2026/
+  articleDate: 2026-03-20 (published)
+  linkPlacement: Edutainment: Create content that informs as much as it stops the scroll.
+  articleHook: The "Edutainment" section says short-form video is eating search traffic and long-form YouTube is making a comeback, yet the post itself has no video or images at all.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Edutainment: Create content that informs as much as it stops the scroll." section
+  greetingName: 
+  notes: blastmedia.com now redirects to panblastpr.com (PANBlast, merged BLASTmedia and PAN). Form is a Pardot iframe (sites.panblastpr.com/l/1078182/2026-04-01/4pc4xg) on the contact page. B2B SaaS PR agency, not a video competitor.
+### rocketagency.com.au | Rocket Agency | seg A | Australia
+  formUrl: https://rocketagency.com.au/contact
+  formSteps: 
+  requiredExtras: Phone required; How did you hear about us: required free text
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: Designing for Attention: Are Short-form Videos the New Standard?
+  articleUrl: https://rocketagency.com.au/blog/designing-for-attention-are-short-form-videos-the-new-standard
+  articleDate: 2025-11-06 (updated)
+  linkPlacement: How to do short-form really well - A checklist
+  articleHook: The checklist under "How to do short-form really well" runs from "Hook fast or lose them" to "Blend short with long", yet the post itself has no embedded video.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "How to do short-form really well - A checklist" section
+  greetingName: 
+  notes: HubSpot form (portal 668826) did not render in the browser; fields read from HubSpot form JSON. Hidden Agency Brand select (TWS|Rocket) present. Published 2025-11-02.
+### zibdigital.com.au | Zib Digital | seg A | Australia
+  formUrl: https://zibdigital.com.au/contact
+  formSteps: 
+  requiredExtras: Last name required; Company: Motion The Agency; Phone required
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: none
+  articleTitle: Digital Marketing Trends for Australian Businesses
+  articleUrl: https://zibdigital.com.au/digital-marketing-trends
+  articleDate: 2026-09-07 (updated)
+  linkPlacement: Video is vertical first
+  articleHook: The "Video is vertical first" section tells businesses to prioritise video native to TikTok, Shorts and Reels, but the page itself carries no video and just one image.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Video is vertical first" section
+  greetingName: 
+  notes: HubSpot form (portal 14539048) with invisible reCAPTCHA Enterprise. Published 2024-12-02, kept current; about 800 words. Public email michael.glasser@zibdigital.com.au seen on service pages.
+### marketingeye.com.au | Marketing Eye | seg A | Australia
+  formUrl: https://www.marketingeye.com.au/contact-us.html
+  formSteps: 
+  requiredExtras: No fields marked required in HTML; fill Company: Motion The Agency, State, Phone to be safe
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaCheckbox
+  consentBox: none
+  articleTitle: For B2B businesses, case studies tell the most power brand story
+  articleUrl: https://www.marketingeye.com.au/marketing-blog/how-b2b-case-study-marketing-transforms-client-stories-into-sales-collateral.html
+  articleDate: 2026-08-28 (updated)
+  linkPlacement: Turning case studies into adaptable sales collateral
+  articleHook: The repurposing tips suggest turning customer stories into short video testimonials and infographics, yet the post itself has no video and only one image. The H1 also reads "the most power brand story".
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Turning case studies into adaptable sales collateral" section
+  greetingName: 
+  notes: Contact page loads slowly. Form has visible reCAPTCHA v2 checkbox. Published 2026-08-19. Byline shows "Web Developer".
+### linqia.com | Linqia | seg A | US
+  formUrl: https://www.linqia.com/contact-linqia/
+  formSteps: 
+  requiredExtras: Last name required; Company: Motion The Agency
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: How Creator Content Boosts AEO
+  articleUrl: https://www.linqia.com/insights/how-creator-content-boosts-aeo/
+  articleDate: 2026-03-26 (published)
+  linkPlacement: AEO Loves YouTube
+  articleHook: The "AEO Loves YouTube" section says AI engines choose YouTube 200x more than any other video platform and lists on-screen text overlays as a tip, yet the post has no video of its own.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "AEO Loves YouTube" section
+  greetingName: 
+  notes: Form is the HubSpot "Linqia Partner Program" form (portal 44948944) at /contact-linqia/ (target of /contact). Main Contact Us nav link goes to /contact-sales/ which has a required Budget field; do not use that one. Message box is not marked required. Article is about 700 words with one image.
+### plannthat.com | Plann | seg A | Australia
+  formUrl: https://www.plannthat.com/contact/
+  formSteps: Pick the "Guest Blogging" radio option (or "Media Opportunities")
+  requiredExtras: Enquiry type radio: Guest Blogging
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: Ultimate Guide to Social Media Trends in 2025
+  articleUrl: https://www.plannthat.com/social-media-trends-2025/
+  articleDate: 2025-01-29 (updated)
+  linkPlacement: Social Media Trend 2. Diversified Content Strategies
+  articleHook: The title promises an ultimate guide, but the post covers four trends, and Trend 2 still frames the year around the impending TikTok ban.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Diversified Content Strategies" section
+  greetingName: 
+  notes: Gravity Forms contact page; site now branded Plann by Linktree. Radio group required status not confirmed; pick Guest Blogging regardless.
+### clickmatix.com.au | Clickmatix | seg A | Australia
+  formUrl: https://www.clickmatix.com.au/contact-us/
+  formSteps: 
+  requiredExtras: Phone required; Website: https://motiontheagency.com
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: YOUTUBE ADS GUIDE : HOW TO ADVERTISE ON YOUTUBE
+  articleUrl: https://www.clickmatix.com.au/youtube-ads-guide/
+  articleDate: 2026-07-13 (updated, sitemap lastmod; byline date 03 Jul 2025)
+  linkPlacement: Step 12: Creating the Video Ad Creative
+  articleHook: Step 12, "Creating the Video Ad Creative", only covers pasting the video link and character limits, with nothing on how to make the ad itself.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Step 12: Creating the Video Ad Creative" section
+  greetingName: 
+  notes: Gravity Forms contact form. Page has no meta dates; byline 03 Jul 2025, sitemap lastmod 2026-07-13. Intro also says YouTube has about 30 million daily active users.
+### hashmeta.com | Hashmeta | seg A | Singapore
+  formUrl: https://hashmeta.com/write-for-us/
+  formSteps: Scroll to the form at the bottom of the Write For Us page
+  requiredExtras: Links to 3 or more of your best articles (textarea, required): add Motion blog links
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: The 90-Day Content Calendar
+  articleUrl: https://hashmeta.com/blog/content-calendar-template-90-day-planning-framework/
+  articleDate: 2026-08-28 (updated)
+  linkPlacement: Month 1 (Days 1 to 30): Attract, Build Awareness (exact heading uses dashes; it is the first H3 under "The 90-Day Content Calendar Framework: Phase by Phase")
+  articleHook: Month 1 asks for explainer videos and one short-form video or carousel in Week 2, yet the post itself has no video showing what that looks like.
+  offerSuggestion: Founder's quote swap
+  offerLine: the Month 1 "Attract" section
+  greetingName: 
+  notes: Write For Us page invites guest posts from marketers; main contact form is a sales form (required phone, company). Visible H1 is "The 90-Day Content Calendar"; SEO title is "Content Calendar Template: 90-Day Planning Framework". Page has embedded infographic panels and no video player (iframes are only recaptcha, share and chat widgets). Very high volume blog (81 pages).
+### impossible.sg | Impossible Marketing | seg A | Singapore
+  formUrl: https://www.impossible.sg/contact/
+  formSteps: 
+  requiredExtras: Phone Number required (numbers only)
+  hasSubjectField: no
+  messageMaxChars: 2000
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: TikTok's Singapore Summit Raises the Bar for Social GEO
+  articleUrl: https://www.impossible.sg/tiktoks-singapore-summit-raises-the-bar-for-social-geo/
+  articleDate: 2026-08-27 (updated)
+  linkPlacement: Connecting this to GEO for social search
+  articleHook: The GEO section says AI made video still needs clear on-screen text and accurate captions, and the summary of Minis reads "such mini dramas", missing an "as".
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Connecting this to GEO for social search" section
+  greetingName: 
+  notes: Contact Form 7; message box is optional but present. Agency lists video marketing as one of many services (not its main offer), so not marked competitor. H1 uses a curly apostrophe: TikTok’s.
+### ematicsolutions.com | Ematic Solutions | seg A | Singapore
+  formUrl: https://www.ematicsolutions.com/contact/
+  formSteps: Click the "I want to explore potential partnership" tab under "How can we help you?"
+  requiredExtras: None beyond name, email and message
+  hasSubjectField: no
+  messageMaxChars: 2000
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: Short Videos, Big Results: How to Create Ads That Click
+  articleUrl: https://www.ematicsolutions.com/blog/how-to-create-ads-that-click/
+  articleDate: 2026-10-01 (updated)
+  linkPlacement: The Anatomy of an Ad That Clicks
+  articleHook: "Step 3: Show, Don't Tell" makes the case for showing over telling, yet the guide to short video ads has no example video of its own.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "The Anatomy of an Ad That Clicks" section
+  greetingName: 
+  notes: Contact Form 7 with four tabs (marketing help, partnership, audit, others); same fields on each. Blog listed in brief (AEO vs GEO) is dated 2025-10-06 but less on topic, so this newer video ads post was chosen. Step 3 heading uses a curly apostrophe (Don’t).
+### rivaliq.com | Rival IQ | seg A | US
+  formUrl: https://www.rivaliq.com/contact-us/
+  formSteps: 
+  requiredExtras: Phone Number required
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: AI-Generated Videos on Social Media: Hype, Risks, and Performance
+  articleUrl: https://www.rivaliq.com/blog/ai-generated-videos-on-social-media-hype-risks-and-performance/
+  articleDate: 2026-03-27 (published and updated)
+  linkPlacement: Comparing AI-Generated Videos vs. Non-AI Content
+  articleHook: The post on AI video is filed under "Uncategorized", and it uses eight static images but no embedded video to show what it compares.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Comparing AI-Generated Videos vs. Non-AI Content" section
+  greetingName: 
+  notes: HubSpot form inside an iframe on the contact page (intro text is demo leaning, but the form is a plain message form). General contact email inquire@rivaliq.com shown on the page; support@rivaliq.com is support only.
+### playwire.com | Playwire | seg A | US
+  formUrl: https://www.playwire.com/contact
+  formSteps: 
+  requiredExtras: Communications consent checkbox appears required (asterisk)
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: requiredTerms
+  articleTitle: Getting Video Ads on Your Website
+  articleUrl: https://www.playwire.com/blog/getting-video-ads-on-your-website
+  articleDate: 2025-06-02 (updated; first published 2021-09-27)
+  linkPlacement: How can I create video ads for my website if I don't have a large budget for studio shoots?
+  articleHook: The FAQ asks how to create video ads without a large budget for studio shoots, yet the 2,500 word guide to video ads has no video of its own.
+  offerSuggestion: Founder's quote swap
+  offerLine: the FAQ on creating video ads without a large budget for studio shoots
+  greetingName: 
+  notes: HubSpot form on /contact. Consent checkbox reads as marketing communications but carries an asterisk, so treated as required. Playwire is ad monetisation tech for publishers; the article FAQ section speaks to advertisers making video ads.
+### lickd.co | Lickd | seg A | UK
+  formUrl: https://lickd.co/contact/
+  formSteps: 
+  requiredExtras: Subject required
+  hasSubjectField: yes
+  messageMaxChars: 2000
+  captcha: none
+  consentBox: none
+  articleTitle: Mastering the art of transitions for YouTube Videos
+  articleUrl: https://lickd.co/transitions-for-youtube-videos/
+  articleDate: 2026-06-02 (updated; byline shows August 4, 2021)
+  linkPlacement: 6. Shapes
+  articleHook: The byline still reads August 4, 2021 although the page was updated in June 2026, and "6. Shapes" covers branded shape overlays in one short paragraph.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "6. Shapes" section
+  greetingName: 
+  notes: Contact Form 7; a Cloudflare script marker was seen but no challenge page appeared and the contact page loaded normally. Captcha not detected on the form. Article embeds ten YouTube examples. Avoided the brief's "Top 10 Video Editing Services" post since it is a service listicle.
+### localdigital.com.au | Local Digital | seg A | Australia
+  formUrl: https://www.localdigital.com.au/contact
+  formSteps: Dropdown 'What do you need help with?': pick 'Partnerships'
+  requiredExtras: None beyond name and email (dropdown: Partnerships)
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: turnstile
+  consentBox: none
+  articleTitle: Australian SEO and Content Marketing Statistics for 2025
+  articleUrl: https://www.localdigital.com.au/blog/australian-seo-and-content-marketing-statistics-for-2025
+  articleDate: 2026-01-18 (published and updated)
+  linkPlacement: Content Marketing in Australia: Key Statistics for 2025
+  articleHook: Under Content Types and Trends the post says 89% of marketers rate video as the highest performing content type, yet the page itself has no video or images at all.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Content Marketing in Australia: Key Statistics for 2025" section
+  greetingName: 
+  notes: Dropdown also has 'Your research articles' and 'Media & press' options. Message box is optional on the form. Cloudflare Turnstile marker on contact page.
+### tribegroup.co | TRIBE | seg A | Australia
+  formUrl: https://www.tribegroup.co/contact-us
+  formSteps: 'How can we help?' dropdown: pick 'Other' (or 'Press Enquiries'); Region dropdown: pick 'Other'
+  requiredExtras: Company: Motion The Agency; How can we help? dropdown: Other
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: Shorts vs Reels vs TikTok: What's the difference?
+  articleUrl: https://www.tribegroup.co/blog/shorts-vs-reels-vs-tiktok-whats-the-difference
+  articleDate: 2026-07-21 (published and updated)
+  linkPlacement: The Next Creator Opportunity
+  articleHook: The post compares how one vertical video performs on TikTok, Reels and Shorts, yet the page has no embedded video of its own, only two still images.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "The Next Creator Opportunity" section
+  greetingName: 
+  notes: HubSpot form rendered by JS on /contact-us. There is an empty H2 heading between '3. Shelf Life' and 'The Next Creator Opportunity'. reCAPTCHA script marker, no visible checkbox seen.
+### streem.com.au | Streem | seg A | Australia
+  formUrl: https://www.streem.com.au/contact
+  formSteps: 
+  requiredExtras: Last name required; Phone required; Company Name: Motion The Agency
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaEnterprise
+  consentBox: optionalMarketing
+  articleTitle: Australian Media Consumption Statistics: What Your PR Strategy Needs to Know
+  articleUrl: https://www.streem.com.au/blog/australian-media-consumption-statistics
+  articleDate: 2026-05-05 (published and updated)
+  linkPlacement: How Companies Should Adjust Their PR Strategies
+  articleHook: The post is dated May 2026, yet its newest figures come from social media statistics published in February 2024 and the Digital News Report: Australia 2024.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "How Companies Should Adjust Their PR Strategies" section
+  greetingName: 
+  notes: HubSpot form on /contact. Message box is optional. reCAPTCHA Enterprise anchor iframe present (may show checkbox).
+### digital8.com.au | Digital8 | seg A | Australia
+  formUrl: https://digital8.com.au/contact/
+  formSteps: Dropdown 'What digital services are you looking for?': pick 'Something else'
+  requiredExtras: No fields marked required in the markup (Hotpot form in shadow DOM); fill Phone if prompted; dropdown: Something else
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: turnstile
+  consentBox: none
+  articleTitle: SEO, Google Ads, and Social Media: How to Build a Full-Funnel Marketing Strategy in Australia
+  articleUrl: https://digital8.com.au/seo-google-ads-and-social-media-how-to-build-a-full-funnel-marketing-strategy-in-australia/
+  articleDate: 2026-07-21 (updated; published 2026-07-16)
+  linkPlacement: Social Media Builds Brand Awareness
+  articleHook: The intro lists "Watch short-form videos" and "Finding a reel on Instagram" as key steps in the buyer journey, yet the post has ten images and no video.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Social Media Builds Brand Awareness" section
+  greetingName: 
+  notes: Contact page is framed as 'Tell Us About Your Digital Project' (new business form) but the dropdown has an honest 'Something else' option and no required budget or company size field. Hotpot form rendered in shadow DOM; Cloudflare Turnstile script loaded. Borderline: treat as general contact.
+### moosend.com | Moosend | seg A | UK
+  formUrl: https://moosend.com/contact-us/write-for-us/
+  formSteps: Collaboration dropdown: pick 'General Marketing'
+  requiredExtras: Last name required; Company: Motion The Agency; Website: https://motiontheagency.com; Collaboration dropdown: General Marketing
+  hasSubjectField: no
+  messageMaxChars: 2000
+  captcha: recaptchaInvisible
+  consentBox: optionalMarketing
+  articleTitle: Video Email Marketing: How To Do It + Examples
+  articleUrl: https://moosend.com/blog/video-email-marketing/
+  articleDate: 2026-08-25 (updated; published 2022-08-19)
+  linkPlacement: 7. Share your story
+  articleHook: The page was updated in August 2026, but the byline still reads "Published By John Desyllas, August 19, 2022", so readers may think the video advice is four years old.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "7. Share your story" section
+  greetingName: 
+  notes: Write for us form with dropdown topics. Page also loads both reCAPTCHA and Turnstile scripts; no visible checkbox seen in markup. Moosend is owned by Sitecore (large group) but Moosend itself is a small brand, so not skipped for size.
+### clickclickmedia.com.au | Click Click Media | seg A | Australia
+  formUrl: https://clickclickmedia.com.au/contact-us/
+  formSteps: 
+  requiredExtras: Phone required; Urgency dropdown optional: leave as Select below
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: Creative Wins Meta Auctions: Platform Work Decides How Often It Gets the Chance
+  articleUrl: https://clickclickmedia.com.au/post/creative-wins-meta-auctions/
+  articleDate: 2026-09-26 (updated)
+  linkPlacement: Keeping Creative Ahead of Decay
+  articleHook: Keeping Creative Ahead of Decay says a UGC-style video reads differently to a static image ad, but the post itself shows no video example, only static images.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Keeping Creative Ahead of Decay" section
+  greetingName: 
+  notes: Gravity Forms contact form gf_2 (Company optional); page has recaptcha and turnstile script markers, no visible checkbox seen in HTML. Form reads like a general enquiry box, no budget field.
+### ionline.com.au | iOnline | seg A | Australia
+  formUrl: https://ionline.com.au/contact-us/
+  formSteps: Type of Enquiry dropdown: General Enquiry (default)
+  requiredExtras: Type of Enquiry: General Enquiry; Phone required; How did you hear about us: Your blog
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: recaptchaInvisible
+  consentBox: optionalMarketing
+  articleTitle: Guide to Video SEO in 2024: Boosting Your Video Content’s Visibility
+  articleUrl: https://ionline.com.au/blog/guide-to-video-seo-in-2024/
+  articleDate: 2025-08-21 (updated)
+  linkPlacement: Highlight Your Video on the Page
+  articleHook: The title still says 2024 though the page was updated in August 2025, and the Highlight Your Video on the Page section has no video of its own on the page.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Highlight Your Video on the Page" section
+  greetingName: 
+  notes: Elementor form. Job Title, Organisation, Domain and RFP upload are hidden and only apply to the Submit RFP/RFQ option. Acceptance checkbox is marketing opt-in, not required.
+### getvero.com | Vero | seg A | Australia
+  formUrl: https://www.getvero.com/partners/
+  formSteps: 
+  requiredExtras: Company: Motion The Agency
+  hasSubjectField: no
+  messageMaxChars: 
+  captcha: none
+  consentBox: none
+  articleTitle: How to Send Onboarding Emails Automatically
+  articleUrl: https://www.getvero.com/resources/how-to-send-onboarding-emails-automatically/
+  articleDate: 2026-08-14 (published and updated)
+  linkPlacement: Step 4: Build the automation in your platform
+  articleHook: Step 4 says to build the flow visually first because logic gaps are easier to spot in a diagram, yet the post never shows a diagram of its own six-email sequence.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "Step 4: Build the automation in your platform" section
+  greetingName: 
+  notes: Talk to us form is sales (required user profile count), so use the Partners form instead. Contact page lists hello@, sales@ and support@getvero.com. Article by Chris Hexton (co-founder). Only 2 images in the article body.
+### verzdesign.com | Verz Design | seg A | Singapore
+  formUrl: https://www.verzdesign.com/contact-us
+  formSteps: 
+  requiredExtras: Phone required; leave the two optional dropdowns blank
+  hasSubjectField: no
+  messageMaxChars: 2000
+  captcha: recaptchaInvisible
+  consentBox: none
+  articleTitle: How Can Singapore Businesses Use AI for Social Media Marketing in 2026?
+  articleUrl: https://www.verzdesign.com/blog/how-singapore-businesses-use-ai-for-social-media-marketing
+  articleDate: 2026-09-29 (published and updated)
+  linkPlacement: 2. AI Image and Video Creation
+  articleHook: Section 2, AI Image and Video Creation, says 75% of marketers now use AI for video and image creation, but it only covers images, scripts and captions, not what makes the video itself land.
+  offerSuggestion: Founder's quote swap
+  offerLine: the "2. AI Image and Video Creation" section
+  greetingName: 
+  notes: Contact form is a project enquiry box but has no budget or service field. Blog also has many agency listicles (top X agencies Singapore); this article is not one. Other emails: projects@ and support@verzdesign.com.
