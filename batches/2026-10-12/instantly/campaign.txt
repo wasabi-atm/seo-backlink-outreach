@@ -1,0 +1,4 @@
+4ef6ea7e-a399-4a76-8bfd-ba8ca558c95f
+12 October 2026 - Backlink Cold Outreach Campaign
+Status: draft (0), no sender accounts, not activated.
+Leads: 38 of 41 added (compared with 04_backlink_emails_send.csv: 0 mismatches on subject, body and article URL). The 3 left out are already in other Instantly campaigns and were dropped by the user (marked not_sent): attila@antavo.com, pavel@segmentstream.com, mikhail@chattermill.com.
