@@ -1,0 +1,37 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Iru (formerly Kandji),iru.com,US,Apple device management and endpoint security,B,no,,71,https://www.iru.com/blog,2026-10-01,Apify index page scrape showed dated posts
+Mezmo,mezmo.com,US,Observability and telemetry pipeline platform,B,no,,71,https://www.mezmo.com/blog,2026-07-15,Apify index page scrape showed dated posts
+Hostfully,hostfully.com,US,Vacation rental property management software,B,no,,77,https://www.hostfully.com/blog/,2026-10-01,"Apify index page scrape; Oct 2026 index post, exact day not shown so first of month used"
+Vertafore,vertafore.com,US,Insurance agency and carrier software,B,no,,74,https://www.vertafore.com/resources/blog,2026-10-09,Apify index page scrape showed dated posts
+Agilysys,agilysys.com,US,"Hospitality software (POS, PMS)",B,no,,72,https://www.agilysys.com/en/blog/,2026-06-09,Apify index page scrape showed dated post
+OwnerRez,ownerrez.com,US,Vacation rental management software,B,no,,82,https://www.ownerrez.com/blog,2026-10-09,"Apify index page scrape; weekly roundup covering Sept 2026 AirDNA review, day inferred (approx)"
+PubNub,pubnub.com,US,Real-time communication APIs and infrastructure,B,no,,76,https://www.pubnub.com/blog/,2026-10-07,Apify index page scrape showed dated posts
+Sedai,sedai.io,US,Autonomous cloud optimization platform,B,no,,61,https://sedai.io/blog,2026-10-12,Apify index page scrape showed dated posts
+Interos,interos.ai,US,Supply chain risk intelligence,B,no,,61,https://www.interos.ai/blog/,2026-10-12,Apify index page scrape showed dated posts
+PropStream,propstream.com,US,Real estate data and analytics platform,B,no,,70,https://www.propstream.com/blog,2026-10-05,"Apify index page scrape showed dated posts; audience is real estate investors, check B2B fit"
+Placer.ai,placer.ai,US,Foot traffic analytics for retail and CRE,B,no,,75,https://www.placer.ai/blog,2026-03-02,Apify index page scrape showed dated post (newest visible)
+Tenable,tenable.com,US,Exposure management and vulnerability cybersecurity,B,no,,84,https://www.tenable.com/blog,2026-10-08,Apify index page scrape showed dated posts
+Workato,workato.com,US,Enterprise integration and automation platform,B,no,,81,https://www.workato.com/the-connector/,2026-10-12,Apify index page scrape showed dated posts; blog is The Connector
+Waystar,waystar.com,US,Healthcare payments and revenue cycle software,B,no,,74,https://www.waystar.com/blog/,2026-08-19,Apify index page scrape showed dated posts
+WellSky,wellsky.com,US,Healthcare and human services software,B,no,,74,https://wellsky.com/blog/,2026-10-02,Apify index page scrape showed dated posts
+Proofpoint,proofpoint.com,US,Email and human-centric cybersecurity,B,no,,91,https://www.proofpoint.com/us/blog,2026-09-09,Apify index page scrape showed dated post
+Ordergroove,ordergroove.com,US,Subscription commerce platform for retail brands,B,no,,70,https://www.ordergroove.com/blog/,2026-07-09,Apify index page scrape showed dated posts
+Cedar,cedar.com,US,Healthcare billing and patient payments platform,B,no,,73,https://www.cedar.com/blog,2026-07-22,Apify index page scrape showed dated posts
+Clerk,clerk.com,US,Authentication and user management for developers,B,no,,88,https://clerk.com/blog,2026-09-30,Apify index page scrape showed dated posts
+DeepSource,deepsource.io,US,Code quality and static analysis dev tool,B,no,,65,https://deepsource.com/blog,2026-02-24,Apify index page scrape showed dated posts (newest visible); blog sits on deepsource.com
+RoofSnap,roofsnap.com,US,Roofing measurement and estimating software,B,no,,52,https://roofsnap.com/blog/,2026-09-18,Apify index page scrape showed dated post
+Routeware,routeware.com,US,Waste and recycling fleet technology,B,no,,58,https://www.routeware.com/blog/,2026-10-05,Apify index page scrape showed dated posts
+SimplePractice,simplepractice.com,US,Practice management software for therapists and clinicians,B,no,,80,https://www.simplepractice.com/blog/,2026-08-20,"WebSearch snippet gave post date ""practice valuation methods"" Aug 20 2026"
+JobNimbus,jobnimbus.com,US,CRM and project management for roofing contractors,B,no,,71,https://www.jobnimbus.com/blog,2026-10-05,WebSearch snippet: newest index entry dated Oct 5 2026
+Automox,automox.com,US,Cloud endpoint patch management,B,no,,70,https://www.automox.com/blog,2026-09-08,"WebSearch snippet: Patch Tuesday September 2026 post, day approximate (second Tuesday)"
+Brivo,brivo.com,US,Cloud access control and physical security,B,no,,73,https://www.brivo.com/resources/blog/,2026-09-03,WebSearch snippet: Sept 3 2026 post on blog
+Tinybird,tinybird.co,US,Real-time analytics API platform on ClickHouse,B,no,,73,https://www.tinybird.co/blog,2026-09-03,WebSearch snippet: Sept 3 2026 cluster management post
+Claroty,claroty.com,US,Cyber-physical systems and OT security,B,no,,75,https://claroty.com/blog,2026-09-01,WebSearch snippet: Sept 1 2026 posts
+Axonius,axonius.com,US,Cybersecurity asset management,B,no,,73,https://www.axonius.com/blog,2026-05-20,"WebSearch snippet: newest dated post seen May 20 2026, may have newer"
+Immuta,immuta.com,US,Data security and governance platform,B,no,,72,https://www.immuta.com/blog/,2026-07-16,WebSearch snippet: July 16 2026 post
+runZero,runzero.com,US,Network and asset discovery security,B,no,,67,https://www.runzero.com/blog/,2026-09-30,WebSearch snippet: Sept 30 2026 post
+EasyPost,easypost.com,US,Multi-carrier shipping API,B,no,,77,https://www.easypost.com/blog,2026-10-06,WebSearch snippet: Oct 6 2026 post
+Workiva,workiva.com,US,Financial reporting and GRC cloud platform,B,no,,76,https://www.workiva.com/blog,2026-09-25,"WebSearch snippet: Sept 25 2026 post update, Sept 15 post by author"
+Bishop Fox,bishopfox.com,US,Offensive security and penetration testing services,B,no,,73,https://bishopfox.com/blog,2026-10-06,WebSearch snippet: Oct 6 2026 post
+Anyscale,anyscale.com,US,Ray-based AI compute platform,B,no,,75,https://www.anyscale.com/blog,2026-10-09,WebSearch snippet: Oct 9 2026 post
+NextGen Healthcare,nextgen.com,US,Ambulatory EHR and practice management software,B,no,,76,https://www.nextgen.com/blog,2026-06-16,WebSearch snippet: June 16 2026 post (newest seen)
