@@ -1,0 +1,4 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Focus Group,focusgroup.co.uk,UK,Managed IT services and technology advice for business,B,no,,59,https://www.focusgroup.co.uk/blog/,2026-06-23,"Date from Apify cheerio crawl of blog index (weekly posts, newest listed June 23, 2026)"
+Bulletproof Cyber Security,bulletproof.co.uk,UK,"Cyber security consultancy, pen testing and managed security",B,no,,57,https://www.bulletproof.co.uk/blog/,2026-10-12,"Date from Apify cheerio crawl of blog index (ISO dates shown, newest 2026-10-12)"
+Staffology,staffology.co.uk,UK,Payroll software and HR/accountancy resources,B,no,,46,https://www.staffology.co.uk/blog,2026-10-08,Date from Apify cheerio crawl of blog index (newest listed 8th October 2026)
