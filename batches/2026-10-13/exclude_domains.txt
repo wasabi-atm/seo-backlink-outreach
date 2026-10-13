@@ -1,4 +1,8 @@
+(email
+(now
+(stagwell
 01gov.com
+10fold.com
 10up.com
 10xbanking.com
 15five.com
@@ -13,6 +17,7 @@
 6dg.co.uk
 6sense.com
 73strings.com
+97switch.com
 97thfloor.com
 9fin.com
 abacus.ai
@@ -43,6 +48,7 @@ action1.com
 actionrocket.co
 activecampaign.com
 activtrak.com
+actuatemedia.com
 acumatica.com
 ad-lib.io
 adamandevetbwa.com
@@ -74,6 +80,7 @@ afinadmp.com
 afreespace.com
 afridi-angell.com
 agiloft.com
+agilysys.com
 agora.io
 agorareal.com
 aha.io
@@ -134,6 +141,7 @@ amplitude.com
 amsive.com
 amvbbdo.com
 anatomage.com
+andela.com
 anghami.com
 anicca.co.uk
 animaker.com
@@ -149,6 +157,7 @@ anteriad.com
 anumana.ai
 anura.io
 anvilmediainc.com
+anyscale.com
 anyword.com
 apexfintechsolutions.com
 apollo.io
@@ -163,6 +172,7 @@ aprimo.com
 apteco.com
 aptitude8.com
 apty.ai
+aquent.com
 aqueous-digital.co.uk
 arabaddigital.com
 arabadmag.com
@@ -214,6 +224,7 @@ atarim.io
 athelas.com
 atlan.com
 atom-insurance.co
+atomicobject.com
 atomicsmash.co.uk
 atomicwork.com
 attackiq.com
@@ -236,7 +247,9 @@ auroraer.com
 aurorasolar.com
 auth0.com
 authoritas.com
+automationanywhere.com
 automee.uk
+automox.com
 availproject.org
 avalara.com
 avanzasolutions.com
@@ -258,6 +271,7 @@ axiapr.com
 axicom.com
 axon.ae
 axongarside.com
+axonius.com
 azakaw.com
 b2bestorebuilder.com
 b2bmarketing.net
@@ -335,6 +349,7 @@ billtrust.com
 biorelate.com
 birdeye.com
 birdmarketing.co.uk
+bishopfox.com
 bitmovin.com
 bitoasis.net
 bitovi.com
@@ -430,8 +445,10 @@ brightlocal.com
 brightpearl.com
 brilliantnoise.com
 briq.ai
+brivo.com
 brolik.com
 bromcom.com
+brownsteingroup.com
 browsermedia.agency
 browseros.com
 bruceclay.com
@@ -449,9 +466,11 @@ builtvisible.com
 bulbapp.com
 bulldogdigitalmedia.co.uk
 bulldogdigitalmedia.com
+bulletproof.co.uk
 bullhorn.com
 businesslinkuae.com
 businessof.co
+businessolver.com
 busybusy.com
 buttondown.com
 buyapowa.com
@@ -471,6 +490,7 @@ callrail.com
 callsign.com
 camb.ai
 cambridgespark.com
+campaigner.com
 campaignme.com
 campaignmonitor.com
 campfire.ai
@@ -495,6 +515,7 @@ careerflow.ai
 careo.ai
 carestack.com
 caretlegal.com
+cargomatic.com
 cargoz.com
 cariadmarketing.com
 carloans365.com
@@ -511,6 +532,7 @@ casted.us
 castfromclay.co.uk
 castingnetworks.com
 castos.com
+castr.com
 castsoftware.com
 catchpoint.com
 causalens.com
@@ -521,6 +543,7 @@ cavendishmaxwell.com
 cbwebsitedesign.co.uk
 ccgrouppr.com
 cdrconsultancy.com
+cedar.com
 cedarwood.digital
 ceipal.com
 celebrus.com
@@ -548,6 +571,7 @@ chainreaction.ae
 chameleon.io
 champtitles.com
 channeltivity.com
+chargebackgurus.com
 chargebee.com
 charle.co.uk
 charliehr.com
@@ -584,6 +608,7 @@ clarishealth.com
 clarity.ai
 clarity.global
 claromentis.com
+claroty.com
 classcardapp.com
 classlink.com
 clay.com
@@ -592,6 +617,7 @@ cleanfeed.net
 clear.bank
 clear.ml
 clearcompany.com
+clearent.com
 cleareye.ai
 cleargov.com
 cleargrid.co
@@ -601,6 +627,7 @@ clearscope.io
 clearvoice.com
 cledara.com
 cleerly.com
+clerk.com
 cleverbridge.com
 cleverm.co.uk
 clevermarketing.co.uk
@@ -666,7 +693,7 @@ colortokens.com
 colossyan.com
 column.com
 columnfivemedia.com
-com (now rutter.com)
+com
 comet.com
 cometly.com
 comfi.app
@@ -693,6 +720,7 @@ coniq.com
 connectads.com
 connective3.com
 connectresources.ae
+connellypartners.com
 connex.ai
 conrandesigngroup.com
 constantcontact.com
@@ -708,6 +736,7 @@ contently.com
 contentmarketinginstitute.com
 contentpowered.com
 contentstack.com
+contextual.ai
 continu.com
 contractorforeman.com
 contractsafe.com
@@ -752,6 +781,7 @@ creativezone.ae
 creatoriq.com
 credas.com
 credentially.io
+credera.com
 crediblex.io
 crelate.com
 crescendo.ai
@@ -796,6 +826,7 @@ d-box.agency
 d-id.com
 dacast.com
 dagster.io
+daily.co
 dailypay.com
 daisygroup.com
 dalziel-pow.com
@@ -831,6 +862,7 @@ deel.com
 deep.stream
 deephow.com
 deepnote.com
+deepsource.io
 deepstrike.io
 definely.com
 degreed.com
@@ -904,6 +936,7 @@ doctify.com
 docupath.ai
 doit.life
 dojo.tech
+domain
 domo.com
 dotdigital.com
 dotit.ae
@@ -951,10 +984,12 @@ eastnets.com
 eastsideco.com
 easycode.ai
 easygen.io
+easypost.com
 easywebinar.com
 eatapp.co
 ebiquity.com
 ebury.com
+echo360.com
 echobox.com
 eclincher.com
 ecolibrium.io
@@ -985,6 +1020,7 @@ electricmiles.com
 element8.ae
 elementsuite.com
 elevationb2b.com
+elevenlabs.io
 eliseai.com
 elliptic.co
 elmwood.com
@@ -1004,6 +1040,7 @@ emircom.com
 emotii.ai
 empatica.com
 emperor.works
+employeenavigator.com
 emulent.com
 enactor.co
 enate.io
@@ -1041,6 +1078,7 @@ etalk.ai
 ethlas.com
 ethyca.com
 etoninstitute.com
+eudia.com
 evconnect.com
 eventsforce.com
 evenuplaw.com
@@ -1052,6 +1090,7 @@ eviivo.com
 evolvedsearch.co.uk
 evolvedsearch.com
 evolving.com
+exa.ai
 exabeam.com
 exafy.io
 exclaimer.com
@@ -1110,14 +1149,17 @@ finflx.com
 finitic.com
 finix.com
 finixpayments.com
+finnpartners.com
 finsweet.com
 fintechos.com
 finto.de
 fireblocks.com
 firebrand.training
 firebrandtraining.co.uk
+firecrawl.dev
 fireflies.ai
 firetext.co.uk
+fireworks.ai
 firstbit.ae
 firstinternet.co.uk
 firstpagedigital.sg
@@ -1133,6 +1175,7 @@ flashy.ai
 flawlessai.com
 fleetcheck.co.uk
 fleetio.com
+fleishmanhillard.com
 fleximize.com
 flexport.com
 flexzo.ai
@@ -1146,6 +1189,7 @@ fluidone.com
 fly.io
 flyhighmedia.co.uk
 fnz.com
+focusgroup.co.uk
 focuslab.agency
 focussoftnet.com
 folloze.com
@@ -1156,6 +1200,7 @@ forensicanalytics.io
 foresight.works
 forethought.ai
 formstack.com
+forter.com
 fortressinfosec.com
 fortris.com
 forumone.com
@@ -1183,6 +1228,7 @@ freuds.com
 front.com
 frontrowgroup.com
 fruition.net
+fticonsulting.com
 fueled.com
 fullstory.com
 fundapps.co
@@ -1202,6 +1248,7 @@ g42.ai
 gac.com
 gainsight.com
 galadarilaw.com
+galileo.ai
 galytix.com
 gamma.app
 gathid.com
@@ -1217,7 +1264,7 @@ genie.ae
 genieai.co
 getbaraka.com
 getbenepass.com
-getburnt.ai (email domain given
+getburnt.ai
 getcanopy.com
 getcerta.net
 getdbt.com
@@ -1240,6 +1287,7 @@ giacom.com
 gima.ae
 ginger.com
 gitlab.com
+given
 glaco.com
 gladly.ai
 gladly.com
@@ -1409,6 +1457,7 @@ hopin.com
 hopperhq.com
 horizon3.ai
 horizoncdp.com
+hostfully.com
 hotdesk.com
 hotjar.com
 hotwireglobal.com
@@ -1425,12 +1474,14 @@ hubstaff.com
 hudsonsandler.com
 huemor.rocks
 hugdigital.com
+huggingface.co
 huma.com
 humaan.com
 humaans.io
 humanmade.com
 huntress.com
 huntresslabs.com
+huronconsultinggroup.com
 hurree.co
 hushly.com
 huspy.com
@@ -1440,6 +1491,7 @@ hyperexponential.com
 hyperlinkinfosystem.ae
 hypernym.io
 hyperproof.io
+hyperscience.com
 hypersonix.ai
 hyperverge.co
 hypotenuse.ai
@@ -1478,6 +1530,7 @@ imarc.com
 imile.com
 imimobile.com
 immersivelabs.com
+immuta.com
 impact.com
 impactanalytics.ai
 impactplus.com
@@ -1497,6 +1550,7 @@ incorta.com
 increasingly.com
 indicolabs.io
 infeedo.ai
+infinicept.com
 infinity.co
 influencer.com
 influencermatchmaker.co.uk
@@ -1538,6 +1592,7 @@ intercede.com
 intercom.com
 intergrowth.com
 interodigital.com
+interos.ai
 interviewvalet.com
 introhive.com
 intruder.io
@@ -1559,7 +1614,9 @@ iquanti.com
 iris.co.uk
 ironcladapp.com
 ironcladhq.com
+ironmarkusa.com
 ironpaper.com
+iru.com
 iterable.com
 itilite.com
 itp.com
@@ -1571,6 +1628,7 @@ ivend.com
 iwoca.co.uk
 jaaq.app
 jackhenry.com
+jacksonspalding.com
 jacquard.com
 jadu.net
 jaraudio.com
@@ -1590,6 +1648,7 @@ jitterbit.com
 jkrglobal.com
 jobdiva.com
 joblogic.com
+jobnimbus.com
 jobscore.com
 jobtread.com
 jobvite.com
@@ -1603,6 +1662,7 @@ journolink.com
 jspyre.com
 judopay.com
 jugo.io
+juicebox.ai
 jumio.com
 jumpcloud.com
 jumpfly.com
@@ -1704,6 +1764,7 @@ lattice.co
 lattice.com
 launchdarkly.com
 lawmatics.com
+lawruler.com
 leadforensics.com
 leadiq.com
 leadpages.com
@@ -1731,6 +1792,7 @@ lepide.com
 letswork.io
 levels.fyi
 lever.co
+levitatemedia.com
 lewispr.com
 lexialearning.com
 lform.com
@@ -1739,6 +1801,7 @@ libsyn.com
 lickd.co
 light.inc
 lightful.com
+lightning.ai
 limelightdigital.co.uk
 limitlesstech.com
 linear.app
@@ -1759,6 +1822,7 @@ litmos.com
 litmus.com
 littledata.io
 littlewarden.com
+livekit.io
 liveperson.com
 llamaindex.ai
 load-me.com
@@ -1768,6 +1832,7 @@ localdigital.com.au
 localfalcon.com
 localiq.com
 locationsolutions.com
+locusrobotics.com
 locustec.com
 logicalposition.com
 logicgate.ai
@@ -1892,7 +1957,9 @@ mealsuite.com
 measurabl.com
 measurelab.co.uk
 medable.com
+medallia.com
 medallion.co
+mediacause.com
 mediafly.com
 mediahawk.co.uk
 mediaiqdigital.com
@@ -1927,6 +1994,7 @@ methodcommunications.com
 metronome.com
 metropolitan.realestate
 meydanfz.ae
+mezmo.com
 mhpgroup.com
 mhrglobal.com
 mi-case.com
@@ -1943,6 +2011,7 @@ milestoneinternet.com
 mimecast.com
 mindflick.co.uk
 mindfoundry.ai
+mindsdb.com
 mindstamp.com
 mindstamp.io
 mindtickle.com
@@ -1999,6 +2068,7 @@ moosend.com
 moov.io
 mooveagency.com
 morohub.com
+mortgagecadence.com
 mosaic.tech
 mosaicdigital.ae
 motherduck.com
@@ -2087,6 +2157,7 @@ newrelic.com
 nexans.com
 nexhealth.com
 nexsysone.com
+nextgen.com
 nextgenclearing.com
 nextmatch.ai
 nextroll.com
@@ -2096,6 +2167,7 @@ niftymarketing.com
 nightfall.ai
 nimbusmaps.co.uk
 ninjaone.com
+nirvanatech.com
 nitrogenwealth.com
 nivoda.com
 nngroup.com
@@ -2148,6 +2220,7 @@ olark.com
 oleeo.com
 olivegaea.com
 ollama.com
+ologie.com
 ometria.com
 omni.co
 omnius.so
@@ -2208,6 +2281,7 @@ orbitmedia.com
 orca.security
 orderfox.com
 orderful.com
+ordergroove.com
 orgvue.com
 orientplanet.com
 originux.com
@@ -2231,6 +2305,7 @@ overseaspayments.com
 ovrdrv.com
 owkin.com
 owner.com
+ownerrez.com
 oxa.tech
 oxanepartners.com
 oysterhr.com
@@ -2282,6 +2357,7 @@ payhawk.com
 paylinedata.com
 paymennt.com
 paymentology.com
+paymentworks.com
 payroc.com
 paysafe.com
 payscale.com
@@ -2317,11 +2393,13 @@ pepper.inc
 peppercomm.com
 perchpeek.com
 perfectportal.co.uk
+perficient.com
 performancehorizon.com
 perkbox.com
 permutive.com
 perpetua.io
 perplexity.ai
+perrill.com
 persado.com
 persefoni.com
 personcentredsoftware.com
@@ -2344,9 +2422,11 @@ pingidentity.com
 pinkston.co
 pipedrive.com
 pipefy.com
+pixability.com
 pixaera.com
 pixalate.com
 pixis.ai
+placer.ai
 plaid.com
 plainlyvideos.com
 plana.tech
@@ -2372,6 +2452,7 @@ pocus.com
 podbean.com
 podcast.co
 podcastinsights.com
+podcastle.ai
 podchaser.com
 podium.com
 podpage.com
@@ -2407,6 +2488,7 @@ pragencyone.co.uk
 praxie.com
 preciouscomms.com
 prefect.io
+presidio.com
 presight.ai
 pressat.co.uk
 prezi.com
@@ -2437,6 +2519,7 @@ prometsource.com
 promon.io
 pronnel.com
 prontosys.ae
+proofpoint.com
 propartnergroup.com
 propchain.com
 propeller.co.uk
@@ -2448,6 +2531,7 @@ propertydata.co.uk
 propertyfinder.ae
 propertymonitor.com
 propertyradar.com
+propstream.com
 prosapient.com
 prosek.com
 prosperitymedia.com.au
@@ -2459,6 +2543,7 @@ proxymity.io
 prprophet.ai
 prwd.co.uk
 prypco.com
+pubnub.com
 pulley.com
 pulsant.com
 pulsarplatform.com
@@ -2485,7 +2570,6 @@ quantummetric.com
 quartic.ai
 questdb.com
 questdiy.com
-questdiy.com (stagwell
 quicksync.pro
 quietroom.co.uk
 quillbot.com
@@ -2499,6 +2583,7 @@ qure.ai
 qureos.com
 qventus.com
 qwoted.com
+r3.agency
 r3.digital
 radai.com
 radix-communications.com
@@ -2647,23 +2732,28 @@ rokt.com
 rolla.app
 rollbar.com
 rollworks.com
+roofsnap.com
 rootly.com
 rootstudio.co.uk
 rotacloud.com
 rotageek.com
 rotorvideos.com
 routable.com
+routeware.com
 roxhillmedia.com
 royex.ae
 royex.net
 rss.com
 rubicon.com
 rudderstack.com
+ruderfinn.com
 ruleranalytics.com
 runna.com
 runpayments.io
 runpod.io
+runzero.com
 rutter.com
+rutter.com)
 ry.com
 s2t.ai
 saabsoft.com
@@ -2686,6 +2776,7 @@ samtech-me.com
 sanctionscanner.com
 sandboxaq.com
 sandstormdigital.com
+sanity.io
 santechture.com
 sapaad.com
 saphyte.com
@@ -2737,6 +2828,7 @@ securiti.ai
 securityscorecard.com
 securityscorecard.io
 securonix.com
+sedai.io
 seedlegals.com
 seeker.digital
 seekout.com
@@ -2787,6 +2879,7 @@ shiftcomm.com
 shipbob.com
 shiphero.com
 shipium.com
+shipmonk.com
 shippo.com
 shipwaves.com
 shopcircle.co
@@ -2794,7 +2887,9 @@ shopstyle.com
 showandtell.agency
 showpad.com
 shuraa.com
+siegelgale.com
 siegemedia.com
+sierra.ai
 sigmacomputing.com
 signable.com
 signal-ai.com
@@ -2809,6 +2904,7 @@ silverbean.com
 silverfort.com
 silverminegroup.com
 simplecast.com
+simplepractice.com
 simpletiger.com
 simplifyhealthcare.com
 simplifyvms.com
@@ -2818,6 +2914,7 @@ singlegrain.com
 singlestore.com
 sirion.ai
 sirionlabs.com
+sisense.com
 sitebulb.com
 siteimprove.com
 sitepoint.com
@@ -2837,6 +2934,7 @@ skyword.com
 slangit.ai
 slcyber.io
 sleepinggiantmedia.co.uk
+slidegenius.com
 smartassets.ai
 smartbugmedia.com
 smartchair.ai
@@ -2852,6 +2950,7 @@ smartwinnr.com
 smith.co.uk
 smithii.io
 sms-tech.org
+snappa.com
 snappy.com
 snapsheetclaims.com
 snorkel.ai
@@ -2922,6 +3021,7 @@ stacker.com
 stackhawk.com
 staffany.com
 staffcircle.com
+staffology.co.uk
 stagwellglobal.com
 stainless.com
 stalawfirm.com
@@ -2977,11 +3077,13 @@ sunsama.com
 supabase.com
 supademo.com
 superagi.com
+superannotate.com
 superawesome.com
 superpath.co
 supple.com.au
 supy.io
 surecloud.com
+surgehq.ai
 surpass.com
 surrealdb.com
 surveymonkey.com
@@ -3003,6 +3105,7 @@ sysdig.com
 system1group.com
 tabapay.com
 tabby.ai
+tabs.com
 tacsecurity.com
 tagteamdesign.com
 tailwindapp.com
@@ -3042,8 +3145,10 @@ teknikforce.com
 teletracnavman.com
 tella.com
 tella.tv
+tellius.com
 telr.com
 temporal.io
+tenable.com
 tenantcloud.com
 tenderd.com
 teneo.com
@@ -3108,6 +3213,7 @@ thoropass.com
 thoughtbot.com
 thoughtindustries.com
 thoughtmachine.net
+thoughtworks.com
 threatlocker.com
 threecolts.com
 thriveagency.com
@@ -3122,6 +3228,7 @@ tigauk.com
 tigerdata.com
 tightly.io
 tikit.ae
+tilled.com
 tillison.co.uk
 tillo.io
 timescale.com
@@ -3129,6 +3236,7 @@ timetastic.co.uk
 tines.com
 tines.io
 tinuiti.com
+tinybird.co
 tipalti.com
 tishtash.ae
 tive.com
@@ -3166,6 +3274,7 @@ transcorp-intl.com
 transistor.fm
 transmissionagency.com
 transparentbusiness.com
+transperfect.com
 transportr.com
 trasna.io
 tray.ai
@@ -3198,6 +3307,7 @@ tuffgrowth.com
 tugagency.com
 tulip.co
 tungsten-network.com
+turing.com
 turintech.ai
 turnerduckworth.com
 turnitin.com
@@ -3214,6 +3324,7 @@ tyto.co.uk
 tytocare.com
 tytopr.com
 uhy-uk.com
+uipath.com
 ulegendary.com
 ultimatesoftware.com
 ultralytics.com
@@ -3279,6 +3390,7 @@ vanta.com
 vantage.sh
 varn.co.uk
 vasion.com
+vast.ai
 vaulsys.net
 vbrick.com
 vccp.com
@@ -3302,7 +3414,9 @@ vergesense.com
 veriato.com
 veriff.com
 verifiedfirst.com
+veritone.com
 versapay.com
+vertafore.com
 vertical-leap.uk
 vertice.one
 vervaunt.com
@@ -3369,6 +3483,7 @@ wave.video
 wavenet.co.uk
 wavenetuk.com
 wavetec.com
+waystar.com
 wayve.ai
 wazoku.com
 wcommunications.co.uk
@@ -3396,6 +3511,7 @@ webcastle.ae
 webcredible.com
 webdesignerdubai.com
 webdevstudios.com
+webdew.com
 webershandwick.com
 webfirm.com
 webflow.com
@@ -3419,6 +3535,7 @@ wegopro.com
 wegotpop.com
 weidert.com
 wellows.com
+wellsky.com
 westwoodone.com
 wetracked.io
 wevideo.com
@@ -3458,9 +3575,11 @@ wordsmith.ai
 wordstream.com
 wordtracker.com
 workable.com
+workato.com
 workboard.com
 workbuzz.com
 workhuman.com
+workiva.com
 workos.com
 workspan.com
 workstream.is
@@ -3506,6 +3625,7 @@ yomly.com
 yospace.com
 yoti.com
 yotpo.com
+you.com
 youcloudpay.com
 yougotagift.com
 youlend.com
