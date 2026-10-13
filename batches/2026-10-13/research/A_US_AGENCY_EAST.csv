@@ -1,0 +1,13 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Ologie,ologie.com,US,"Brand strategy and marketing agency, Columbus OH, higher ed focus",A,no,,50,https://ologie.com/full-circle/,2026-09-15,Date from WordPress RSS pubDate; HQ Columbus OH
+Ironmark,ironmarkusa.com,US,"Marketing services and print agency, Annapolis Junction MD",A,no,,49,https://ironmarkusa.com/feed/,2026-09-04,"Date from WordPress RSS pubDate (blog path unconfirmed, feed URL given); HQ Maryland"
+Ruder Finn,ruderfinn.com,US,"PR and communications firm, New York",A,no,,53,https://ruderfinn.com/feed/,2026-09-16,"Date from RSS pubDate (blog path unconfirmed, feed URL given); some items are press releases"
+FINN Partners,finnpartners.com,US,"PR and communications firm, New York",A,no,,73,https://www.finnpartners.com/news-insights/,2026-10-09,"Date from RSS pubDate; large firm, HQ New York"
+Siegel+Gale,siegelgale.com,US,"Brand strategy and design consultancy, New York",A,no,,72,https://www.siegelgale.com/feed/,2026-10-07,"Date from RSS pubDate (blog path unconfirmed, feed URL given); Omnicom owned brand consultancy"
+FleishmanHillard,fleishmanhillard.com,US,"PR and communications firm, St. Louis MO",A,no,,72,https://fleishmanhillard.com/feed/,2026-10-12,"Date from RSS pubDate; Omnicom owned, HQ St. Louis; large firm"
+Jackson Spalding,jacksonspalding.com,US,"PR and marketing communications firm, Atlanta",A,no,,40,https://jacksonspalding.com/insights/,2026-10-12,Date from RSS pubDate; DR exactly 40
+Connelly Partners,connellypartners.com,US,"B2B and B2C marketing agency, Boston",A,no,,46,https://www.connellypartners.com/news/,2026-10-05,Date from RSS pubDate
+Media Cause,mediacause.com,US,"Cause marketing and digital agency, Boston",A,no,,55,https://mediacause.com/feed/,2026-10-06,"Date from RSS pubDate (email deliverability and AI articles); blog path unconfirmed, feed URL given"
+Perrill,perrill.com,US,"Digital marketing and web agency, Minneapolis area MN",A,no,,58,https://www.perrill.com/feed/,2026-09-30,"Date from RSS pubDate; web search places HQ in Minneapolis/Minnetonka; blog path unconfirmed, feed URL given"
+Atomic Object,atomicobject.com,US,"Software design and development studio, Grand Rapids MI",A,no,,73,https://spin.atomicobject.com/,2026-10-12,"Date from RSS pubDate of Atomic Spin blog; web and product design/dev studio, borderline Segment A"
+Brownstein Group,brownsteingroup.com,US,"Independent agency network (advertising, PR, digital), Philadelphia",A,no,,51,https://www.brownsteingroup.com/news/,2026-10-08,Date from RSS pubDate; posts are mostly agency news and announcements

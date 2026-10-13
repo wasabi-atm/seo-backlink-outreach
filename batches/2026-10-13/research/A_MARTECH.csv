@@ -1,0 +1,10 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Pixability,pixability.com,US,Video advertising and YouTube marketing platform,A,no,,64,https://www.pixability.com/blog,2026-10-01,Date confirmed on blog index (Apify cheerio). Boston HQ from memory.
+Snappa,snappa.com,US,Graphic design SaaS for marketers,A,no,,77,https://snappa.com/blog,2026-10-08,"Date confirmed on blog index (Apify cheerio). US HQ from memory, verify."
+Castr,castr.com,US,Live streaming and video hosting platform,A,no,,74,https://castr.com/blog,2026-10-09,"Date confirmed on blog index (Apify cheerio). HQ is US-incorporated but verify, team is partly remote/Asia."
+Campaigner,campaigner.com,US,Email marketing automation SaaS,A,no,,75,https://www.campaigner.com/blog,2026-10-12,"Date confirmed on blog index (Apify cheerio). US HQ from memory, verify."
+LiveKit,livekit.io,US,Real-time video and voice infrastructure for developers,A,no,,79,https://livekit.io/blog,2026-09-16,Date confirmed on blog index (Apify cheerio). San Francisco HQ.
+Daily,daily.co,US,Video and voice API platform for developers,A,no,,75,https://www.daily.co/blog/,2026-05-22,Date confirmed on blog index (Apify playwright adaptive). San Francisco HQ.
+Sanity,sanity.io,US,Headless CMS and content operations platform,A,no,,91,https://www.sanity.io/blog,2026-09-01,"Month-level only: latest post is 'What's new in September' release roundup, no exact day found. SF HQ."
+Echo360,echo360.com,US,Video platform for higher education,A,no,,73,https://echo360.com/articles/,2026-09-01,"Month-level only: latest article image uploaded under wp-content/uploads/2026/09, no exact day. Reston VA HQ."
+Podcastle,podcastle.ai,US,AI podcast and video recording and editing platform,A,no,,76,https://podcastle.ai/blog/,2026-09-01,"Month-level only: post cites early September 2026 data, no exact day. SF HQ, verify."

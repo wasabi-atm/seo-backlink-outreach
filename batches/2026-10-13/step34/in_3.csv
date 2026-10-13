@@ -1,0 +1,26 @@
+companyName,webDomain,country,serviceType,segment,domainRating,blogUrl,latestPost,notes
+LiveKit,livekit.io,US,Real-time video and voice infrastructure for developers,A,79,https://livekit.io/blog,2026-09-16,Date confirmed on blog index (Apify cheerio). San Francisco HQ.
+Automox,automox.com,US,Cloud endpoint patch management,B,70,https://www.automox.com/blog,2026-09-08,"WebSearch snippet: Patch Tuesday September 2026 post, day approximate (second Tuesday)"
+Hostfully,hostfully.com,US,Vacation rental property management software,B,77,https://www.hostfully.com/blog/,2026-10-01,"Apify index page scrape; Oct 2026 index post, exact day not shown so first of month used"
+DoorLoop,doorloop.com,US,Property management software,B,80,https://www.doorloop.com/blog,2026-06-02,WebSearch snippet showing dated post (last resort route); residential PM software roundup dated 2 Jun 2026; HQ from memory
+VaynerX,vaynerx.com,US,Marketing and media holding company,A,64,https://vaynerx.com/,2026-08-24,"Date confirmed via WP REST API (posts live at site root, news style). HQ New York from memory."
+Satisfi Labs,satisfilabs.com,US,AI conversational agents for venues and tourism,B,54,https://www.satisfilabs.com/blog,2026-05-14,Date from WebSearch snippet (ticketing agent post May 14 2026). HQ New York from memory.
+Airmeet,airmeet.com,US,Virtual and hybrid events platform,A,78,https://www.airmeet.com/hub/blog/,2026-10-12,"Post page 7-best-multi-camera-live-streaming-apps-for-phones-in-2026 dated October 12, 2026. HQ from memory (California)."
+Jobtrain,jobtrain.co.uk,UK,Applicant tracking / recruitment software,B,71,https://jobtrain.co.uk/blog,2026-08-17,WebSearch snippet showing dated post (last resort route); '10 facts from our latest market report' byline 17 Aug 2026; HQ from memory
+Panther,panther.com,US,Cloud SIEM and security operations,B,71,https://panther.com/blog,2026-06-14,Date from WebSearch snippet (last resort). HQ San Francisco from memory.
+Vast.ai,vast.ai,US,GPU marketplace for AI compute (San Francisco),B,73,https://vast.ai/blog,2026-10-01,"Date from blog index listing, Apify cheerio."
+Itineris,itineris.co.uk,UK,"Digital marketing, UX and web agency",A,55,https://www.itineris.co.uk/blog/,2026-08-05,"Confirmed via WordPress REST API post date 2026-08-05. Apollo organizations_lookup HQ location filter, HQ not site-confirmed"
+Experis UK,experis.co.uk,UK,IT recruitment and tech talent (ManpowerGroup brand),B,49,https://www.experis.co.uk/blog,2026-09-15,WebSearch snippet showing dated post (last resort route); Tech Talent Outlook Q4 2026 post (URL path /blog/2026/09/); HQ from memory
+FTI Consulting,fticonsulting.com,US,Business advisory and strategic communications consulting (Washington DC),B,79,https://www.fticonsulting.com/insights,2026-10-13,"Date from insights index listing, Apify cheerio."
+Workato,workato.com,US,Enterprise integration and automation platform,B,81,https://www.workato.com/the-connector/,2026-10-12,Apify index page scrape showed dated posts; blog is The Connector
+Onspring,onspring.com,US,B2B SaaS GRC and compliance automation,B,63,https://onspring.com/resources/blog/,2026-10-08,"Date from site RSS feed (/feed/, items 2026-10-08). HQ Overland Park KS from memory."
+Tenable,tenable.com,US,Exposure management and vulnerability cybersecurity,B,84,https://www.tenable.com/blog,2026-10-08,Apify index page scrape showed dated posts
+Eudia,eudia.com,US,Legal AI and augmented intelligence (San Francisco),B,41,https://www.eudia.com/blog,2026-07-09,"Date from blog index listing, Apify cheerio."
+Group SJR,groupsjr.com,US,"PR, content and integrated communications agency",A,54,https://www.groupsjr.com/ideas/,2025-11-20,"Confirmed via WordPress REST API post date 2025-11-20. Apollo organizations_lookup HQ location filter, HQ not site-confirmed"
+Holdens,holdens.agency,UK,Creative and branding agency,A,43,https://holdens.agency/blog,2026-09-25,"Confirmed via WordPress REST API post date 2026-09-25 (Apify web-fetch). Manchester per Apollo location filter, not site-confirmed"
+BPD,bpdhealthcare.com,US,Healthcare marketing agency,A,46,https://bpdhealthcare.com/what-we-think/,2026-10-12,Date confirmed via WordPress REST API. HQ from memory (US).
+Atomic Object,atomicobject.com,US,"Software design and development studio, Grand Rapids MI",A,73,https://spin.atomicobject.com/,2026-10-12,"Date from RSS pubDate of Atomic Spin blog; web and product design/dev studio, borderline Segment A"
+MikeWorldWide,mww.com,US,PR and experiential agency,A,52,https://www.mww.com/resources/,2026-10-08,Date from WP REST API (mww.com/resources post). HQ from memory (New Jersey).
+Nerdery,nerdery.com,US,Digital product and AI consultancy,A,55,https://www.nerdery.com/insights/,2026-07-16,"Post vibe-coding-as-liability published 2026-07-16 in page metadata. HQ from memory (US, Minnesota roots)."
+Lightning AI,lightning.ai,US,AI development and GPU cloud platform (New York),B,74,https://lightning.ai/blog,2026-09-30,"Date from blog index listing, Apify playwright adaptive."
+Staffology,staffology.co.uk,UK,Payroll software and HR/accountancy resources,B,46,https://www.staffology.co.uk/blog,2026-10-08,Date from Apify cheerio crawl of blog index (newest listed 8th October 2026)

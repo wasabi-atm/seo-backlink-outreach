@@ -1,0 +1,4 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Endor Labs,endorlabs.com,US,Application security and software supply chain platform,B,no,,73,https://www.endorlabs.com/blog,2026-10-12,"Apify web-fetch of blog index showed dated posts (Oct 12, 2026); HQ from memory (Palo Alto, CA)"
+UpGuard,upguard.com,US,"Third-party risk, attack surface and vendor risk management platform",B,no,,81,https://www.upguard.com/blog,2026-10-12,"Apify web-fetch of blog index showed dated posts (Oct 12, 2026); HQ from memory (Mountain View, CA)"
+Onit,onit.com,US,Legal operations and enterprise workflow software,B,no,,73,https://www.onit.com/blog,2026-10-09,"WordPress REST API via Apify web-fetch returned post dated 2026-10-09; HQ from memory (Houston, TX)"

@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Leo UK,leoburnett.co.uk,UK,Creative advertising agency,A,no,,55,https://leoburnett.co.uk/news/,2026-08-07,Date from WebSearch snippet of news page (last resort). HQ London from memory. News section rather than blog.
+Imagination,imagination.com,UK,Brand experience agency,A,no,,59,https://imagination.com/latest/,2026-10-06,Date confirmed via WP REST API. HQ London from memory.
+VaynerX,vaynerx.com,US,Marketing and media holding company,A,no,,64,https://vaynerx.com/,2026-08-24,"Date confirmed via WP REST API (posts live at site root, news style). HQ New York from memory."
+Sojern,sojern.com,US,Travel marketing platform,A,no,,76,https://www.sojern.com/blog,2026-09-10,Date from WebSearch snippet (last resort). HQ San Francisco from memory.
+Firework,firework.com,US,Video commerce platform,A,yes,Shoppable video platform that also sells video content production services,78,https://firework.com/blog,2025-12-22,Date from JSON-LD datePublished on a blog post; search snippets suggest newer 2026 posts. HQ San Mateo CA confirmed from JSON-LD.
+MobileAction,mobileaction.co,US,App marketing intelligence martech,A,no,,70,https://www.mobileaction.co/blog/,2026-10-01,Date confirmed via WP REST API. HQ from memory (Apollo US filter).
+INSIDEA,insidea.com,US,HubSpot partner and inbound marketing agency,A,no,,59,https://insidea.com/blog,2026-10-02,Date from WebSearch snippet of blog index (last resort). HQ from memory.
+Proton.ai,proton.ai,US,Sales AI and CRM for distributors,B,no,,45,https://www.proton.ai/blog,2026-08-20,Date is sitemap lastmod of newest blog post (no WP API). HQ from memory.
+Panther,panther.com,US,Cloud SIEM and security operations,B,no,,71,https://panther.com/blog,2026-06-14,Date from WebSearch snippet (last resort). HQ San Francisco from memory.
+Unite Us,uniteus.com,US,Social care coordination software,B,no,,72,https://uniteus.com/blog/,2026-10-06,Date confirmed via WP REST API. HQ from memory.
+nference,nference.com,US,Healthcare AI and data platform,B,no,,45,https://nference.com/blog,2026-01-13,Date from WebSearch snippet (last resort). HQ Cambridge MA from memory.
+vCluster,vcluster.com,US,Kubernetes virtual cluster platform,B,no,,71,https://www.vcluster.com/blog,2026-08-27,Date from WebSearch snippet (last resort); blog index also lists Sep 2026 posts. HQ from memory.
+Kayana,kayanaforbusiness.com,UK,"Ordering, EPOS and payments for hospitality",B,no,,40,https://kayanaforbusiness.com/en/resources/blog/,2026-09-14,Date confirmed via JSON-LD datePublished. HQ London confirmed from JSON-LD address. DR exactly 40.
+QA Touch,qatouch.com,US,Test case management software,B,no,,41,https://www.qatouch.com/blog/,2026-10-12,"Date confirmed via WP REST API. HQ from memory, unverified (Apollo US filter); check before sending."
+EXUS,exus.co.uk,UK,Debt collections software,B,no,,46,https://www.exus.co.uk/blog,2026-03-10,Date confirmed via JSON-LD datePublished on a post; newer posts may exist. HQ London from memory.
+Richpanel,richpanel.com,US,AI customer support helpdesk for ecommerce,B,no,,71,https://www.richpanel.com/blog,2026-06-04,Date from WebSearch snippet showing Published 2026-06-04 (last resort). HQ from memory.
+aPriori Technologies,apriori.com,US,Manufacturing cost and sustainability software,B,no,,55,https://www.apriori.com/blog/,2026-10-08,Date confirmed via WP REST API. HQ from memory.

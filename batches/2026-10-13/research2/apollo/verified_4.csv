@@ -1,0 +1,13 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Oxford Road,oxfordroad.com,US,Integrated marketing and influencer agency,A,no,,50,https://oxfordroad.com/thought-leadership/,2026-10-07,Date from WP REST API. HQ from memory (Denver).
+Wazuh,wazuh.com,US,Open source SIEM and XDR security platform,B,no,,76,https://wazuh.com/blog/,2026-10-08,Date from /feed/ RSS. HQ San Jose CA per post dateline.
+Cyble,cyble.com,US,Threat intelligence and cybersecurity,B,no,,75,https://cyble.com/blog/,2026-09-28,Date from WP REST API. HQ from memory (Alpharetta GA).
+The Shipyard,theshipyard.com,US,Brand and marketing agency,A,no,,43,https://theshipyard.com/,2026-09-23,"Date from WP REST API; posts sit at site root, blog index path not confirmed. HQ from memory (Columbus OH)."
+Appwrite,appwrite.io,US,Open source backend platform for developers,B,no,,76,https://appwrite.io/blog,2026-10-12,Date from /blog/rss.xml. HQ from memory.
+Cerby,cerby.com,US,Identity security for disconnected apps,B,no,,53,https://www.cerby.com/blog,2026-10-02,Date from /blog/rss.xml. HQ from memory.
+Freshpaint,freshpaint.io,US,Healthcare marketing data and privacy platform,A,no,,64,https://www.freshpaint.io/blog,2026-10-08,Date from /blog/rss.xml. HQ from memory (San Francisco).
+Astra Security,getastra.com,US,Penetration testing and application security,B,no,,79,https://www.getastra.com/blog,2026-10-06,"Date from /blog/feed/. HQ from memory (Apollo says US); ops partly in India, confirm before send."
+Quality Clouds,qualityclouds.ai,UK,AI code governance for Salesforce and ServiceNow,B,no,,42,https://qualityclouds.ai/blog,2026-10-04,"Date from blog index page (Oct 4, 2026). HQ UK per Owler snippet, team also in Barcelona; confirm."
+Unsloth AI,unsloth.ai,US,Open source LLM fine-tuning tooling,B,no,,76,https://unsloth.ai/blog,2026-04-07,Date from WebSearch snippet only (site is JS rendered). HQ from memory.
+Strobes Security,strobes.co,US,Exposure management and pentesting platform,B,no,,58,https://strobes.co/blog/,2026-04-09,Date from WebSearch snippet only. HQ from memory.
+SalesDuo,salesduo.com,US,Amazon advertising agency and software,A,no,,58,https://salesduo.com/blog/,2026-03-10,"Date from WebSearch snippet only. HQ per Apollo, not verified; confirm."
