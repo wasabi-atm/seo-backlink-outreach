@@ -1,0 +1,2 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+R3 (Reckless),r3.agency,UK,"Growth marketing, RevOps and ecommerce technology agency",A,no,,47,https://r3.agency/insights,2026-09-11,Manchester-based (per search results). Date confirmed from Apify cheerio/playwright crawl of insights index: newest post 11 Sep 2026. Also reachable as reckless.agency (not in exclusion list either).
