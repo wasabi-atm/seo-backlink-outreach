@@ -1,0 +1,14 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+CausalFunnel,causalfunnel.com,US,Growth marketing and SEO agency,A,no,,55,https://www.causalfunnel.com/blog/,2026-09-28,"Date from WP REST API. HQ per Apollo country filter, not confirmed on site."
+"Rise, a Quad agency",meetrise.com,US,Local and performance marketing agency,A,no,,59,https://meetrise.com/insights,2026-10-07,Date from WP REST API. HQ from memory (Quad company).
+MikeWorldWide,mww.com,US,PR and experiential agency,A,no,,52,https://www.mww.com/resources/,2026-10-08,Date from WP REST API (mww.com/resources post). HQ from memory (New Jersey).
+1000heads,1000heads.com,UK,Word of mouth and social marketing agency,A,no,,58,https://1000heads.com/blog/,2026-08-17,Date from WP REST API. Recent posts are in French. HQ from memory (London); Apollo gave UK/UAE.
+Murf AI,murf.ai,US,AI voice generator and voice agents,A,no,,80,https://murf.ai/blog,2026-10-12,Dates on blog index page. HQ San Francisco confirmed from site footer address.
+Pydantic,pydantic.dev,US,"Developer tools (Pydantic, Logfire, AI)",B,no,,83,https://pydantic.dev/articles,2026-10-08,Dates on articles index page. HQ from memory (San Francisco).
+Soroco,soroco.com,US,Work graph and digital interaction intelligence software,B,no,,45,https://soroco.com/feed/,2026-09-23,Date from RSS feed (blog index not fetched). HQ from memory (Boston).
+Levelpath,levelpath.com,US,AI procurement software,B,no,,54,https://www.levelpath.com/blog,2026-10-07,Dates on blog index page. HQ from memory (San Francisco).
+Flowace,flowace.ai,US,Workforce productivity and time tracking software,B,no,,50,https://flowace.ai/blog/,2026-10-07,"Date from WP REST API. HQ per Apollo country filter, not confirmed on site."
+V-Count,v-count.com,UK,Retail people counting and analytics,B,no,,50,https://v-count.com/blog/,2026-10-08,"Date from WP REST API. HQ per Apollo country filter; company has Turkey roots, confirm before sending."
+Expo,expo.dev,US,Developer platform for React Native apps,B,no,,88,https://expo.dev/blog,2026-10-08,Dates on blog index page. HQ from memory (Palo Alto).
+Sentra,sentra.io,US,Data security posture management,B,no,,66,https://sentra.io/blog,2026-10-06,"Dates on blog index page. HQ from memory (New York, Tel Aviv R&D); confirm."
+Pentera,pentera.io,US,Automated security validation,B,no,,70,https://pentera.io/blog/,2026-10-06,"Dates on blog index page. HQ from memory (Boston, Israel R&D); confirm."
