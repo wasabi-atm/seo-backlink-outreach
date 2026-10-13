@@ -1,0 +1,118 @@
+[
+{
+"companyName": "Recorded Future",
+"webDomain": "recordedfuture.com",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Listen Notes",
+"webDomain": "listennotes.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "DataFlow Group",
+"webDomain": "dataflowgroup.com",
+"country": "UAE",
+"segment": "B",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Databricks",
+"webDomain": "databricks.com",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Egnyte",
+"webDomain": "egnyte.com",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Intapp",
+"webDomain": "intapp.com",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Whalar",
+"webDomain": "whalar.com",
+"country": "UK",
+"segment": "A",
+"source": "emailspare:2026-10-06"
+},
+{
+"companyName": "3 Sided Cube",
+"webDomain": "3sidedcube.com",
+"country": "UK",
+"segment": "B",
+"source": "emailspare:2026-10-07"
+},
+{
+"companyName": "Semify",
+"webDomain": "semify.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-08"
+},
+{
+"companyName": "Ontraport",
+"webDomain": "ontraport.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-08"
+},
+{
+"companyName": "Digital Third Coast",
+"webDomain": "digitalthirdcoast.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-08"
+},
+{
+"companyName": "GBG",
+"webDomain": "gbgplc.com",
+"country": "UK",
+"segment": "B",
+"source": "emailspare:2026-10-08"
+},
+{
+"companyName": "PaySimple",
+"webDomain": "paysimple.com",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-08"
+},
+{
+"companyName": "PowerReviews",
+"webDomain": "powerreviews.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-08"
+},
+{
+"companyName": "Web Profits",
+"webDomain": "webprofits.com.au",
+"country": "Australia",
+"segment": "A",
+"serviceType": "growth marketing agency",
+"source": "new",
+"blogEvidence": "https://www.webprofits.com.au/blog/content-marketing/"
+},
+{
+"companyName": "Sixgun",
+"webDomain": "sixgun.com.au",
+"country": "Australia",
+"segment": "A",
+"serviceType": "digital marketing agency",
+"source": "new",
+"blogEvidence": "Rank in AI search: overview and answer optimisation strategies (sixgun.com.au/insights)"
+}
+]

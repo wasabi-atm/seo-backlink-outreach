@@ -1,0 +1,146 @@
+[
+{
+"companyName": "Covideo",
+"webDomain": "covideo.com",
+"country": "US",
+"segment": "A",
+"serviceType": "video messaging SaaS (Kansas)",
+"source": "new",
+"blogEvidence": "https://www.covideo.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "Switcher Studio",
+"webDomain": "switcherstudio.com",
+"country": "US",
+"segment": "A",
+"serviceType": "live video production app (Louisville KY)",
+"source": "new",
+"blogEvidence": "https://www.switcherstudio.com/blog (blog index, not opened this run)"
+},
+{
+"companyName": "Zight",
+"webDomain": "zight.com",
+"country": "US",
+"segment": "A",
+"serviceType": "async video and screen recording SaaS (Seattle)",
+"source": "new",
+"blogEvidence": "https://zight.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "Quantum Workplace",
+"webDomain": "quantumworkplace.com",
+"country": "US",
+"segment": "B",
+"serviceType": "HR tech, employee engagement SaaS (Omaha)",
+"source": "new",
+"blogEvidence": "https://www.quantumworkplace.com/future-of-work (blog index, not opened this run)"
+},
+{
+"companyName": "Sanity",
+"webDomain": "sanity.io",
+"country": "US",
+"segment": "B",
+"serviceType": "content platform / dev tools (San Francisco)",
+"source": "new",
+"blogEvidence": "https://www.sanity.io/blog (blog index, not opened this run)"
+},
+{
+"companyName": "Sezzle",
+"webDomain": "sezzle.com",
+"country": "US",
+"segment": "B",
+"serviceType": "FinTech, BNPL (Minneapolis)",
+"source": "new",
+"blogEvidence": "https://sezzle.com/blog (blog index, not opened this run)"
+},
+{
+"companyName": "Homebot",
+"webDomain": "homebot.ai",
+"country": "US",
+"segment": "B",
+"serviceType": "client engagement SaaS for lenders and agents (Denver)",
+"source": "new",
+"blogEvidence": "https://homebot.ai/blog (blog index, not opened this run)"
+},
+{
+"companyName": "JupiterOne",
+"webDomain": "jupiterone.com",
+"country": "US",
+"segment": "B",
+"serviceType": "cybersecurity SaaS (Morrisville NC)",
+"source": "new",
+"blogEvidence": "https://www.jupiterone.com/blog (blog index, not opened this run)"
+},
+{
+"companyName": "AlertMedia",
+"webDomain": "alertmedia.com",
+"country": "US",
+"segment": "B",
+"serviceType": "emergency communication SaaS (Austin)",
+"source": "new",
+"blogEvidence": "https://www.alertmedia.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "ZenBusiness",
+"webDomain": "zenbusiness.com",
+"country": "US",
+"segment": "B",
+"serviceType": "small business formation services (Austin)",
+"source": "new",
+"blogEvidence": "https://www.zenbusiness.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "Textio",
+"webDomain": "textio.com",
+"country": "US",
+"segment": "B",
+"serviceType": "HR tech, AI writing for recruiting (Seattle)",
+"source": "new",
+"blogEvidence": "https://textio.com/blog (blog index, not opened this run)"
+},
+{
+"companyName": "Jama Software",
+"webDomain": "jamasoftware.com",
+"country": "US",
+"segment": "B",
+"serviceType": "requirements management SaaS (Portland)",
+"source": "new",
+"blogEvidence": "https://www.jamasoftware.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "Jellyvision",
+"webDomain": "jellyvision.com",
+"country": "US",
+"segment": "B",
+"serviceType": "HR benefits communication SaaS (Chicago)",
+"source": "new",
+"blogEvidence": "https://www.jellyvision.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "TekRevol",
+"webDomain": "tekrevol.com",
+"country": "US",
+"segment": "B",
+"serviceType": "app and software development (Houston)",
+"source": "new",
+"blogEvidence": "https://www.tekrevol.com/blogs (blog index, not opened this run)"
+},
+{
+"companyName": "hireEZ",
+"webDomain": "hireez.com",
+"country": "US",
+"segment": "B",
+"serviceType": "HR tech, recruiting platform",
+"source": "new",
+"blogEvidence": "https://hireez.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "Sense",
+"webDomain": "sensehq.com",
+"country": "US",
+"segment": "B",
+"serviceType": "HR tech, recruiting automation (San Francisco)",
+"source": "new",
+"blogEvidence": "https://www.sensehq.com/blog (blog index, not opened this run)"
+}
+]
