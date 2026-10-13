@@ -1,0 +1,146 @@
+[
+{
+"companyName": "Really Simple Systems",
+"webDomain": "reallysimplesystems.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "CRM SaaS",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.reallysimplesystems.com/blog/"
+},
+{
+"companyName": "instantprint",
+"webDomain": "instantprint.co.uk",
+"country": "UK",
+"segment": "B",
+"serviceType": "B2B online printing, Rotherham",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.instantprint.co.uk/printspiration"
+},
+{
+"companyName": "Printed.com",
+"webDomain": "printed.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "B2B online printing, Newcastle",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.printed.com/blog"
+},
+{
+"companyName": "Solopress",
+"webDomain": "solopress.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "B2B online printing, Essex",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.solopress.com/blog/"
+},
+{
+"companyName": "34SP.com",
+"webDomain": "34sp.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Web hosting for agencies, Manchester",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.34sp.com/blog"
+},
+{
+"companyName": "Names.co.uk",
+"webDomain": "names.co.uk",
+"country": "UK",
+"segment": "B",
+"serviceType": "Domains and hosting, Bournemouth",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.names.co.uk/blog/"
+},
+{
+"companyName": "MOO",
+"webDomain": "moo.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Business print and design platform, London",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.moo.com/blog"
+},
+{
+"companyName": "Bink",
+"webDomain": "bink.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Loyalty and payments FinTech, London",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://bink.com/blog/"
+},
+{
+"companyName": "AccountsIQ",
+"webDomain": "accountsiq.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Cloud accounting SaaS, London",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.accountsiq.com/blog/"
+},
+{
+"companyName": "GoSimpleTax",
+"webDomain": "gosimpletax.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Tax software SaaS, Cardiff",
+"source": "new",
+"blogEvidence": "UNVERIFIED (search budget ran out) expected blog: https://www.gosimpletax.com/blog/"
+},
+{
+"companyName": "Column Content",
+"webDomain": "columncontent.com",
+"country": "US",
+"segment": "A",
+"serviceType": "content marketing agency (New York)",
+"source": "new",
+"blogEvidence": "https://columncontent.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "Influence & Co.",
+"webDomain": "influenceandco.com",
+"country": "US",
+"segment": "A",
+"serviceType": "content marketing agency (Columbia MO)",
+"source": "new",
+"blogEvidence": "https://influenceandco.com/blog/ (blog index, not opened this run)"
+},
+{
+"companyName": "Viget",
+"webDomain": "viget.com",
+"country": "US",
+"segment": "A",
+"serviceType": "web and digital design studio (Falls Church VA, Durham, Boulder)",
+"source": "new",
+"blogEvidence": "https://www.viget.com/articles/ (blog index, not opened this run)"
+},
+{
+"companyName": "Clique Studios",
+"webDomain": "cliquestudios.com",
+"country": "US",
+"segment": "A",
+"serviceType": "web design and branding studio (Chicago)",
+"source": "new",
+"blogEvidence": "https://cliquestudios.com/insights/ (blog index, not opened this run)"
+},
+{
+"companyName": "Instrument",
+"webDomain": "instrument.com",
+"country": "US",
+"segment": "A",
+"serviceType": "brand and digital agency (Portland)",
+"source": "new",
+"blogEvidence": "https://www.instrument.com/ insights section (blog index, not opened this run)"
+},
+{
+"companyName": "Element Three",
+"webDomain": "elementthree.com",
+"country": "US",
+"segment": "A",
+"serviceType": "marketing agency (Indianapolis)",
+"source": "new",
+"blogEvidence": "https://elementthree.com/blog/ (blog index, not opened this run)"
+}
+]

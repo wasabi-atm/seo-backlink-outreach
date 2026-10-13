@@ -1,0 +1,114 @@
+[
+{
+"companyName": "venturethree",
+"webDomain": "venturethree.com",
+"country": "UK",
+"segment": "A",
+"source": "emailspare:2026-10-01"
+},
+{
+"companyName": "Saatchi & Saatchi",
+"webDomain": "saatchi.co.uk",
+"country": "UK",
+"segment": "A",
+"source": "emailspare:2026-10-01"
+},
+{
+"companyName": "Holistic AI",
+"webDomain": "holisticai.com",
+"country": "UK",
+"segment": "B",
+"source": "emailspare:2026-10-01"
+},
+{
+"companyName": "Aeolidia",
+"webDomain": "aeolidia.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "Duct Tape Marketing",
+"webDomain": "ducttapemarketing.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "Signable",
+"webDomain": "signable.com",
+"country": "UK",
+"segment": "B",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "Brandpie",
+"webDomain": "brandpie.com",
+"country": "UK",
+"segment": "A",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "Matillion",
+"webDomain": "matillion.com",
+"country": "UK",
+"segment": "B",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "PayTabs",
+"webDomain": "paytabs.com",
+"country": "UAE",
+"segment": "B",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "Social Media Examiner",
+"webDomain": "socialmediaexaminer.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "Semgrep",
+"webDomain": "semgrep.dev",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-02"
+},
+{
+"companyName": "Podbean",
+"webDomain": "podbean.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Interbrand",
+"webDomain": "interbrand.com",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "RocketReach",
+"webDomain": "rocketreach.co",
+"country": "US",
+"segment": "A",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Palo Alto Networks",
+"webDomain": "paloaltonetworks.com",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-05"
+},
+{
+"companyName": "Confluent",
+"webDomain": "confluent.io",
+"country": "US",
+"segment": "B",
+"source": "emailspare:2026-10-05"
+}
+]

@@ -1,0 +1,4 @@
+companyName,webDomain,country,segment,serviceType,source,articleUrl,articleTitle,blogEvidence,dedupeMatch,dedupeReason
+Canopy,canopytax.com,US,B,accounting practice SaaS (Salt Lake City area),new,,,"https://www.canopytax.com/blog (blog index, not opened this run)",exact,"name 'Canopy' matches Canopy (sent 2026-10-08, backlinkform-2026-10-08); brand 'canopy' matches Canopy (sent 2026-10-08, backlinkform-2026-10-08)"
+Virtuzone,vz.ae,UAE,B,business setup services (Dubai),new,,,"https://vz.ae/blog (blog index, not opened this run)",exact,"name 'Virtuzone' matches Virtuzone (queued 2026-09-28, backlink-2026-09-28); brand 'virtuzone' matches Virtuzone (queued 2026-09-28, backlink-2026-09-28)"
+Joinassembly,joinassembly.com,US,,,new,,,,possible,"brand 'assembly' matches AssemblyAI (queued 2026-10-01, backlink-2026-10-01)"

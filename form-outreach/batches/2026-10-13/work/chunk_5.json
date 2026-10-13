@@ -1,0 +1,146 @@
+[
+{
+"companyName": "Vision6",
+"webDomain": "vision6.com.au",
+"country": "Australia",
+"segment": "A",
+"serviceType": "email marketing SaaS",
+"source": "new",
+"blogEvidence": "Email and Social Media Marketing: How to make them work together (vision6.com.au/blog)"
+},
+{
+"companyName": "ClickSend",
+"webDomain": "clicksend.com",
+"country": "Australia",
+"segment": "A",
+"serviceType": "SMS marketing platform",
+"source": "new",
+"blogEvidence": "https://blog.clicksend.com/category/sms-marketing/"
+},
+{
+"companyName": "Burst SMS",
+"webDomain": "burstsms.com.au",
+"country": "Australia",
+"segment": "A",
+"serviceType": "SMS marketing platform",
+"source": "new",
+"blogEvidence": "The SMS Playbook for Retail and E-commerce Businesses (blog.burstsms.com.au)"
+},
+{
+"companyName": "Squiz",
+"webDomain": "squiz.net",
+"country": "Australia",
+"segment": "A",
+"serviceType": "digital experience platform",
+"source": "new",
+"blogEvidence": "Future-proofing digital experiences with agility and AI (squiz.net/blog)"
+},
+{
+"companyName": "Particular Audience",
+"webDomain": "particularaudience.com",
+"country": "Australia",
+"segment": "A",
+"serviceType": "ecommerce personalisation and retail media SaaS",
+"source": "new",
+"blogEvidence": "3 Ways Personalization Improves Customer Experience in Ecommerce (particularaudience.com/blog)"
+},
+{
+"companyName": "Rex Software",
+"webDomain": "rexsoftware.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "real estate CRM SaaS",
+"source": "new",
+"blogEvidence": "Top Tips on Making A Real Estate Video (rexsoftware.com/articles)"
+},
+{
+"companyName": "Ignition",
+"webDomain": "ignitionapp.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "proposals and billing SaaS",
+"source": "new",
+"blogEvidence": "2025 Predictions: Top trends for service-based businesses (ignitionapp.com/blog)"
+},
+{
+"companyName": "Rezdy",
+"webDomain": "rezdy.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "booking software SaaS",
+"source": "new",
+"blogEvidence": "11 Video Marketing Tips for Tour and Activity Operators (rezdy.com/blog)"
+},
+{
+"companyName": "Sendle",
+"webDomain": "sendle.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "shipping tech",
+"source": "new",
+"blogEvidence": "Customer testimonials: Happy customers are the best marketing (blog.sendle.com)"
+},
+{
+"companyName": "Shippit",
+"webDomain": "shippit.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "shipping SaaS",
+"source": "new",
+"blogEvidence": "The power of using customer reviews to drive sales (shippit.com/blog)"
+},
+{
+"companyName": "Marketplacer",
+"webDomain": "marketplacer.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "marketplace SaaS",
+"source": "new",
+"blogEvidence": "8 Retail and Marketplace Trends Shaping E-commerce in 2025 (marketplacer.com/blog)"
+},
+{
+"companyName": "Pinch Payments",
+"webDomain": "getpinch.com.au",
+"country": "Australia",
+"segment": "B",
+"serviceType": "payments fintech",
+"source": "new",
+"blogEvidence": "Top Software for Australian Small Service Businesses in 2026 (getpinch.com.au/blog)"
+},
+{
+"companyName": "Thriday",
+"webDomain": "thriday.com.au",
+"country": "Australia",
+"segment": "B",
+"serviceType": "small business fintech",
+"source": "new",
+"blogEvidence": "10 Strategies for Boosting Your Online Business Presence (thriday.com.au/blog-posts)"
+},
+{
+"companyName": "Prospa",
+"webDomain": "prospa.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "small business lending fintech",
+"source": "new",
+"blogEvidence": "Using the power of social media selling to boost sales (prospa.com/blog)"
+},
+{
+"companyName": "JobAdder",
+"webDomain": "jobadder.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "recruitment software SaaS",
+"source": "new",
+"blogEvidence": "Marketing your recruitment agency: Best practices and strategies (jobadder.com/blog)"
+},
+{
+"companyName": "Humanforce",
+"webDomain": "humanforce.com",
+"country": "Australia",
+"segment": "B",
+"serviceType": "HR tech SaaS",
+"source": "new",
+"blogEvidence": "Maximising employee referrals (humanforce.com/blog)"
+}
+]
