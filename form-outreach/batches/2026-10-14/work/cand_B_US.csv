@@ -1,0 +1,99 @@
+companyName,webDomain,country,serviceType,segment,drFree
+ChurnZero,churnzero.com,US,Customer success software,B,74
+Totango,totango.com,US,Customer success software,B,73
+GuideCX,guidecx.com,US,Customer onboarding software,B,56
+Consensus,goconsensus.com,US,Demo automation software,B,74
+Skilljar,skilljar.com,US,Customer education software,B,82
+WorkRamp,workramp.com,US,Learning software,B,68
+Gem,gem.com,US,Recruiting software,B,80
+Culture Index,cultureindex.com,US,HR software,B,70
+TINYpulse,tinypulse.com,US,HR software,B,76
+Kudos,kudos.com,US,Recognition software,B,67
+Terryberry,terryberry.com,US,Recognition software,B,65
+Wellable,wellable.co,US,Wellness software,B,71
+Limeade,limeade.com,US,Wellbeing software,B,71
+Carrot Fertility,get-carrot.com,US,Healthtech,B,72
+Klara,klara.com,US,Healthtech software,B,75
+Luma Health,lumahealth.com,US,Healthtech software,B,44
+Solutionreach,solutionreach.com,US,Healthtech software,B,78
+Instantly,instantly.ai,US,Sales software,B,80
+Copper,copper.com,US,CRM software,B,76
+Less Annoying CRM,lessannoyingcrm.com,US,CRM software,B,75
+Keap,keap.com,US,CRM software,B,83
+Paystand,paystand.com,US,Fintech,B,70
+Bento for Business,bentoforbusiness.com,US,Fintech,B,45
+Homebase,joinhomebase.com,US,HR software,B,79
+Pilot,pilot.com,US,Accounting software,B,73
+Fyle,fylehq.com,US,Expense software,B,71
+Novo,novo.co,US,Fintech,B,71
+Maxio,maxio.com,US,Billing software,B,77
+Baremetrics,baremetrics.com,US,SaaS analytics,B,77
+Stax,staxpayments.com,US,Payments,B,74
+Payment Depot,paymentdepot.com,US,Payments,B,54
+Narmi,narmi.com,US,Fintech,B,52
+Kasasa,kasasa.com,US,Fintech,B,67
+Persona,withpersona.com,US,Identity software,B,80
+Secureframe,secureframe.com,US,Compliance software,B,80
+Cyberhaven,cyberhaven.com,US,Cybersecurity,B,73
+Cofense,cofense.com,US,Cybersecurity,B,75
+Curricula,curricula.com,US,Cybersecurity,B,43
+Stytch,stytch.com,US,Dev tools,B,75
+FusionAuth,fusionauth.io,US,Dev tools,B,80
+Hasura,hasura.io,US,Dev tools,B,76
+Statsig,statsig.com,US,Dev tools,B,76
+Canny,canny.io,US,Product software,B,87
+Lookback,lookback.com,US,Research software,B,72
+Respondent,respondent.io,US,Research software,B,71
+SavvyCal,savvycal.com,US,Scheduling software,B,80
+Sigma Computing,sigmacomputing.com,US,Data software,B,75
+Productboard,productboard.com,US,Product software,B,81
+dbt Labs,getdbt.com,US,Data software,B,82
+HireVue,hirevue.com,US,Hiring software,B,77
+Fly.io,fly.io,US,Dev tools,B,84
+Netlify,netlify.com,US,Dev tools,B,91
+Dashlane,dashlane.com,US,Cybersecurity,B,82
+Bitwarden,bitwarden.com,US,Cybersecurity,B,86
+Jumio,jumio.com,US,Identity software,B,80
+Sift,sift.com,US,Fraud software,B,81
+Coda,coda.io,US,Productivity software,B,82
+Basecamp,basecamp.com,US,Project software,B,88
+Linear,linear.app,US,Project software,B,84
+Rewardful,rewardful.com,US,Affiliate software,B,77
+FirstPromoter,firstpromoter.com,US,Affiliate software,B,83
+PartnerStack,partnerstack.com,US,Partner software,B,81
+Friendbuy,friendbuy.com,US,Referral software,B,70
+Stamped,stamped.io,US,Reviews software,B,85
+Junip,junip.co,US,Reviews software,B,81
+Richpanel,richpanel.com,US,Support software,B,71
+Groove,groovehq.com,US,Support software,B,83
+Missive,missiveapp.com,US,Email software,B,74
+Qualified,qualified.com,US,Revenue software,B,74
+Terminus,terminus.com,US,ABM software,B,76
+RollWorks,rollworks.com,US,ABM software,B,71
+Uberflip,uberflip.com,US,Content software,B,81
+Gainsight Community,insided.com,US,Community software,B,66
+Higher Logic,higherlogic.com,US,Community software,B,81
+Bevy,bevy.com,US,Community software,B,74
+Circle,circle.so,US,Community software,B,88
+Mighty Networks,mightynetworks.com,US,Community software,B,84
+June,june.so,US,Analytics software,B,58
+Unify,unify.com,US,Sales software,B,72
+RB2B,rb2b.com,US,Sales software,B,76
+Leadfeeder,leadfeeder.com,US,Sales software,B,81
+Swipe Pages,swipepages.com,US,Landing page software,B,75
+Justuno,justuno.com,US,Marketing software,B,75
+Hello Bar,hellobar.com,US,Marketing software,B,76
+Convert,convert.com,US,Experimentation software,B,78
+Monetate,monetate.com,US,Personalization software,B,77
+Bluecore,bluecore.com,US,Marketing software,B,71
+TextMagic,textmagic.com,US,SMS software,B,77
+Plivo,plivo.com,US,Communications API,B,76
+Kixie,kixie.com,US,Sales dialer software,B,71
+OpenPhone,openphone.com,US,Communications software,B,75
+Smokeball,smokeball.com,US,Legal software,B,71
+PracticePanther,practicepanther.com,US,Legal software,B,75
+CosmoLex,cosmolex.com,US,Legal software,B,73
+Proposify,proposify.com,US,Proposal software,B,76
+Qwilr,qwilr.com,US,Proposal software,B,77
+Concord,concord.app,US,Contract software,B,65
+ReferralCandy,referralcandy.com,US,Referral software,B,83

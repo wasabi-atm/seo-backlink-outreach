@@ -1,0 +1,182 @@
+[
+{
+"companyName": "Netlify",
+"webDomain": "netlify.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "91",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Dashlane",
+"webDomain": "dashlane.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Cybersecurity",
+"domainRating": "82",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Bitwarden",
+"webDomain": "bitwarden.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Cybersecurity",
+"domainRating": "86",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Jumio",
+"webDomain": "jumio.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Identity software",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Sift",
+"webDomain": "sift.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Fraud software",
+"domainRating": "81",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Coda",
+"webDomain": "coda.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Productivity software",
+"domainRating": "82",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Basecamp",
+"webDomain": "basecamp.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Project software",
+"domainRating": "88",
+"altEmail": "jason@basecamp.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Linear",
+"webDomain": "linear.app",
+"country": "US",
+"segment": "B",
+"serviceType": "Project software",
+"domainRating": "84",
+"altEmail": "hello@linear.app",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Rewardful",
+"webDomain": "rewardful.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Affiliate software",
+"domainRating": "77",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "FirstPromoter",
+"webDomain": "firstpromoter.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Affiliate software",
+"domainRating": "83",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "PartnerStack",
+"webDomain": "partnerstack.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Partner software",
+"domainRating": "81",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Friendbuy",
+"webDomain": "friendbuy.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Referral software",
+"domainRating": "70",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Stamped",
+"webDomain": "stamped.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Reviews software",
+"domainRating": "85",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Junip",
+"webDomain": "junip.co",
+"country": "US",
+"segment": "B",
+"serviceType": "Reviews software",
+"domainRating": "81",
+"altEmail": "sales@juniphq.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Richpanel",
+"webDomain": "richpanel.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Support software",
+"domainRating": "71",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Digital Marketing Hub",
+"webDomain": "digitalmarketinghub.com.au",
+"country": "AU",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "46",
+"altEmail": "",
+"knownArticleUrl": "https://digitalmarketinghub.com.au/why-ai-feels-brilliant-one-minute-and-useless-the-next/"
+},
+{
+"companyName": "Saturate",
+"webDomain": "saturate.marketing",
+"country": "UK",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "40",
+"altEmail": "",
+"knownArticleUrl": "https://saturate.marketing/designing-emails-for-mobile-in-2026-structure-speed-and-what-still-works"
+},
+{
+"companyName": "Mentor Digital",
+"webDomain": "mentordigital.co.uk",
+"country": "UK",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "44",
+"altEmail": "",
+"knownArticleUrl": "https://mentordigital.co.uk/blog/google-ai-max-worth-testing/"
+}
+]

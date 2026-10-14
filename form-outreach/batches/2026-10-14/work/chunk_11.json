@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Smokeball",
+"webDomain": "smokeball.com",
+"country": "US",
+"serviceType": "Legal software",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "PracticePanther",
+"webDomain": "practicepanther.com",
+"country": "US",
+"serviceType": "Legal software",
+"segment": "B",
+"drFree": "75"
+},
+{
+"companyName": "CosmoLex",
+"webDomain": "cosmolex.com",
+"country": "US",
+"serviceType": "Legal software",
+"segment": "B",
+"drFree": "73"
+},
+{
+"companyName": "Proposify",
+"webDomain": "proposify.com",
+"country": "US",
+"serviceType": "Proposal software",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "Qwilr",
+"webDomain": "qwilr.com",
+"country": "US",
+"serviceType": "Proposal software",
+"segment": "B",
+"drFree": "77"
+},
+{
+"companyName": "ReferralCandy",
+"webDomain": "referralcandy.com",
+"country": "US",
+"serviceType": "Referral software",
+"segment": "B",
+"drFree": "83"
+},
+{
+"companyName": "Learning Pool",
+"webDomain": "learningpool.com",
+"country": "UK",
+"serviceType": "eLearning platform",
+"segment": "B",
+"drFree": "73"
+},
+{
+"companyName": "Hive Learning",
+"webDomain": "hivelearning.com",
+"country": "UK",
+"serviceType": "Learning SaaS",
+"segment": "B",
+"drFree": "58"
+},
+{
+"companyName": "Peak AI",
+"webDomain": "peak.ai",
+"country": "UK",
+"serviceType": "AI decision software",
+"segment": "B",
+"drFree": "65"
+},
+{
+"companyName": "Tractable",
+"webDomain": "tractable.ai",
+"country": "UK",
+"serviceType": "AI software",
+"segment": "B",
+"drFree": "59"
+},
+{
+"companyName": "Sensat",
+"webDomain": "sensat.co",
+"country": "UK",
+"serviceType": "Infrastructure software",
+"segment": "B",
+"drFree": "47"
+},
+{
+"companyName": "Mind the Product",
+"webDomain": "mindtheproduct.com",
+"country": "UK",
+"serviceType": "Product community and events",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "Float",
+"webDomain": "float.com",
+"country": "UK",
+"serviceType": "Resource planning SaaS",
+"segment": "B",
+"drFree": "72"
+},
+{
+"companyName": "Modulr",
+"webDomain": "modulrfinance.com",
+"country": "UK",
+"serviceType": "Payments API FinTech",
+"segment": "B",
+"drFree": "66"
+},
+{
+"companyName": "Lumi",
+"webDomain": "lumiglobal.com",
+"country": "UK",
+"serviceType": "Events and hybrid tech",
+"segment": "B",
+"drFree": "66"
+},
+{
+"companyName": "Bidstack",
+"webDomain": "bidstack.com",
+"country": "UK",
+"serviceType": "Ad tech",
+"segment": "B",
+"drFree": "55"
+},
+{
+"companyName": "Sherlock Communications",
+"webDomain": "sherlockcomms.com",
+"country": "UK",
+"serviceType": "PR and content services",
+"segment": "B",
+"drFree": "51"
+},
+{
+"companyName": "Receptive",
+"webDomain": "receptive.io",
+"country": "UK",
+"serviceType": "Product feedback SaaS",
+"segment": "B",
+"drFree": "46"
+},
+{
+"companyName": "Gleam",
+"webDomain": "gleam.io",
+"country": "UK",
+"serviceType": "Marketing campaign SaaS",
+"segment": "B",
+"drFree": "83"
+},
+{
+"companyName": "Zapnito",
+"webDomain": "zapnito.com",
+"country": "UK",
+"serviceType": "Knowledge platform SaaS",
+"segment": "B",
+"drFree": "67"
+},
+{
+"companyName": "Railsr",
+"webDomain": "railsr.com",
+"country": "UK",
+"serviceType": "Embedded finance FinTech",
+"segment": "B",
+"drFree": "49"
+},
+{
+"companyName": "HireHive",
+"webDomain": "hirehive.com",
+"country": "UK",
+"serviceType": "Recruitment SaaS",
+"segment": "B",
+"drFree": "69"
+},
+{
+"companyName": "Applied",
+"webDomain": "beapplied.com",
+"country": "UK",
+"serviceType": "Hiring HR tech",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "TribePad",
+"webDomain": "tribepad.com",
+"country": "UK",
+"serviceType": "Recruitment HR tech",
+"segment": "B",
+"drFree": "73"
+},
+{
+"companyName": "Sonocent",
+"webDomain": "sonocent.com",
+"country": "UK",
+"serviceType": "Education software",
+"segment": "B",
+"drFree": "48"
+}
+]

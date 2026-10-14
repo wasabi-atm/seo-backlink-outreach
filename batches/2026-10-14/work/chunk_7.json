@@ -1,0 +1,272 @@
+[
+{
+"companyName": "Scribewise",
+"webDomain": "scribewise.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing agency",
+"domainRating": "52",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Fractl",
+"webDomain": "frac.tl",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing agency",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Draft.dev",
+"webDomain": "draft.dev",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing agency",
+"domainRating": "59",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "New North",
+"webDomain": "newnorth.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing agency",
+"domainRating": "48",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "ContentWriters",
+"webDomain": "contentwriters.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing agency",
+"domainRating": "63",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Hinge Marketing",
+"webDomain": "hingemarketing.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing agency",
+"domainRating": "74",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Content Allies",
+"webDomain": "contentallies.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing platform",
+"domainRating": "58",
+"altEmail": "hello@contentallies.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "MarketMuse",
+"webDomain": "marketmuse.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Content marketing platform",
+"domainRating": "77",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Agorapulse",
+"webDomain": "agorapulse.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Loomly",
+"webDomain": "loomly.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "75",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Pitchbox",
+"webDomain": "pitchbox.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "72",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Mutiny",
+"webDomain": "mutinyhq.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "72",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Featured",
+"webDomain": "featured.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "74",
+"altEmail": "support@featured.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Muck Rack",
+"webDomain": "muckrack.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "86",
+"altEmail": "press@muckrack.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Marketveep",
+"webDomain": "marketveep.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "59",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Vidyard",
+"webDomain": "vidyard.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Video hosting platform",
+"domainRating": "86",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Social SEO",
+"webDomain": "socialseo.com",
+"country": "US",
+"segment": "A",
+"serviceType": "SEO agency",
+"domainRating": "64",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "OnTheMap Marketing",
+"webDomain": "onthemap.com",
+"country": "US",
+"segment": "A",
+"serviceType": "SEO agency",
+"domainRating": "74",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Outsmart Labs",
+"webDomain": "outsmartlabs.com",
+"country": "US",
+"segment": "A",
+"serviceType": "SEO agency",
+"domainRating": "42",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "DemandJump",
+"webDomain": "demandjump.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Marketing SaaS",
+"domainRating": "70",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Ironhorse",
+"webDomain": "ironhorse.io",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "49",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Arketi Group",
+"webDomain": "arketi.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "40",
+"altEmail": "info@arketi.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "SeeResponse",
+"webDomain": "seeresponse.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "61",
+"altEmail": "editor@seeresponse.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Conveyor Marketing Group",
+"webDomain": "conveyormg.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "59",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Cleverly",
+"webDomain": "cleverly.co",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "62",
+"altEmail": "info@cleverly.co",
+"knownArticleUrl": ""
+},
+{
+"companyName": "N2Growth",
+"webDomain": "n2growth.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "53",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Salted Stone",
+"webDomain": "saltedstone.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "43",
+"altEmail": "hq@saltedstone.com",
+"knownArticleUrl": ""
+}
+]

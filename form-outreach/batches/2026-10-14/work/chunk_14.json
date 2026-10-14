@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Beonic",
+"webDomain": "beonic.com",
+"country": "AU",
+"serviceType": "Retail analytics",
+"segment": "B",
+"drFree": "42"
+},
+{
+"companyName": "Schoolbox",
+"webDomain": "schoolbox.com.au",
+"country": "AU",
+"serviceType": "Education SaaS",
+"segment": "B",
+"drFree": "45"
+},
+{
+"companyName": "Prezzee",
+"webDomain": "prezzee.com",
+"country": "AU",
+"serviceType": "Digital gifting platform",
+"segment": "B",
+"drFree": "68"
+},
+{
+"companyName": "Hireup",
+"webDomain": "hireup.com.au",
+"country": "AU",
+"serviceType": "Care tech platform",
+"segment": "B",
+"drFree": "57"
+},
+{
+"companyName": "LiveTiles",
+"webDomain": "livetiles.nyc",
+"country": "AU",
+"serviceType": "Workplace software",
+"segment": "B",
+"drFree": "44"
+},
+{
+"companyName": "Optimising",
+"webDomain": "optimising.com.au",
+"country": "AU",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "58"
+},
+{
+"companyName": "Red Search",
+"webDomain": "redsearch.com.au",
+"country": "AU",
+"serviceType": "SEO and content agency",
+"segment": "A",
+"drFree": "69"
+},
+{
+"companyName": "Digital Nomads HQ",
+"webDomain": "digitalnomadshq.com.au",
+"country": "AU",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "69"
+},
+{
+"companyName": "Prosperity Media",
+"webDomain": "prosperitymedia.com.au",
+"country": "AU",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "64"
+},
+{
+"companyName": "Digital Darts",
+"webDomain": "digitaldarts.com.au",
+"country": "AU",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "57"
+},
+{
+"companyName": "Bang Digital",
+"webDomain": "bangdigital.com.au",
+"country": "AU",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "53"
+},
+{
+"companyName": "Bluerock Digital",
+"webDomain": "bluerock.com.au",
+"country": "AU",
+"serviceType": "Digital agency",
+"segment": "A",
+"drFree": "44"
+},
+{
+"companyName": "Cuttlefish",
+"webDomain": "cuttlefish.com.au",
+"country": "AU",
+"serviceType": "Digital agency",
+"segment": "A",
+"drFree": "50"
+},
+{
+"companyName": "Edge Online",
+"webDomain": "edgeonline.com.au",
+"country": "AU",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "59"
+},
+{
+"companyName": "Fresh Digital",
+"webDomain": "freshdigital.com.au",
+"country": "AU",
+"serviceType": "Digital agency",
+"segment": "A",
+"drFree": "56"
+},
+{
+"companyName": "Gordon Digital",
+"webDomain": "gordondigital.com.au",
+"country": "AU",
+"serviceType": "Digital agency",
+"segment": "A",
+"drFree": "50"
+},
+{
+"companyName": "Sked Social",
+"webDomain": "skedsocial.com",
+"country": "AU",
+"serviceType": "Social media marketing SaaS",
+"segment": "A",
+"drFree": "74"
+},
+{
+"companyName": "Hey Orca",
+"webDomain": "heyorca.com",
+"country": "AU",
+"serviceType": "Marketing SaaS",
+"segment": "A",
+"drFree": "67"
+},
+{
+"companyName": "Convert Digital",
+"webDomain": "convertdigital.com.au",
+"country": "AU",
+"serviceType": "Digital agency",
+"segment": "A",
+"drFree": "58"
+},
+{
+"companyName": "Shout Digital",
+"webDomain": "shoutdigital.com.au",
+"country": "AU",
+"serviceType": "Digital agency",
+"segment": "A",
+"drFree": "64"
+},
+{
+"companyName": "Digital Marketing Hub",
+"webDomain": "digitalmarketinghub.com.au",
+"country": "AU",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "46"
+},
+{
+"companyName": "First Page Digital",
+"webDomain": "firstpagedigital.sg",
+"country": "SG",
+"serviceType": "SEO and content agency",
+"segment": "A",
+"drFree": "59"
+},
+{
+"companyName": "Brew Interactive",
+"webDomain": "brewinteractive.com",
+"country": "SG",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "53"
+},
+{
+"companyName": "Orangetee",
+"webDomain": "orangetee.com",
+"country": "SG",
+"serviceType": "Digital agency",
+"segment": "A",
+"drFree": "41"
+},
+{
+"companyName": "OOm",
+"webDomain": "oom.com.sg",
+"country": "SG",
+"serviceType": "SEO and digital agency",
+"segment": "A",
+"drFree": "64"
+}
+]

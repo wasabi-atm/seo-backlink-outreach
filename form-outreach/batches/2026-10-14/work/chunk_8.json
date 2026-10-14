@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Solutionreach",
+"webDomain": "solutionreach.com",
+"country": "US",
+"serviceType": "Healthtech software",
+"segment": "B",
+"drFree": "78"
+},
+{
+"companyName": "Instantly",
+"webDomain": "instantly.ai",
+"country": "US",
+"serviceType": "Sales software",
+"segment": "B",
+"drFree": "80"
+},
+{
+"companyName": "Copper",
+"webDomain": "copper.com",
+"country": "US",
+"serviceType": "CRM software",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "Less Annoying CRM",
+"webDomain": "lessannoyingcrm.com",
+"country": "US",
+"serviceType": "CRM software",
+"segment": "B",
+"drFree": "75"
+},
+{
+"companyName": "Keap",
+"webDomain": "keap.com",
+"country": "US",
+"serviceType": "CRM software",
+"segment": "B",
+"drFree": "83"
+},
+{
+"companyName": "Paystand",
+"webDomain": "paystand.com",
+"country": "US",
+"serviceType": "Fintech",
+"segment": "B",
+"drFree": "70"
+},
+{
+"companyName": "Bento for Business",
+"webDomain": "bentoforbusiness.com",
+"country": "US",
+"serviceType": "Fintech",
+"segment": "B",
+"drFree": "45"
+},
+{
+"companyName": "Homebase",
+"webDomain": "joinhomebase.com",
+"country": "US",
+"serviceType": "HR software",
+"segment": "B",
+"drFree": "79"
+},
+{
+"companyName": "Pilot",
+"webDomain": "pilot.com",
+"country": "US",
+"serviceType": "Accounting software",
+"segment": "B",
+"drFree": "73"
+},
+{
+"companyName": "Fyle",
+"webDomain": "fylehq.com",
+"country": "US",
+"serviceType": "Expense software",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "Novo",
+"webDomain": "novo.co",
+"country": "US",
+"serviceType": "Fintech",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "Maxio",
+"webDomain": "maxio.com",
+"country": "US",
+"serviceType": "Billing software",
+"segment": "B",
+"drFree": "77"
+},
+{
+"companyName": "Baremetrics",
+"webDomain": "baremetrics.com",
+"country": "US",
+"serviceType": "SaaS analytics",
+"segment": "B",
+"drFree": "77"
+},
+{
+"companyName": "Stax",
+"webDomain": "staxpayments.com",
+"country": "US",
+"serviceType": "Payments",
+"segment": "B",
+"drFree": "74"
+},
+{
+"companyName": "Payment Depot",
+"webDomain": "paymentdepot.com",
+"country": "US",
+"serviceType": "Payments",
+"segment": "B",
+"drFree": "54"
+},
+{
+"companyName": "Narmi",
+"webDomain": "narmi.com",
+"country": "US",
+"serviceType": "Fintech",
+"segment": "B",
+"drFree": "52"
+},
+{
+"companyName": "Kasasa",
+"webDomain": "kasasa.com",
+"country": "US",
+"serviceType": "Fintech",
+"segment": "B",
+"drFree": "67"
+},
+{
+"companyName": "Persona",
+"webDomain": "withpersona.com",
+"country": "US",
+"serviceType": "Identity software",
+"segment": "B",
+"drFree": "80"
+},
+{
+"companyName": "Secureframe",
+"webDomain": "secureframe.com",
+"country": "US",
+"serviceType": "Compliance software",
+"segment": "B",
+"drFree": "80"
+},
+{
+"companyName": "Cyberhaven",
+"webDomain": "cyberhaven.com",
+"country": "US",
+"serviceType": "Cybersecurity",
+"segment": "B",
+"drFree": "73"
+},
+{
+"companyName": "Cofense",
+"webDomain": "cofense.com",
+"country": "US",
+"serviceType": "Cybersecurity",
+"segment": "B",
+"drFree": "75"
+},
+{
+"companyName": "Curricula",
+"webDomain": "curricula.com",
+"country": "US",
+"serviceType": "Cybersecurity",
+"segment": "B",
+"drFree": "43"
+},
+{
+"companyName": "Stytch",
+"webDomain": "stytch.com",
+"country": "US",
+"serviceType": "Dev tools",
+"segment": "B",
+"drFree": "75"
+},
+{
+"companyName": "FusionAuth",
+"webDomain": "fusionauth.io",
+"country": "US",
+"serviceType": "Dev tools",
+"segment": "B",
+"drFree": "80"
+},
+{
+"companyName": "Hasura",
+"webDomain": "hasura.io",
+"country": "US",
+"serviceType": "Dev tools",
+"segment": "B",
+"drFree": "76"
+}
+]

@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Papercup",
+"webDomain": "papercup.com",
+"country": "UK",
+"serviceType": "AI dubbing",
+"segment": "B",
+"drFree": "46"
+},
+{
+"companyName": "Vidsy",
+"webDomain": "vidsy.co",
+"country": "UK",
+"serviceType": "Video ads platform",
+"segment": "B",
+"drFree": "63"
+},
+{
+"companyName": "Origo",
+"webDomain": "origo.com",
+"country": "UK",
+"serviceType": "FinTech software",
+"segment": "B",
+"drFree": "47"
+},
+{
+"companyName": "Equals Money",
+"webDomain": "equalsmoney.com",
+"country": "UK",
+"serviceType": "B2B payments FinTech",
+"segment": "B",
+"drFree": "63"
+},
+{
+"companyName": "ClickDo",
+"webDomain": "clickdo.co.uk",
+"country": "UK",
+"serviceType": "SEO and web services",
+"segment": "B",
+"drFree": "58"
+},
+{
+"companyName": "SentiSum",
+"webDomain": "sentisum.com",
+"country": "UK",
+"serviceType": "Customer feedback AI",
+"segment": "B",
+"drFree": "61"
+},
+{
+"companyName": "Kingsley Napley",
+"webDomain": "kingsleynapley.co.uk",
+"country": "UK",
+"serviceType": "Legal services",
+"segment": "B",
+"drFree": "62"
+},
+{
+"companyName": "Lawhive",
+"webDomain": "lawhive.co.uk",
+"country": "UK",
+"serviceType": "Legal tech",
+"segment": "B",
+"drFree": "52"
+},
+{
+"companyName": "Bud Financial",
+"webDomain": "bud.co.uk",
+"country": "UK",
+"serviceType": "FinTech data",
+"segment": "B",
+"drFree": "40"
+},
+{
+"companyName": "Pyypl",
+"webDomain": "pyypl.com",
+"country": "UAE",
+"serviceType": "FinTech",
+"segment": "B",
+"drFree": "47"
+},
+{
+"companyName": "MAGNiTT",
+"webDomain": "magnitt.com",
+"country": "UAE",
+"serviceType": "Venture data platform",
+"segment": "B",
+"drFree": "64"
+},
+{
+"companyName": "Property Monitor",
+"webDomain": "propertymonitor.com",
+"country": "UAE",
+"serviceType": "Proptech data",
+"segment": "B",
+"drFree": "40"
+},
+{
+"companyName": "Okadoc",
+"webDomain": "okadoc.com",
+"country": "UAE",
+"serviceType": "Health tech SaaS",
+"segment": "B",
+"drFree": "56"
+},
+{
+"companyName": "ZenHR",
+"webDomain": "zenhr.com",
+"country": "UAE",
+"serviceType": "HR tech",
+"segment": "B",
+"drFree": "54"
+},
+{
+"companyName": "BitOasis",
+"webDomain": "bitoasis.net",
+"country": "UAE",
+"serviceType": "Crypto FinTech",
+"segment": "B",
+"drFree": "57"
+},
+{
+"companyName": "InsuranceMarket.ae",
+"webDomain": "insurancemarket.ae",
+"country": "UAE",
+"serviceType": "Insurtech",
+"segment": "B",
+"drFree": "65"
+},
+{
+"companyName": "NuOptima",
+"webDomain": "nuoptima.com",
+"country": "UAE",
+"serviceType": "SEO and content agency",
+"segment": "B",
+"drFree": "56"
+},
+{
+"companyName": "GulfTalent",
+"webDomain": "gulftalent.com",
+"country": "UAE",
+"serviceType": "HR tech recruitment",
+"segment": "B",
+"drFree": "66"
+},
+{
+"companyName": "Octopus Deploy",
+"webDomain": "octopus.com",
+"country": "AU",
+"serviceType": "Dev tools",
+"segment": "B",
+"drFree": "77"
+},
+{
+"companyName": "Go1",
+"webDomain": "go1.com",
+"country": "AU",
+"serviceType": "Learning platform",
+"segment": "B",
+"drFree": "72"
+},
+{
+"companyName": "Cloudfy",
+"webDomain": "cloudfy.com",
+"country": "AU",
+"serviceType": "SaaS",
+"segment": "B",
+"drFree": "61"
+},
+{
+"companyName": "Neara",
+"webDomain": "neara.com",
+"country": "AU",
+"serviceType": "Infrastructure software",
+"segment": "B",
+"drFree": "46"
+},
+{
+"companyName": "Lorikeet",
+"webDomain": "lorikeetcx.ai",
+"country": "AU",
+"serviceType": "Customer support AI",
+"segment": "B",
+"drFree": "64"
+},
+{
+"companyName": "Brighte",
+"webDomain": "brighte.com.au",
+"country": "AU",
+"serviceType": "FinTech",
+"segment": "B",
+"drFree": "68"
+},
+{
+"companyName": "Zeller",
+"webDomain": "myzeller.com",
+"country": "AU",
+"serviceType": "Business payments FinTech",
+"segment": "B",
+"drFree": "59"
+}
+]

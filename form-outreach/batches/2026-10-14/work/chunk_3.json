@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Stein IAS",
+"webDomain": "steinb2b.com",
+"country": "UK",
+"serviceType": "B2B marketing agency",
+"segment": "A",
+"drFree": "55"
+},
+{
+"companyName": "Embryo Digital",
+"webDomain": "embryodigital.co.uk",
+"country": "UK",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "45"
+},
+{
+"companyName": "TAO Digital Marketing",
+"webDomain": "taodigitalmarketing.com",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "47"
+},
+{
+"companyName": "SQ Digital",
+"webDomain": "sqdigital.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "55"
+},
+{
+"companyName": "Sierra Six Media",
+"webDomain": "sierrasixmedia.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "45"
+},
+{
+"companyName": "Fat Cow Media",
+"webDomain": "fatcowmedia.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "45"
+},
+{
+"companyName": "Atomic Digital Marketing",
+"webDomain": "atomicdigitalmarketing.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "44"
+},
+{
+"companyName": "Odyssey New Media",
+"webDomain": "odysseynewmedia.com",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "40"
+},
+{
+"companyName": "AlchemyWorx",
+"webDomain": "alchemyworx.com",
+"country": "UK",
+"serviceType": "Email marketing agency",
+"segment": "A",
+"drFree": "52"
+},
+{
+"companyName": "Taxi for Email",
+"webDomain": "taxiforemail.com",
+"country": "UK",
+"serviceType": "Email marketing agency",
+"segment": "A",
+"drFree": "52"
+},
+{
+"companyName": "Ceek",
+"webDomain": "ceek.co.uk",
+"country": "UK",
+"serviceType": "Social media agency",
+"segment": "A",
+"drFree": "47"
+},
+{
+"companyName": "Influence Digital",
+"webDomain": "influence.digital",
+"country": "UK",
+"serviceType": "Influencer marketing agency",
+"segment": "A",
+"drFree": "54"
+},
+{
+"companyName": "The Influencer Marketing Factory",
+"webDomain": "theinfluencermarketingfactory.com",
+"country": "UK",
+"serviceType": "Influencer marketing agency",
+"segment": "A",
+"drFree": "72"
+},
+{
+"companyName": "The Social Element",
+"webDomain": "thesocialelement.agency",
+"country": "UK",
+"serviceType": "Social media agency",
+"segment": "A",
+"drFree": "55"
+},
+{
+"companyName": "Striata",
+"webDomain": "striata.com",
+"country": "UK",
+"serviceType": "Digital communications software",
+"segment": "A",
+"drFree": "50"
+},
+{
+"companyName": "Content Factory",
+"webDomain": "contentfac.com",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "64"
+},
+{
+"companyName": "Foundation Marketing",
+"webDomain": "foundationinc.co",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "77"
+},
+{
+"companyName": "Mantis Research",
+"webDomain": "mantisresearch.com",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "51"
+},
+{
+"companyName": "Convince and Convert",
+"webDomain": "convinceandconvert.com",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "82"
+},
+{
+"companyName": "Scribewise",
+"webDomain": "scribewise.com",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "52"
+},
+{
+"companyName": "Fractl",
+"webDomain": "frac.tl",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "73"
+},
+{
+"companyName": "Draft.dev",
+"webDomain": "draft.dev",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "59"
+},
+{
+"companyName": "New North",
+"webDomain": "newnorth.com",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "48"
+},
+{
+"companyName": "ContentWriters",
+"webDomain": "contentwriters.com",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "63"
+},
+{
+"companyName": "Hinge Marketing",
+"webDomain": "hingemarketing.com",
+"country": "US",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "74"
+}
+]

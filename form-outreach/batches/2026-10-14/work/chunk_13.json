@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Pin Payments",
+"webDomain": "pinpayments.com",
+"country": "AU",
+"serviceType": "Payments FinTech",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "Fresho",
+"webDomain": "fresho.com",
+"country": "AU",
+"serviceType": "B2B ordering SaaS",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "Splose",
+"webDomain": "splose.com",
+"country": "AU",
+"serviceType": "Practice management SaaS",
+"segment": "B",
+"drFree": "81"
+},
+{
+"companyName": "Archistar",
+"webDomain": "archistar.ai",
+"country": "AU",
+"serviceType": "Proptech AI",
+"segment": "B",
+"drFree": "58"
+},
+{
+"companyName": "Harrison.ai",
+"webDomain": "harrison.ai",
+"country": "AU",
+"serviceType": "Healthcare AI",
+"segment": "B",
+"drFree": "56"
+},
+{
+"companyName": "Tanda",
+"webDomain": "tanda.co",
+"country": "AU",
+"serviceType": "Workforce management SaaS",
+"segment": "B",
+"drFree": "67"
+},
+{
+"companyName": "Mable",
+"webDomain": "mable.com.au",
+"country": "AU",
+"serviceType": "Care tech platform",
+"segment": "B",
+"drFree": "58"
+},
+{
+"companyName": "Everlab",
+"webDomain": "everlab.com.au",
+"country": "AU",
+"serviceType": "Health tech",
+"segment": "B",
+"drFree": "47"
+},
+{
+"companyName": "Propeller Aero",
+"webDomain": "propelleraero.com",
+"country": "AU",
+"serviceType": "Drone survey software",
+"segment": "B",
+"drFree": "64"
+},
+{
+"companyName": "Flare HR",
+"webDomain": "flarehr.com",
+"country": "AU",
+"serviceType": "HR tech",
+"segment": "B",
+"drFree": "52"
+},
+{
+"companyName": "Elmo Software",
+"webDomain": "elmosoftware.com.au",
+"country": "AU",
+"serviceType": "HR software",
+"segment": "B",
+"drFree": "64"
+},
+{
+"companyName": "Ignition",
+"webDomain": "practiceignition.com",
+"country": "AU",
+"serviceType": "Practice management SaaS",
+"segment": "B",
+"drFree": "60"
+},
+{
+"companyName": "Fathom",
+"webDomain": "fathomhq.com",
+"country": "AU",
+"serviceType": "Financial reporting SaaS",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "Spotlight Reporting",
+"webDomain": "spotlightreporting.com",
+"country": "AU",
+"serviceType": "Reporting SaaS",
+"segment": "B",
+"drFree": "61"
+},
+{
+"companyName": "Lawpath",
+"webDomain": "lawpath.com.au",
+"country": "AU",
+"serviceType": "Legal tech",
+"segment": "B",
+"drFree": "67"
+},
+{
+"companyName": "FrankieOne",
+"webDomain": "frankieone.com",
+"country": "AU",
+"serviceType": "Identity verification",
+"segment": "B",
+"drFree": "56"
+},
+{
+"companyName": "Streamtime",
+"webDomain": "streamtime.net",
+"country": "AU",
+"serviceType": "Agency software",
+"segment": "B",
+"drFree": "47"
+},
+{
+"companyName": "Easy Agile",
+"webDomain": "easyagile.com",
+"country": "AU",
+"serviceType": "Dev tools",
+"segment": "B",
+"drFree": "58"
+},
+{
+"companyName": "Ordermentum",
+"webDomain": "ordermentum.com",
+"country": "AU",
+"serviceType": "B2B ordering SaaS",
+"segment": "B",
+"drFree": "61"
+},
+{
+"companyName": "OpenLearning",
+"webDomain": "openlearning.com",
+"country": "AU",
+"serviceType": "Learning platform",
+"segment": "B",
+"drFree": "73"
+},
+{
+"companyName": "Coassemble",
+"webDomain": "coassemble.com",
+"country": "AU",
+"serviceType": "Training SaaS",
+"segment": "B",
+"drFree": "69"
+},
+{
+"companyName": "Buildkite",
+"webDomain": "buildkite.com",
+"country": "AU",
+"serviceType": "Dev tools",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "Mantel Group",
+"webDomain": "mantelgroup.com.au",
+"country": "AU",
+"serviceType": "Tech consulting",
+"segment": "B",
+"drFree": "68"
+},
+{
+"companyName": "Edstart",
+"webDomain": "edstart.com.au",
+"country": "AU",
+"serviceType": "FinTech",
+"segment": "B",
+"drFree": "50"
+},
+{
+"companyName": "Novatti",
+"webDomain": "novatti.com",
+"country": "AU",
+"serviceType": "Payments FinTech",
+"segment": "B",
+"drFree": "42"
+}
+]

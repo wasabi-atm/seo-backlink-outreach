@@ -1,0 +1,272 @@
+[
+{
+"companyName": "Paystand",
+"webDomain": "paystand.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Fintech",
+"domainRating": "70",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Homebase",
+"webDomain": "joinhomebase.com",
+"country": "US",
+"segment": "B",
+"serviceType": "HR software",
+"domainRating": "79",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Pilot",
+"webDomain": "pilot.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Accounting software",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Novo",
+"webDomain": "novo.co",
+"country": "US",
+"segment": "B",
+"serviceType": "Fintech",
+"domainRating": "71",
+"altEmail": "partnerwithus@novo.co",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Maxio",
+"webDomain": "maxio.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Billing software",
+"domainRating": "77",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Baremetrics",
+"webDomain": "baremetrics.com",
+"country": "US",
+"segment": "B",
+"serviceType": "SaaS analytics",
+"domainRating": "77",
+"altEmail": "hello@baremetrics.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Stax",
+"webDomain": "staxpayments.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Payments",
+"domainRating": "74",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Payment Depot",
+"webDomain": "paymentdepot.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Payments",
+"domainRating": "54",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Narmi",
+"webDomain": "narmi.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Fintech",
+"domainRating": "52",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Kasasa",
+"webDomain": "kasasa.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Fintech",
+"domainRating": "67",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Persona",
+"webDomain": "withpersona.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Identity software",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Secureframe",
+"webDomain": "secureframe.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Compliance software",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Cyberhaven",
+"webDomain": "cyberhaven.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Cybersecurity",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Cofense",
+"webDomain": "cofense.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Cybersecurity",
+"domainRating": "75",
+"altEmail": "support@cofense.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Stytch",
+"webDomain": "stytch.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "75",
+"altEmail": "support@stytch.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "FusionAuth",
+"webDomain": "fusionauth.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Hasura",
+"webDomain": "hasura.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "76",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Statsig",
+"webDomain": "statsig.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "76",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Canny",
+"webDomain": "canny.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Product software",
+"domainRating": "87",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Lookback",
+"webDomain": "lookback.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Research software",
+"domainRating": "72",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Respondent",
+"webDomain": "respondent.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Research software",
+"domainRating": "71",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "SavvyCal",
+"webDomain": "savvycal.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Scheduling software",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Sigma Computing",
+"webDomain": "sigmacomputing.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Data software",
+"domainRating": "75",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Productboard",
+"webDomain": "productboard.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Product software",
+"domainRating": "81",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "dbt Labs",
+"webDomain": "getdbt.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Data software",
+"domainRating": "82",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "HireVue",
+"webDomain": "hirevue.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Hiring software",
+"domainRating": "77",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Fly.io",
+"webDomain": "fly.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "84",
+"altEmail": "",
+"knownArticleUrl": ""
+}
+]

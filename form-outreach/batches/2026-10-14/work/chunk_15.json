@@ -1,0 +1,82 @@
+[
+{
+"companyName": "MediaOne",
+"webDomain": "mediaone.sg",
+"country": "SG",
+"serviceType": "Content marketing agency",
+"segment": "A",
+"drFree": "53"
+},
+{
+"companyName": "Tookitaki",
+"webDomain": "tookitaki.com",
+"country": "SG",
+"serviceType": "Compliance AI",
+"segment": "B",
+"drFree": "62"
+},
+{
+"companyName": "ADVANCE.AI",
+"webDomain": "advance.ai",
+"country": "SG",
+"serviceType": "AI identity software",
+"segment": "B",
+"drFree": "57"
+},
+{
+"companyName": "Dathena",
+"webDomain": "dathena.io",
+"country": "SG",
+"serviceType": "Data security AI",
+"segment": "B",
+"drFree": "44"
+},
+{
+"companyName": "Fazz",
+"webDomain": "xfers.com",
+"country": "SG",
+"serviceType": "Payments FinTech",
+"segment": "B",
+"drFree": "41"
+},
+{
+"companyName": "Vase.ai",
+"webDomain": "vase.ai",
+"country": "SG",
+"serviceType": "Commerce AI",
+"segment": "B",
+"drFree": "49"
+},
+{
+"companyName": "Ecosystm",
+"webDomain": "ecosystm.io",
+"country": "SG",
+"serviceType": "Tech research and advisory",
+"segment": "B",
+"drFree": "44"
+},
+{
+"companyName": "Funding Societies",
+"webDomain": "fundingsocieties.com",
+"country": "SG",
+"serviceType": "SME lending FinTech",
+"segment": "B",
+"drFree": "52"
+},
+{
+"companyName": "Spenmo",
+"webDomain": "spenmo.com",
+"country": "SG",
+"serviceType": "Spend management FinTech",
+"segment": "B",
+"drFree": "47"
+},
+{
+"companyName": "Near",
+"webDomain": "near.co",
+"country": "SG",
+"serviceType": "Location data",
+"segment": "B",
+"drFree": "44"
+}
+]
