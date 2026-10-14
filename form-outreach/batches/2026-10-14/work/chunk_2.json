@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Chattermill",
+"webDomain": "chattermill.com",
+"country": "UK",
+"serviceType": "Customer insights software",
+"segment": "A",
+"drFree": "70"
+},
+{
+"companyName": "CreativeX",
+"webDomain": "creativex.com",
+"country": "UK",
+"serviceType": "Creative analytics software",
+"segment": "A",
+"drFree": "57"
+},
+{
+"companyName": "ContentCal",
+"webDomain": "contentcal.io",
+"country": "UK",
+"serviceType": "Social media software",
+"segment": "A",
+"drFree": "55"
+},
+{
+"companyName": "Reech",
+"webDomain": "reech.com",
+"country": "UK",
+"serviceType": "Influencer marketing platform",
+"segment": "A",
+"drFree": "61"
+},
+{
+"companyName": "Leadgenera",
+"webDomain": "leadgenera.com",
+"country": "UK",
+"serviceType": "B2B lead generation agency",
+"segment": "A",
+"drFree": "58"
+},
+{
+"companyName": "Saturate",
+"webDomain": "saturate.marketing",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "40"
+},
+{
+"companyName": "Loop Digital",
+"webDomain": "loop-digital.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "59"
+},
+{
+"companyName": "Arttia",
+"webDomain": "arttia.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "44"
+},
+{
+"companyName": "Damteq",
+"webDomain": "damteq.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "62"
+},
+{
+"companyName": "Studio Hawk",
+"webDomain": "studiohawk.co.uk",
+"country": "UK",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "46"
+},
+{
+"companyName": "Unity",
+"webDomain": "unity.online",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "71"
+},
+{
+"companyName": "The Lead Generation Company",
+"webDomain": "theleadgenerationcompany.co.uk",
+"country": "UK",
+"serviceType": "B2B lead generation agency",
+"segment": "A",
+"drFree": "40"
+},
+{
+"companyName": "Inbox Insight",
+"webDomain": "inboxinsight.com",
+"country": "UK",
+"serviceType": "Email marketing agency",
+"segment": "A",
+"drFree": "51"
+},
+{
+"companyName": "ThinkTank",
+"webDomain": "thinktank.org.uk",
+"country": "UK",
+"serviceType": "B2B marketing agency",
+"segment": "A",
+"drFree": "42"
+},
+{
+"companyName": "Favoured",
+"webDomain": "favoured.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "50"
+},
+{
+"companyName": "Connective3",
+"webDomain": "connective3.com",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "47"
+},
+{
+"companyName": "Climbing Trees",
+"webDomain": "climbingtrees.com",
+"country": "UK",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "54"
+},
+{
+"companyName": "Assisted",
+"webDomain": "assisted.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "56"
+},
+{
+"companyName": "Get Found",
+"webDomain": "get-found.co.uk",
+"country": "UK",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "44"
+},
+{
+"companyName": "Mentor Digital",
+"webDomain": "mentordigital.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "44"
+},
+{
+"companyName": "Outrank",
+"webDomain": "outrank.co.uk",
+"country": "UK",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "72"
+},
+{
+"companyName": "Heavyweight Digital",
+"webDomain": "heavyweightdigital.co.uk",
+"country": "UK",
+"serviceType": "SEO agency",
+"segment": "A",
+"drFree": "40"
+},
+{
+"companyName": "Alt Agency",
+"webDomain": "altagency.co.uk",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "55"
+},
+{
+"companyName": "M3 Agency",
+"webDomain": "m3.agency",
+"country": "UK",
+"serviceType": "Digital marketing agency",
+"segment": "A",
+"drFree": "45"
+},
+{
+"companyName": "Growth Division",
+"webDomain": "growth-division.com",
+"country": "UK",
+"serviceType": "B2B growth marketing agency",
+"segment": "A",
+"drFree": "42"
+}
+]

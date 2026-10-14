@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Groove",
+"webDomain": "groovehq.com",
+"country": "US",
+"serviceType": "Support software",
+"segment": "B",
+"drFree": "83"
+},
+{
+"companyName": "Missive",
+"webDomain": "missiveapp.com",
+"country": "US",
+"serviceType": "Email software",
+"segment": "B",
+"drFree": "74"
+},
+{
+"companyName": "Qualified",
+"webDomain": "qualified.com",
+"country": "US",
+"serviceType": "Revenue software",
+"segment": "B",
+"drFree": "74"
+},
+{
+"companyName": "Terminus",
+"webDomain": "terminus.com",
+"country": "US",
+"serviceType": "ABM software",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "RollWorks",
+"webDomain": "rollworks.com",
+"country": "US",
+"serviceType": "ABM software",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "Uberflip",
+"webDomain": "uberflip.com",
+"country": "US",
+"serviceType": "Content software",
+"segment": "B",
+"drFree": "81"
+},
+{
+"companyName": "Gainsight Community",
+"webDomain": "insided.com",
+"country": "US",
+"serviceType": "Community software",
+"segment": "B",
+"drFree": "66"
+},
+{
+"companyName": "Higher Logic",
+"webDomain": "higherlogic.com",
+"country": "US",
+"serviceType": "Community software",
+"segment": "B",
+"drFree": "81"
+},
+{
+"companyName": "Bevy",
+"webDomain": "bevy.com",
+"country": "US",
+"serviceType": "Community software",
+"segment": "B",
+"drFree": "74"
+},
+{
+"companyName": "Circle",
+"webDomain": "circle.so",
+"country": "US",
+"serviceType": "Community software",
+"segment": "B",
+"drFree": "88"
+},
+{
+"companyName": "Mighty Networks",
+"webDomain": "mightynetworks.com",
+"country": "US",
+"serviceType": "Community software",
+"segment": "B",
+"drFree": "84"
+},
+{
+"companyName": "June",
+"webDomain": "june.so",
+"country": "US",
+"serviceType": "Analytics software",
+"segment": "B",
+"drFree": "58"
+},
+{
+"companyName": "Unify",
+"webDomain": "unify.com",
+"country": "US",
+"serviceType": "Sales software",
+"segment": "B",
+"drFree": "72"
+},
+{
+"companyName": "RB2B",
+"webDomain": "rb2b.com",
+"country": "US",
+"serviceType": "Sales software",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "Leadfeeder",
+"webDomain": "leadfeeder.com",
+"country": "US",
+"serviceType": "Sales software",
+"segment": "B",
+"drFree": "81"
+},
+{
+"companyName": "Swipe Pages",
+"webDomain": "swipepages.com",
+"country": "US",
+"serviceType": "Landing page software",
+"segment": "B",
+"drFree": "75"
+},
+{
+"companyName": "Justuno",
+"webDomain": "justuno.com",
+"country": "US",
+"serviceType": "Marketing software",
+"segment": "B",
+"drFree": "75"
+},
+{
+"companyName": "Hello Bar",
+"webDomain": "hellobar.com",
+"country": "US",
+"serviceType": "Marketing software",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "Convert",
+"webDomain": "convert.com",
+"country": "US",
+"serviceType": "Experimentation software",
+"segment": "B",
+"drFree": "78"
+},
+{
+"companyName": "Monetate",
+"webDomain": "monetate.com",
+"country": "US",
+"serviceType": "Personalization software",
+"segment": "B",
+"drFree": "77"
+},
+{
+"companyName": "Bluecore",
+"webDomain": "bluecore.com",
+"country": "US",
+"serviceType": "Marketing software",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "TextMagic",
+"webDomain": "textmagic.com",
+"country": "US",
+"serviceType": "SMS software",
+"segment": "B",
+"drFree": "77"
+},
+{
+"companyName": "Plivo",
+"webDomain": "plivo.com",
+"country": "US",
+"serviceType": "Communications API",
+"segment": "B",
+"drFree": "76"
+},
+{
+"companyName": "Kixie",
+"webDomain": "kixie.com",
+"country": "US",
+"serviceType": "Sales dialer software",
+"segment": "B",
+"drFree": "71"
+},
+{
+"companyName": "OpenPhone",
+"webDomain": "openphone.com",
+"country": "US",
+"serviceType": "Communications software",
+"segment": "B",
+"drFree": "75"
+}
+]
