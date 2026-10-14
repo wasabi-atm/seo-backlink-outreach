@@ -1,0 +1,102 @@
+[
+{
+"companyName": "Venngage",
+"webDomain": "venngage.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Infographic and design SaaS",
+"source": "new",
+"articleUrl": "https://venngage.com/blog/ai-and-design-trends/",
+"articleTitle": "Design & Marketing Trends 2026: What Marketers Must Know"
+},
+{
+"companyName": "Piktochart",
+"webDomain": "piktochart.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Visual storytelling SaaS",
+"source": "new",
+"articleUrl": "https://piktochart.com/blog/video-marketing-statistics-2026/",
+"articleTitle": "Video Marketing Statistics 2026"
+},
+{
+"companyName": "Cordial",
+"webDomain": "cordial.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Cross-channel messaging SaaS",
+"source": "new",
+"articleUrl": "https://cordial.com/resources/2026-retail-predictions/",
+"articleTitle": "2026 retail predictions"
+},
+{
+"companyName": "Totango",
+"webDomain": "totango.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Customer success SaaS",
+"source": "new",
+"articleUrl": "https://www.totango.com/thank-you/new-year-new-growth-changes-coming-to-cs-in-2026",
+"articleTitle": "New Year New Growth: Changes coming to CS in 2026"
+},
+{
+"companyName": "Stamped",
+"webDomain": "stamped.io",
+"country": "US",
+"segment": "B",
+"serviceType": "Ecommerce reviews and loyalty SaaS",
+"source": "new",
+"articleUrl": "https://website.stamped.io/blog/the-30-day-post-bfcm-retention-plan-for-every-dtc-brand/",
+"articleTitle": "The 30-Day Post-BFCM Retention Plan for Every DTC Brand"
+},
+{
+"companyName": "EDIT",
+"webDomain": "edit.co.uk",
+"country": "UK",
+"segment": "A",
+"serviceType": "Data-led marketing agency",
+"source": "new",
+"articleUrl": "",
+"articleTitle": ""
+},
+{
+"companyName": "Aviso",
+"webDomain": "aviso.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Revenue intelligence SaaS",
+"source": "new",
+"articleUrl": "",
+"articleTitle": ""
+},
+{
+"companyName": "Consensus",
+"webDomain": "consensus.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Interactive demo automation SaaS",
+"source": "new",
+"articleUrl": "",
+"articleTitle": ""
+},
+{
+"companyName": "Pipe",
+"webDomain": "pipe.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Fintech, revenue-based financing",
+"source": "new",
+"articleUrl": "",
+"articleTitle": ""
+},
+{
+"companyName": "Prezzee",
+"webDomain": "prezzee.com.au",
+"country": "Australia",
+"segment": "B",
+"serviceType": "Digital gift cards",
+"source": "new",
+"articleUrl": "",
+"articleTitle": ""
+}
+]
