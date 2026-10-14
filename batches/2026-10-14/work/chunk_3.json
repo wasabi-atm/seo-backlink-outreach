@@ -1,0 +1,272 @@
+[
+{
+"companyName": "Sonocent",
+"webDomain": "sonocent.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Education software",
+"domainRating": "48",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Receptive",
+"webDomain": "receptive.io",
+"country": "UK",
+"segment": "B",
+"serviceType": "Product feedback SaaS",
+"domainRating": "46",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Equals Money",
+"webDomain": "equalsmoney.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "B2B payments FinTech",
+"domainRating": "63",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "ClickDo",
+"webDomain": "clickdo.co.uk",
+"country": "UK",
+"segment": "B",
+"serviceType": "SEO and web services",
+"domainRating": "58",
+"altEmail": "digital@clickdo.co.uk",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Lawhive",
+"webDomain": "lawhive.co.uk",
+"country": "UK",
+"segment": "B",
+"serviceType": "Legal tech",
+"domainRating": "52",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Bud Financial",
+"webDomain": "bud.co.uk",
+"country": "UK",
+"segment": "B",
+"serviceType": "FinTech data",
+"domainRating": "40",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "SentiSum",
+"webDomain": "sentisum.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Customer feedback AI",
+"domainRating": "61",
+"altEmail": "contact@sentisum.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Property Monitor",
+"webDomain": "propertymonitor.com",
+"country": "UAE",
+"segment": "B",
+"serviceType": "Proptech data",
+"domainRating": "40",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Okadoc",
+"webDomain": "okadoc.com",
+"country": "UAE",
+"segment": "B",
+"serviceType": "Health tech SaaS",
+"domainRating": "56",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "MAGNiTT",
+"webDomain": "magnitt.com",
+"country": "UAE",
+"segment": "B",
+"serviceType": "Venture data platform",
+"domainRating": "64",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "ZenHR",
+"webDomain": "zenhr.com",
+"country": "UAE",
+"segment": "B",
+"serviceType": "HR tech",
+"domainRating": "54",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Pyypl",
+"webDomain": "pyypl.com",
+"country": "UAE",
+"segment": "B",
+"serviceType": "FinTech",
+"domainRating": "47",
+"altEmail": "care@pyypl.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "BitOasis",
+"webDomain": "bitoasis.net",
+"country": "UAE",
+"segment": "B",
+"serviceType": "Crypto FinTech",
+"domainRating": "57",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "GulfTalent",
+"webDomain": "gulftalent.com",
+"country": "UAE",
+"segment": "B",
+"serviceType": "HR tech recruitment",
+"domainRating": "66",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Octopus Deploy",
+"webDomain": "octopus.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "77",
+"altEmail": "sales@octopus.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Go1",
+"webDomain": "go1.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Learning platform",
+"domainRating": "72",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Cloudfy",
+"webDomain": "cloudfy.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "SaaS",
+"domainRating": "61",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Neara",
+"webDomain": "neara.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Infrastructure software",
+"domainRating": "46",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Lorikeet",
+"webDomain": "lorikeetcx.ai",
+"country": "AU",
+"segment": "B",
+"serviceType": "Customer support AI",
+"domainRating": "64",
+"altEmail": "partners@lorikeetcx.ai",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Brighte",
+"webDomain": "brighte.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "FinTech",
+"domainRating": "68",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Zeller",
+"webDomain": "myzeller.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Business payments FinTech",
+"domainRating": "59",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "NuOptima",
+"webDomain": "nuoptima.com",
+"country": "UAE",
+"segment": "B",
+"serviceType": "SEO and content agency",
+"domainRating": "56",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Pin Payments",
+"webDomain": "pinpayments.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Payments FinTech",
+"domainRating": "71",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Fresho",
+"webDomain": "fresho.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "B2B ordering SaaS",
+"domainRating": "71",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Splose",
+"webDomain": "splose.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Practice management SaaS",
+"domainRating": "81",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Tanda",
+"webDomain": "tanda.co",
+"country": "AU",
+"segment": "B",
+"serviceType": "Workforce management SaaS",
+"domainRating": "67",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Harrison.ai",
+"webDomain": "harrison.ai",
+"country": "AU",
+"segment": "B",
+"serviceType": "Healthcare AI",
+"domainRating": "56",
+"altEmail": "",
+"knownArticleUrl": ""
+}
+]

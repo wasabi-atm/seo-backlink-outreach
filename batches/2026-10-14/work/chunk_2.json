@@ -1,0 +1,272 @@
+[
+{
+"companyName": "Hello Bar",
+"webDomain": "hellobar.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Marketing software",
+"domainRating": "76",
+"altEmail": "support@hellobar.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Monetate",
+"webDomain": "monetate.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Personalization software",
+"domainRating": "77",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "TextMagic",
+"webDomain": "textmagic.com",
+"country": "US",
+"segment": "B",
+"serviceType": "SMS software",
+"domainRating": "77",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Plivo",
+"webDomain": "plivo.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Communications API",
+"domainRating": "76",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Kixie",
+"webDomain": "kixie.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Sales dialer software",
+"domainRating": "71",
+"altEmail": "support@kixie.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Smokeball",
+"webDomain": "smokeball.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Legal software",
+"domainRating": "71",
+"altEmail": "support@smokeball.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "CosmoLex",
+"webDomain": "cosmolex.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Legal software",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Proposify",
+"webDomain": "proposify.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Proposal software",
+"domainRating": "76",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Qwilr",
+"webDomain": "qwilr.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Proposal software",
+"domainRating": "77",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "ReferralCandy",
+"webDomain": "referralcandy.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Referral software",
+"domainRating": "83",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Learning Pool",
+"webDomain": "learningpool.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "eLearning platform",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Hive Learning",
+"webDomain": "hivelearning.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Learning SaaS",
+"domainRating": "58",
+"altEmail": "help@hivelearning.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Peak AI",
+"webDomain": "peak.ai",
+"country": "UK",
+"segment": "B",
+"serviceType": "AI decision software",
+"domainRating": "65",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Sensat",
+"webDomain": "sensat.co",
+"country": "UK",
+"segment": "B",
+"serviceType": "Infrastructure software",
+"domainRating": "47",
+"altEmail": "marketing@sensat.co.uk (media enquiries); hello@sensat.co.uk (general)",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Float",
+"webDomain": "float.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Resource planning SaaS",
+"domainRating": "72",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Modulr",
+"webDomain": "modulrfinance.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Payments API FinTech",
+"domainRating": "66",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Lumi",
+"webDomain": "lumiglobal.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Events and hybrid tech",
+"domainRating": "66",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Tractable",
+"webDomain": "tractable.ai",
+"country": "UK",
+"segment": "B",
+"serviceType": "AI software",
+"domainRating": "59",
+"altEmail": "press@tractable.ai; information@tractable.ai",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Mind the Product",
+"webDomain": "mindtheproduct.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Product community and events",
+"domainRating": "76",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Bidstack",
+"webDomain": "bidstack.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Ad tech",
+"domainRating": "55",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Sherlock Communications",
+"webDomain": "sherlockcomms.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "PR and content services",
+"domainRating": "51",
+"altEmail": "contact@sherlockcomms.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Gleam",
+"webDomain": "gleam.io",
+"country": "UK",
+"segment": "B",
+"serviceType": "Marketing campaign SaaS",
+"domainRating": "83",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Zapnito",
+"webDomain": "zapnito.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Knowledge platform SaaS",
+"domainRating": "67",
+"altEmail": "contact@zapnito.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "TribePad",
+"webDomain": "tribepad.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Recruitment HR tech",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "HireHive",
+"webDomain": "hirehive.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Recruitment SaaS",
+"domainRating": "69",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Railsr",
+"webDomain": "railsr.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Embedded finance FinTech",
+"domainRating": "49",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Applied",
+"webDomain": "beapplied.com",
+"country": "UK",
+"segment": "B",
+"serviceType": "Hiring HR tech",
+"domainRating": "71",
+"altEmail": "",
+"knownArticleUrl": ""
+}
+]

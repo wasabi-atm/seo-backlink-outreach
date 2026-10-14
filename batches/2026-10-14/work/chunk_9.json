@@ -1,0 +1,272 @@
+[
+{
+"companyName": "The Marketing Blender",
+"webDomain": "themarketingblender.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Fractional CMO and marketing talent",
+"domainRating": "63",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Growtal",
+"webDomain": "growtal.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Fractional CMO and marketing talent",
+"domainRating": "53",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Tenet",
+"webDomain": "wearetenet.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "SEO and digital marketing agency",
+"domainRating": "69",
+"altEmail": "hello@wearetenet.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "10X Digital",
+"webDomain": "10xdigital.ae",
+"country": "UAE",
+"segment": "A",
+"serviceType": "SEO agency",
+"domainRating": "40",
+"altEmail": "info@10xdigital.ae",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Action PR Group",
+"webDomain": "actionprgroup.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "PR and communications agency",
+"domainRating": "52",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Brightery",
+"webDomain": "brightery.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "54",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "AIIMS Group",
+"webDomain": "aiims.group",
+"country": "UAE",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "73",
+"altEmail": "info@aiims.group",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Curzon PR",
+"webDomain": "curzonpr.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "PR agency",
+"domainRating": "41",
+"altEmail": "info@curzonpr.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "The Digital Ring",
+"webDomain": "thedigitalring.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "45",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Digital Dot",
+"webDomain": "digitaldot.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "54",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "TechX Marketer",
+"webDomain": "techxmarketer.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"domainRating": "52",
+"altEmail": "info@techxmarketer.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Social Media 55",
+"webDomain": "socialmedia55.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "Social media and marketing agency",
+"domainRating": "54",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Naseej",
+"webDomain": "naseej.com",
+"country": "UAE",
+"segment": "A",
+"serviceType": "Digital agency",
+"domainRating": "54",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "ChurnZero",
+"webDomain": "churnzero.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Customer success software",
+"domainRating": "74",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Totango",
+"webDomain": "totango.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Customer success software",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "GuideCX",
+"webDomain": "guidecx.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Customer onboarding software",
+"domainRating": "56",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Consensus",
+"webDomain": "goconsensus.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Demo automation software",
+"domainRating": "74",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Skilljar",
+"webDomain": "skilljar.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Customer education software",
+"domainRating": "82",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Gem",
+"webDomain": "gem.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Recruiting software",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Culture Index",
+"webDomain": "cultureindex.com",
+"country": "US",
+"segment": "B",
+"serviceType": "HR software",
+"domainRating": "70",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Kudos",
+"webDomain": "kudos.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Recognition software",
+"domainRating": "67",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Terryberry",
+"webDomain": "terryberry.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Recognition software",
+"domainRating": "65",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Wellable",
+"webDomain": "wellable.co",
+"country": "US",
+"segment": "B",
+"serviceType": "Wellness software",
+"domainRating": "71",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Solutionreach",
+"webDomain": "solutionreach.com",
+"country": "US",
+"segment": "B",
+"serviceType": "Healthtech software",
+"domainRating": "78",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Instantly",
+"webDomain": "instantly.ai",
+"country": "US",
+"segment": "B",
+"serviceType": "Sales software",
+"domainRating": "80",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Copper",
+"webDomain": "copper.com",
+"country": "US",
+"segment": "B",
+"serviceType": "CRM software",
+"domainRating": "76",
+"altEmail": "info@copper.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Keap",
+"webDomain": "keap.com",
+"country": "US",
+"segment": "B",
+"serviceType": "CRM software",
+"domainRating": "83",
+"altEmail": "",
+"knownArticleUrl": ""
+}
+]

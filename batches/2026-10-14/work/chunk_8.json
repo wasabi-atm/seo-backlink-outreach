@@ -1,0 +1,272 @@
+[
+{
+"companyName": "Spear Marketing Group",
+"webDomain": "spearmarketing.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "44",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Funnel Boost Media",
+"webDomain": "funnelboostmedia.net",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "58",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "310 Creative",
+"webDomain": "310creative.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "66",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Evenbound",
+"webDomain": "evenbound.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "55",
+"altEmail": "hello@evenbound.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Inflow",
+"webDomain": "goinflow.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "67",
+"altEmail": "info@GoInflow.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Optimal",
+"webDomain": "winwithoptimal.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "63",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Cool Nerds Marketing",
+"webDomain": "coolnerdsmarketing.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Demand generation agency",
+"domainRating": "46",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Marketbridge",
+"webDomain": "marketbridge.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "59",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Roketto",
+"webDomain": "helloroketto.com",
+"country": "US",
+"segment": "A",
+"serviceType": "B2B marketing agency",
+"domainRating": "63",
+"altEmail": "hello@sovyn.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Demand Curve",
+"webDomain": "demandcurve.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Demand generation agency",
+"domainRating": "68",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "The Growth Syndicate",
+"webDomain": "thegrowthsyndicate.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Demand generation agency",
+"domainRating": "47",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Major Tom",
+"webDomain": "majortom.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Growth marketing agency",
+"domainRating": "59",
+"altEmail": "ny@majortom.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "The Creative Momentum",
+"webDomain": "thecreativemomentum.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Demand generation agency",
+"domainRating": "51",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Ember Tribe",
+"webDomain": "embertribe.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Demand generation agency",
+"domainRating": "53",
+"altEmail": "sales@embertribe.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Uncommon Logic",
+"webDomain": "uncommonlogic.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Demand generation agency",
+"domainRating": "47",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "GTM 80/20",
+"webDomain": "gtm8020.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Demand generation agency",
+"domainRating": "52",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Skale",
+"webDomain": "skale.so",
+"country": "US",
+"segment": "A",
+"serviceType": "Growth marketing agency",
+"domainRating": "67",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Moving Minds",
+"webDomain": "movingminds.io",
+"country": "US",
+"segment": "A",
+"serviceType": "Growth marketing agency",
+"domainRating": "52",
+"altEmail": "info@movingminds.io",
+"knownArticleUrl": ""
+},
+{
+"companyName": "The Shelf",
+"webDomain": "theshelf.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Growth marketing agency",
+"domainRating": "70",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Emotive Brand",
+"webDomain": "emotivebrand.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Web and brand design studio",
+"domainRating": "59",
+"altEmail": "Press and new business emails on page (obfuscated by Cloudflare); phone 510-496-8888",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Brick Work",
+"webDomain": "brick.work",
+"country": "US",
+"segment": "A",
+"serviceType": "Web and brand design studio",
+"domainRating": "66",
+"altEmail": "info@brick.work",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Mighty Citizen",
+"webDomain": "mightycitizen.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Web and brand design studio",
+"domainRating": "53",
+"altEmail": "email obfuscated on page; phone (512) 459-7000",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Glide Design",
+"webDomain": "glidedesign.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Web and brand design studio",
+"domainRating": "55",
+"altEmail": "support@glidedesign.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Right Side Up",
+"webDomain": "rightsideup.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Fractional CMO and marketing talent",
+"domainRating": "53",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "MarketerHire",
+"webDomain": "marketerhire.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Fractional CMO and marketing talent",
+"domainRating": "71",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Vortala",
+"webDomain": "vortala.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Fractional CMO and marketing talent",
+"domainRating": "78",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Chameleon Collective",
+"webDomain": "chameleoncollective.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Fractional CMO and marketing talent",
+"domainRating": "51",
+"altEmail": "",
+"knownArticleUrl": ""
+}
+]

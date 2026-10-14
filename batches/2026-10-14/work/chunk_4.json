@@ -1,0 +1,272 @@
+[
+{
+"companyName": "Archistar",
+"webDomain": "archistar.ai",
+"country": "AU",
+"segment": "B",
+"serviceType": "Proptech AI",
+"domainRating": "58",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Mable",
+"webDomain": "mable.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "Care tech platform",
+"domainRating": "58",
+"altEmail": "media@mable.com.au",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Everlab",
+"webDomain": "everlab.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "Health tech",
+"domainRating": "47",
+"altEmail": "support@everlab.com.au",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Propeller Aero",
+"webDomain": "propelleraero.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Drone survey software",
+"domainRating": "64",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Flare HR",
+"webDomain": "flarehr.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "HR tech",
+"domainRating": "52",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Elmo Software",
+"webDomain": "elmosoftware.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "HR software",
+"domainRating": "64",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Ignition",
+"webDomain": "practiceignition.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Practice management SaaS",
+"domainRating": "60",
+"altEmail": "media@ignitionapp.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Fathom",
+"webDomain": "fathomhq.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Financial reporting SaaS",
+"domainRating": "71",
+"altEmail": "info@fathomhq.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "FrankieOne",
+"webDomain": "frankieone.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Identity verification",
+"domainRating": "56",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Easy Agile",
+"webDomain": "easyagile.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "58",
+"altEmail": "hello@easyagile.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Spotlight Reporting",
+"webDomain": "spotlightreporting.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Reporting SaaS",
+"domainRating": "61",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Lawpath",
+"webDomain": "lawpath.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "Legal tech",
+"domainRating": "67",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Streamtime",
+"webDomain": "streamtime.net",
+"country": "AU",
+"segment": "A",
+"serviceType": "Agency software",
+"domainRating": "47",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Ordermentum",
+"webDomain": "ordermentum.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "B2B ordering SaaS",
+"domainRating": "61",
+"altEmail": "support@ordermentum.com",
+"knownArticleUrl": ""
+},
+{
+"companyName": "OpenLearning",
+"webDomain": "openlearning.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Learning platform",
+"domainRating": "73",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Coassemble",
+"webDomain": "coassemble.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Training SaaS",
+"domainRating": "69",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Mantel Group",
+"webDomain": "mantelgroup.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "Tech consulting",
+"domainRating": "68",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Buildkite",
+"webDomain": "buildkite.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Dev tools",
+"domainRating": "76",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Edstart",
+"webDomain": "edstart.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "FinTech",
+"domainRating": "50",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Novatti",
+"webDomain": "novatti.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Payments FinTech",
+"domainRating": "42",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Beonic",
+"webDomain": "beonic.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Retail analytics",
+"domainRating": "42",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Schoolbox",
+"webDomain": "schoolbox.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "Education SaaS",
+"domainRating": "45",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Prezzee",
+"webDomain": "prezzee.com",
+"country": "AU",
+"segment": "B",
+"serviceType": "Digital gifting platform",
+"domainRating": "68",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Hireup",
+"webDomain": "hireup.com.au",
+"country": "AU",
+"segment": "B",
+"serviceType": "Care tech platform",
+"domainRating": "57",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Red Search",
+"webDomain": "redsearch.com.au",
+"country": "AU",
+"segment": "A",
+"serviceType": "SEO and content agency",
+"domainRating": "69",
+"altEmail": "",
+"knownArticleUrl": ""
+},
+{
+"companyName": "Digital Nomads HQ",
+"webDomain": "digitalnomadshq.com.au",
+"country": "AU",
+"segment": "A",
+"serviceType": "SEO agency",
+"domainRating": "69",
+"altEmail": "hello@dnhq.com.au",
+"knownArticleUrl": ""
+},
+{
+"companyName": "LiveTiles",
+"webDomain": "livetiles.nyc",
+"country": "AU",
+"segment": "B",
+"serviceType": "Workplace software",
+"domainRating": "44",
+"altEmail": "",
+"knownArticleUrl": ""
+}
+]
