@@ -8,3 +8,9 @@
 - 102 of 118 rows carry a manualCheck (mostly "check in browser": the pages were read as text, so any image, video or chart claim was left out of the email).
 - Logged queued under backlink-2026-10-14 (118) plus 3 held rows not_sent.
 - Step 6: draft campaign "14 October 2026 - Backlink Cold Outreach Campaign" (b418f9ea-5c2d-440b-ae5b-854b0646de76), no senders, not activated.
+
+## Follow-up: contacts for the 23 companies without one (second pass)
+- Apify peakydev/leads-scraper-ppe (the first filter with titles returned nothing; a seniority-only run returned 99 leads, cost a few cents). One contact picked per company, then each email checked with Instantly verify_email (0.25 credit each, about 18 credits) and against Instantly campaigns (none found).
+- 14 contacts found; 2 dropped as invalid (jim@ and Rosie@newcenturydesign.co.uk, michael.puhala@bevy.com replaced by alex@bevy.com). Cloudfy dropped because its article link is a blog hub, not an article.
+- 13 emails written (same brief), logged queued under backlink-2026-10-14 (ledger now 131 queued, 3 not_sent) and added to the same draft campaign: now 131 leads, still a draft, not activated.
+- Still without a usable contact (10): newcenturydesign.co.uk, tecmark.co.uk, groovehq.com, hellobar.com, sonocent.com, cloudfy.com, gulftalent.com, mediaone.sg, digitalmarketinghub.com.au, loomly.com. Loomly and GulfTalent only had pattern-guessed emails.
