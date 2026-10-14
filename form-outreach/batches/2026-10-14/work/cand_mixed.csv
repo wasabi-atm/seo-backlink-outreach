@@ -1,0 +1,115 @@
+companyName,webDomain,country,serviceType,segment,drFree
+Learning Pool,learningpool.com,UK,eLearning platform,B,73
+Hive Learning,hivelearning.com,UK,Learning SaaS,B,58
+Fresh Relevance,freshrelevance.com,UK,Marketing personalisation SaaS,B,70
+Hallam Internet,hallaminternet.com,UK,Digital marketing services,B,69
+Peak AI,peak.ai,UK,AI decision software,B,65
+Tractable,tractable.ai,UK,AI software,B,59
+Sensat,sensat.co,UK,Infrastructure software,B,47
+Mind the Product,mindtheproduct.com,UK,Product community and events,B,76
+Float,float.com,UK,Resource planning SaaS,B,72
+Modulr,modulrfinance.com,UK,Payments API FinTech,B,66
+Lumi,lumiglobal.com,UK,Events and hybrid tech,B,66
+Bidstack,bidstack.com,UK,Ad tech,B,55
+Zazzle Media,zazzlemedia.co.uk,UK,Content marketing services,B,62
+Sherlock Communications,sherlockcomms.com,UK,PR and content services,B,51
+Receptive,receptive.io,UK,Product feedback SaaS,B,46
+Gleam,gleam.io,UK,Marketing campaign SaaS,B,83
+Zapnito,zapnito.com,UK,Knowledge platform SaaS,B,67
+Railsr,railsr.com,UK,Embedded finance FinTech,B,49
+Napier AI,napier.ai,UK,Compliance AI,B,49
+HireHive,hirehive.com,UK,Recruitment SaaS,B,69
+Applied,beapplied.com,UK,Hiring HR tech,B,71
+TribePad,tribepad.com,UK,Recruitment HR tech,B,73
+Sonocent,sonocent.com,UK,Education software,B,48
+Papercup,papercup.com,UK,AI dubbing,B,46
+Conversion.com,conversion.com,UK,CRO services,B,68
+Reddico,reddico.co.uk,UK,SEO services,B,45
+Receptional,receptional.com,UK,SEO and PPC services,B,47
+Vidsy,vidsy.co,UK,Video ads platform,B,63
+Origo,origo.com,UK,FinTech software,B,47
+Equals Money,equalsmoney.com,UK,B2B payments FinTech,B,63
+Pure360,pure360.com,UK,Email marketing SaaS,B,63
+ClickDo,clickdo.co.uk,UK,SEO and web services,B,58
+SentiSum,sentisum.com,UK,Customer feedback AI,B,61
+Kingsley Napley,kingsleynapley.co.uk,UK,Legal services,B,62
+Lawhive,lawhive.co.uk,UK,Legal tech,B,52
+Bud Financial,bud.co.uk,UK,FinTech data,B,40
+Pyypl,pyypl.com,UAE,FinTech,B,47
+MAGNiTT,magnitt.com,UAE,Venture data platform,B,64
+Property Monitor,propertymonitor.com,UAE,Proptech data,B,40
+Okadoc,okadoc.com,UAE,Health tech SaaS,B,56
+ZenHR,zenhr.com,UAE,HR tech,B,54
+BitOasis,bitoasis.net,UAE,Crypto FinTech,B,57
+InsuranceMarket.ae,insurancemarket.ae,UAE,Insurtech,B,65
+NuOptima,nuoptima.com,UAE,SEO and content agency,B,56
+GulfTalent,gulftalent.com,UAE,HR tech recruitment,B,66
+Octopus Deploy,octopus.com,AU,Dev tools,B,77
+Go1,go1.com,AU,Learning platform,B,72
+Cloudfy,cloudfy.com,AU,SaaS,B,61
+Neara,neara.com,AU,Infrastructure software,B,46
+Lorikeet,lorikeetcx.ai,AU,Customer support AI,B,64
+Brighte,brighte.com.au,AU,FinTech,B,68
+Zeller,myzeller.com,AU,Business payments FinTech,B,59
+Pin Payments,pinpayments.com,AU,Payments FinTech,B,71
+Fresho,fresho.com,AU,B2B ordering SaaS,B,71
+Splose,splose.com,AU,Practice management SaaS,B,81
+Archistar,archistar.ai,AU,Proptech AI,B,58
+Harrison.ai,harrison.ai,AU,Healthcare AI,B,56
+Tanda,tanda.co,AU,Workforce management SaaS,B,67
+Mable,mable.com.au,AU,Care tech platform,B,58
+Everlab,everlab.com.au,AU,Health tech,B,47
+Propeller Aero,propelleraero.com,AU,Drone survey software,B,64
+Flare HR,flarehr.com,AU,HR tech,B,52
+Elmo Software,elmosoftware.com.au,AU,HR software,B,64
+Ignition,practiceignition.com,AU,Practice management SaaS,B,60
+Fathom,fathomhq.com,AU,Financial reporting SaaS,B,71
+Spotlight Reporting,spotlightreporting.com,AU,Reporting SaaS,B,61
+Lawpath,lawpath.com.au,AU,Legal tech,B,67
+FrankieOne,frankieone.com,AU,Identity verification,B,56
+Streamtime,streamtime.net,AU,Agency software,B,47
+Easy Agile,easyagile.com,AU,Dev tools,B,58
+Ordermentum,ordermentum.com,AU,B2B ordering SaaS,B,61
+OpenLearning,openlearning.com,AU,Learning platform,B,73
+Coassemble,coassemble.com,AU,Training SaaS,B,69
+Buildkite,buildkite.com,AU,Dev tools,B,76
+Mantel Group,mantelgroup.com.au,AU,Tech consulting,B,68
+Edstart,edstart.com.au,AU,FinTech,B,50
+Novatti,novatti.com,AU,Payments FinTech,B,42
+Beonic,beonic.com,AU,Retail analytics,B,42
+Schoolbox,schoolbox.com.au,AU,Education SaaS,B,45
+Prezzee,prezzee.com,AU,Digital gifting platform,B,68
+Hireup,hireup.com.au,AU,Care tech platform,B,57
+LiveTiles,livetiles.nyc,AU,Workplace software,B,44
+Optimising,optimising.com.au,AU,SEO agency,A,58
+Red Search,redsearch.com.au,AU,SEO and content agency,A,69
+Digital Nomads HQ,digitalnomadshq.com.au,AU,SEO agency,A,69
+Studio Hawk,studiohawk.com.au,AU,SEO agency,A,61
+Prosperity Media,prosperitymedia.com.au,AU,SEO agency,A,64
+Digital Darts,digitaldarts.com.au,AU,Digital marketing agency,A,57
+Bang Digital,bangdigital.com.au,AU,Digital marketing agency,A,53
+Bluerock Digital,bluerock.com.au,AU,Digital agency,A,44
+Cuttlefish,cuttlefish.com.au,AU,Digital agency,A,50
+Edge Online,edgeonline.com.au,AU,Digital marketing agency,A,59
+Fresh Digital,freshdigital.com.au,AU,Digital agency,A,56
+Gordon Digital,gordondigital.com.au,AU,Digital agency,A,50
+Sked Social,skedsocial.com,AU,Social media marketing SaaS,A,74
+Hey Orca,heyorca.com,AU,Marketing SaaS,A,67
+Convert Digital,convertdigital.com.au,AU,Digital agency,A,58
+Shout Digital,shoutdigital.com.au,AU,Digital agency,A,64
+Digital Marketing Hub,digitalmarketinghub.com.au,AU,Digital marketing agency,A,46
+First Page Digital,firstpagedigital.sg,SG,SEO and content agency,A,59
+Brew Interactive,brewinteractive.com,SG,Content marketing agency,A,53
+Orangetee,orangetee.com,SG,Digital agency,A,41
+OOm,oom.com.sg,SG,SEO and digital agency,A,64
+MediaOne,mediaone.sg,SG,Content marketing agency,A,53
+Tookitaki,tookitaki.com,SG,Compliance AI,B,62
+ADVANCE.AI,advance.ai,SG,AI identity software,B,57
+Dathena,dathena.io,SG,Data security AI,B,44
+Fazz,xfers.com,SG,Payments FinTech,B,41
+Vase.ai,vase.ai,SG,Commerce AI,B,49
+Ecosystm,ecosystm.io,SG,Tech research and advisory,B,44
+Funding Societies,fundingsocieties.com,SG,SME lending FinTech,B,52
+ReferralCandy,referralcandy.com,SG,Referral marketing SaaS,B,83
+Spenmo,spenmo.com,SG,Spend management FinTech,B,47
+Near,near.co,SG,Location data,B,44
