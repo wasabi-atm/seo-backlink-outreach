@@ -1,0 +1,362 @@
+companyName,webDomain,reason,altEmail
+Bray Leino,brayleino.co.uk,form not verifiable: contact page shows only email addresses and phone,hello@brayleino.co.uk
+Solvid,solvid.co.uk,site could not be fetched (fetch failed twice),
+The PHA Group,thephagroup.com,form not verifiable: contact page shows only emails and phones,hello@thephagroup.com
+Reddico,reddico.co.uk,"form not verifiable: site is now rebranded as GAIN (thisisgain.com), contact page shows no form; likely over 500 staff across multiple countries",
+Zazzle Media,zazzlemedia.co.uk,form not verifiable: contact page mentions a form but no field labels visible,
+Receptional,receptional.com,"form not verifiable: contact page shows no visible fields, only phone and address",
+Search Laboratory,searchlaboratory.com,"Now part of Havas Market (Havas network); site is a holding page, no verifiable form",
+Ardent Growth,ardentgrowth.com,"no contact form: contact page lists sales booking and emails only; site looks like a legal community business, not a B2B growth agency",hello@ardentgrowth.com
+Verve Search,vervesearch.com,"site returns 401 Authorization Required (needs login), not accessible",
+Edit,edit.co.uk,"no fitting recent article: only post since Oct 2024 is a Microsoft Build 2025 recap (10 Jul 2025, off-topic); rest are 2024 or older",
+Greenlight Digital,greenlightdigital.com,"domain now serves Brave Bison, a multi-brand media group; contact URL returned the homepage with no visible form",
+Mando,mandogroup.com,"form not verifiable: contact page shows no visible fields, only phone and email; business is Optimizely platform work",hello@mandogroup.com
+Wolff Olins,wolffolins.com,"form not verifiable: contact page lists emails only, no form",marketing@wolffolins.com (Media & PR)
+SomeOne,someoneinlondon.com,"form not verifiable: contact page lists emails only, no form",hello@someoneinlondon.com
+Made by Many,madebymany.com,no dated on-topic article: insights pages show no visible dates and the one brand-building post is a short event talk blurb,
+Audioboom,audioboom.com,"no general contact form (/contact is 404, only support and advertiser pages) and blog is hosted on Medium, not own domain",
+Evoluted,evoluted.net,only form is a Work With Us sales enquiry with an I am interested in service dropdown; /contact is 404,info@evoluted.net
+Series Eight,serieseight.com,sales form: budget range is a required field,
+JBH,jbh.co.uk,"form not verifiable: contact page shows only emails, phones and addresses",enquiries@jbh.co.uk
+BBD Boom,bbdboom.com,form not verifiable and sales-led: contact page is a Book a consultation form with no visible field labels; /contact is 404,
+This Is Distorted,thisisdistorted.com,no contact form found: /contact is 404 and homepage links show no contact page; also offers video podcast production,
+Screendragon,screendragon.com,"no general form: contact page offers only demo request, sales email and support email",Sales@screendragon.com
+Anicca Digital,anicca.co.uk,bot check page (Please wait while your request is being verified) blocks the contact page,
+Vertical Leap,vertical-leap.uk,"now part of GAIN group (offices in UK, Canada, Spain, India, Philippines), likely far over 500 staff; shared sales-style contact form with required Company name",
+Rubber Cheese,rubbercheese.com,"Enquiry form requires phone; blog is visitor attraction web design with latest dated post Nov 2024, not on topic",hello@rubbercheese.com
+Branded3,branded3.com,"Site fetch failed twice (timeout/blocked), could not verify form or article",
+Be Noticed Design,benoticeddesign.co.uk,Form not verifiable (no visible message field labels; only Project Type dropdown shown),hello@benoticeddesign.co.uk
+New Century Design,newcenturydesign.co.uk,"Only form is a start-a-project form; Type of Project dropdown has only buyer options (Graphic Design, Website Design, Branding) and no honest option",
+Tecmark,tecmark.co.uk,"Sales enquiry form: required Service dropdown has only buyer options, plus project budget field",
+Quirk,quirk.biz,"Domain now an expired-domain site based in Varna, Bulgaria; not the UK agency, no form",info@quirk.biz
+Four Communications,fourcommunications.com,"Form not verifiable (page shows only Send us a message heading, no visible fields)",
+Instinctif Partners,instinctif.com,"Over 500 staff (brief is 11 to 500); now part of TEAM LEWIS, no visible form",
+Nomensa,nomensa.com,"Nomensa is now part of GAIN, a multi-country group (UK, Canada, Spain, India, Philippines); brand and size changed, unsure it fits brief; no dated article verified",
+Reading Room,readingroom.com,"Site fetch failed twice (timeout/blocked), could not verify form or article",
+Bluegg,bluegg.co.uk,"Rebranded to Toward; only form is a Talk to us about a project enquiry form (project type checkboxes, budget invited), not a general or press form",media@toward.studio
+Bespoke Digital,bespokedigital.agency,"Form not verifiable (contact page shows email, phone and call back request only, no visible fields)",
+Zuko,zuko.io,Form not verifiable (contact page text mentions a message form but no field labels visible; only trial and demo links),
+Pure360,pure360.com,"Now part of Spotler (European group, offices in NL, DE, UK); contact page lists emails only, no form",contact@spotler.com
+Adestra,adestra.com,Over 500 staff (brief is 11 to 500); Adestra is a product of Upland Software (public company); no contact form,
+Redeye,redeye.com,Form not verifiable (General enquiries page shows the heading but no field labels); also acquired by Spotler Group,
+Podfollow,podfollow.com,No form; contact page is email only and says all link-building requests are reported as spam,
+Conversion,conversion.com,"Form not verifiable (no visible field labels); page is a lead-gen contact page for project work, part of GAIN group",
+ResponseTap,responsetap.com,"Form not verifiable; ResponseTap is now part of Infinity (contact page redirects to marketing page, only demo link and phone)",
+Fresh Relevance,freshrelevance.com,"Acquired by Dotdigital (listed company, global offices); contact page redirects to Dotdigital sales style form with required company and country, so brand and fit no longer match",dotdigital@almastrategic.com
+Ruler Analytics,ruleranalytics.com,"Form not verifiable (contact page shows phone, address and demo link only)",
+Zephr,zephr.com,"Contact page returns 502; Zephr is now owned by Zuora (public company, over 500 staff)",
+Intergage,intergage.co.uk,No blog or articles found (/blog is 404 and sitemap lists only service pages),
+Strategic IC,strategic-ic.co.uk,"Site fetch failed twice (timeout/blocked), could not verify form or article",
+Brandworkz,brandworkz.com,"Form has no message box (name, email, company, phone only, product contact form)",
+Groove,groovehq.com,"Form not verifiable (no contact page found; /contact and /contact-us return 404, homepage only offers demo, quote and trial)",
+Missive,missiveapp.com,Form not verifiable (Contact link is a mailto address only; /contact returns 404),support@missiveapp.com
+Qualified,qualified.com,"Form not verifiable; site is now Salesforce owned and contact links go to salesforce.com, /contact returns 404",
+Terminus,terminus.com,"Form not verifiable (contact page shows no visible form fields); site is now DemandScience, a lead generation and content syndication vendor",
+RollWorks,rollworks.com,"Form not verifiable (no contact, partner or press form linked; only demo request and signup)",
+Uberflip,uberflip.com,"Form not verifiable (contact page lists email, phone and address only, no form fields)",contact@uberflip.com
+Gainsight Community,insided.com,Over 500 staff (brief is 11 to 500),
+Higher Logic,higherlogic.com,"Form not verifiable (contact page fetch timed out twice, no fields could be read)",
+Bevy,bevy.com,"Form not verifiable (no contact, partner or press page linked; only book a demo and a HubSpot form link with no visible fields)",
+Circle,circle.so,No contact form found (no contact page linked; /contact returns 404; support is via help centre and community),
+Mighty Networks,mightynetworks.com,"No contact form found (no contact, partner or press page in header, footer or About page)",
+June,june.so,"No contact form found (no contact, partner or press page linked; support is via help centre)",
+Unify,unify.com,"Site fetch blocked or timed out (homepage and /contact both ran over 30 seconds with no output), form not verifiable",
+RB2B,rb2b.com,"No usable form: the only form (/talk-to-us) has work email, website and a required dropdown of data licensing options, with no message box",support@rb2b.com
+Leadfeeder,leadfeeder.com,"Form not verifiable (contact page lists emails only); company is Dealfront, based in Germany and Finland, not US",info@leadfeeder.com
+Swipe Pages,swipepages.com,"No contact form found (/contact returns 404; no contact, partner or press page linked; only a careers email on the about page)",
+Justuno,justuno.com,"Form not verifiable (contact page shows an email, address and a meeting booking prompt, no visible form fields)",help@justuno.com
+Hello Bar,hellobar.com,"Form not verifiable (contact page only has a Submit your request button, chat and support email; no form fields visible)",support@hellobar.com
+Monetate,monetate.com,"Only form on the contact page is a partner sales lead referral form (lead details, opportunity and the lead's current ecommerce platform), not a general message form",
+Bluecore,bluecore.com,Only contact route is a Talk to us sales page with no visible form fields (form not verifiable); company was acquired by Insider One,
+TextMagic,textmagic.com,"Only form is the customer support and sales form in the help centre (Contact Customer Support & Sales); no partnership, press or editorial route",
+Plivo,plivo.com,"Only contact route linked is /contact/sales/ (sales form) plus a support portal; no general, press or partnership form",
+Kixie,kixie.com,"No general contact form: contact page offers a sales demo, a support ticket link and a PartnerStack affiliate application only",support@kixie.com
+Smokeball,smokeball.com,"No contact form, only support ticket link, email and phone",support@smokeball.com
+CosmoLex,cosmolex.com,Form not verifiable (Request More Information form shows no visible fields),
+Proposify,proposify.com,"No contact form; page only offers sales chat, login support, demo and knowledge base",
+Qwilr,qwilr.com,Contact page not found (/contact and /contact-us both 404),
+ReferralCandy,referralcandy.com,"Chat widget only (Intercom), no form; demo is a sales booking",
+Learning Pool,learningpool.com,Form not verifiable (page says fill in the form but no fields visible),
+Hive Learning,hivelearning.com,Form not verifiable (mentions request a demo and general inquiry options but no fields visible),help@hivelearning.com
+Peak AI,peak.ai,Form not verifiable (Write to us heading but no fields visible),
+Sensat,sensat.co,No form; contact page lists emails and a demo link only,marketing@sensat.co.uk (media enquiries); hello@sensat.co.uk (general)
+Float,float.com,No contact form; only help centre and talk to sales booking,
+Modulr,modulrfinance.com,"Contact is a sales qualification funnel (annual revenue, transaction volume questions), not a general form",
+Lumi,lumiglobal.com,Form not verifiable (Share a few details below but no fields visible); enquiry form routes to sales teams,
+Tractable,tractable.ai,No contact form; /contact is 404 and press page lists emails only,press@tractable.ai; information@tractable.ai
+Mind the Product,mindtheproduct.com,Contact page not found (/contact and /contact-us both 404),
+Bidstack,bidstack.com,Contact page not found (/contact 404),
+Sherlock Communications,sherlockcomms.com,"Not really based in UK/US/UAE/Australia/Singapore (PR agency for Brazil and Latin America, Spanish page); also a PR and marketing agency",contact@sherlockcomms.com
+Gleam,gleam.io,"Form not verifiable (contact page shows only navigation, no fields visible)",
+Zapnito,zapnito.com,Contact page is a sales demo form (Book a demo with our sales team; Company Name required),contact@zapnito.com
+TribePad,tribepad.com,"Form not verifiable (page says use the contact form, 'How can we help?' heading but no fields visible); page is titled Book a Free Demo",
+HireHive,hirehive.com,Contact page not found (/contact and /contact-us both 404); only Book a demo offered,
+Railsr,railsr.com,Contact page not found (/contact and /contact-us both 404),
+Applied,beapplied.com,Form not verifiable (contact pages returned an empty page with no visible content),
+Sonocent,sonocent.com,Contact page not found (/contact 404; /contact-us fetch returned nothing),
+Receptive,receptive.io,Fetch failed or timed out twice (/contact and homepage returned nothing); form not verifiable,
+Papercup,papercup.com,"Competitor: Competitor (AI dubbing and video localisation) and now part of RWS, far over 500 staff",
+Vidsy,vidsy.co,Competitor: Competitor: makes video ads for brands,
+Origo,origo.com,Blog off-topic (pensions and asset migration whitepapers); acquired by iPipeline,
+Equals Money,equalsmoney.com,"Blog off-topic (FX market reports, key FX dates, expense policy); no marketing or content articles",
+ClickDo,clickdo.co.uk,"Form not verifiable (only a budget dropdown visible, no field labels or message box in page text)",digital@clickdo.co.uk
+Lawhive,lawhive.co.uk,No blog or contact page found on site navigation (consumer legal service pages only),
+Bud Financial,bud.co.uk,"Domain is Bud Systems (education and training provider software), not Bud Financial; articles about provider funding are off-topic",
+SentiSum,sentisum.com,"Form not verifiable: contact page shows only an email and phone number, no form",contact@sentisum.com
+Kingsley Napley,kingsleynapley.co.uk,"Law firm; articles are legal topics (off-topic), likely over 500 staff",
+Property Monitor,propertymonitor.com,Site fetch failed twice (Apify run failed),
+Okadoc,okadoc.com,"Form not verifiable: contact page shows only a 'Submit Form' button and help centre links, no visible fields",
+MAGNiTT,magnitt.com,"No contact form or blog found in site links (research, startups, investors pages only)",
+ZenHR,zenhr.com,"Blog is HR policy, labour law and HR software topics (off-topic); contact route is demo request",
+Pyypl,pyypl.com,"Contact form is customer support only (topics: payment I did not make, cannot log in, complaint, something else); phone required",care@pyypl.com
+InsuranceMarket.ae,insurancemarket.ae,Consumer insurance broker; blog is insurance product content (off-topic); contact page not a partner or editorial route,
+BitOasis,bitoasis.net,Crypto exchange; site returned no navigable links and no contact form or marketing blog could be verified,
+GulfTalent,gulftalent.com,"Blog and resources are jobs, salaries and labour law content (off-topic)",
+Octopus Deploy,octopus.com,"Form not verifiable: contact page lists only sales, finance and support email addresses, no form",sales@octopus.com
+Go1,go1.com,"Form not verifiable: contact page routes to sales, support and partners, and the 'Something else' form fields are not visible in page text",
+Cloudfy,cloudfy.com,"Contact form is a sales lead form (Talk to our team: ERP system, interested in, features, required company and country)",
+Neara,neara.com,"No contact form or editorial route found; only a demo page, and blog is utility digital twin topics (off-topic)",
+Lorikeet,lorikeetcx.ai,Form not verifiable: partner page shows only a Submit button with no visible field labels,partners@lorikeetcx.ai
+Brighte,brighte.com.au,"Contact page is customer, vendor and support enquiry routes only; blog is consumer solar and home finance (off-topic)",
+Zeller,myzeller.com,Form not verifiable: partnerships page shows only 'Submit an enquiry' buttons with no visible field labels; programme is for integrators and resellers,
+NuOptima,nuoptima.com,"Site fetch failed on several attempts (home, contact and blog runs failed or timed out)",
+Pin Payments,pinpayments.com,"Only a sales form (contact page says sales team will get back); blog stale, latest post Dec 2024 and about company joining Fat Zebra",
+Fresho,fresho.com,"Contact page is a multi-step sales or support routing form with required phone, company and business software fields; no honest partnership option",
+Splose,splose.com,"No general contact form found; /contact returns 404 and only demo, free trial and chat to sales routes exist",
+Tanda,tanda.co,Form not verifiable: /contact-us 404 and site nav only offers see-tanda demo booking,
+Harrison.ai,harrison.ai,"Form is fine but blog is clinical radiology AI and research papers, no natural place for a motion studio link",
+Archistar,archistar.ai,"Blog is permitting and property AI; best candidate (Snaploader 3D post) is a product promo for its own 3D visual services, not a natural place for a studio link",
+Mable,mable.com.au,Form not verifiable: contact page mentions an enquiry form but no fields are visible,media@mable.com.au
+Everlab,everlab.com.au,"Form not verifiable: /contact returns 404, only support email shown",support@everlab.com.au
+Propeller Aero,propelleraero.com,Form not verifiable: contact page shows no visible fields,
+Flare HR,flarehr.com,"Contact page only offers demo request, novated lease interest and support portals, no general form",
+Elmo Software,elmosoftware.com.au,"Contact route is a sales consultant modal form, support goes to help desk portal",
+Ignition,practiceignition.com,Form not verifiable: contact page offers demo request and emails only,media@ignitionapp.com
+Fathom,fathomhq.com,Form not verifiable: contact page lists emails and phones only,info@fathomhq.com
+FrankieOne,frankieone.com,"Contact page is a Book a Demo new customer enquiry form, sales only",
+Easy Agile,easyagile.com,Form not verifiable: contact page lists email and a support portal only,hello@easyagile.com
+Spotlight Reporting,spotlightreporting.com,Form not verifiable: /contact-us returns 404 and no contact page found in nav,
+Lawpath,lawpath.com.au,Form not verifiable: /contact returns 404,
+Streamtime,streamtime.net,Form not verifiable: /contact and /contact-us do not show a contact form,
+Ordermentum,ordermentum.com,Contact page offers support email and a suppliers only demo form,support@ordermentum.com
+OpenLearning,openlearning.com,Form not verifiable: contact page is a chat widget only,
+Coassemble,coassemble.com,"Contact page is a sandbox request sales style form, no visible message field",
+Mantel Group,mantelgroup.com.au,Form not verifiable: contact page says to use the form but no fields are visible,
+Buildkite,buildkite.com,"Form not verifiable: contact page shows a heading only, no visible fields",
+Edstart,edstart.com.au,Form not verifiable: /contact returns 404 and no other contact page found,
+Novatti,novatti.com,Form not verifiable: /contact returns 404 and no other contact page found,
+Beonic,beonic.com,Form not verifiable (HubSpot form not visible on contact page),
+Schoolbox,schoolbox.com.au,"No on-topic recent article (blog is school IT, change management and security; required mobile and school fields)",
+Prezzee,prezzee.com,Form not verifiable (only customer support ticket portal),
+Hireup,hireup.com.au,Form not verifiable (contact page returned no visible content),
+Red Search,redsearch.com.au,"Form not verifiable (only a discovery call booking form with budget dropdown, no message box)",
+Digital Nomads HQ,digitalnomadshq.com.au,"Sales style strategy session form (required phone, company and industry)",hello@dnhq.com.au
+LiveTiles,livetiles.nyc,Fetch did not complete (page blocked or timed out),
+Prosperity Media,prosperitymedia.com.au,"Sales form (required yearly revenue and monthly SEO spend, no message box)",
+Digital Darts,digitaldarts.com.au,No general contact form (Typeform application and product support form only),
+Bang Digital,bangdigital.com.au,No contact form (phone and email only),
+Bluerock Digital,bluerock.com.au,No contact form (phone and office addresses only),tom.moore@thebluerock.com.au
+Cuttlefish,cuttlefish.com.au,Solo graphic design studio for small business and councils with no blog found,mark@cuttlefish.com.au
+Edge Online,edgeonline.com.au,"Sales form (monthly marketing budget and services needed, proposal framing)",ideas@edgeonline.com.au
+Sked Social,skedsocial.com,"No contact form (demo booking, support email and chat only)",partnerships@skedsocial.com
+Gordon Digital,gordondigital.com.au,Site fetch failed twice (blocked or unreachable),
+Hey Orca,heyorca.com,"No contact form (demo booking, chat and support only)",
+Convert Digital,convertdigital.com.au,Form not verifiable (page says fill out the form but no field labels visible),enquiries@convertdigital.com.au
+Shout Digital,shoutdigital.com.au,"Sales lead form (two steps, required company and website, services interested in, message optional)",
+Digital Marketing Hub,digitalmarketinghub.com.au,"Passed but left out: no article date visible on the page, so recency could not be confirmed",
+First Page Digital,firstpagedigital.sg,"Sales form (free proposal framing, no message box)",info@firstpagedigital.sg
+Brew Interactive,brewinteractive.com,Sales form (required number of employees and company website),
+Orangetee,orangetee.com,"Not a digital agency (Singapore real estate agency, no relevant blog)",
+OOm,oom.com.sg,"Form not verifiable (contact form fields not visible in page text, sales framed 30 minute review)",marketing@oom.com.sg
+ADVANCE.AI,advance.ai,"Form not verifiable: contact page lists only email addresses, no form",marketing@advance.ai
+Dathena,dathena.io,Over 500 staff (brief is 11 to 500): domain now serves Proofpoint,
+Tookitaki,tookitaki.com,Only contact page is a demo and meeting booking with no message form,
+Fazz,xfers.com,"Only form is a sales lead form (work email, company, name) with no message box",
+Spenmo,spenmo.com,Company has closed: homepage says Spenmo ceased operations on 14 August 2025,
+Vase.ai,vase.ai,Form not verifiable: contact page is titled Contact Sales and shows no visible form fields,marketing@vase.ai
+Funding Societies,fundingsocieties.com,"Form not verifiable: /contact-us is 404 and the partner page form is for financing partners (needs director NRIC and bank statement), fields not visible",info@fundingsocieties.com
+Near,near.co,Fetch failed: contact page returned empty content and homepage fetch returned no items,
+MediaOne,mediaone.sg,"Unsure: only form is a free audit lead form, /blog 404, and the few posts are thin template text with unrelated footer links (EmpireElec) and mixed bylines",
+Ecosystm,ecosystm.io,"No on-topic article: blog is enterprise AI and tech analyst research, nothing on video, content or marketing",info@ecosystm.io
+Chattermill,chattermill.com,"Sales form: contact page is framed as an RFP and sales enquiry, job title required, sales@ address shown",sales@chattermill.io
+CreativeX,creativex.com,"Form not verifiable: contact page is a speak to an expert form showing only dropdowns (job title, function, industry), no message box visible",
+ContentCal,contentcal.io,"Domain now redirects to an Adobe Express content scheduler page, not a UK agency site (over 500 staff parent)",
+Reech,reech.com,"Not based in UK/US/UAE/Australia/Singapore: French language influencer agency, /contact returns 404",
+Leadgenera,leadgenera.com,Page could not be fetched: three fetch attempts returned no content,
+Loop Digital,loop-digital.co.uk,Page could not be fetched: /contact is 404 and /contact-us/ fetch failed twice,
+Arttia,arttia.co.uk,"Sales form: multi step project brief with required budget range, required services and company status",hello@arttia.co.uk
+Damteq,damteq.co.uk,Sales form: Request a Project Quote page with required services checklist,projects@damteq.co.uk
+Studio Hawk,studiohawk.co.uk,"Form not verifiable: HubSpot form not visible in page text, only phone and email",contact@studiohawk.co.uk
+The Lead Generation Company,theleadgenerationcompany.co.uk,Sales form: Request a Quick Quote with required service type and estimated budget,
+Inbox Insight,inboxinsight.com,Page could not be fetched: two fetch attempts returned no content,
+ThinkTank,thinktank.org.uk,"Form not verifiable: no field labels visible, only contact preference tick boxes and obfuscated emails",
+Favoured,favoured.co.uk,"Form has no message box: fields are First Name, Last Name, Company Name, Email, Phone, contact preference",
+Assisted,assisted.co.uk,Form not verifiable: contact page loads a SupportCandy ticket widget with no visible fields,
+Get Found,get-found.co.uk,Sales form: Get Your Free Audit multi step form with services and monthly budget steps,hello@get-found.co.uk
+Heavyweight Digital,heavyweightdigital.co.uk,"Form not verifiable: contact page shows only a Send button, no visible field labels",hello@heavyweightdigital.co.uk
+Alt Agency,altagency.co.uk,Form not verifiable: Talk to us about your project today form shows no field labels in page text,hello@altagency.co.uk
+Growth Division,growth-division.com,"No form: contact page only has email, phone and a book a call flow",hello@growth-division.com
+Saturate,saturate.marketing,"Passed but left out: no article date visible on the page, so recency could not be confirmed",
+Mentor Digital,mentordigital.co.uk,"Passed but left out: no article date visible on the page, so recency could not be confirmed",
+Stein IAS,steinb2b.com,"Form not verifiable: contact page shows only emails and phone numbers, no form",info@steinb2b.com
+Embryo Digital,embryodigital.co.uk,"Form not verifiable: contact page shows only address, email and phone",info@embryo.com
+Sierra Six Media,sierrasixmedia.co.uk,"Form not verifiable: contact page shows offices and a discovery call link, no visible form fields",
+Fat Cow Media,fatcowmedia.co.uk,Form not verifiable: contact page text mentions a form but shows no field labels,hello@fatcowmedia.co.uk
+Odyssey New Media,odysseynewmedia.com,Site could not be fetched (three fetch attempts failed),
+AlchemyWorx,alchemyworx.com,Form not verifiable: /contact is a 404 and /lets-talk shows only a sales style complimentary analysis offer with no visible field labels,
+Taxi for Email,taxiforemail.com,No contact form: page offers support email and a demo/sales request via Bird; owned by a larger company,support@taxiforemail.com
+Ceek,ceek.co.uk,Form not verifiable: contact page says fill out the form but no field labels are visible,
+The Influencer Marketing Factory,theinfluencermarketingfactory.com,Sales style form: required marketing budget and primary goal fields; also appears US based (Miami),
+The Social Element,thesocialelement.agency,Form not verifiable: contact page shows only a 'let's talk' button and a press email,press@thesocialelement.agency
+Striata,striata.com,Company was acquired by Doxim and the site is stale (latest posts 2020 to 2021),
+Content Factory,contentfac.com,"Form not verifiable: contact page shows a message counter and 'I am a' options but no name or email labels, and is framed as a call booking request",
+Foundation Marketing,foundationinc.co,"Form not verifiable: contact page shows only phone, email and addresses",team@foundationinc.co
+Mantis Research,mantisresearch.com,"Form not verifiable: page text shows no field labels, and the form leads straight to a calendar booking",
+Convince and Convert,convinceandconvert.com,Form not verifiable: page says to fill out the form but no field labels are visible,
+Scribewise,scribewise.com,Form not verifiable: page says to give info below but no field labels are visible,
+Fractl,frac.tl,Form not verifiable: contact page fetched shows only testimonials and no form fields,
+Draft.dev,draft.dev,No contact form: /contact is a 404 and the site only offers a discovery call booking,
+New North,newnorth.com,"Contact page returned 404 on the Vercel host, no form found",
+ContentWriters,contentwriters.com,"Sales form: contact page is for ordering content (industry and company size selectors), with no visible message box",
+Hinge Marketing,hingemarketing.com,Form not verifiable: page says fill out the form below but no field labels are visible,
+Point Visible,pointvisible.com,"Not based in UK/US/UAE/Australia/Singapore (Croatia, EU) and sells editorial link building",senko@pointvisible.com
+ClearVoice,clearvoice.com,"Domain now serves the Fiverr marketplace (over 500 staff, no relevant contact form)",
+Kapost,kapost.com,"Over 500 staff (brief is 11 to 500): part of Upland Software, a public company",
+Content Allies,contentallies.com,Form not verifiable: contact page says 'form below' but no field labels visible,hello@contentallies.com
+MarketMuse,marketmuse.com,"Demo request page only (sales form), no general contact form",
+Agorapulse,agorapulse.com,"Contact page is a sales/demo page, form not verifiable",
+Loomly,loomly.com,Contact page is a support help centre only (customer support),
+Pitchbox,pitchbox.com,No contact form: /contact returns 404 and homepage offers only demo booking,
+Mutiny,mutinyhq.com,No contact form: /contact returns 404 and site only offers sign up,
+Featured,featured.com,No contact form: contact page lists only a support email and postal address,support@featured.com
+Muck Rack,muckrack.com,"Demo request only; contact page has no form, just emails",press@muckrack.com
+PathFactory,pathfactory.com,"No contact form and now owned by Kaltura (public company, over 500 staff)",
+Marketveep,marketveep.com,Form not verifiable and framed as a sales 'Get Your Free Proposal' form; no field labels visible,
+Vidyard,vidyard.com,"Contact page is a demo booking form (sales), no general message form seen",
+Webbiquity,webbiquity.com,Contact page returns 404 and the 404 page carries injected casino spam links (possible hacked or link farm site),
+Social SEO,socialseo.com,Form not verifiable: contact page shows no field labels,
+OnTheMap Marketing,onthemap.com,Form not verifiable: contact page shows no field labels,
+Outsmart Labs,outsmartlabs.com,Form not verifiable: contact page returned no visible content,
+DemandJump,demandjump.com,"Site could not be fetched (two timeouts after 120s), so form not verifiable",
+Ironhorse,ironhorse.io,Form not verifiable: contact page is a discovery call booking with no visible fields,
+Arketi Group,arketi.com,"Form not verifiable: contact page shows only email and phone, no visible form fields",info@arketi.com
+Square 2 Marketing,square2marketing.com,Form not verifiable: /contact redirects to Brickwork services page with discovery call link only,
+SeeResponse,seeresponse.com,Form not verifiable: contact and write-for-us pages show headings but no visible form field labels,editor@seeresponse.com
+Conveyor Marketing Group,conveyormg.com,Form not verifiable: contact page says fill out the form below but no field labels visible,
+Cleverly,cleverly.co,"Form not verifiable: /contact is a 404, only email and phone in footer",info@cleverly.co
+N2Growth,n2growth.com,"Sales style form: executive search firm, required phone, company, title, LinkedIn URL, region, and dropdown options are all buyer or candidate topics",
+Salted Stone,saltedstone.com,"Form not verifiable: contact page shows only a region picker and a How can we help box, no name or email labels visible",hq@saltedstone.com
+Spear Marketing Group,spearmarketing.com,Form not verifiable: contact page is a consultation booking with no visible field labels,
+Funnel Boost Media,funnelboostmedia.net,"Sales form: Get a free proposal form with company size dropdown and SMS consent, local SEO and PPC agency",
+310 Creative,310creative.com,Form not verifiable: /contact is a 404 and homepage only has Get a Proposal buttons,
+Evenbound,evenbound.com,"Form not verifiable: Let's Talk page shows no visible form fields, only phone and email",hello@evenbound.com
+Inflow,goinflow.com,Form not verifiable: contact page says fill out the form below but no field labels visible,info@GoInflow.com
+Optimal,winwithoptimal.com,"No message box: contact form has only first name, last name, company, email, phone",
+Cool Nerds Marketing,coolnerdsmarketing.com,"Sales form: required phone and required marketing budget, inquiry categories are buying services",
+Marketbridge,marketbridge.com,Form not verifiable: contact page shows required-fields note and offices but no visible field labels,
+Roketto,helloroketto.com,"Form not verifiable: domain now Sovyn, contact page shows address, phone and email only",hello@sovyn.com
+Demand Curve,demandcurve.com,"Sales form: required company size and timeline, no required message box, strategist call funnel",
+The Growth Syndicate,thegrowthsyndicate.com,Sales form: Book a free strategy session with required phone and company,
+Major Tom,majortom.com,Form not verifiable: contact page shows heading Start your mission but no field labels,ny@majortom.com
+The Creative Momentum,thecreativemomentum.com,Form not verifiable: /contact is a 404 and /contact-us failed to load,
+Ember Tribe,embertribe.com,Form not verifiable: contact page says fill out this form but no field labels visible,sales@embertribe.com
+Uncommon Logic,uncommonlogic.com,"Form not verifiable: contact page has intro text only, no visible form fields",
+GTM 80/20,gtm8020.com,Form not verifiable: /contact and /contact-us are both 404,
+Skale,skale.so,Form not verifiable,
+Green Buzz Agency,greenbuzzagency.com,Competitor: Competitor: video production and motion graphics studio,
+Moving Minds,movingminds.io,Form not verifiable,info@movingminds.io
+The Shelf,theshelf.com,Only demo / strategy call form (schedule-a-demo); no general contact form found,
+Emotive Brand,emotivebrand.com,"Form not verifiable (contact page lists emails only, no form)",Press and new business emails on page (obfuscated by Cloudflare); phone 510-496-8888
+Brick Work,brick.work,Form not verifiable (contact page shows no visible fields),info@brick.work
+Mighty Citizen,mightycitizen.com,"Form not verifiable (only radio options visible, no message box seen)",email obfuscated on page; phone (512) 459-7000
+Glide Design,glidedesign.com,"No contact form (page says not big on forms, call or support ticket only)",support@glidedesign.com
+Right Side Up,rightsideup.com,Form not verifiable (contact page shows no visible fields),
+MarketerHire,marketerhire.com,No general contact form found (/contact returns 404; hiring marketplace),
+Vortala,vortala.com,No contact form (page lists phone and a free consultation link only),
+Chameleon Collective,chameleoncollective.com,Fetch failed on the contact page,
+The Marketing Blender,themarketingblender.com,Form not verifiable (text says fill out the form but no fields visible),
+Growtal,growtal.com,"Contact page is a schedule-a-call booking only, no form",
+Micky Weis,mickyweis.com,"Danish-language site, not based in UK/US/UAE; /contact returns 404",
+SEO Tech Experts,seotechexperts.com,"Contact page not found (404); HQ appears to be India with a Dubai business-centre address, not a real UAE base",
+Tenet,wearetenet.com,Form not verifiable (page mentions a form but no field labels visible),hello@wearetenet.com
+Incrementors,incrementors.com,Form not verifiable (Send Us a Message heading but no field labels visible); mainly India and US offices,hello@incrementors.com
+10X Digital,10xdigital.ae,"Sales form only: 'interested in' dropdown lists only services to buy, no honest enquiry option",info@10xdigital.ae
+Action PR Group,actionprgroup.com,"No contact form (newsletter sign-up only); group based across Eastern Europe, MENA and Central Asia",
+Matrix Bricks,matrixbricks.com,"Free-consultation lead form (Phone required, button says Get Free Consultation); company looks India-origin with US and Canada offices, not UAE",info@matrixbricks.com
+Brightery,brightery.com,Contact page not found (404 at /en/contact-us); no form seen,
+AIIMS Group,aiims.group,"Contact form is a sales lead form (phone required, pick services); general enquiry form not verifiable; mainly an Australian agency",info@aiims.group
+Curzon PR,curzonpr.com,Form not verifiable (contact page says use the form below but no fields visible),info@curzonpr.com
+The Digital Ring,thedigitalring.com,Form not verifiable (contact page shows no visible fields); button says Get a Quote,
+Reshift Media,reshiftmedia.com,"Not based in UK/US/UAE (Toronto, Canada); form has no labelled message box (only an Untitled field) and phone required",
+Digital Dot,digitaldot.com,"Form not verifiable (contact page form shows a Contact Form 7 404 error, no fields visible)",
+TechX Marketer,techxmarketer.com,"Sales lead form (required WhatsApp, city, company, services needed); also partly Pakistan based",info@techxmarketer.com
+Social Media 55,socialmedia55.com,"Bot check page blocks access (One moment, please)",
+Naseej,naseej.com,"Not a marketing agency (education and library IT vendor, Saudi focus); /contact is 404 and no form found; news is unrelated to video or marketing",
+Designersham,designersham.com,One-person freelancer site (under 11 staff); homepage form needs mobile and is a hire-me enquiry; no real blog found,
+ChurnZero,churnzero.com,No general contact form found; /contact and /contact-us are 404 and site only offers a live demo request,
+Totango,totango.com,No contact form or blog; homepage now points to Hey Odie with demo links only,
+GuideCX,guidecx.com,No general contact form found; /contact is 404 and site only offers a demo request,
+Consensus,goconsensus.com,"Only contact route is a talk-to-sales form (sales form, not a general contact form)",
+Skilljar,skilljar.com,"No general contact form found; only demo request, and Skilljar is now part of Gainsight",
+WorkRamp,workramp.com,"Form not verifiable; site now redirects to Confirm (Learning Pool group), contact page shows a sales-routing form with no visible fields",
+Gem,gem.com,Contact page only routes to sales inquiries or customer support; no general form with message box visible,
+Culture Index,cultureindex.com,No blog or article list found on the site; contact form is customer support and sales leaning with phone and company website required,
+TINYpulse,tinypulse.com,Over 500 staff (brief is 11 to 500); site is now part of WebMD Health Services and mostly mirrors its pages,
+Kudos,kudos.com,"Form not verifiable (Partnership & Media and General Inquiries forms exist but no field labels are visible); HQ is Calgary, Canada",
+Terryberry,terryberry.com,"Contact page is a request a demo form only (sales), no general message form visible",
+Wellable,wellable.co,No general contact form found; /contact-us/ is 404 and site only offers demo and talk to sales,
+Limeade,limeade.com,"No contact form; contact page offers a demo link and email addresses only, and Limeade has joined WebMD Health Services",
+Carrot Fertility,get-carrot.com,"Form not verifiable (contact form only appears with cookies enabled, no fields visible); likely over 500 staff, fully distributed global company",
+Klara,klara.com,Over 500 staff (brief is 11 to 500); Klara site is part of ModMed (Modernizing Medicine) and its pages and blog sit on modmed.com,
+Luma Health,lumahealth.com,"Wrong company and market: lumahealth.com is an expat health insurance broker for Thailand and Vietnam, not US healthtech software",
+Solutionreach,solutionreach.com,No contact form; contact page lists phone numbers only (form not verifiable),
+Instantly,instantly.ai,Form not verifiable; /contact only leads to a support help centre,
+Copper,copper.com,Form not verifiable; contact page shows email addresses only,info@copper.com
+Keap,keap.com,"Form not verifiable; contact page offers phone, chat and a sales callback only",
+Paystand,paystand.com,Form not verifiable; contact page shows no visible fields,
+Bento for Business,bentoforbusiness.com,"Site now redirects to U.S. Bank Spend Management (acquired by a large bank, over 500 staff); no contact form",
+Homebase,joinhomebase.com,Form not verifiable; /contact is 404 and /contact-us renders only 'Loading' (JavaScript support portal),
+Pilot,pilot.com,Only a 'Talk to an advisor' sales booking page; /contact is 404,
+Fyle,fylehq.com,"Now Sage Expense Management (owned by Sage, over 500 staff); contact page 404, demo form only",
+Novo,novo.co,Form not verifiable; contact page lists emails and in-app support only,partnerwithus@novo.co
+Maxio,maxio.com,Only a demo form (Get a demo); /contact is 404,
+Baremetrics,baremetrics.com,No contact form; site Contact link is a mailto address only (/contact is 404),hello@baremetrics.com
+Stax,staxpayments.com,No contact form; contact page lists phone numbers only,
+Payment Depot,paymentdepot.com,No contact form; contact page lists phone numbers only,
+Narmi,narmi.com,Contact page only routes to a demo request; no message form visible,
+Kasasa,kasasa.com,Form not verifiable; contact page shows phone and address only (sales-style institution outreach),
+Persona,withpersona.com,Fetch blocked or timed out twice (/contact and /contact-us); form not verifiable,
+Secureframe,secureframe.com,Contact page only routes to a sales demo request or a support portal; no message form,
+Cyberhaven,cyberhaven.com,"No contact form; contact page only links to docs, partners and careers",
+Cofense,cofense.com,"Form not verifiable; contact page shows no visible fields, only a support email and addresses",support@cofense.com
+Curricula,curricula.com,Now part of Huntress (over 500 staff); /contact serves a product page with no form,
+Stytch,stytch.com,Only a 'Talk to sales' form with no visible fields; support and PR contact are email or Slack,support@stytch.com
+FusionAuth,fusionauth.io,Form not verifiable; contact page is a sales/demo pitch with no visible field labels,
+Hasura,hasura.io,"Form not verifiable; contact page shows no visible field labels (pricing, demo and support enquiries)",
+Statsig,statsig.com,Form not verifiable; contact page shows only a Talk to Sales route and no visible fields,
+Canny,canny.io,Form not verifiable; /contact returns 404 and homepage links only to request-demo,
+Lookback,lookback.com,"Form not verifiable; /contact returns 404, only demo calendar and help centre linked",
+Respondent,respondent.io,Form not verifiable; only Talk to sales and book-demo routes found,
+SavvyCal,savvycal.com,Form not verifiable; /contact returns 404 and no contact page in homepage links,
+Sigma Computing,sigmacomputing.com,"Form not verifiable; contact page text shows no visible fields, only help desk and community links",
+Productboard,productboard.com,Form not verifiable; /contact-us and /contact both returned 404,
+dbt Labs,getdbt.com,"Form not verifiable; contact page shows only signup, pricing and support links",
+HireVue,hirevue.com,Form not verifiable; contact page shows only Loading form text with no field labels,
+Fly.io,fly.io,Form not verifiable; /contact returned empty content,
+Netlify,netlify.com,"Form not verifiable; contact page only links to sales, support and partner programmes with no visible fields",
+Dashlane,dashlane.com,Form not verifiable; /contact returned 404,
+Bitwarden,bitwarden.com,Support-only form (account email and product required); sales routed elsewhere,
+Jumio,jumio.com,Form not verifiable; press and partnership pages show no visible fields in page text,
+Sift,sift.com,Form not verifiable; contact page shows a Submit Your Request heading but no field labels,
+Coda,coda.io,"Sales-only form (all fields required, contact sales for Enterprise and Education); company now under Superhuman",
+Basecamp,basecamp.com,Form not verifiable; /contact shows only a founder story with an email address,jason@basecamp.com
+Linear,linear.app,No contact form; page lists only an email address,hello@linear.app
+Rewardful,rewardful.com,"Fetch failed on /contact (timeout), so no form could be verified",
+FirstPromoter,firstpromoter.com,Form not verifiable; /contact returned 404,
+PartnerStack,partnerstack.com,Form not verifiable; /contact returned 404,
+Friendbuy,friendbuy.com,"Sales and demo form only (asks which products you are interested in, no message box)",
+Stamped,stamped.io,"Fetch failed on /contact, so no form could be verified",
+Junip,junip.co,No form; contact page is a sales call booking with sales email only,sales@juniphq.com
+Richpanel,richpanel.com,Form not verifiable; contact page is a sales and demo pitch with no visible fields,
+Wild Hype,wearehype.co.uk,Spare left out: form message limit is shorter than the template,
+Hyperproof,hyperproof.io,"Spare left out: only a 2023 brand refresh post with a 2026 update stamp, off-topic blog",
