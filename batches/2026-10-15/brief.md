@@ -9,3 +9,4 @@
 - Result: 114 of the 150 target. Shortfall of 36: article research passed 157 of 475, 32 had no contact, 11 were held.
 - Logged queued under backlink-2026-10-15 (114) plus 11 held rows not_sent.
 - Step 6: draft Instantly campaign "15 October 2026 - Backlink Cold Outreach Campaign", no senders, not activated.
+- Instantly draft campaign id 22772c8e-335c-4120-a510-eaa4c55f6e1f, 114 leads, status draft.
