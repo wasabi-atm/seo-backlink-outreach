@@ -1,0 +1,112 @@
+[
+{
+"companyName": "AdWave",
+"webDomain": "adwave.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Advertising/adtech",
+"source": "new",
+"articleUrl": "https://adwave.com/resources/ctv-vs-social-video-comparison",
+"articleTitle": "CTV vs Social Video 2026"
+},
+{
+"companyName": "Castmagic",
+"webDomain": "castmagic.io",
+"country": "US",
+"segment": "A",
+"serviceType": "Podcast/content repurposing SaaS",
+"source": "new",
+"articleUrl": "https://www.castmagic.io/de/blog/the-rise-of-podcasts-in-b2b-marketing-replacing-webinars-as-the-go-to-content-strategy",
+"articleTitle": "B2B podcasts replacing webinars"
+},
+{
+"companyName": "Cuco Creative",
+"webDomain": "cucocreative.co.uk",
+"country": "United Kingdom",
+"segment": "A",
+"serviceType": "Branding and web design studio",
+"source": "new",
+"articleUrl": "https://www.cucocreative.co.uk/branding/branding-trends-2026-what-businesses-need-to-do-now",
+"articleTitle": "Branding Trends 2026: What Businesses Need to Do Now"
+},
+{
+"companyName": "Enrich Labs",
+"webDomain": "enrichlabs.ai",
+"country": "US",
+"segment": "A",
+"serviceType": "AI marketing agency directory",
+"source": "new",
+"articleUrl": "https://www.enrichlabs.ai/blog/video-marketing-agency-complete-guide-2026",
+"articleTitle": "Video Marketing Agency: Complete Guide 2026"
+},
+{
+"companyName": "Hire Influence",
+"webDomain": "hireinfluence.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Influencer marketing agency",
+"source": "new",
+"articleUrl": "https://hireinfluence.com/blog/why-linkedin-thought-leadership-still-wins-in-b2b/",
+"articleTitle": "Why LinkedIn Thought Leadership Still Wins in B2B"
+},
+{
+"companyName": "Landbase",
+"webDomain": "landbase.com",
+"country": "US",
+"segment": "B",
+"serviceType": "AI GTM platform",
+"source": "new",
+"articleUrl": "https://www.landbase.com/blog/fastest-growing-hr-tech-companies",
+"articleTitle": "Fastest Growing HR Tech Companies"
+},
+{
+"companyName": "Phenomenon Studio",
+"webDomain": "phenomenonstudio.com",
+"country": "US",
+"segment": "A",
+"serviceType": "Brand/web design studio",
+"source": "new",
+"articleUrl": "https://phenomenonstudio.com/article/brand-identity-services-complete-guide-for-startups-enterprises-2026/",
+"articleTitle": "Brand Identity Services Guide 2026"
+},
+{
+"companyName": "Radical Web Design",
+"webDomain": "radicalwebdesign.co.uk",
+"country": "United Kingdom",
+"segment": "A",
+"serviceType": "Web design agency",
+"source": "new",
+"articleUrl": "https://radicalwebdesign.co.uk/blog/website-video/",
+"articleTitle": "Website video 101: how to use video content on your site"
+},
+{
+"companyName": "Subscribe HR",
+"webDomain": "subscribe-hr.com.au",
+"country": "Australia",
+"segment": "B",
+"serviceType": "HR software",
+"source": "new",
+"articleUrl": "https://www.subscribe-hr.com.au/blog",
+"articleTitle": "HR Blog - thought leadership and HR technology updates"
+},
+{
+"companyName": "Upscaled",
+"webDomain": "upscaled.com.sg",
+"country": "Singapore",
+"segment": "A",
+"serviceType": "Digital marketing agency",
+"source": "new",
+"articleUrl": "https://upscaled.com.sg/blog/video-marketing-strategy-singapore/",
+"articleTitle": "Video Marketing Strategy for Singapore Businesses"
+},
+{
+"companyName": "Web Adept",
+"webDomain": "webadept.co.uk",
+"country": "United Kingdom",
+"segment": "A",
+"serviceType": "Web and marketing agency",
+"source": "new",
+"articleUrl": "https://www.webadept.co.uk/email-marketing-trends/",
+"articleTitle": "Email Marketing Trends 2026: What Every Business Needs to Know"
+}
+]

@@ -1,0 +1,362 @@
+companyName,webDomain,reason
+Reddico (now GAIN),reddico.co.uk,"Already contacted: Reddico now redirects to thisisgain.com, which was sent a form in backlinkform-2026-10-08"
+CleverTap,clevertap.com,"Passed form and article checks, but staff count is likely over 500 (brief is 11 to 500); left out as unsure"
+CommerceIQ,commerceiq.ai,"Passed form and article checks, but staff count is likely over 500 (brief is 11 to 500); left out as unsure"
+Dragonpass,dragonpass.com,"Passed form and article checks, but staff count may be over 500 (brief is 11 to 500); left out as unsure"
+Jeebly,jeebly.com,Article is a loose fit (logistics post on social commerce) and its date looks like a bulk update; left out as unsure
+Madison Logic,madisonlogic.com,Visible article date is May 2024; the 2026 modified date is only in page code and may be a bulk update; left out as unsure
+Corkboard Concepts,corkboardconcepts.com,Article first published June 2024 and the 2026 modified date may be a site wide stamp; left out as unsure
+Girard Media,girardmedia.com,"Site publishes hundreds of templated posts, possible content farm; left out as unsure"
+Marketing Agency SG,marketingagency.sg,"Lead generation style agency site (offers review removal), possible link farm; left out as unsure"
+Keeping Current Matters,keepingcurrentmatters.com,"Sells done for you content including videos to estate agents, possible overlap with Motion; left out as unsure"
+Webrecruit,webrecruit.co,Article is a short job advert post (borderline topic) and the form has an extra spam check field; left out as unsure
+Qooper,qooper.io,"Article is about HR onboarding, off topic for a motion studio link; left out as unsure"
+HowNow,hownow.com,"Article has no visible date (only a sitemap date, possibly a bulk update); left out as unsure"
+Eqvista,eqvista.com,"Article is a pitch deck post, borderline topic for a motion studio link; left out as unsure"
+Big Human,bighuman.com,"Passed every check (DR 57), but Big Human is in HubSpot with a deal attached; left out to avoid clashing with an existing conversation"
+Invoca,invoca.com,"Passed every check (DR 81), but the form message box is capped at 255 characters, too short for the template"
+Graphy Inc.,graphy.com,"No contact form found, only a public email"
+HackerEarth,hackerearth.com,Contact page only links to a demo booking form
+HeadSpin,headspin.io,"Only a connect-now lead form (company and email, no message box) with Turnstile; demo-led site"
+Hexnode,hexnode.com,"Contact page forms are sales and demo forms (phone, company size, demo booking)"
+HSI,hsi.com,Cloudflare bot check blocks the site
+Huma,huma.com,"No contact form, only public emails; healthcare AI with off-topic blog"
+Hyly.AI,hyly.ai,"Get in touch page shows no usable form, only sales and support emails; demo-led"
+hyperexponential,hyperexponential.com,Contact page is the book a demo form; no general form
+HyperVerge,hyperverge.co,Only a book a demo sign-up; no general contact form
+iBase-t,ibaset.com,Cloudflare block page
+iboss,iboss.com,"Contact form is for security experts to discuss requirements (phone required, sales led) and the blog is cybersecurity only, no fitting article"
+IFZA,ifza.com,Bot verification page blocks the site
+IgniteTech,ignitetech.ai,Blog is CEO press and AI adoption commentary with no fitting video or marketing article; contact is a modal form only
+illumine,illumine.app,"No contact form, only sales and support emails"
+ImagineSoftware,imagineteam.com,Site blocks access (access limited by site owner)
+iMile,imile.com,"Logistics firm with no blog or contact form found; site carries Chinese ICP registration, likely over 500 staff"
+imimobile (part of Webex),imimobile.com,"Part of Cisco Webex, over 500 staff (brief is 11 to 500); site is a resources hub only"
+Inception,inceptionai.ai,"Redirects to inception42.ai (G42 group); only product announcements and a sales contact page, no fitting blog article"
+Incode,incode.com,"Identity verification and KYC blog only, no marketing or video article that fits; contact page is sales led (contact redirects to demo)"
+Creative Marketing Ltd,creativemarketingltd.co.uk,Blog articles load as Page Not Found when opened directly (given article and a second one both fail); blog looks mass produced
+Havi,havi.com.au,"ERP/CRM consultancy; only form is a lead form (phone and company required, message optional) and article is a sales tool roundup, off topic"
+JustCall,justcall.io,"No contact form: contact page only offers demo booking buttons (Talk to an Expert, See It Live) and a support email"
+Orbix Studio,orbix.studio,"Only form is a sales enquiry (project budget and service required, WhatsApp number and company required); given article is a list of branding agencies"
+Stack Influence,stackinfluence.com,"Contact form reason dropdown has no honest option (only Brand Inquiry, Creator Inquiry, Brand Campaign Questions, Creator Community Questions); given article is an agency listicle"
+Titan Digital,titandigitaluae.com,"Bot verification page (""Please wait while your request is being verified"") blocks the site"
+Tenet,wearetenet.com,"Contact form is a Zoho Forms iframe whose fields could not be read; given article is an agency listicle; company looks India based (Tenet Communications Technologies, Zoho India form)"
+Buyapowa,buyapowa.com,Cloudflare bot check blocks the site
+Convertedin,convertedin.com,Only form is a talk-to-sales form with required budget and platform fields
+CrowdComms,crowdcomms.com,Contact page is a Book a Demo form only (sales)
+DigiStreet Media,digistreetmedia.com,Not based in a target country
+Experience UX,experienceux.co.uk,"No on-topic recent article: blog is all UX research and usability, nothing on video, marketing or content"
+Four Communications,fourcommunications.com,No dated on-topic article: News & insights is agency news and award posts with no dates on the pages
+Gligx,gligx.com,Only form is a free consultation lead form with required phone and a typed captcha
+Harvard,harvard.co.uk,"No contact form, only email addresses"
+Hike SEO,hikeseo.co,No contact form or public email on the site
+ITP Media Group,itp.com,"No blog on itp.com: corporate site for a large multi-brand publisher (Time Out, Esquire, Arabian Business), likely over 500 staff"
+Johnson Banks,johnsonbanks.co.uk,"No contact form, only email addresses"
+Kolonell,kolonell.com,Not based in a target country
+Lolly.com,lolly.com,No contact form; /contact is 404 and only a support email is shown
+Netarabia,netarabia.com,"No contact form, only emails; main base looks like Egypt"
+SomeOne,someoneinlondon.com,"No contact form, only email addresses"
+Kissflow,kissflow.com,"Contact page is a sales enquiry form (HubSpot embed, titled Contact Kissflow Sales); likely over 500 staff"
+Kitopi,kitopi.com,"No contact form found, only a public email; cloud kitchen operator, likely over 500 staff"
+Kovai.co,kovai.co,"Not based in a target country (homepage says Coimbatore, India)"
+Ladder,ladder.io,No dated recent article: blog posts have no dates and the newest ones only mention 2023 or 2024
+Lavender,lavender.ai,No contact form found (only a lead capture box and a support email)
+Leapsome,leapsome.com,"Not based in a target country (legal entity and HQ in Berlin, only a sales office in New York) and no general contact form found (/contact is 404, only sales email)"
+Ledgy,ledgy.com,"Contact page form is email only with no message box; company is HQ'd in Zurich, Switzerland (not a target country)"
+lemlist,lemlist.com,No general contact form found (only Contact sales and a partner page without a form); lempire is French
+Lexia Learning,lexialearning.com,"No contact form on the contact page (email only; other route is contact sales); edtech, likely over 500 staff"
+Lili,lili.co,Site could not be opened: browser pane has no access to lili.co
+Loopio,loopio.com,Bot check (robot challenge screen) blocks the site
+Loyyal,loyyal.com,Blog posts carry no date anywhere (the only 2026 mention is the site footer) and are short loyalty posts; form also needs many required fields
+LRN,lrn.com,"Only a sales form (Speak to an expert: phone and HQ country required, no message box seen); compliance topic, off-topic blog"
+Lucidity,lucidity.cloud,"Blog is cloud storage and FinOps technical content plus award news, off-topic for video or design; contact form (HubSpot) not inspected"
+Lumafield,lumafield.com,"Blog is industrial CT scanning and manufacturing quality content, off-topic for video or design; contact is a HubSpot form likely for sales"
+Lytho,lytho.com,"No contact form: contact page offers only a demo request, a support ticket, or email"
+M2,m2.com,Site could not be loaded in the browser (navigation denied or failed)
+Lone Wolf Technologies,lwolf.com,"Contact form is a sales and support routing form (business type, company, phone and country required); real estate software blog is off-topic; likely over 500 staff"
+Lunit,lunit.io,"Not based in a target country (Seoul, Korea) and medical AI content is off-topic"
+Magnet Forensics,magnetforensics.com,"Only contact page is Contact Sales and Support; digital forensics blog is off-topic; HQ is Waterloo, Canada"
+Bland,bland.ai,"Only a book a demo form (monthly volume required, turnstile)"
+Blueboard,blueboard.com,"Domain is parked by GoDaddy, no site"
+BNC Network,bncnetwork.net,No on-topic blog article found (construction news and training only)
+bolt,boltinc.com,"No contact form, only country support phone numbers and emails"
+Bromcom,bromcom.com,"Contact form only routes customers, switchers, parents or API partners (no honest option)"
+BuildOps,buildops.com,"Only demo form and chat widget, no general contact form"
+BuildWitt,buildwitt.com,No blog and no usable contact form found
+Careerflow.ai,careerflow.ai,"Blog is consumer job search advice, no fitting article for a motion studio link"
+CareStack,carestack.com,"No contact form, only phone, email and demo booking"
+CARTO,carto.com,"Only sales style form (employee count required) and blog is geospatial tech, off-topic"
+Casepoint,casepoint.com,"No contact form found and blog is legal eDiscovery, off-topic"
+Casting Networks,castingnetworks.com,"No contact form (contact goes to support) and blog is acting advice, off-topic"
+CAST,castsoftware.com,"Blog is software architecture and legacy modernisation, off-topic; contact form is HubSpot sales style"
+Catchpoint,catchpoint.com,"Blog is internet performance monitoring and DevOps, off-topic; contact page not reachable by scan"
+Ceipal,ceipal.com,No contact form (phone and email only) and no blog found
+Celigo,celigo.com,"Enterprise iPaaS with technical blog, contact is HubSpot sales style form"
+Cendyn,cendyn.com,Cloudflare verification page blocks the site
+Ceribell,ceribell.com,"Medical device company with no blog, only press releases"
+Citeline,citeline.com,"Pharma data company (part of a large group), no blog and contact form is sales style with job and industry fields"
+ESO,eso.com,"Over 500 staff (brief is 11 to 500); blog is about EMS and fire software, off topic"
+EverTrue,evertrue.com,"Only a demo (Marketo) form, no general contact form"
+"Ex Libris, from Clarivate",exlibrisgroup.com,Over 500 staff (brief is 11 to 500)
+GAC,gac.com,Over 500 staff (brief is 11 to 500)
+Ginger,ginger.com,Over 500 staff (brief is 11 to 500)
+Focus Softnet,focussoftnet.com,No recent on-topic article (ERP blog; closest marketing post published 2023-06-02)
+Forensic Analytics Ltd,forensicanalytics.io,"Blog is about police digital forensics, no on-topic article"
+Forethought,forethought.ai,"No contact form, only mailto links and a demo form"
+Foundry,foundry.com,"Only a sales enquiry form, otherwise email addresses"
+"FourKites, Inc.",fourkites.ai,Over 500 staff (brief is 11 to 500)
+Fundraise Up,fundraiseup.com,"Only a contact-sales / demo form, no general contact form"
+Fusemachines,fusemachines.com,Over 500 staff (brief is 11 to 500)
+MaintainX,getmaintainx.com,"No form with a message box (demo form and partnership form only, Turnstile); likely over 500 staff"
+SQUIRE,getsquire.com,"Site blocked access (Blocked page), could not check"
+Glia,glia.com,"Sales-style contact form (required phone, company, job title, 'business challenge' box)"
+Glider AI,glider.ai,"No contact form, only a demo request form and a public email"
+gnani.ai,gnani.ai,"Not based in a target country (India-based, sovereign India AI focus)"
+Goodera,goodera.com,"Only sales-style forms (required event budget and timing, no message box)"
+Goodlord,goodlord.com,"Only a sales form with no message box (name, email, role)"
+Cuco Creative,cucocreative.co.uk,Bot check (robot challenge screen) blocks the site
+Enrich Labs,enrichlabs.ai,No general contact form; only product waitlist/lead forms (work email and website required) and a support mailto
+Landbase,landbase.com,"Contact page is a multi-step 'Talk to an Expert' sales form (name, email, then next step), no open message box; article also off-topic (HR tech company list)"
+Phenomenon Studio,phenomenonstudio.com,Only form is a project quote form with budget range options and file attach (sales form); no general contact form. Public emails only
+Subscribe HR,subscribe-hr.com.au,"No on-topic article: blog is HR compliance and policy (WHS training, payday super, right to disconnect, HR metrics); given URL is only the blog index"
+Upscaled,upscaled.com.sg,"Contact pages sit behind a bot verification screen ('One moment, please', request being verified); no form could be read. Homepage only shows sales@upscaled.com.sg"
+Web Adept,webadept.co.uk,"Bot verification screen blocks the site ('One moment, please', request being verified)"
+Clarity AI,clarity.ai,"No contact form found (contact page lists offices only, form not rendered)"
+ClassLink,classlink.com,No on-topic recent blog article (education IAM and product updates); form requires job title and organisation
+ClearML,clear.ml,Bot verification page blocks the site
+ClearCompany,clearcompany.com,Site could not be opened in the browser (navigation denied or failed)
+ClearGov,cleargov.com,"Contact page only shows a Marketo embed (no visible general form) and the content is local government budgeting, off-topic"
+Click Therapeutics,clicktherapeutics.com,Prescription digital therapeutics company; no on-topic marketing or video blog content found
+Climate AI,climate.ai,Site not configured (404 Not Found)
+Cofense,cofense.com,"Phishing security vendor; blog is security content, off-topic for a video or design link"
+Cognite,cognite.com,Not based in a target country (HQ Norway); industrial AI blog off-topic
+COINPAYMENTS,coinpayments.net,"No contact form or blog found on the site; crypto payments, off-topic"
+CONFIDENCIAL,confidencial.io,"Data protection platform; blog is security content, off-topic for a video or design link"
+Congruent Solutions,congruentsolutions.com,Bot verification page blocks the site
+SMS-Magic,conversive.ai,"No general contact form found; only ISV partner program and demo-style forms, no visible message box"
+Conviva,conviva.ai,"Only a Marketo get-started (sales) form found, no general contact form with a message box"
+Cresta,cresta.com,Contact form is a sales-style HubSpot embed with no verifiable message box; customer-experience AI blog off-topic
+CuspAI,cusp.ai,"AI materials discovery; blog content is science, off-topic for a video or design link"
+Cymulate,cymulate.com,"Cybersecurity vendor (HQ Israel); blog is security content, off-topic"
+DAT Freight & Analytics,dat.com,"Over 500 staff (brief is 11 to 500); freight marketplace, off-topic blog"
+DaVinci Commerce,davincicommerce.ai,"No contact form, only email addresses listed"
+DealRoom,dealroom.net,No general contact form (contact page lists emails only); M&A blog off-topic
+Writesonic,writesonic.com,No general contact form (contact-us redirects to a demo booking pop-up)
+Bluecore,bluecore.com,"Only a sales 'Talk to us' demo form; article is a benchmark data report, off topic"
+Qwilr,qwilr.com,"No general contact form found (no /contact page; only a partner sign-up form with no message box, Turnstile present); article is an undated template product page"
+Searchspring,searchspring.com,"Brand rebranded to Athos Commerce; blog and contact pages redirect off the domain, article not fetchable"
+TripleDart,tripledart.com,No contact form with a message box; only a Book a strategy call (sales) flow and no public email
+BoostUp,boostup.ai,"Rebranded to Terret (terret.ai); only contact is a demo form with required job title, company, CRM and team size"
+People.ai,people.ai,Cloudflare bot check blocks the site
+Swoop,swoop.com.au,"Internet and telecom provider; blog topics unrelated to video or marketing, no fitting article"
+Noodle,noodle.com,"Contact page only has a meeting scheduler, no message form"
+nTop,ntop.com,"Blog is all aerospace and engineering design, no on-topic article"
+Owner.com,owner.com,No general contact form; partner page is a demo request and support is customer only
+Persado,persado.com,"Contact form has no message box (name, company, job title, email, inquiry type only)"
+PyjamaHR,pyjamahr.com,"No contact form, only demo booking and support"
+Recruit CRM,recruitcrm.io,"No contact form found, only a public email"
+Recruitics,recruitics.com,Contact page redirects to a demo request form
+Responsive,responsive.io,Only contact sales form and a partner programme application
+Runna,runna.com,"No contact form, support portal only; blog is running training, off-topic"
+Schrödinger,schrodinger.com,Over 500 staff (brief is 11 to 500); public company with molecular science content
+Silverfort,silverfort.com,Cybersecurity blog is off-topic and likely over 500 staff; no general contact form found
+Siteimprove,siteimprove.com,Over 500 staff (brief is 11 to 500); HQ is in Copenhagen
+Swap,swap.com,Domain redirects to The Jay Group (re-commerce logistics) with no blog
+Talroo,talroo.com,"Contact form dropdown has no honest option (only customer, press member, publisher, vendor or delete account)"
+"Textellent, Inc.",textellent.com,Only a Contact Sales form (goes to sales)
+Kintsugi,trykintsugi.com,"No general contact form (demo and partner programme only); blog is sales tax, off-topic"
+Vyro,vyro.ai,Not based in a target country (Vyro is Lahore based) and AI image and video tools are close to our own offer
+Weekday AI,weekday.works,"Blog is India salary guides and job pages, no on-topic article; India focused"
+Averi AI,averi.ai,No contact form found (/contact redirects to community page; no public email); given article URL is a 404
+Coinbound,coinbound.io,Only form is a sales form with required Expected Monthly Budget; given article is an agency listicle
+Digital Applied,digitalapplied.com,"Not based in a target country (office in Bratislava, Slovakia)"
+Inkbot Design,inkbotdesign.com,Bot verification page blocks the site (stuck on 'Please wait while your request is being verified')
+Media Plus,mediaplus.com.sg,No contact form found in the page (no inputs rendered; only a 'Free Consultation' quote prompt); email only
+Push Group,pushgroup.co.uk,No usable contact form: HubSpot contact form does not render on /contact (only a newsletter form with no message box); given article is an agencies listicle
+The Digital Elevator,thedigitalelevator.com,Contact form (on /about/) has a visible Cloudflare Turnstile check; HQ country not shown anywhere on the site
+Appcast,appcast.io,Site blocks browser (Access Denied)
+Artisan,artisan.co,Only contact page is a Talk to our team sales form with Chili Piper booking
+AstroLabs,astrolabs.com,"Contact form is a lead routing enquiry for business setup services, no clear message form found; blog is about company setup, off-topic"
+CallMiner,callminer.com,"Contact form is a demo/calendar booking form with required phone and company, no message box"
+Carbyne,carbyne.com,"Now part of Axon (over 500 staff); emergency response platform, off-topic; no usable contact form found"
+Cleerly,cleerly.com,"Healthcare company; contact forms are for patients, providers and demos (required I am a dropdown has no honest option); blog off-topic"
+Contentstack,contentstack.com,Contact page has no general message form (demo request and chat widget only); likely over 500 staff
+Copado,copado.com,"Contact form is an embedded Pardot lead form (sales led, many required fields likely) and blog is Salesforce DevOps and testing, off-topic"
+Cover Genius,covergenius.com,Cloudflare bot check on site; also likely over 500 staff
+Creatio,creatio.com,Over 500 staff (brief is 11 to 500); no contact page found at standard URLs
+DeltaX,deltax.com,"No contact form, email only (partner@deltax.com for sales and partnerships)"
+DesignMyNight,designmynight.com,"Consumer nightlife and restaurant blog, no on-topic article for video or marketing"
+Digistore24,digistore24.com,Not based in a target country (German company); no contact form found on contact page
+"Drift, a Salesloft company",drift.com,"Over 500 staff (part of Salesloft); site redirects to Salesloft, sales demo routing"
+Edenred UK,edenred.co.uk,"Over 500 staff (brief is 11 to 500); part of Edenred group, redirects to Reward Gateway"
+Eagle Eye Networks,een.com,"Sales style form: required phone, company, postal code, and required dropdown with only partner or customer options, no honest choice"
+eGain Corporation,egain.com,"Contact page is titled Contact sales (sales form); public company, likely over 500 staff"
+Front Row,frontrowgroup.com,"Over 500 staff (about page says over 550 specialists); offices mainly Amsterdam, Hamburg, Bratislava plus New York and San Diego"
+Venngage,venngage.com,"No contact, partnership or press form found (contact pages 404, support is help centre only)"
+Piktochart,piktochart.com,No general contact form; /contact redirects to support knowledge base only
+Totango,totango.com,"Company rebranded to Odie (heyodie.ai); site only offers demo requests and support, no general contact form; given article is a webinar thank-you page"
+Stamped,stamped.io,"Only demo booking form and support help centre, no general contact or partnership form"
+EDIT,edit.co.uk,Contact page shows 'Contact form not found' error with only address and phone; site is now part of Salocin Group and is a CRM and data consultancy
+Aviso,aviso.com,"/contact-us redirects to Book a Custom Demo form (sales only), no general contact form"
+Consensus,consensus.com,"Domain is Consensus Cloud Solutions (healthcare cloud faxing, public company), not the interactive demo SaaS; off-topic for video outreach"
+Pipe,pipe.com,"Blog is all embedded finance and lending (off-topic for video link); contact form is titled for support team with Technical Support, Invest with Pipe, Other options"
+Prezzee,prezzee.com.au,"Only customer care and support contact (consumer gift card help); no general, partnership or press form with message box"
+DEMICA,demica.com,Over 500 staff (brief is 11 to 500). Domain redirects to FIS (fisglobal.com)
+Dark Matter Technologies,dmatter.com,Bot challenge page blocks the site (robot challenge screen)
+DMCC,dmcc.ae,"Government free zone authority, not a fit; contact is a HubSpot embed with no clear general message form and no matching marketing blog"
+Docsumo,docsumo.com,Contact and demo forms are sales forms with no message box; partner form needs a partner type and has no message box
+Doctify,doctify.com,"Contact page is a HubSpot chat flow (patient, clinician, press picker), no message form"
+Drillinginfo,drillinginfo.com,Over 500 staff (brief is 11 to 500). Domain redirects to Enverus
+DualEntry,dualentry.com,"Blog is all accounting and finance topics, no on-topic article for a motion/video studio"
+Dye & Durham UK,dyedurham.co.uk,Over 500 staff (brief is 11 to 500)
+Dynatron Software,dynatronsoftware.com,"No contact form, only a support email"
+Earnix,earnix.com,Blog is insurance pricing and analytics only; the one customer-centric post is dated 2017 with a bulk modified date
+Edifecs,edifecs.com,Over 500 staff (brief is 11 to 500). Now part of Cotiviti
+Ema,ema.ai,"Only contact route is a Book a demo page, no general contact form"
+Emircom,emircom.com,"Bot verification page blocks the site (One moment, please)"
+Empatica,empatica.com,"Blog is clinical and medical device topics, nothing on marketing or video"
+Engagedly,engagedly.com,"Contact form is a sales form: employee count required, no message box"
+Enlighted,enlightedinc.com,Siemens-owned IoT lighting brand; blog posts are old (2023) and off-topic; contact is a support routing page
+Ensora Health,ensorahealth.com,Contact form is a demo form with required practice size and provider count
+EDB,enterprisedb.com,Over 500 staff (brief is 11 to 500)
+ePS (eProductivity Software),epssw.com,"Blog is corrugated and packaging manufacturing only, nothing on marketing or video"
+Onspring,onspring.com,Article off topic (GRC compliance workflow); blog is all compliance and risk software
+SimplePractice,simplepractice.com,Article off topic (therapy clinical notes); likely over 500 staff and contact is customer support only
+Ordergroove,ordergroove.com,"Contact form is a sales lead form routed by Chili Piper, message box optional"
+Mezmo,mezmo.com,Article off topic (observability trace analysis); blog is technical DevOps
+Wazuh,wazuh.com,"Article off topic (AWS key compromise detection, security tooling)"
+Trademo,trademo.com,Article off topic (restricted party screening compliance)
+Veritone,veritone.com,Article has no date anywhere; contact form is a Pardot lead form with required phone and optional message
+Userled,userled.io,No general contact form; only a demo request form (/demo)
+Juicebox,juicebox.ai,Only form found is a demo request form with routing (Surface form on partners page); /contact and /press are 404
+Aleph,alephdigital.com,Site unreachable (connection timed out)
+ArabClicks,arabclicks.com,No recent blog article found (blog sitemap last modified 2021); contact page is mostly advertiser and publisher signup
+ASDA'A BCW,asdaa-bcw.com,Cloudflare block page (Attention Required); part of large BCW network
+BeOnTop,beontop.ae,Cloudflare verification challenge on the site
+Bibliotheque,bibliothequedesign.com,Site could not be opened (navigation denied or failed)
+Blackbird,blackbird.video,"No recent blog article (newest blog post is 2024-03-02, all CEO or trade show notes)"
+Brandworkz,brandworkz.com,"Contact form has no message box (name, email, company, phone all required)"
+Incorta,incorta.com,No on-topic article: blog is all data engineering and AI platform posts
+inFeedo AI,infeedo.ai,Only a demo form found (no contact page); blog is HR engagement topics
+innRoad,innroad.com,No contact form; only sales and support phone and email
+Instabase,instabase.com,No on-topic article: blog is AI document processing and product updates
+Intellicus Technologies,intellicus.com,Contact form needs a CAPTCHA and phone; blog is technical analytics topics only
+Invenco,invenco.com,"Over 500 staff (brief is 11 to 500); part of Gilbarco Veeder-Root and Vontier; fuel payment hardware, off-topic"
+Inworld AI,inworld.ai,Only a contact sales form; blog is developer voice AI topics
+iOL,iol.world,No blog or articles on the site
+IPRoyal,iproyal.com,No contact form found (only chat and affiliate programme); proxy seller with technical blog
+Ironmarkusa,ironmarkusa.com,"Only form is a sales project enquiry (services checklist, phone, how did you hear required, optional message, reCAPTCHA Enterprise)"
+ITILITE,itilite.com,Not based in a target country (Bengaluru India HQ) and likely over 500 staff
+Checkmate,itsacheckmate.com,No general form: contact page only links to demo and support; partnership form has no message box (reseller questions)
+JAAQ,jaaq.app,No contact form and no blog; emails only
+Jitterbit,jitterbit.com,"No on-topic article: recent blog is all integration, EDI, MCP and AI platform posts"
+Blink,joinblink.com,Contact form (HubSpot) did not render so fields could not be checked; blog is tiny (about 5 posts)
+Justlife,justlife.com,Customer support only (app chat and tickets); no contact form
+JustPark,justpark.com,Site blocks the browser with a 403 error
+Katalon,katalon.com,No on-topic article: blog is software testing and QA topics; likely over 500 staff
+Khoros,khoros.ai,No on-topic article: site is now an IgniteTech property and the blog is AI workforce and CEO press posts
+Spin,spin.co.uk,No contact form and no blog found (minimal portfolio site)
+Spindogs,spindogs.co.uk,Cloudflare human check blocks the site
+Studio Blackburn,studioblackburn.com,"Competitor: No contact form (email only); studio also does motion and animation work, so likely competitor"
+The Think Tank,thinktank.org.uk,Bot verification page blocks the site
+Ticket Tailor,tickettailor.com,No general contact form with a message box; only email signup and support/demo routes
+Tomsher Technologies,tomsher.com,Contact form needs a typed captcha code (and hCaptcha); not safe to submit
+Silverbullet,wearesilverbullet.com,No blog or articles (only case studies); form routes by Brand/Agency/Partner
+White Label Loyalty,whitelabel-loyalty.com,Contact page is a Book a Demo sales form
+Wired Media,wiredmedia.co.uk,No article dated on or after 2024-10-14 (newest posts found are from 2023)
+Zentroa Technologies,zentroa.com,Contact form is a free quote / project enquiry form (service and budget fields)
+Blis,blis.com,Zoho contact form needs a typed verification code (captcha) and a reason dropdown with no honest media/editorial option
+ConnectAds,connectads.com,Site down (522 connection timed out)
+Infinity,infinity.co,Only contact routes are support and book-a-demo
+Message Heard,messageheard.com,No usable form found on the contact page (form did not render); only a public email
+Red Badger,red-badger.com,"Blog is enterprise tech, AI and data platform topics; no video, marketing or content article that fits"
+Third Light,thirdlight.com,Site is now support-only and points to PhotoShelter; no contact form or blog
+Userfocus,userfocus.co.uk,No contact form or blog on the site (single page with one personal email)
+Acoustic,acoustic.com,"No contact form (support case, demo, or email only)"
+Affinity,affinity.studio,"Over 500 staff (brief is 11 to 500); part of Canva, support-led contact"
+Alyce,alyce.com,Site could not be opened (navigation failed twice)
+Whova,whova.com,"No contact form, only a demo request and public email"
+Xactly Corp,xactlycorp.com,"Contact form is a sales lead form (job title, company, country, Chili Piper routing) with no clear free message box"
+Yellow.ai,yellow.ai,"Only form is a partner programme sign-up (phone, company, programme type required) with no message box; likely over 500 staff"
+73 Strings,73strings.com,"No contact form found, only Book a Demo; finance content off topic"
+Abridge,abridge.com,Over 500 staff (brief is 11 to 500); clinical AI content off topic
+Acceldata,acceldata.io,"Contact form did not render so fields could not be confirmed; blog is data engineering technical, not marketing or video"
+Acqueon,acqueon.com,"Over 500 staff (brief is 11 to 500); site now redirects to Five9, a public company"
+Actian,actian.com,Contact page is a Marketo lead form for a data management vendor; blog is technical data topics; part of HCLTech group
+ADAM Global,adamglobal.com,"No blog found (blog, insights, news paths all 404); tax and advisory business"
+Aderant,aderant.com,"No general contact form found (contact-us redirects to home, Marketo lead forms only); legal billing software, likely over 500 staff"
+Aera Technology,aeratechnology.com,"Contact form is a HubSpot embed that did not render, so no message box could be confirmed; enterprise sales focus"
+Aerospike,aerospike.com,"Contact is a sales meeting form (title, phone, company required, no message box); database blog is technical"
+Agora Real,agorareal.com,"No contact form on the contact page, only a support email; real estate finance software"
+ALLO,allo.xyz,No contact form found (no contact page; press page has only a small form) and no UAE address seen; crypto tokenization blog is off topic
+Anatomage,anatomage.com,"No blog found (only press release and news coverage pages); medical anatomy hardware, off topic"
+Animaker Inc.,animaker.com,"No contact form, only support portal and help email; DIY animation software so close to Motion own space"
+Anju Software,anjusoftware.com,"Life sciences clinical software; insights are clinical trial topics, off topic; no general contact form found at standard paths"
+AntWorks,ant.works,"Contact form did not render on the page so fields could not be confirmed; document processing vendor, HQ country unclear (teams across Asia, Europe, Americas)"
+AppLogic Networks,applogicnetworks.com,"Network traffic software (former Sandvine, HQ believed Waterloo, Canada); telecom technical content off topic; no contact form found at standard path"
+Robot Food,robot-food.com,"Bot check page ('One moment, please') blocks the site"
+Particular Audience,particularaudience.com,"Only form is a sales 'Talk to us' form (enterprise retail demo framing, optional message 'What are you looking to achieve?'); article is a short product opinion page"
+Hype,wearehype.co.uk,"Bot check page ('One moment, please') blocks the site"
+LaunchSquad,launchsquad.com,No usable dated article: blog posts render no date and no body text (given article is a values and culture post)
+Homebot,homebot.ai,"No contact form: contact page offers only a support email, book demo and a Chili Piper chat widget"
+Unlimit,unlimit.com,"Article is a payments product explainer (off topic); blog is all payments. Staff size likely high, unconfirmed"
+FastSpring,fastspring.com,"Contact page only routes to sales demo, seller support and buyer charge forms; article is an app monetisation and payments post (off topic)"
+Appsmith,appsmith.com,No general contact form (only sales email and a Chili Piper style booking)
+AppyWay,appyway.com,Cloudflare style bot check blocks the site
+Arcserve,arcserve.com,"Blog is a data protection and backup blog, off topic for video or design links; contact page is a Marketo sales/support form"
+Arize AI,arize.com,"Blog is all technical AI engineering and observability topics, off topic for video or design links; contact is a HubSpot sales style form"
+AssureCare,assurecare.com,"Healthcare population health software, contact form is a sales enquiry (organisation type, area of interest required) and no on topic blog found"
+Astra Tech,astratech.ae,Over 500 staff (brief is 11 to 500); corporate site with no blog
+Astronomer,astronomer.io,"Blog is data engineering and Airflow technical posts, off topic; contact form is Marketo sales style"
+Atomicwork,atomicwork.com,"Contact page is a Talk to our team sales form and blog is enterprise IT service management, off topic"
+Aurea,aurea.com,Blog is CRM product update posts (off topic) and no public contact form found at /contact
+Aurigo Software Technologies,aurigo.com,"Capital project software for government and infrastructure, contact form is a sales enquiry with many required fields and no on topic blog found"
+Avail,availproject.org,"Blockchain infrastructure project, no on topic blog found (blog path 404) and HQ in a target country not confirmed"
+Avathon,avathon.com,Contact page is a Book a demo form and no on topic blog found
+Avetta,avetta.com,"Contractor risk and safety compliance software, blog off topic and likely over 500 staff"
+Bayanat Smart Solutions,bayanat.ai,Site could not be loaded (navigation failed twice)
+Bectran,bectran.com,"No general contact page (contact paths 404) and blog is order to cash finance topics, off topic"
+Biconomy,biconomy.io,"Web3 infrastructure project, no contact form found and no on topic blog; HQ in target country not confirmed"
+BigID,bigid.com,"Data security and privacy blog, off topic for video or design links; company likely over 500 staff"
+Bik.ai,bik.ai,No contact form (only Book a demo and Talk to our experts) and blog is hosted on a different domain (blog.getmanifest.ai)
+Billtrust,billtrust.com,Over 500 staff (brief is 11 to 500); accounts receivable blog is off topic
+Abmatic AI,abmatic.ai,Contact page redirects to a demo booking page; no general contact form
+Blackbox Design,blackboxdesign.com.au,Site unreachable (connection timed out on domain and www)
+Create and Grow,createandgrow.com,No contact form (only an email signup box); public email only
+Donut,donut.com,No contact form on site; only a support help centre (help.donut.ai)
+Growth Gear,growthgear.com.au,No contact form; site is a business turnaround consultancy that only offers a Book Free Strategy Call (sales booking)
+Softomate Solutions,softomatesolutions.com,"Site shows 'Not available in your region'; could not verify form, article or location"
+The Logo Creative,thelogocreative.co.uk,Looks like a sponsored post and link seller: site has a Contribute & Advertise menu and the given article promotes Higgsfield's AI Video Generator
+Gem,gem.com,"Only sales inquiry and customer support routes, no general contact form"
+Weave,getweave.com,Over 500 staff (brief is 11 to 500)
+GRIN,grin.co,"Only a sales contact form (work email only, no message box)"
+GroundTruth,groundtruth.com,"Contact page is an advertiser sales form in a HubSpot iframe, fields not verifiable and no editorial or partnership route"
+GulfTalent,gulftalent.com,"Content is employment news and salary reports, off topic; form is a site feedback form with reCAPTCHA"
+Impact Analytics,impactanalytics.ai,"Contact form is a cross-origin HubSpot iframe framed as an AI strategy consultation (sales), fields not verifiable"
+IntegriChain,integrichain.com,"Pharma market access services, content unrelated to video or marketing; not checked in depth"
+iVend Retail,ivend.com,"Contact form is sales oriented (role and store count dropdowns, no honest option for partnership or media); POS blog off topic"
+Joveo,joveo.com,"Contact form has no message box (name, company, email, country, who are you looking for)"
+Kezana,kezana.net,One page site with no contact form and no blog
+Klenty,klenty.com,"No contact form with a message box, only demo or email capture forms and a chat widget"
+KUBRA,kubra.com,Over 500 staff (brief is 11 to 500)
+KX,kx.com,"Blog is all technical database, quant and capital markets AI posts, no on-topic article"
+Marigold,meetmarigold.com,"Only a sales form (required contact list size, job title, industry) with no message box"
+Narvar,narvar.com,"Contact us leads only to a demo request page, no general contact form"
+Netcall,netcall.com,"General enquiry form is a Marketo form that did not render on click, fields not verifiable; page only visible form is a newsletter signup"
+Click Marketing,clickmarketing.co.uk,Robot challenge screen blocks the site
+Demand Local,demandlocal.com,Only form is a sales lead form with no message box and a required Industry dropdown
+Get Found,get-found.co.uk,"No contact form with a message box; only a lead form (brand, name, email, phone) and public emails"
+inBeat Agency,inbeat.agency,"No contact form found (contact pages 404, only Calendly booking); given article is an agency listicle"
+Mean CEO,mean.ceo,"Guest posting platform led by a Europe-based founder, no contact form found, likely sells guest posts"
+Postiv AI,postiv.ai,"No contact form found (contact pages 404, only a help centre)"
+Shout Digital,shoutdigital.com.au,"Only forms are a free strategy call booking form (required phone, company website) with an optional message in a 2 step flow"
+Volusion,volusion.com,"No contact form; contact page lists support phone, chat and email only"
+Aero Business Solutions,aerobusinesssolutions.com,Not based in a target country (homepage title says Jayanagar Bangalore)
+Clear Two,cleartwo.co.uk,Site could not be loaded in the browser (navigation failed twice)
+CZone Star,czonestar.com,Only contact form is a sales enquiry with required Budget Range and Inquiry Type service dropdown
+Factors.ai,factors.ai,"No form with a message box: partners page form has only name, email, country and phone; other contact is sales@factors.ai demo flow"
+Hubilo,hubilo.com,"Domain now redirects to virtualpro.com (Brandlive, Portland); Hubilo blog and given ebook not available, event platform with demo-led contact"
+Pod Digital,poddigital.co.uk,Bot verification page blocks the site (Please wait while your request is being verified)
+Segwise,segwise.ai,No contact form; only a Book a Demo flow on the homepage
+Success Marketing,successmarketing.com.au,Site would not load in the browser (navigation failed and timed out)
+Visme,visme.com,Already in the ledger (queued in backlink-2026-09-23-b)
