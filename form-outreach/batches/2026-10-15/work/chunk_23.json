@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Archetype",
+  "webDomain": "archetype.co",
+  "country": "UK",
+  "serviceType": "Tech PR and communications agency",
+  "segment": "A",
+  "drFree": "60",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "FastJobs",
+  "webDomain": "fastjobs.sg",
+  "country": "SG",
+  "serviceType": "Recruitment tech",
+  "segment": "B",
+  "drFree": "51",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Taiger",
+  "webDomain": "taiger.com",
+  "country": "SG",
+  "serviceType": "AI document automation",
+  "segment": "B",
+  "drFree": "43",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "WIZ.AI",
+  "webDomain": "wiz.ai",
+  "country": "SG",
+  "serviceType": "Conversational AI SaaS",
+  "segment": "B",
+  "drFree": "52",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Cobo",
+  "webDomain": "cobo.com",
+  "country": "SG",
+  "serviceType": "Digital asset custody fintech",
+  "segment": "B",
+  "drFree": "69",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Matrixport",
+  "webDomain": "matrixport.com",
+  "country": "SG",
+  "serviceType": "Digital asset fintech",
+  "segment": "B",
+  "drFree": "56",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Coinhako",
+  "webDomain": "coinhako.com",
+  "country": "SG",
+  "serviceType": "Crypto fintech",
+  "segment": "B",
+  "drFree": "54",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Independent Reserve",
+  "webDomain": "independentreserve.com",
+  "country": "AU",
+  "serviceType": "Crypto fintech",
+  "segment": "B",
+  "drFree": "66",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "NodeFlair",
+  "webDomain": "nodeflair.com",
+  "country": "SG",
+  "serviceType": "Tech jobs and salary platform",
+  "segment": "B",
+  "drFree": "47",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "The Digital Picnic",
+  "webDomain": "thedigitalpicnic.com.au",
+  "country": "AU",
+  "serviceType": "Social media marketing agency and training",
+  "segment": "A",
+  "drFree": "40",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

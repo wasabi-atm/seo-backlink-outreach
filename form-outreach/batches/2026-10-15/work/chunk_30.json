@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "mParticle",
+  "webDomain": "mparticle.com",
+  "country": "US",
+  "serviceType": "Customer data platform",
+  "segment": "B",
+  "drFree": "76",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Preset",
+  "webDomain": "preset.io",
+  "country": "US",
+  "serviceType": "BI and analytics SaaS",
+  "segment": "B",
+  "drFree": "66",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Chronosphere",
+  "webDomain": "chronosphere.io",
+  "country": "US",
+  "serviceType": "Observability SaaS",
+  "segment": "B",
+  "drFree": "69",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "mabl",
+  "webDomain": "mabl.com",
+  "country": "US",
+  "serviceType": "Test automation SaaS",
+  "segment": "B",
+  "drFree": "71",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "FireHydrant",
+  "webDomain": "firehydrant.com",
+  "country": "US",
+  "serviceType": "Incident management SaaS",
+  "segment": "B",
+  "drFree": "72",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Kandji",
+  "webDomain": "kandji.io",
+  "country": "US",
+  "serviceType": "Apple device management SaaS",
+  "segment": "B",
+  "drFree": "73",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Addigy",
+  "webDomain": "addigy.com",
+  "country": "US",
+  "serviceType": "Apple device management SaaS",
+  "segment": "B",
+  "drFree": "67",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Productiv",
+  "webDomain": "productiv.com",
+  "country": "US",
+  "serviceType": "SaaS management platform",
+  "segment": "B",
+  "drFree": "73",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Tropic",
+  "webDomain": "tropicapp.io",
+  "country": "US",
+  "serviceType": "Procurement SaaS",
+  "segment": "B",
+  "drFree": "64",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Lightdash",
+  "webDomain": "lightdash.com",
+  "country": "UK",
+  "serviceType": "BI and analytics SaaS",
+  "segment": "B",
+  "drFree": "59",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Buildxact",
+  "webDomain": "buildxact.com",
+  "country": "AU",
+  "serviceType": "Construction estimating SaaS",
+  "segment": "B",
+  "drFree": "68",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Box+Dice",
+  "webDomain": "boxdice.com.au",
+  "country": "AU",
+  "serviceType": "Real estate CRM SaaS",
+  "segment": "B",
+  "drFree": "58",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "PropertyMe",
+  "webDomain": "propertyme.com.au",
+  "country": "AU",
+  "serviceType": "Property management SaaS",
+  "segment": "B",
+  "drFree": "63",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Different",
+  "webDomain": "different.com.au",
+  "country": "AU",
+  "serviceType": "Property management tech",
+  "segment": "B",
+  "drFree": "44",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Rounded",
+  "webDomain": "rounded.com.au",
+  "country": "AU",
+  "serviceType": "Invoicing and accounting SaaS",
+  "segment": "B",
+  "drFree": "44",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Zepto",
+  "webDomain": "zepto.com.au",
+  "country": "AU",
+  "serviceType": "Payments fintech",
+  "segment": "B",
+  "drFree": "45",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Monoova",
+  "webDomain": "monoova.com",
+  "country": "AU",
+  "serviceType": "Payments fintech",
+  "segment": "B",
+  "drFree": "59",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Athena Home Loans",
+  "webDomain": "athena.com.au",
+  "country": "AU",
+  "serviceType": "Home loan fintech",
+  "segment": "B",
+  "drFree": "47",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Driva",
+  "webDomain": "driva.com.au",
+  "country": "AU",
+  "serviceType": "Car finance fintech",
+  "segment": "B",
+  "drFree": "47",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Lumi",
+  "webDomain": "lumi.com.au",
+  "country": "AU",
+  "serviceType": "SME lending fintech",
+  "segment": "B",
+  "drFree": "57",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "incident.io",
+  "webDomain": "incident.io",
+  "country": "UK",
+  "serviceType": "Incident management SaaS",
+  "segment": "B",
+  "drFree": "84",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Grizzle",
+  "webDomain": "grizzle.io",
+  "country": "UK",
+  "serviceType": "B2B content marketing agency",
+  "segment": "A",
+  "drFree": "51",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Verb Brands",
+  "webDomain": "verbbrands.com",
+  "country": "UK",
+  "serviceType": "Content and digital PR agency",
+  "segment": "A",
+  "drFree": "50",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Flycast Media",
+  "webDomain": "flycastmedia.co.uk",
+  "country": "UK",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "47",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Fold7",
+  "webDomain": "fold7.com",
+  "country": "UK",
+  "serviceType": "Creative and brand agency",
+  "segment": "A",
+  "drFree": "40",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "TMW Unlimited",
+  "webDomain": "tmwunlimited.com",
+  "country": "UK",
+  "serviceType": "Creative and marketing agency",
+  "segment": "A",
+  "drFree": "58",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Emote Digital",
+  "webDomain": "emotedigital.com.au",
+  "country": "AU",
+  "serviceType": "B2B digital marketing agency",
+  "segment": "A",
+  "drFree": "44",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "AEK Media",
+  "webDomain": "aekmedia.com.au",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "50",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Opollo",
+  "webDomain": "opollo.com",
+  "country": "AU",
+  "serviceType": "Web design and development agency",
+  "segment": "A",
+  "drFree": "50",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Due North",
+  "webDomain": "duenorth.com.au",
+  "country": "AU",
+  "serviceType": "Brand and B2B marketing agency",
+  "segment": "A",
+  "drFree": "55",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

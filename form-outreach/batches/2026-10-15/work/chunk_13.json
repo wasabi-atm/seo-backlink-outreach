@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "This Is Distorted",
+  "webDomain": "thisisdistorted.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "no contact form found: /contact is 404 and homepage links show no contact page; also offers video po"
+ },
+ {
+  "companyName": "Solutionreach",
+  "webDomain": "solutionreach.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No contact form; contact page lists phone numbers only (form not verifiable)"
+ },
+ {
+  "companyName": "Copper",
+  "webDomain": "copper.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows email addresses only"
+ },
+ {
+  "companyName": "Keap",
+  "webDomain": "keap.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page offers phone, chat and a sales callback only"
+ },
+ {
+  "companyName": "Paystand",
+  "webDomain": "paystand.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows no visible fields"
+ },
+ {
+  "companyName": "Homebase",
+  "webDomain": "joinhomebase.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact is 404 and /contact-us renders only 'Loading' (JavaScript support port"
+ },
+ {
+  "companyName": "Kasasa",
+  "webDomain": "kasasa.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows phone and address only (sales-style institution outreach)"
+ },
+ {
+  "companyName": "Persona",
+  "webDomain": "withpersona.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Fetch blocked or timed out twice (/contact and /contact-us); form not verifiable"
+ },
+ {
+  "companyName": "Cofense",
+  "webDomain": "cofense.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows no visible fields, only a support email and addresses"
+ },
+ {
+  "companyName": "Stytch",
+  "webDomain": "stytch.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Only a 'Talk to sales' form with no visible fields; support and PR contact are email or Slack"
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Freetrade",
+  "webDomain": "freetrade.io",
+  "country": "UK",
+  "serviceType": "Investing fintech",
+  "segment": "B",
+  "drFree": "65",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Wealthify",
+  "webDomain": "wealthify.com",
+  "country": "UK",
+  "serviceType": "Investing fintech",
+  "segment": "B",
+  "drFree": "61",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Curve",
+  "webDomain": "curve.com",
+  "country": "UK",
+  "serviceType": "Fintech card platform",
+  "segment": "B",
+  "drFree": "71",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Zilch",
+  "webDomain": "zilch.com",
+  "country": "UK",
+  "serviceType": "BNPL fintech",
+  "segment": "B",
+  "drFree": "58",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "MarketFinance",
+  "webDomain": "marketfinance.com",
+  "country": "UK",
+  "serviceType": "SME lending fintech",
+  "segment": "B",
+  "drFree": "42",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Marshmallow",
+  "webDomain": "marshmallow.com",
+  "country": "UK",
+  "serviceType": "Insurtech",
+  "segment": "B",
+  "drFree": "54",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Cuvva",
+  "webDomain": "cuvva.com",
+  "country": "UK",
+  "serviceType": "Insurtech",
+  "segment": "B",
+  "drFree": "66",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Earnest",
+  "webDomain": "earnest-agency.com",
+  "country": "UK",
+  "serviceType": "B2B marketing agency",
+  "segment": "A",
+  "drFree": "55",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "DesignStudio",
+  "webDomain": "design.studio",
+  "country": "UK",
+  "serviceType": "Brand design studio",
+  "segment": "A",
+  "drFree": "71",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Podia",
+  "webDomain": "podia.com",
+  "country": "US",
+  "serviceType": "Creator platform SaaS",
+  "segment": "A",
+  "drFree": "86",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

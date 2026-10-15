@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "SavvyCal",
+  "webDomain": "savvycal.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact returns 404 and no contact page in homepage links"
+ },
+ {
+  "companyName": "Sigma Computing",
+  "webDomain": "sigmacomputing.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page text shows no visible fields, only help desk and community links"
+ },
+ {
+  "companyName": "Productboard",
+  "webDomain": "productboard.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact-us and /contact both returned 404"
+ },
+ {
+  "companyName": "dbt Labs",
+  "webDomain": "getdbt.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows only signup, pricing and support links"
+ },
+ {
+  "companyName": "HireVue",
+  "webDomain": "hirevue.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows only Loading form text with no field labels"
+ },
+ {
+  "companyName": "Fly.io",
+  "webDomain": "fly.io",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact returned empty content"
+ },
+ {
+  "companyName": "Netlify",
+  "webDomain": "netlify.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page only links to sales, support and partner programmes with no visibl"
+ },
+ {
+  "companyName": "Dashlane",
+  "webDomain": "dashlane.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact returned 404"
+ },
+ {
+  "companyName": "Jumio",
+  "webDomain": "jumio.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; press and partnership pages show no visible fields in page text"
+ },
+ {
+  "companyName": "Sift",
+  "webDomain": "sift.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows a Submit Your Request heading but no field labels"
+ }
+]

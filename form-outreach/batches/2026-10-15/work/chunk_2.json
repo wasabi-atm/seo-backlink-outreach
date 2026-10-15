@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Everlab",
+  "webDomain": "everlab.com.au",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: /contact returns 404, only support email shown"
+ },
+ {
+  "companyName": "Fathom",
+  "webDomain": "fathomhq.com",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page lists emails and phones only"
+ },
+ {
+  "companyName": "Lawpath",
+  "webDomain": "lawpath.com.au",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: /contact returns 404"
+ },
+ {
+  "companyName": "OpenLearning",
+  "webDomain": "openlearning.com",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page is a chat widget only"
+ },
+ {
+  "companyName": "Mantel Group",
+  "webDomain": "mantelgroup.com.au",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page says to use the form but no fields are visible"
+ },
+ {
+  "companyName": "Buildkite",
+  "webDomain": "buildkite.com",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows a heading only, no visible fields"
+ },
+ {
+  "companyName": "Edstart",
+  "webDomain": "edstart.com.au",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: /contact returns 404 and no other contact page found"
+ },
+ {
+  "companyName": "Novatti",
+  "webDomain": "novatti.com",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: /contact returns 404 and no other contact page found"
+ },
+ {
+  "companyName": "Reech",
+  "webDomain": "reech.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Not based in UK/US/UAE/Australia/Singapore: French language influencer agency, /contact returns 404"
+ },
+ {
+  "companyName": "Leadgenera",
+  "webDomain": "leadgenera.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Page could not be fetched: three fetch attempts returned no content"
+ }
+]

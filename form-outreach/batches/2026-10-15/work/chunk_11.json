@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Sierra Six Media",
+  "webDomain": "sierrasixmedia.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows offices and a discovery call link, no visible form fields"
+ },
+ {
+  "companyName": "Fat Cow Media",
+  "webDomain": "fatcowmedia.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page text mentions a form but shows no field labels"
+ },
+ {
+  "companyName": "Odyssey New Media",
+  "webDomain": "odysseynewmedia.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site could not be fetched (three fetch attempts failed)"
+ },
+ {
+  "companyName": "The Social Element",
+  "webDomain": "thesocialelement.agency",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows only a 'let's talk' button and a press email"
+ },
+ {
+  "companyName": "Content Factory",
+  "webDomain": "contentfac.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows a message counter and 'I am a' options but no name or email "
+ },
+ {
+  "companyName": "Mantis Research",
+  "webDomain": "mantisresearch.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: page text shows no field labels, and the form leads straight to a calendar book"
+ },
+ {
+  "companyName": "Convince and Convert",
+  "webDomain": "convinceandconvert.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: page says to fill out the form but no field labels are visible"
+ },
+ {
+  "companyName": "Draft.dev",
+  "webDomain": "draft.dev",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No contact form: /contact is a 404 and the site only offers a discovery call booking"
+ },
+ {
+  "companyName": "AIIMS Group",
+  "webDomain": "aiims.group",
+  "country": "UAE",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact form is a sales lead form (phone required, pick services); general enquiry form not verifiab"
+ },
+ {
+  "companyName": "The Digital Ring",
+  "webDomain": "thedigitalring.com",
+  "country": "UAE",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page shows no visible fields); button says Get a Quote"
+ }
+]

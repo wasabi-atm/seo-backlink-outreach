@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Nektar.ai",
+  "webDomain": "nektar.ai",
+  "country": "SG",
+  "serviceType": "Sales AI SaaS",
+  "segment": "B",
+  "drFree": "49",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Omni HR",
+  "webDomain": "omnihr.co",
+  "country": "SG",
+  "serviceType": "HR software",
+  "segment": "B",
+  "drFree": "55",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Silent Eight",
+  "webDomain": "silenteight.com",
+  "country": "SG",
+  "serviceType": "AI compliance SaaS",
+  "segment": "B",
+  "drFree": "54",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "watchTowr",
+  "webDomain": "watchtowr.com",
+  "country": "SG",
+  "serviceType": "Cybersecurity SaaS",
+  "segment": "B",
+  "drFree": "73",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Wiise",
+  "webDomain": "wiise.com",
+  "country": "AU",
+  "serviceType": "Cloud ERP and accounting SaaS",
+  "segment": "B",
+  "drFree": "42",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "ezyCollect",
+  "webDomain": "ezycollect.io",
+  "country": "AU",
+  "serviceType": "Accounts receivable SaaS",
+  "segment": "B",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Cascade",
+  "webDomain": "cascade.app",
+  "country": "AU",
+  "serviceType": "Strategy execution SaaS",
+  "segment": "B",
+  "drFree": "70",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Drawboard",
+  "webDomain": "drawboard.com",
+  "country": "AU",
+  "serviceType": "AEC collaboration SaaS",
+  "segment": "B",
+  "drFree": "54",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "XY Sense",
+  "webDomain": "xysense.com",
+  "country": "AU",
+  "serviceType": "Workplace analytics SaaS",
+  "segment": "B",
+  "drFree": "58",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Blinq",
+  "webDomain": "blinq.me",
+  "country": "AU",
+  "serviceType": "Digital business card platform",
+  "segment": "A",
+  "drFree": "80",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

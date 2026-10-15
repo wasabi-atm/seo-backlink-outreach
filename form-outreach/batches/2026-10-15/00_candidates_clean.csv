@@ -1,0 +1,152 @@
+companyName,webDomain,country,segment,source,articleUrl,note
+Hyperproof,hyperproof.io,US,B,spare1013,https://hyperproof.io/resource/hyperproof-brand-refresh-2023/,
+Hype,wearehype.co.uk,UK,A,spare1013,https://wearehype.co.uk/blog/social-media-agency-edinburgh-strategy-guide/,
+Tanda,tanda.co,AU,B,recheck1014,,Form not verifiable: /contact-us 404 and site nav only offers see-tanda demo booking
+Mable,mable.com.au,AU,B,recheck1014,,Form not verifiable: contact page mentions an enquiry form but no fields are visible
+Everlab,everlab.com.au,AU,B,recheck1014,,"Form not verifiable: /contact returns 404, only support email shown"
+Fathom,fathomhq.com,AU,B,recheck1014,,Form not verifiable: contact page lists emails and phones only
+Lawpath,lawpath.com.au,AU,B,recheck1014,,Form not verifiable: /contact returns 404
+OpenLearning,openlearning.com,AU,B,recheck1014,,Form not verifiable: contact page is a chat widget only
+Mantel Group,mantelgroup.com.au,AU,B,recheck1014,,Form not verifiable: contact page says to use the form but no fields are visible
+Buildkite,buildkite.com,AU,B,recheck1014,,"Form not verifiable: contact page shows a heading only, no visible fields"
+Edstart,edstart.com.au,AU,B,recheck1014,,Form not verifiable: /contact returns 404 and no other contact page found
+Novatti,novatti.com,AU,B,recheck1014,,Form not verifiable: /contact returns 404 and no other contact page found
+Reech,reech.com,UK,A,recheck1014,,"Not based in UK/US/UAE/Australia/Singapore: French language influencer agency, /contact returns 404"
+Leadgenera,leadgenera.com,UK,A,recheck1014,,Page could not be fetched: three fetch attempts returned no content
+Loop Digital,loop-digital.co.uk,UK,A,recheck1014,,Page could not be fetched: /contact is 404 and /contact-us/ fetch failed twice
+Inbox Insight,inboxinsight.com,UK,A,recheck1014,,Page could not be fetched: two fetch attempts returned no content
+ADVANCE.AI,advance.ai,SG,B,recheck1014,,"Form not verifiable: contact page lists only email addresses, no form"
+Vase.ai,vase.ai,SG,B,recheck1014,,Form not verifiable: contact page is titled Contact Sales and shows no visible form fields
+Near,near.co,SG,B,recheck1014,,Fetch failed: contact page returned empty content and homepage fetch returned no items
+MediaOne,mediaone.sg,SG,A,recheck1014,https://mediaone.sg/ai-powered-marketing-funnels-explained/,"Unsure: only form is a free audit lead form, /blog 404, and the few posts are thin template text wit"
+Statsig,statsig.com,US,B,recheck1014,,Form not verifiable; contact page shows only a Talk to Sales route and no visible fields
+Canny,canny.io,US,B,recheck1014,,Form not verifiable; /contact returns 404 and homepage links only to request-demo
+Lookback,lookback.com,US,B,recheck1014,,"Form not verifiable; /contact returns 404, only demo calendar and help centre linked"
+Respondent,respondent.io,US,B,recheck1014,,Form not verifiable; only Talk to sales and book-demo routes found
+SavvyCal,savvycal.com,US,B,recheck1014,,Form not verifiable; /contact returns 404 and no contact page in homepage links
+Sigma Computing,sigmacomputing.com,US,B,recheck1014,,"Form not verifiable; contact page text shows no visible fields, only help desk and community links"
+Productboard,productboard.com,US,B,recheck1014,,Form not verifiable; /contact-us and /contact both returned 404
+dbt Labs,getdbt.com,US,B,recheck1014,,"Form not verifiable; contact page shows only signup, pricing and support links"
+HireVue,hirevue.com,US,B,recheck1014,,Form not verifiable; contact page shows only Loading form text with no field labels
+Fly.io,fly.io,US,B,recheck1014,,Form not verifiable; /contact returned empty content
+Netlify,netlify.com,US,B,recheck1014,,"Form not verifiable; contact page only links to sales, support and partner programmes with no visibl"
+Dashlane,dashlane.com,US,B,recheck1014,,Form not verifiable; /contact returned 404
+Jumio,jumio.com,US,B,recheck1014,,Form not verifiable; press and partnership pages show no visible fields in page text
+Sift,sift.com,US,B,recheck1014,,Form not verifiable; contact page shows a Submit Your Request heading but no field labels
+Basecamp,basecamp.com,US,B,recheck1014,,Form not verifiable; /contact shows only a founder story with an email address
+Rewardful,rewardful.com,US,B,recheck1014,,"Fetch failed on /contact (timeout), so no form could be verified"
+Richpanel,richpanel.com,US,B,recheck1014,,Form not verifiable; contact page is a sales and demo pitch with no visible fields
+ClickDo,clickdo.co.uk,UK,B,recheck1014,,"Form not verifiable (only a budget dropdown visible, no field labels or message box in page text)"
+Property Monitor,propertymonitor.com,UAE,B,recheck1014,,Site fetch failed twice (Apify run failed)
+Okadoc,okadoc.com,UAE,B,recheck1014,,"Form not verifiable: contact page shows only a 'Submit Form' button and help centre links, no visibl"
+Octopus Deploy,octopus.com,AU,B,recheck1014,,"Form not verifiable: contact page lists only sales, finance and support email addresses, no form"
+Lorikeet,lorikeetcx.ai,AU,B,recheck1014,,Form not verifiable: partner page shows only a Submit button with no visible field labels
+NuOptima,nuoptima.com,UAE,B,recheck1014,,"Site fetch failed on several attempts (home, contact and blog runs failed or timed out)"
+Groove,groovehq.com,US,B,recheck1014,,"Form not verifiable (no contact page found; /contact and /contact-us return 404, homepage only offer"
+Missive,missiveapp.com,US,B,recheck1014,,Form not verifiable (Contact link is a mailto address only; /contact returns 404)
+Qualified,qualified.com,US,B,recheck1014,,"Form not verifiable; site is now Salesforce owned and contact links go to salesforce.com, /contact r"
+Terminus,terminus.com,US,B,recheck1014,,"Form not verifiable (contact page shows no visible form fields); site is now DemandScience, a lead g"
+RollWorks,rollworks.com,US,B,recheck1014,,"Form not verifiable (no contact, partner or press form linked; only demo request and signup)"
+Uberflip,uberflip.com,US,B,recheck1014,,"Form not verifiable (contact page lists email, phone and address only, no form fields)"
+Bevy,bevy.com,US,B,recheck1014,,"Form not verifiable (no contact, partner or press page linked; only book a demo and a HubSpot form l"
+Unify,unify.com,US,B,recheck1014,,"Site fetch blocked or timed out (homepage and /contact both ran over 30 seconds with no output), for"
+Leadfeeder,leadfeeder.com,US,B,recheck1014,,"Form not verifiable (contact page lists emails only); company is Dealfront, based in Germany and Fin"
+Swipe Pages,swipepages.com,US,B,recheck1014,,"No contact form found (/contact returns 404; no contact, partner or press page linked; only a career"
+Hello Bar,hellobar.com,US,B,recheck1014,,"Form not verifiable (contact page only has a Submit your request button, chat and support email; no "
+Bluecore,bluecore.com,US,B,recheck1014,,Only contact route is a Talk to us sales page with no visible form fields (form not verifiable); com
+Skale,skale.so,US,A,recheck1014,,Form not verifiable
+MarketerHire,marketerhire.com,US,A,recheck1014,,No general contact form found (/contact returns 404; hiring marketplace)
+Micky Weis,mickyweis.com,UAE,A,recheck1014,,"Danish-language site, not based in UK/US/UAE; /contact returns 404"
+SEO Tech Experts,seotechexperts.com,UAE,A,recheck1014,,"Contact page not found (404); HQ appears to be India with a Dubai business-centre address, not a rea"
+Incrementors,incrementors.com,UAE,A,recheck1014,,Form not verifiable (Send Us a Message heading but no field labels visible); mainly India and US off
+Brightery,brightery.com,UAE,A,recheck1014,,Contact page not found (404 at /en/contact-us); no form seen
+Pitchbox,pitchbox.com,US,A,recheck1014,,No contact form: /contact returns 404 and homepage offers only demo booking
+Webbiquity,webbiquity.com,US,A,recheck1014,,Contact page returns 404 and the 404 page carries injected casino spam links (possible hacked or lin
+Social SEO,socialseo.com,US,A,recheck1014,,Form not verifiable: contact page shows no field labels
+Outsmart Labs,outsmartlabs.com,US,A,recheck1014,,Form not verifiable: contact page returned no visible content
+DemandJump,demandjump.com,US,A,recheck1014,,"Site could not be fetched (two timeouts after 120s), so form not verifiable"
+CosmoLex,cosmolex.com,US,B,recheck1014,,Form not verifiable (Request More Information form shows no visible fields)
+Learning Pool,learningpool.com,UK,B,recheck1014,,Form not verifiable (page says fill in the form but no fields visible)
+Hive Learning,hivelearning.com,UK,B,recheck1014,,Form not verifiable (mentions request a demo and general inquiry options but no fields visible)
+Peak AI,peak.ai,UK,B,recheck1014,,Form not verifiable (Write to us heading but no fields visible)
+Lumi,lumiglobal.com,UK,B,recheck1014,,Form not verifiable (Share a few details below but no fields visible); enquiry form routes to sales 
+Tractable,tractable.ai,UK,B,recheck1014,,No contact form; /contact is 404 and press page lists emails only
+Mind the Product,mindtheproduct.com,UK,B,recheck1014,,Contact page not found (/contact and /contact-us both 404)
+Bidstack,bidstack.com,UK,B,recheck1014,,Contact page not found (/contact 404)
+HireHive,hirehive.com,UK,B,recheck1014,,Contact page not found (/contact and /contact-us both 404); only Book a demo offered
+Railsr,railsr.com,UK,B,recheck1014,,Contact page not found (/contact and /contact-us both 404)
+Applied,beapplied.com,UK,B,recheck1014,,Form not verifiable (contact pages returned an empty page with no visible content)
+Sonocent,sonocent.com,UK,B,recheck1014,,Contact page not found (/contact 404; /contact-us fetch returned nothing)
+Receptive,receptive.io,UK,B,recheck1014,,Fetch failed or timed out twice (/contact and homepage returned nothing); form not verifiable
+Branded3,branded3.com,UK,A,recheck1014,,"Site fetch failed twice (timeout/blocked), could not verify form or article"
+Four Communications,fourcommunications.com,UK,A,recheck1014,,"Form not verifiable (page shows only Send us a message heading, no visible fields)"
+Reading Room,readingroom.com,UK,A,recheck1014,,"Site fetch failed twice (timeout/blocked), could not verify form or article"
+Bespoke Digital,bespokedigital.agency,UK,A,recheck1014,,"Form not verifiable (contact page shows email, phone and call back request only, no visible fields)"
+Redeye,redeye.com,UK,A,recheck1014,,Form not verifiable (General enquiries page shows the heading but no field labels); also acquired by
+ResponseTap,responsetap.com,UK,A,recheck1014,,"Form not verifiable; ResponseTap is now part of Infinity (contact page redirects to marketing page, "
+Ruler Analytics,ruleranalytics.com,UK,A,recheck1014,,"Form not verifiable (contact page shows phone, address and demo link only)"
+Intergage,intergage.co.uk,UK,A,recheck1014,,No blog or articles found (/blog is 404 and sitemap lists only service pages)
+Strategic IC,strategic-ic.co.uk,UK,A,recheck1014,,"Site fetch failed twice (timeout/blocked), could not verify form or article"
+Prezzee,prezzee.com,AU,B,recheck1014,,Form not verifiable (only customer support ticket portal)
+Hireup,hireup.com.au,AU,B,recheck1014,,Form not verifiable (contact page returned no visible content)
+LiveTiles,livetiles.nyc,AU,B,recheck1014,,Fetch did not complete (page blocked or timed out)
+Gordon Digital,gordondigital.com.au,AU,A,recheck1014,,Site fetch failed twice (blocked or unreachable)
+Stein IAS,steinb2b.com,UK,A,recheck1014,,"Form not verifiable: contact page shows only emails and phone numbers, no form"
+Embryo Digital,embryodigital.co.uk,UK,A,recheck1014,,"Form not verifiable: contact page shows only address, email and phone"
+Sierra Six Media,sierrasixmedia.co.uk,UK,A,recheck1014,,"Form not verifiable: contact page shows offices and a discovery call link, no visible form fields"
+Fat Cow Media,fatcowmedia.co.uk,UK,A,recheck1014,,Form not verifiable: contact page text mentions a form but shows no field labels
+Odyssey New Media,odysseynewmedia.com,UK,A,recheck1014,,Site could not be fetched (three fetch attempts failed)
+The Social Element,thesocialelement.agency,UK,A,recheck1014,,Form not verifiable: contact page shows only a 'let's talk' button and a press email
+Content Factory,contentfac.com,US,A,recheck1014,,Form not verifiable: contact page shows a message counter and 'I am a' options but no name or email 
+Mantis Research,mantisresearch.com,US,A,recheck1014,,"Form not verifiable: page text shows no field labels, and the form leads straight to a calendar book"
+Convince and Convert,convinceandconvert.com,US,A,recheck1014,,Form not verifiable: page says to fill out the form but no field labels are visible
+Draft.dev,draft.dev,US,A,recheck1014,,No contact form: /contact is a 404 and the site only offers a discovery call booking
+AIIMS Group,aiims.group,UAE,A,recheck1014,,"Contact form is a sales lead form (phone required, pick services); general enquiry form not verifiab"
+The Digital Ring,thedigitalring.com,UAE,A,recheck1014,,Form not verifiable (contact page shows no visible fields); button says Get a Quote
+Naseej,naseej.com,UAE,A,recheck1014,,"Not a marketing agency (education and library IT vendor, Saudi focus); /contact is 404 and no form f"
+GuideCX,guidecx.com,US,B,recheck1014,,No general contact form found; /contact is 404 and site only offers a demo request
+WorkRamp,workramp.com,US,B,recheck1014,,"Form not verifiable; site now redirects to Confirm (Learning Pool group), contact page shows a sales"
+Bray Leino,brayleino.co.uk,UK,A,recheck1014,,form not verifiable: contact page shows only email addresses and phone
+Solvid,solvid.co.uk,UK,A,recheck1014,,site could not be fetched (fetch failed twice)
+Zazzle Media,zazzlemedia.co.uk,UK,A,recheck1014,,form not verifiable: contact page mentions a form but no field labels visible
+Greenlight Digital,greenlightdigital.com,UK,A,recheck1014,,"domain now serves Brave Bison, a multi-brand media group; contact URL returned the homepage with no "
+Wolff Olins,wolffolins.com,UK,A,recheck1014,,"form not verifiable: contact page lists emails only, no form"
+Made by Many,madebymany.com,UK,A,recheck1014,,no dated on-topic article: insights pages show no visible dates and the one brand-building post is a
+Audioboom,audioboom.com,UK,A,recheck1014,,"no general contact form (/contact is 404, only support and advertiser pages) and blog is hosted on M"
+This Is Distorted,thisisdistorted.com,UK,A,recheck1014,,no contact form found: /contact is 404 and homepage links show no contact page; also offers video po
+Solutionreach,solutionreach.com,US,B,recheck1014,,No contact form; contact page lists phone numbers only (form not verifiable)
+Copper,copper.com,US,B,recheck1014,,Form not verifiable; contact page shows email addresses only
+Keap,keap.com,US,B,recheck1014,,"Form not verifiable; contact page offers phone, chat and a sales callback only"
+Paystand,paystand.com,US,B,recheck1014,,Form not verifiable; contact page shows no visible fields
+Homebase,joinhomebase.com,US,B,recheck1014,,Form not verifiable; /contact is 404 and /contact-us renders only 'Loading' (JavaScript support port
+Kasasa,kasasa.com,US,B,recheck1014,,Form not verifiable; contact page shows phone and address only (sales-style institution outreach)
+Persona,withpersona.com,US,B,recheck1014,,Fetch blocked or timed out twice (/contact and /contact-us); form not verifiable
+Cofense,cofense.com,US,B,recheck1014,,"Form not verifiable; contact page shows no visible fields, only a support email and addresses"
+Stytch,stytch.com,US,B,recheck1014,,Only a 'Talk to sales' form with no visible fields; support and PR contact are email or Slack
+FusionAuth,fusionauth.io,US,B,recheck1014,,Form not verifiable; contact page is a sales/demo pitch with no visible field labels
+Hasura,hasura.io,US,B,recheck1014,,"Form not verifiable; contact page shows no visible field labels (pricing, demo and support enquiries"
+Square 2 Marketing,square2marketing.com,US,A,recheck1014,,Form not verifiable: /contact redirects to Brickwork services page with discovery call link only
+SeeResponse,seeresponse.com,US,A,recheck1014,,Form not verifiable: contact and write-for-us pages show headings but no visible form field labels
+Cleverly,cleverly.co,US,A,recheck1014,,"Form not verifiable: /contact is a 404, only email and phone in footer"
+Spear Marketing Group,spearmarketing.com,US,A,recheck1014,,Form not verifiable: contact page is a consultation booking with no visible field labels
+Marketbridge,marketbridge.com,US,A,recheck1014,,Form not verifiable: contact page shows required-fields note and offices but no visible field labels
+Roketto,helloroketto.com,US,A,recheck1014,,"Form not verifiable: domain now Sovyn, contact page shows address, phone and email only"
+Major Tom,majortom.com,US,A,recheck1014,,Form not verifiable: contact page shows heading Start your mission but no field labels
+The Creative Momentum,thecreativemomentum.com,US,A,recheck1014,,Form not verifiable: /contact is a 404 and /contact-us failed to load
+GTM 80/20,gtm8020.com,US,A,recheck1014,,Form not verifiable: /contact and /contact-us are both 404
+Unlimit,unlimit.com,,B,leftover:backlink-2026-10-13,https://www.unlimit.com/blog/payments/ways-to-pay-payment-by-links/,
+FastSpring,fastspring.com,,B,leftover:backlink-2026-10-13,https://fastspring.com/blog/direct-monetization-strategies-for-subscription-mobile-apps-in-2026-and-beyond/,
+PubNub,pubnub.com,,B,leftover:backlink-2026-10-13,https://www.pubnub.com/blog/the-ultimate-guide-to-fandom-engagement-in-2026/,
+Onspring,onspring.com,,B,leftover:backlink-2026-10-13,https://onspring.com/resources/blog/how-grc-workflow-automation-helps-compliance-teams-adapt-faster/,
+SimplePractice,simplepractice.com,,B,leftover:backlink-2026-10-13,https://www.simplepractice.com/blog/objective-content-therapy-notes/,
+Ordergroove,ordergroove.com,,B,leftover:backlink-2026-10-13,https://www.ordergroove.com/blog/from-cancel-to-keep-best-practices-that-retain-subscribers/,
+Mezmo,mezmo.com,,B,leftover:backlink-2026-10-13,https://www.mezmo.com/blog/from-alert-to-answer-a-hands-on-investigation-with-trace-analysis-in-mezmo,
+Tenable,tenable.com,,B,leftover:backlink-2026-10-13,https://www.tenable.com/blog/how-agentic-harness-works-tenable-hexa-ai,
+UiPath,uipath.com,,B,leftover:backlink-2026-10-13,https://www.uipath.com/blog/product-and-updates/map-of-work-uipath-cartographer,
+Veritone,veritone.com,,B,leftover:backlink-2026-10-13,https://www.veritone.com/blog/a-complete-guide-to-tv-advertising-in-2025-and-beyond/,
+Userled,userled.io,,B,leftover:backlink-2026-10-13,https://www.userled.io/articles/what-is-ai-native-abm,
+Sisense,sisense.com,,B,leftover:backlink-2026-10-13,https://www.sisense.com/blog/unified-data-analytics-platform-guide/,
+Trademo,trademo.com,,B,leftover:backlink-2026-10-13,https://www.trademo.com/blog/restricted-party-screening-step-by-step,
+Juicebox,juicebox.ai,,B,leftover:backlink-2026-10-13,https://juicebox.ai/blog/recruiter-email-templates,
+Wazuh,wazuh.com,,B,leftover:backlink-2026-10-13,https://wazuh.com/blog/detecting-aws-access-key-compromise-with-wazuh/,
+Pixability,pixability.com,,A,leftover:backlink-2026-10-13,https://www.pixability.com/youtube/brand-lift-studies-what-they-are-and-why-they-matter/,

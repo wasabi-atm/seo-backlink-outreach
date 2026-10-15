@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "GrabJobs",
+  "webDomain": "grabjobs.co",
+  "country": "SG",
+  "serviceType": "Recruitment tech",
+  "segment": "B",
+  "drFree": "51",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Multiplier",
+  "webDomain": "usemultiplier.com",
+  "country": "SG",
+  "serviceType": "EOR and HR tech SaaS",
+  "segment": "B",
+  "drFree": "69",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Thunes",
+  "webDomain": "thunes.com",
+  "country": "SG",
+  "serviceType": "Payments fintech",
+  "segment": "B",
+  "drFree": "72",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Ghost",
+  "webDomain": "ghost.org",
+  "country": "SG",
+  "serviceType": "Publishing and newsletter platform",
+  "segment": "A",
+  "drFree": "92",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "me&u",
+  "webDomain": "meandu.com",
+  "country": "AU",
+  "serviceType": "Hospitality ordering SaaS",
+  "segment": "B",
+  "drFree": "70",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Workforce.com",
+  "webDomain": "workforce.com",
+  "country": "AU",
+  "serviceType": "Workforce management SaaS",
+  "segment": "B",
+  "drFree": "76",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Martian Logic",
+  "webDomain": "martianlogic.com",
+  "country": "AU",
+  "serviceType": "Recruitment and HR SaaS",
+  "segment": "B",
+  "drFree": "71",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Enboarder",
+  "webDomain": "enboarder.com",
+  "country": "AU",
+  "serviceType": "Employee onboarding SaaS",
+  "segment": "B",
+  "drFree": "72",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "PageUp",
+  "webDomain": "pageuppeople.com",
+  "country": "AU",
+  "serviceType": "Talent management SaaS",
+  "segment": "B",
+  "drFree": "79",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Ezypay",
+  "webDomain": "ezypay.com",
+  "country": "AU",
+  "serviceType": "Subscription payments fintech",
+  "segment": "B",
+  "drFree": "55",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

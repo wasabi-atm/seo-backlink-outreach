@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Missive",
+  "webDomain": "missiveapp.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (Contact link is a mailto address only; /contact returns 404)"
+ },
+ {
+  "companyName": "Qualified",
+  "webDomain": "qualified.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; site is now Salesforce owned and contact links go to salesforce.com, /contact r"
+ },
+ {
+  "companyName": "Terminus",
+  "webDomain": "terminus.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page shows no visible form fields); site is now DemandScience, a lead g"
+ },
+ {
+  "companyName": "RollWorks",
+  "webDomain": "rollworks.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (no contact, partner or press form linked; only demo request and signup)"
+ },
+ {
+  "companyName": "Uberflip",
+  "webDomain": "uberflip.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page lists email, phone and address only, no form fields)"
+ },
+ {
+  "companyName": "Bevy",
+  "webDomain": "bevy.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (no contact, partner or press page linked; only book a demo and a HubSpot form l"
+ },
+ {
+  "companyName": "Unify",
+  "webDomain": "unify.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site fetch blocked or timed out (homepage and /contact both ran over 30 seconds with no output), for"
+ },
+ {
+  "companyName": "Leadfeeder",
+  "webDomain": "leadfeeder.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page lists emails only); company is Dealfront, based in Germany and Fin"
+ },
+ {
+  "companyName": "Swipe Pages",
+  "webDomain": "swipepages.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No contact form found (/contact returns 404; no contact, partner or press page linked; only a career"
+ },
+ {
+  "companyName": "Hello Bar",
+  "webDomain": "hellobar.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page only has a Submit your request button, chat and support email; no "
+ }
+]
