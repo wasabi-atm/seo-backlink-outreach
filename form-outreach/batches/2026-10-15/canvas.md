@@ -939,32 +939,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 40. Cloud Campaign
-
-- [ ] Submitted
-- **Form:** [https://www.cloudcampaign.com/contact](https://www.cloudcampaign.com/contact)
-- **Before submit:** Also fill in: Phone is required: +44 2039847787; Subject required. Tick the CAPTCHA box yourself.
-- **Subject:** a quote for your video ads vs boosting post
-
-```
-Hey Cloud Campaign team,
-
-Just read your piece "Social Media Video Ads vs. Boosting Organic Content" (https://www.cloudcampaign.com/blog/social-media-video-ads-vs-boosting-organic-content). The Hybrid Advantage section says dedicated video ads make sense for a launch or seasonal promotion, but stops before saying what a good one looks like.
-
-I run a motion studio. Happy to swap founder quotes: one from me for your "The Hybrid Advantage" section, and one from you for ours.
-
-In return, a credit link back to motiontheagency.com with my quote, and one to yours with your quote on ours, or we'll pay for placement instead.
-
-Would you be open to exploring this?
-
-Cheers,
-Sam
-Founder @ Motion The Agency
-```
-
----
-
-## 41. netStripes
+## 40. netStripes
 
 - [ ] Submitted
 - **Form:** [https://netstripes.com/contact/](https://netstripes.com/contact/)
@@ -988,7 +963,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 42. Digital Presence
+## 41. Digital Presence
 
 - [ ] Submitted
 - **Form:** [https://www.digitalpresence.com.au/contact-us/](https://www.digitalpresence.com.au/contact-us/)
@@ -1012,7 +987,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 43. Online Road
+## 42. Online Road
 
 - [ ] Submitted
 - **Form:** [https://onlineroad.com.au/contact/](https://onlineroad.com.au/contact/)
@@ -1036,7 +1011,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 44. Wise Up Marketing
+## 43. Wise Up Marketing
 
 - [ ] Submitted
 - **Form:** [https://wiseupmarketing.com.au/contact/](https://wiseupmarketing.com.au/contact/)
@@ -1060,7 +1035,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 45. Reef Digital
+## 44. Reef Digital
 
 - [ ] Submitted
 - **Form:** [https://reefdigital.com.au/get-in-touch/](https://reefdigital.com.au/get-in-touch/)
@@ -1084,7 +1059,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 46. Q Agency
+## 45. Q Agency
 
 - [ ] Submitted
 - **Form:** [https://www.qagency.com.au/contact-us/](https://www.qagency.com.au/contact-us/)
@@ -1108,7 +1083,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 47. webqem
+## 46. webqem
 
 - [ ] Submitted
 - **Form:** [https://webqem.com/contact](https://webqem.com/contact)
@@ -1132,7 +1107,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 48. Zanda
+## 47. Zanda
 
 - [ ] Submitted
 - **Form:** [https://zandahealth.com/become-a-partner/](https://zandahealth.com/become-a-partner/)
@@ -1156,7 +1131,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 49. Onspring
+## 48. Onspring
 
 - [ ] Submitted
 - **Form:** [https://onspring.com/contact-us/](https://onspring.com/contact-us/)
@@ -1180,7 +1155,7 @@ Founder @ Motion The Agency
 
 ---
 
-## 50. Richpanel
+## 49. Richpanel
 
 - [ ] Submitted
 - **Form:** [https://www.richpanel.com/partners](https://www.richpanel.com/partners)
@@ -1204,6 +1179,30 @@ Founder @ Motion The Agency
 
 ---
 
+## 50. Preset
+
+- [ ] Submitted
+- **Form:** [https://preset.io/contact/](https://preset.io/contact/)
+- **Before submit:** Nothing extra
+
+```
+Hey Preset team,
+
+Just read your piece "Mastering Marketing Analytics with Marketing Dashboards" (https://preset.io/blog/mastering-marketing-analytics-with-marketing-dashboards/). The "Top 7 Marketing Dashboard Examples" section covers social and content dashboards, yet the 2,168 word post never mentions video metrics such as views or watch time.
+
+I run a motion studio. Happy to design a clean diagram of a marketing dashboard layout for the "Top 7 Marketing Dashboard Examples" section, free.
+
+In return, just a credit link back to motiontheagency.com, or we'll pay for placement instead.
+
+Would you be open to exploring this?
+
+Cheers,
+Sam
+Founder @ Motion The Agency
+```
+
+---
+
 ## Left out
 
 Not in today's list. Say if any should go in a later batch. The full list of all 412, with reasons and any public email, is in form-outreach/batches/2026-10-15/07_left_out.csv in the repo.
@@ -1214,7 +1213,6 @@ Not in today's list. Say if any should go in a later batch. The full list of all
 - **Hive Learning** (hivelearning.com): blog has had no new posts since late 2024 (DR 58); spare for a later batch
 - **Redeye** (redeye.com): blog dormant since February 2025 and the article is about email, not video or content (DR 66); spare for a later batch
 - **Zeroseven** (zeroseven.com.au): article is about UX design, a weaker fit, and the form has an 800 character limit (DR 44); spare for a later batch
-- **Preset** (preset.io): weaker hook (no clear gap on the page) (DR 66); spare for a later batch
 - **Clearwater Agency** (clearwateragency.com.au): weaker hook (no clear gap on the page) (DR 43); spare for a later batch
 - **Louken Group** (loukengroup.com): form is a client intake form with two required free text boxes, and posts are short event recaps (DR 44); spare for a later batch
 - **SERV Agency** (servagency.com.au): article has no section headings to tie the offer to (DR 65); spare for a later batch
@@ -1230,6 +1228,7 @@ Not in today's list. Say if any should go in a later batch. The full list of all
 - **Embryo Digital** (embryodigital.co.uk): Already emailed: its live domain embryo.com is in the ledger (backlink-2026-09-25)
 - **Square 2 Marketing** (square2marketing.com): Already emailed: its live domain brick.work is in the ledger (backlink-2026-10-14)
 - **Earnest** (earnest-agency.com): Already emailed: its live domain transmissionagency.com is in the ledger (backlink-2026-09-25)
+- **Cloud Campaign** (cloudcampaign.com): Already in another batch: queued in backlinkform-2026-10-14b
 - **Veritone** (veritone.com): Listed company, likely over 500 staff, and the article is almost a year old
 - **Sisense** (sisense.com): Likely over 500 staff
 - **Sigma Computing** (sigmacomputing.com): Likely over 500 staff

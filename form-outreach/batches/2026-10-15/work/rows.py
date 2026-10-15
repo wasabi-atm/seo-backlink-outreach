@@ -79,3 +79,8 @@ R['zandahealth.com']=('Zanda','B','The sample week under "Try Having a Theme for
 R['onspring.com']=('Onspring','B','The Key Takeaways cap a chart at seven colours and end on adjusting palettes for color blindness, a point most dashboard guides leave out.','design an infographic comparing sequential, categorical and diverging palettes for the "Types of Data Visualization Color Palettes" section','','')
 R['richpanel.com']=('Richpanel','B','The "Your Dedicated CS Account is Key" section says to keep customer service apart from marketing so queries don\'t get buried under promotional posts.','make a short animated explainer for the "Setting Up Your Social CS Game" section','','')
 for d in ['zandahealth.com','onspring.com','richpanel.com']: SPARE.pop(d)
+
+DUP['cloudcampaign.com']='Already in another batch: queued in backlinkform-2026-10-14b (merged into the ledger after this run started)'
+R.pop('cloudcampaign.com')
+R['preset.io']=('Preset','B','The "Top 7 Marketing Dashboard Examples" section covers social and content dashboards, yet the 2,168 word post never mentions video metrics such as views or watch time.','design a clean diagram of a marketing dashboard layout for the "Top 7 Marketing Dashboard Examples" section','','')
+SPARE.pop('preset.io')
