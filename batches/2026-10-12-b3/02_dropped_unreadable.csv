@@ -1,0 +1,2 @@
+companyName,webDomain,domainRating,country,serviceType,segment,visualScore,backlinkExchange,backlinkEvidence,dataSource,competitor,drStatus,videoSchemaGap,latestPost,blogUrl,competitorDecision,pool,postsRead,outsideDomainCount,recentPosts,notes
+Veem,veem.com,67,US,B2B global payments for SMBs,B,,unchecked,no post could be read,ahrefs-free DR; apify links,no,pass,,2026-10-01,https://www.veem.com/blog/,,,0,0,[],blocks Apify: index fetch failed with default and residential proxy. Posts not read.
