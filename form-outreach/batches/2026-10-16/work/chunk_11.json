@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Kalamuna",
+  "webDomain": "kalamuna.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Web design and development agency",
+  "articleUrl": "",
+  "drFree": "45.0"
+ },
+ {
+  "companyName": "Third and Grove",
+  "webDomain": "thirdandgrove.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify and web agency (Boston)",
+  "articleUrl": "",
+  "drFree": "55.0"
+ },
+ {
+  "companyName": "Padilla",
+  "webDomain": "padillaco.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PR and communications agency (Minneapolis)",
+  "articleUrl": "",
+  "drFree": "52.0"
+ },
+ {
+  "companyName": "Level Agency",
+  "webDomain": "level.agency",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Digital marketing agency (Pittsburgh)",
+  "articleUrl": "",
+  "drFree": "64.0"
+ },
+ {
+  "companyName": "BrandExtract",
+  "webDomain": "brandextract.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Branding and marketing agency (Houston)",
+  "articleUrl": "https://www.brandextract.com/Insights/Articles/Brand-Performance-vs-Brand-Resonance/",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "Odd Dog Media",
+  "webDomain": "odd.dog",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Digital marketing agency (Seattle)",
+  "articleUrl": "",
+  "drFree": "50.0"
+ },
+ {
+  "companyName": "Chromatic",
+  "webDomain": "chromatichq.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Web development agency",
+  "articleUrl": "",
+  "drFree": "43.0"
+ },
+ {
+  "companyName": "Lately",
+  "webDomain": "lately.ai",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "AI social content SaaS",
+  "articleUrl": "",
+  "drFree": "70.0"
+ },
+ {
+  "companyName": "Wurl",
+  "webDomain": "wurl.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "CTV video distribution and advertising platform",
+  "articleUrl": "https://www.wurl.com/blog/in-context-with-kerv-ai-matching-the-moment-with-dynamic-creative/",
+  "drFree": "59.0"
+ },
+ {
+  "companyName": "DBS Interactive",
+  "webDomain": "dbswebsite.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B web design and digital marketing agency (Louisville)",
+  "articleUrl": "",
+  "drFree": "68.0"
+ },
+ {
+  "companyName": "Brodeur Partners",
+  "webDomain": "brodeur.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Communications agency (Boston)",
+  "articleUrl": "",
+  "drFree": "40.0"
+ },
+ {
+  "companyName": "Leverage Marketing",
+  "webDomain": "leverageway.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Digital marketing agency (Austin)",
+  "articleUrl": "",
+  "drFree": "55.0"
+ },
+ {
+  "companyName": "Atlantic BT",
+  "webDomain": "atlanticbt.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Web design and development agency (Raleigh)",
+  "articleUrl": "",
+  "drFree": "61.0"
+ },
+ {
+  "companyName": "Bear Fox Marketing",
+  "webDomain": "bearfoxmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B digital marketing agency",
+  "articleUrl": "",
+  "drFree": "44.0"
+ },
+ {
+  "companyName": "MediaRadar",
+  "webDomain": "mediaradar.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Advertising intelligence SaaS (NYC)",
+  "articleUrl": "https://www.mediaradar.com/blog/instacart-scales-off-platform-partnership-opportunities-across-streaming-tv-social-more-using-mediaradar",
+  "drFree": "66.0"
+ }
+]

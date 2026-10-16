@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Amplemarket",
+  "webDomain": "amplemarket.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI sales platform",
+  "articleUrl": "",
+  "drFree": "69.0"
+ },
+ {
+  "companyName": "11x",
+  "webDomain": "11x.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI SDR",
+  "articleUrl": "",
+  "drFree": "70.0"
+ },
+ {
+  "companyName": "AiSDR",
+  "webDomain": "aisdr.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI SDR",
+  "articleUrl": "",
+  "drFree": "70.0"
+ },
+ {
+  "companyName": "Default",
+  "webDomain": "default.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Inbound GTM SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "MadKudu",
+  "webDomain": "madkudu.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Lead scoring AI",
+  "articleUrl": "",
+  "drFree": "66.0"
+ },
+ {
+  "companyName": "Gradient Works",
+  "webDomain": "gradient.works",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Sales ops SaaS",
+  "articleUrl": "",
+  "drFree": "55.0"
+ },
+ {
+  "companyName": "Scratchpad",
+  "webDomain": "scratchpad.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Sales workspace AI",
+  "articleUrl": "",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "ChargeOver",
+  "webDomain": "chargeover.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Billing fintech",
+  "articleUrl": "",
+  "drFree": "59.0"
+ },
+ {
+  "companyName": "Orb",
+  "webDomain": "withorb.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Usage billing fintech",
+  "articleUrl": "",
+  "drFree": "66.0"
+ },
+ {
+  "companyName": "Jetpack Workflow",
+  "webDomain": "jetpackworkflow.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Accounting practice SaaS",
+  "articleUrl": "",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "SmartVault",
+  "webDomain": "smartvault.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Document management SaaS",
+  "articleUrl": "",
+  "drFree": "79.0"
+ },
+ {
+  "companyName": "OnPay",
+  "webDomain": "onpay.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Payroll SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "ApplicantPro",
+  "webDomain": "applicantpro.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Recruiting SaaS",
+  "articleUrl": "",
+  "drFree": "84.0"
+ },
+ {
+  "companyName": "Loxo",
+  "webDomain": "loxo.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Recruiting AI",
+  "articleUrl": "",
+  "drFree": "77.0"
+ },
+ {
+  "companyName": "Fetcher",
+  "webDomain": "fetcher.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Recruiting AI",
+  "articleUrl": "",
+  "drFree": "56.0"
+ }
+]

@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Shogun",
+  "webDomain": "getshogun.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "ecommerce page builder SaaS",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "AskNicely",
+  "webDomain": "asknicely.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "customer experience NPS SaaS",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Simplesat",
+  "webDomain": "simplesat.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "customer satisfaction survey SaaS",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "MaestroQA",
+  "webDomain": "maestroqa.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "customer support QA SaaS",
+  "articleUrl": "",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "Splash",
+  "webDomain": "splashthat.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "event marketing software",
+  "articleUrl": "",
+  "drFree": "87.0"
+ },
+ {
+  "companyName": "vFairs",
+  "webDomain": "vfairs.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "virtual and hybrid event platform",
+  "articleUrl": "",
+  "drFree": "81.0"
+ },
+ {
+  "companyName": "Tripleseat",
+  "webDomain": "tripleseat.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "event management software",
+  "articleUrl": "",
+  "drFree": "90.0"
+ },
+ {
+  "companyName": "Bloomerang",
+  "webDomain": "bloomerang.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "nonprofit donor CRM",
+  "articleUrl": "",
+  "drFree": "83.0"
+ },
+ {
+  "companyName": "Givebutter",
+  "webDomain": "givebutter.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "nonprofit fundraising platform",
+  "articleUrl": "",
+  "drFree": "91.0"
+ },
+ {
+  "companyName": "Neon One",
+  "webDomain": "neonone.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "nonprofit CRM software",
+  "articleUrl": "",
+  "drFree": "78.0"
+ },
+ {
+  "companyName": "Virtuous",
+  "webDomain": "virtuous.org",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "nonprofit CRM software",
+  "articleUrl": "",
+  "drFree": "73.0"
+ },
+ {
+  "companyName": "Beacon CRM",
+  "webDomain": "beaconcrm.org",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "nonprofit CRM software",
+  "articleUrl": "",
+  "drFree": "62.0"
+ },
+ {
+  "companyName": "Enthuse",
+  "webDomain": "enthuse.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "nonprofit fundraising platform",
+  "articleUrl": "",
+  "drFree": "84.0"
+ },
+ {
+  "companyName": "Double the Donation",
+  "webDomain": "doublethedonation.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "nonprofit matching gifts software",
+  "articleUrl": "",
+  "drFree": "84.0"
+ },
+ {
+  "companyName": "Instrumentl",
+  "webDomain": "instrumentl.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "nonprofit grant software",
+  "articleUrl": "",
+  "drFree": "74.0"
+ }
+]

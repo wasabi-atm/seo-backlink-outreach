@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Briefpoint",
+  "webDomain": "briefpoint.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal tech AI SaaS",
+  "articleUrl": "",
+  "drFree": "44.0"
+ },
+ {
+  "companyName": "Case Status",
+  "webDomain": "casestatus.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal tech client communication SaaS",
+  "articleUrl": "",
+  "drFree": "52.0"
+ },
+ {
+  "companyName": "Rocket Matter",
+  "webDomain": "rocketmatter.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal practice management SaaS",
+  "articleUrl": "",
+  "drFree": "61.0"
+ },
+ {
+  "companyName": "LinkSquares",
+  "webDomain": "linksquares.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal tech contract management SaaS",
+  "articleUrl": "",
+  "drFree": "59.0"
+ },
+ {
+  "companyName": "LawLytics",
+  "webDomain": "lawlytics.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal marketing website SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Hona",
+  "webDomain": "hona.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal tech client experience SaaS",
+  "articleUrl": "",
+  "drFree": "51.0"
+ },
+ {
+  "companyName": "Reapit",
+  "webDomain": "reapit.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "proptech estate agency software",
+  "articleUrl": "",
+  "drFree": "55.0"
+ },
+ {
+  "companyName": "Avail",
+  "webDomain": "avail.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech landlord software",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Lofty",
+  "webDomain": "lofty.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech real estate CRM and marketing",
+  "articleUrl": "",
+  "drFree": "78.0"
+ },
+ {
+  "companyName": "Follow Up Boss",
+  "webDomain": "followupboss.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech real estate CRM",
+  "articleUrl": "",
+  "drFree": "75.0"
+ },
+ {
+  "companyName": "Hospitable",
+  "webDomain": "hospitable.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech short term rental software",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "RentRedi",
+  "webDomain": "rentredi.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech property management software",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "TurboTenant",
+  "webDomain": "turbotenant.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech landlord software",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "Baselane",
+  "webDomain": "baselane.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech fintech for landlords",
+  "articleUrl": "",
+  "drFree": "70.0"
+ },
+ {
+  "companyName": "Innago",
+  "webDomain": "innago.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "proptech property management software",
+  "articleUrl": "",
+  "drFree": "76.0"
+ }
+]

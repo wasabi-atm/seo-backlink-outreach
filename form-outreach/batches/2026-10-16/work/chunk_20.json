@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "Impos",
+  "webDomain": "impos.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Hospitality POS SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "RMS Cloud",
+  "webDomain": "rmscloud.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Hotel and park property management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "ROLLER",
+  "webDomain": "roller.software",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Attractions and venue management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Disco",
+  "webDomain": "disco.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Learning community and course platform",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Tovuti LMS",
+  "webDomain": "tovutilms.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Learning management system SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Accessplanit",
+  "webDomain": "accessplanit.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Training management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Bonterra",
+  "webDomain": "bonterratech.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit and social good software",
+  "articleUrl": "",
+  "drFree": ""
+ }
+]

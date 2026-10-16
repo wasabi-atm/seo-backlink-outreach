@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Media Shower",
+  "webDomain": "mediashower.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Content marketing agency",
+  "articleUrl": "",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "Doublespark",
+  "webDomain": "doublespark.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "HubSpot inbound marketing agency (Cambridge)",
+  "articleUrl": "",
+  "drFree": "44.0"
+ },
+ {
+  "companyName": "The Munro Agency",
+  "webDomain": "munro.agency",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "PR and content agency (Glasgow)",
+  "articleUrl": "",
+  "drFree": "47.0"
+ },
+ {
+  "companyName": "Opace",
+  "webDomain": "opace.agency",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing agency (Birmingham)",
+  "articleUrl": "",
+  "drFree": "49.0"
+ },
+ {
+  "companyName": "ASK BOSCO",
+  "webDomain": "askbosco.io",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Marketing analytics and forecasting SaaS",
+  "articleUrl": "https://askbosco.io/blog/seo/ask-boscos-guide-to-seo-forecasting/",
+  "drFree": "51.0"
+ },
+ {
+  "companyName": "Bolt Insight",
+  "webDomain": "boltinsight.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "AI market research SaaS",
+  "articleUrl": "",
+  "drFree": "40.0"
+ },
+ {
+  "companyName": "Reevoo",
+  "webDomain": "reevoo.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Ratings and reviews SaaS",
+  "articleUrl": "",
+  "drFree": "68.0"
+ },
+ {
+  "companyName": "The Data City",
+  "webDomain": "thedatacity.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Company data and market intelligence SaaS (Leeds)",
+  "articleUrl": "https://thedatacity.com/blog/creating-200-new-industrial-classifications-an-interview-with-alex-craven/",
+  "drFree": "62.0"
+ },
+ {
+  "companyName": "Administrate",
+  "webDomain": "getadministrate.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Training management SaaS (Edinburgh)",
+  "articleUrl": "",
+  "drFree": "59.0"
+ },
+ {
+  "companyName": "Appointedd",
+  "webDomain": "appointedd.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Online booking SaaS (Edinburgh)",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Omnipresent",
+  "webDomain": "omnipresent.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Employer of record HR tech",
+  "articleUrl": "",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "Panintelligence",
+  "webDomain": "panintelligence.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Embedded analytics SaaS (Leeds)",
+  "articleUrl": "https://panintelligence.com/blog/the-future-of-embedded-bi-what-saas-leaders-need-to-know/",
+  "drFree": "50.0"
+ },
+ {
+  "companyName": "Metaview",
+  "webDomain": "metaview.ai",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "AI recruiting notes HR tech",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Hornbill",
+  "webDomain": "hornbill.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "IT service management SaaS",
+  "articleUrl": "",
+  "drFree": "45.0"
+ },
+ {
+  "companyName": "Flagsmith",
+  "webDomain": "flagsmith.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Feature flag dev tool",
+  "articleUrl": "https://flagsmith.com/blog/dynamic-flags-feature-release",
+  "drFree": "70.0"
+ }
+]

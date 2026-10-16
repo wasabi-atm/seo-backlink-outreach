@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Swift Digital",
+  "webDomain": "swiftdigital.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "email marketing and events SaaS",
+  "articleUrl": "https://swiftdigital.com.au/blog/email-marketing-best-practices/",
+  "drFree": "44.0"
+ },
+ {
+  "companyName": "pay.com.au",
+  "webDomain": "pay.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "business payments fintech",
+  "articleUrl": "https://pay.com.au/blog/maximise-your-business-with-the-right-strategy-and-payments-solution/",
+  "drFree": "49.0"
+ },
+ {
+  "companyName": "BizCover",
+  "webDomain": "bizcover.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "small business insurance broker",
+  "articleUrl": "https://bizcover.com.au/bizwitty/marketing-ideas-for-small-businesses",
+  "drFree": "70.0"
+ },
+ {
+  "companyName": "Bookipi",
+  "webDomain": "bookipi.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "invoicing and small business SaaS",
+  "articleUrl": "https://bookipi.com/marketing/marketing-channels/",
+  "drFree": "69.0"
+ },
+ {
+  "companyName": "AroFlo",
+  "webDomain": "aroflo.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "job management software for trades",
+  "articleUrl": "https://aroflo.com/blog/nail-your-trade-business-marketing-with-this-strategy",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "ShiftCare",
+  "webDomain": "shiftcare.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "care provider management software",
+  "articleUrl": "https://shiftcare.com/blog/the-ultimate-guide-to-marketing-your-ndis-provider-business",
+  "drFree": "62.0"
+ },
+ {
+  "companyName": "Vivi",
+  "webDomain": "vivi.io",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "classroom screen sharing and video tech",
+  "articleUrl": "https://www.vivi.io/blog/best-interactive-classroom-technology-tools/",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "MessageMedia",
+  "webDomain": "messagemedia.com",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "business messaging platform",
+  "articleUrl": "https://messagemedia.com/au/blog/12-days-christmas-marketing-ideas-sms/",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Heidi Health",
+  "webDomain": "heidihealth.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "AI medical scribe",
+  "articleUrl": "https://www.heidihealth.com/en-us/blog/ai-medical-assistant",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Nitro",
+  "webDomain": "gonitro.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "PDF and eSign productivity software",
+  "articleUrl": "https://www.gonitro.com/blog/how-pdf-editing-software-helps-improve-small-business-productivity",
+  "drFree": "79.0"
+ },
+ {
+  "companyName": "In Marketing We Trust",
+  "webDomain": "inmarketingwetrust.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "performance marketing and analytics agency",
+  "articleUrl": "https://inmarketingwetrust.com.au/landing-page-optimisation-improving-user-experience/",
+  "drFree": "52.0"
+ },
+ {
+  "companyName": "Loves Data",
+  "webDomain": "lovesdata.com",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "analytics training and consulting",
+  "articleUrl": "https://www.lovesdata.com/blog/tracking-social-media/",
+  "drFree": "66.0"
+ },
+ {
+  "companyName": "Digital Balance",
+  "webDomain": "digitalbalance.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "digital analytics consultancy",
+  "articleUrl": "https://digitalbalance.com.au/blog/engagement-score-the-one-metric-you-need-if-you-care-about-brand/",
+  "drFree": "47.0"
+ },
+ {
+  "companyName": "Moodle",
+  "webDomain": "moodle.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "learning management system software",
+  "articleUrl": "https://moodle.com/news/6-instructional-video-sites-for-moodle-users/",
+  "drFree": "91.0"
+ },
+ {
+  "companyName": "Marqo",
+  "webDomain": "marqo.ai",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "AI ecommerce search platform",
+  "articleUrl": "https://www.marqo.ai/blog/visual-search-ecommerce",
+  "drFree": "47.0"
+ }
+]

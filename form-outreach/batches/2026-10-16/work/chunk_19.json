@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "Qgiv",
+  "webDomain": "qgiv.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "DonorPerfect",
+  "webDomain": "donorperfect.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit donor management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "OneCause",
+  "webDomain": "onecause.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Raisely",
+  "webDomain": "raisely.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Givergy",
+  "webDomain": "givergy.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Charity fundraising and auction SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "MobileCause",
+  "webDomain": "mobilecause.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Inspect Real Estate",
+  "webDomain": "inspectrealestate.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Property management and real estate SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ }
+]

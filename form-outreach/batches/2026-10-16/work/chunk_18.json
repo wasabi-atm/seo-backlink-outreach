@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "Constructive",
+  "webDomain": "constructive.co",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Brand and digital design agency for nonprofits",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Message Agency",
+  "webDomain": "messageagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Drupal and WordPress web agency for nonprofits",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Cornershop Creative",
+  "webDomain": "cornershopcreative.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "WordPress web design agency for nonprofits",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Elegant Seagulls",
+  "webDomain": "elegantseagulls.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Web design and development studio",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Webcoda",
+  "webDomain": "webcoda.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "Web design and development agency",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Donorbox",
+  "webDomain": "donorbox.org",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Funraise",
+  "webDomain": "funraise.org",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ }
+]

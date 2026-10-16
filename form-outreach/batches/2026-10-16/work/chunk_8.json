@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Encord",
+  "webDomain": "encord.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "AI data annotation platform",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Halo ITSM",
+  "webDomain": "haloitsm.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "IT service management SaaS",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Gradwell",
+  "webDomain": "gradwell.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Cloud business communications",
+  "articleUrl": "",
+  "drFree": "54.0"
+ },
+ {
+  "companyName": "Sona",
+  "webDomain": "sona.ai",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Workforce management SaaS",
+  "articleUrl": "",
+  "drFree": "50.0"
+ },
+ {
+  "companyName": "Seldon",
+  "webDomain": "seldon.io",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "MLOps AI platform",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "EBI.AI",
+  "webDomain": "ebi.ai",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Conversational AI SaaS",
+  "articleUrl": "",
+  "drFree": "45.0"
+ },
+ {
+  "companyName": "Ravio",
+  "webDomain": "ravio.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Compensation benchmarking HR tech",
+  "articleUrl": "",
+  "drFree": "60.0"
+ },
+ {
+  "companyName": "Culture Shift",
+  "webDomain": "culture-shift.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Workplace reporting HR tech (Manchester)",
+  "articleUrl": "https://culture-shift.co.uk/resources/workplace/does-your-hr-software-drive-a-speak-up-culture",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "Recite Me",
+  "webDomain": "reciteme.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Web accessibility SaaS (Gateshead)",
+  "articleUrl": "",
+  "drFree": "75.0"
+ },
+ {
+  "companyName": "Hofy",
+  "webDomain": "hofy.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "IT equipment management for remote teams",
+  "articleUrl": "https://www.hofy.com/blog/boost-remote-employee-uptime",
+  "drFree": "48.0"
+ },
+ {
+  "companyName": "Apron",
+  "webDomain": "getapron.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "SMB payments fintech",
+  "articleUrl": "https://blog.getapron.com/articles/pay-hmrc-by-credit-card",
+  "drFree": "47.0"
+ },
+ {
+  "companyName": "Champion Health",
+  "webDomain": "championhealth.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Workplace wellbeing HR tech (Leeds)",
+  "articleUrl": "",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "Wagestream",
+  "webDomain": "wagestream.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Financial wellbeing fintech",
+  "articleUrl": "",
+  "drFree": "58.0"
+ },
+ {
+  "companyName": "Salary Finance",
+  "webDomain": "salaryfinance.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Employee financial wellbeing fintech",
+  "articleUrl": "",
+  "drFree": "62.0"
+ },
+ {
+  "companyName": "Makers",
+  "webDomain": "makers.tech",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Tech skills training",
+  "articleUrl": "",
+  "drFree": "57.0"
+ }
+]

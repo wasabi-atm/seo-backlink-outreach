@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Lyrebird Health",
+  "webDomain": "lyrebirdhealth.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "AI medical scribe",
+  "articleUrl": "https://www.lyrebirdhealth.com/us/blogs/the-2026-clinicians-checklist-for-safe-ai-use",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "Hatch",
+  "webDomain": "hatch.team",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "early career hiring platform",
+  "articleUrl": "https://hatch.team/blog/post/how-to-hire-the-right-person",
+  "drFree": "40.0"
+ },
+ {
+  "companyName": "HealthEngine",
+  "webDomain": "healthengine.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "healthcare booking platform and practice marketing",
+  "articleUrl": "https://practices.healthengine.com.au/dental-marketing-tips-guide/",
+  "drFree": "80.0"
+ },
+ {
+  "companyName": "Agworld",
+  "webDomain": "agworld.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "farm management SaaS",
+  "articleUrl": "https://www.agworld.com/us/blog/using-on-farm-data-for-decisions-that-matter/",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "Lumary",
+  "webDomain": "lumary.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "care management software",
+  "articleUrl": "",
+  "drFree": "41.0"
+ },
+ {
+  "companyName": "Stockspot",
+  "webDomain": "stockspot.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "online investment adviser fintech",
+  "articleUrl": "https://blog.stockspot.com.au/ai-investing/",
+  "drFree": "44.0"
+ },
+ {
+  "companyName": "PWD Digital Agency",
+  "webDomain": "pwd.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "digital marketing and web agency",
+  "articleUrl": "https://pwd.com.au/blog/the-6-step-guide-to-building-an-effective-digital-marketing-funnel/",
+  "drFree": "75.0"
+ },
+ {
+  "companyName": "Bonfire Digital",
+  "webDomain": "bonfire.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "digital performance agency",
+  "articleUrl": "https://www.bonfire.com.au/resource/content-strategy-in-the-age-of-ai/",
+  "drFree": "45.0"
+ },
+ {
+  "companyName": "Living Online",
+  "webDomain": "livingonline.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "digital marketing agency",
+  "articleUrl": "https://www.livingonline.com.au/blog/social-media-calendar-your-10-step-guide-to-digital-domination/",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "Boylen",
+  "webDomain": "boylen.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "web design SEO and branding agency",
+  "articleUrl": "https://www.boylen.com.au/marketing-in-a-crowded-market/",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Cooler Insights",
+  "webDomain": "coolerinsights.com",
+  "country": "Singapore",
+  "segment": "A",
+  "serviceType": "content marketing and digital strategy consultancy",
+  "articleUrl": "",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "Info-Tech Systems",
+  "webDomain": "info-tech.com.sg",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "HR payroll and accounting software",
+  "articleUrl": "",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "Homage",
+  "webDomain": "homage.sg",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "home care platform",
+  "articleUrl": "",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "Intellect",
+  "webDomain": "intellect.co",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "workplace mental health platform",
+  "articleUrl": "",
+  "drFree": "54.0"
+ },
+ {
+  "companyName": "MindFi",
+  "webDomain": "mindfi.co",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "workplace wellbeing platform",
+  "articleUrl": "",
+  "drFree": "42.0"
+ }
+]

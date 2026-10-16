@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "GiveSmart",
+  "webDomain": "givesmart.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising and event SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Greater Giving",
+  "webDomain": "greatergiving.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit fundraising event SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Handbid",
+  "webDomain": "handbid.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Charity auction and fundraising SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Submittable",
+  "webDomain": "submittable.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Grants and submissions management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Galaxy Digital",
+  "webDomain": "galaxydigital.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Volunteer management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "VolunteerHub",
+  "webDomain": "volunteerhub.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Volunteer management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Golden",
+  "webDomain": "goldenvolunteer.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Volunteer management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ }
+]

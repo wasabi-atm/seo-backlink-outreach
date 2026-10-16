@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "Donately",
+  "webDomain": "donately.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit online donation SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Restaurant365",
+  "webDomain": "restaurant365.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant accounting and operations SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Popmenu",
+  "webDomain": "popmenu.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant marketing SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "BentoBox",
+  "webDomain": "getbento.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant website and marketing SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Rentec Direct",
+  "webDomain": "rentecdirect.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Property management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Hemlane",
+  "webDomain": "hemlane.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Rental property management SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Placester",
+  "webDomain": "placester.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate website and marketing SaaS",
+  "articleUrl": "",
+  "drFree": ""
+ }
+]

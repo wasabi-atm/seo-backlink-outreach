@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Dover",
+  "webDomain": "dover.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Recruiting AI",
+  "articleUrl": "",
+  "drFree": "77.0"
+ },
+ {
+  "companyName": "BrightHire",
+  "webDomain": "brighthire.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Interview intelligence AI",
+  "articleUrl": "",
+  "drFree": "59.0"
+ },
+ {
+  "companyName": "GoodHire",
+  "webDomain": "goodhire.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Background check HR tech",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Built In",
+  "webDomain": "builtin.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Tech recruitment and employer branding",
+  "articleUrl": "",
+  "drFree": "86.0"
+ },
+ {
+  "companyName": "Humanly",
+  "webDomain": "humanly.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Recruiting AI",
+  "articleUrl": "",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "theEMPLOYEEapp",
+  "webDomain": "theemployeeapp.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Employee communications SaaS",
+  "articleUrl": "",
+  "drFree": "50.0"
+ },
+ {
+  "companyName": "Axios HQ",
+  "webDomain": "axioshq.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Internal communications SaaS",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Click Boarding",
+  "webDomain": "clickboarding.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Employee onboarding SaaS",
+  "articleUrl": "",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "Envoy",
+  "webDomain": "envoy.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Workplace SaaS",
+  "articleUrl": "",
+  "drFree": "75.0"
+ },
+ {
+  "companyName": "Leadr",
+  "webDomain": "leadr.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "People development SaaS",
+  "articleUrl": "https://blog.leadr.com/news-room/leadr-brand-story",
+  "drFree": "52.0"
+ },
+ {
+  "companyName": "Arist",
+  "webDomain": "arist.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Microlearning SaaS",
+  "articleUrl": "",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "Qstream",
+  "webDomain": "qstream.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Microlearning SaaS",
+  "articleUrl": "",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "Time Doctor",
+  "webDomain": "timedoctor.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Workforce analytics SaaS",
+  "articleUrl": "",
+  "drFree": "79.0"
+ },
+ {
+  "companyName": "Bonsai",
+  "webDomain": "hellobonsai.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Agency and freelancer business SaaS",
+  "articleUrl": "",
+  "drFree": "80.0"
+ },
+ {
+  "companyName": "HoneyBook",
+  "webDomain": "honeybook.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Client management SaaS",
+  "articleUrl": "",
+  "drFree": "89.0"
+ }
+]

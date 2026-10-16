@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "TalentLMS",
+  "webDomain": "talentlms.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "L&D LMS SaaS",
+  "articleUrl": "",
+  "drFree": "85.0"
+ },
+ {
+  "companyName": "iSpring",
+  "webDomain": "ispringsolutions.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "eLearning authoring and LMS SaaS",
+  "articleUrl": "",
+  "drFree": "79.0"
+ },
+ {
+  "companyName": "Looop",
+  "webDomain": "looop.co",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "L&D LMS SaaS",
+  "articleUrl": "",
+  "drFree": "53.0"
+ },
+ {
+  "companyName": "LearnDash",
+  "webDomain": "learndash.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "LMS software",
+  "articleUrl": "",
+  "drFree": "81.0"
+ },
+ {
+  "companyName": "LifterLMS",
+  "webDomain": "lifterlms.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "LMS software",
+  "articleUrl": "",
+  "drFree": "80.0"
+ },
+ {
+  "companyName": "Coro",
+  "webDomain": "coro.net",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "cybersecurity SaaS",
+  "articleUrl": "",
+  "drFree": "60.0"
+ },
+ {
+  "companyName": "Metomic",
+  "webDomain": "metomic.io",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "data security SaaS",
+  "articleUrl": "",
+  "drFree": "68.0"
+ },
+ {
+  "companyName": "Push Security",
+  "webDomain": "pushsecurity.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "identity security SaaS",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Blackpoint Cyber",
+  "webDomain": "blackpointcyber.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "managed detection and response",
+  "articleUrl": "",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "Strike Graph",
+  "webDomain": "strikegraph.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "compliance automation SaaS",
+  "articleUrl": "",
+  "drFree": "56.0"
+ },
+ {
+  "companyName": "Fairing",
+  "webDomain": "fairing.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "ecommerce attribution survey SaaS",
+  "articleUrl": "",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "Elevar",
+  "webDomain": "getelevar.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "ecommerce tracking SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Sendlane",
+  "webDomain": "sendlane.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "ecommerce email and SMS SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Emotive",
+  "webDomain": "emotive.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "ecommerce SMS marketing SaaS",
+  "articleUrl": "",
+  "drFree": "64.0"
+ },
+ {
+  "companyName": "Zonos",
+  "webDomain": "zonos.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "cross border ecommerce SaaS",
+  "articleUrl": "",
+  "drFree": "75.0"
+ }
+]

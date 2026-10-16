@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Tumelo",
+  "webDomain": "tumelo.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Stewardship fintech",
+  "articleUrl": "",
+  "drFree": "41.0"
+ },
+ {
+  "companyName": "Ecospend",
+  "webDomain": "ecospend.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Open banking payments fintech",
+  "articleUrl": "",
+  "drFree": "50.0"
+ },
+ {
+  "companyName": "Flexa",
+  "webDomain": "flexa.careers",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Flexible jobs HR tech",
+  "articleUrl": "",
+  "drFree": "61.0"
+ },
+ {
+  "companyName": "Approov",
+  "webDomain": "approov.io",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Mobile app security dev tool (Edinburgh)",
+  "articleUrl": "",
+  "drFree": "61.0"
+ },
+ {
+  "companyName": "Questionmark",
+  "webDomain": "questionmark.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Online assessment SaaS",
+  "articleUrl": "",
+  "drFree": "69.0"
+ },
+ {
+  "companyName": "Form3",
+  "webDomain": "form3.tech",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Payments infrastructure fintech",
+  "articleUrl": "",
+  "drFree": "58.0"
+ },
+ {
+  "companyName": "Tessl",
+  "webDomain": "tessl.io",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "AI software development dev tool",
+  "articleUrl": "",
+  "drFree": "65.0"
+ },
+ {
+  "companyName": "WorkL",
+  "webDomain": "workl.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Employee engagement HR tech",
+  "articleUrl": "",
+  "drFree": "48.0"
+ },
+ {
+  "companyName": "Satchel",
+  "webDomain": "teamsatchel.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "School software edtech SaaS",
+  "articleUrl": "",
+  "drFree": "45.0"
+ },
+ {
+  "companyName": "Aten Design Group",
+  "webDomain": "atendesigngroup.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Web design and development studio (Denver)",
+  "articleUrl": "",
+  "drFree": "54.0"
+ },
+ {
+  "companyName": "Interact",
+  "webDomain": "tryinteract.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Marketing SaaS, quiz lead gen tool",
+  "articleUrl": "https://www.tryinteract.com/blog/advice-with-erin-140000-email-subscribers-with-a-quiz/",
+  "drFree": "85.0"
+ },
+ {
+  "companyName": "Vocal Video",
+  "webDomain": "vocalvideo.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Video testimonial platform (Seattle)",
+  "articleUrl": "https://vocalvideo.com/resources/video-testimonials/",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "imgix",
+  "webDomain": "imgix.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Image and video delivery platform (San Francisco)",
+  "articleUrl": "",
+  "drFree": "81.0"
+ },
+ {
+  "companyName": "Gregory",
+  "webDomain": "gregoryagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B PR agency (Philadelphia)",
+  "articleUrl": "",
+  "drFree": "43.0"
+ },
+ {
+  "companyName": "DigitalMarketer",
+  "webDomain": "digitalmarketer.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Marketing training and resources (Austin)",
+  "articleUrl": "",
+  "drFree": "79.0"
+ }
+]

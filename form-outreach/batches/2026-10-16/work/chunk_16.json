@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Copilot",
+  "webDomain": "copilot.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Client portal SaaS",
+  "articleUrl": "https://copilot.com/blog/crm-for-agencies",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Cal.com",
+  "webDomain": "cal.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Scheduling SaaS",
+  "articleUrl": "",
+  "drFree": "92.0"
+ },
+ {
+  "companyName": "Motion",
+  "webDomain": "usemotion.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI productivity",
+  "articleUrl": "",
+  "drFree": "82.0"
+ },
+ {
+  "companyName": "Taskade",
+  "webDomain": "taskade.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI productivity",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "Simplified",
+  "webDomain": "simplified.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI content platform",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "GPTZero",
+  "webDomain": "gptzero.me",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI detection",
+  "articleUrl": "",
+  "drFree": "81.0"
+ },
+ {
+  "companyName": "Balto",
+  "webDomain": "balto.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Contact center AI",
+  "articleUrl": "",
+  "drFree": "61.0"
+ },
+ {
+  "companyName": "Observe.AI",
+  "webDomain": "observe.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Contact center AI",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Level AI",
+  "webDomain": "thelevel.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Contact center AI",
+  "articleUrl": "",
+  "drFree": "57.0"
+ },
+ {
+  "companyName": "Vapi",
+  "webDomain": "vapi.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Voice AI",
+  "articleUrl": "",
+  "drFree": "78.0"
+ },
+ {
+  "companyName": "Decagon",
+  "webDomain": "decagon.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI customer support",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Capacity",
+  "webDomain": "capacity.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI support automation",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "Netomi",
+  "webDomain": "netomi.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI customer service",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Knock",
+  "webDomain": "knock.app",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Notifications API",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Courier",
+  "webDomain": "courier.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Notifications API",
+  "articleUrl": "",
+  "drFree": "69.0"
+ }
+]

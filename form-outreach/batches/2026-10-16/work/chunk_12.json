@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Gravitate",
+  "webDomain": "gravitatedesign.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Digital marketing and web design agency (Portland)",
+  "articleUrl": "",
+  "drFree": "66.0"
+ },
+ {
+  "companyName": "Atomicdust",
+  "webDomain": "atomicdust.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Branding and web design agency (St. Louis)",
+  "articleUrl": "",
+  "drFree": "43.0"
+ },
+ {
+  "companyName": "NinjaCat",
+  "webDomain": "ninjacat.io",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Marketing data and reporting SaaS",
+  "articleUrl": "https://www.ninjacat.io/blog/from-buying-enterprise-marketing-ai-to-benefiting-from-it",
+  "drFree": "62.0"
+ },
+ {
+  "companyName": "Streak",
+  "webDomain": "streak.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "CRM SaaS",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "GaggleAMP",
+  "webDomain": "gaggleamp.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Employee advocacy SaaS",
+  "articleUrl": "https://blog.gaggleamp.com/how-to-start-an-employee-advocacy-program",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "Arrows",
+  "webDomain": "arrows.to",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Customer onboarding SaaS",
+  "articleUrl": "https://arrows.to/resources/enable-your-new-customers-with-collaborative-onboarding-plans",
+  "drFree": "56.0"
+ },
+ {
+  "companyName": "Shortcut",
+  "webDomain": "shortcut.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Project management dev tool",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Unify",
+  "webDomain": "unifygtm.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "GTM SaaS",
+  "articleUrl": "",
+  "drFree": "70.0"
+ },
+ {
+  "companyName": "Grain",
+  "webDomain": "grain.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI meeting recorder",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Read AI",
+  "webDomain": "read.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI meeting assistant",
+  "articleUrl": "",
+  "drFree": "75.0"
+ },
+ {
+  "companyName": "User Interviews",
+  "webDomain": "userinterviews.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "User research SaaS",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "Spekit",
+  "webDomain": "spekit.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Sales enablement SaaS",
+  "articleUrl": "https://spekit.com/blog/the-power-of-personalization-tailoring-enablement-to-your-audience",
+  "drFree": "70.0"
+ },
+ {
+  "companyName": "Dock",
+  "webDomain": "dock.us",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Sales enablement SaaS",
+  "articleUrl": "",
+  "drFree": "73.0"
+ },
+ {
+  "companyName": "UserEvidence",
+  "webDomain": "userevidence.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Customer evidence SaaS",
+  "articleUrl": "",
+  "drFree": "66.0"
+ },
+ {
+  "companyName": "CallTrackingMetrics",
+  "webDomain": "calltrackingmetrics.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Call tracking SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ }
+]

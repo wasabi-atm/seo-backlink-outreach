@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "2C2P",
+  "webDomain": "2c2p.com",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "payments platform",
+  "articleUrl": "",
+  "drFree": "71.0"
+ },
+ {
+  "companyName": "Unravel Carbon",
+  "webDomain": "unravelcarbon.com",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "carbon accounting SaaS",
+  "articleUrl": "",
+  "drFree": "43.0"
+ },
+ {
+  "companyName": "Eber",
+  "webDomain": "eber.co",
+  "country": "Singapore",
+  "segment": "A",
+  "serviceType": "customer loyalty and CRM SaaS",
+  "articleUrl": "",
+  "drFree": "68.0"
+ },
+ {
+  "companyName": "FOMO Pay",
+  "webDomain": "fomopay.com",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "payments fintech",
+  "articleUrl": "",
+  "drFree": "52.0"
+ },
+ {
+  "companyName": "MatchMove",
+  "webDomain": "matchmove.com",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "banking as a service fintech",
+  "articleUrl": "",
+  "drFree": "49.0"
+ },
+ {
+  "companyName": "JustCo",
+  "webDomain": "justcoglobal.com",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "flexible workspace provider",
+  "articleUrl": "",
+  "drFree": "60.0"
+ },
+ {
+  "companyName": "Media Search Group",
+  "webDomain": "mediasearchgroup.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "digital marketing and SEO agency",
+  "articleUrl": "",
+  "drFree": "50.0"
+ },
+ {
+  "companyName": "Nascode",
+  "webDomain": "nascode.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "web design and digital marketing agency",
+  "articleUrl": "",
+  "drFree": "59.0"
+ },
+ {
+  "companyName": "Aspiration Worx",
+  "webDomain": "aspirationworx.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "web design and digital marketing agency",
+  "articleUrl": "",
+  "drFree": "43.0"
+ },
+ {
+  "companyName": "Brandcare Digital",
+  "webDomain": "brandcaredigital.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing agency",
+  "articleUrl": "",
+  "drFree": "47.0"
+ },
+ {
+  "companyName": "Hello Pixels",
+  "webDomain": "hellopixels.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "web and app design agency",
+  "articleUrl": "",
+  "drFree": "50.0"
+ },
+ {
+  "companyName": "Verofax",
+  "webDomain": "verofax.com",
+  "country": "UAE",
+  "segment": "B",
+  "serviceType": "AI SaaS for brand protection and engagement",
+  "articleUrl": "",
+  "drFree": "56.0"
+ },
+ {
+  "companyName": "Gavel",
+  "webDomain": "gavel.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal tech document automation SaaS",
+  "articleUrl": "",
+  "drFree": "65.0"
+ },
+ {
+  "companyName": "LawPay",
+  "webDomain": "lawpay.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "legal tech payments SaaS",
+  "articleUrl": "",
+  "drFree": "87.0"
+ },
+ {
+  "companyName": "LEAP Legal Software",
+  "webDomain": "leap.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "legal practice management SaaS",
+  "articleUrl": "",
+  "drFree": "59.0"
+ }
+]

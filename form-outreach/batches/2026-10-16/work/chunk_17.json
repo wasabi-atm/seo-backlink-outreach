@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "Edgar Allan",
+  "webDomain": "edgarallan.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Webflow web design and brand studio",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Reckless",
+  "webDomain": "reckless.agency",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Web design and digital experience agency",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Building Blocks",
+  "webDomain": "building-blocks.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Web design and digital agency",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Broworks",
+  "webDomain": "broworks.net",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Webflow web design agency",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Noble Studios",
+  "webDomain": "noblestudios.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Web design and digital marketing agency",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Taoti Creative",
+  "webDomain": "taoti.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Drupal and WordPress web design agency",
+  "articleUrl": "",
+  "drFree": ""
+ },
+ {
+  "companyName": "Threespot",
+  "webDomain": "threespot.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Digital agency for nonprofits and mission driven brands",
+  "articleUrl": "",
+  "drFree": ""
+ }
+]

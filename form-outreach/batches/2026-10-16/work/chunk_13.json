@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Orum",
+  "webDomain": "orum.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI sales dialer",
+  "articleUrl": "",
+  "drFree": "61.0"
+ },
+ {
+  "companyName": "Brightspot",
+  "webDomain": "brightspot.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Content management platform",
+  "articleUrl": "",
+  "drFree": "69.0"
+ },
+ {
+  "companyName": "Kinsta",
+  "webDomain": "kinsta.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Managed hosting",
+  "articleUrl": "",
+  "drFree": "89.0"
+ },
+ {
+  "companyName": "Measured",
+  "webDomain": "measured.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Marketing measurement SaaS",
+  "articleUrl": "",
+  "drFree": "66.0"
+ },
+ {
+  "companyName": "Tettra",
+  "webDomain": "tettra.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Knowledge management SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Slab",
+  "webDomain": "slab.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Knowledge management SaaS",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Sendbird",
+  "webDomain": "sendbird.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Communications API",
+  "articleUrl": "",
+  "drFree": "76.0"
+ },
+ {
+  "companyName": "Simon Data",
+  "webDomain": "simondata.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Customer data platform",
+  "articleUrl": "",
+  "drFree": "64.0"
+ },
+ {
+  "companyName": "Feathery",
+  "webDomain": "feathery.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Form builder SaaS",
+  "articleUrl": "",
+  "drFree": "74.0"
+ },
+ {
+  "companyName": "Kruze Consulting",
+  "webDomain": "kruzeconsulting.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Startup accounting and tax",
+  "articleUrl": "",
+  "drFree": "68.0"
+ },
+ {
+  "companyName": "Pipeline CRM",
+  "webDomain": "pipelinecrm.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "CRM SaaS",
+  "articleUrl": "",
+  "drFree": "72.0"
+ },
+ {
+  "companyName": "Poll Everywhere",
+  "webDomain": "polleverywhere.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Audience engagement SaaS",
+  "articleUrl": "",
+  "drFree": "77.0"
+ },
+ {
+  "companyName": "Gather",
+  "webDomain": "gather.town",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Virtual office SaaS",
+  "articleUrl": "",
+  "drFree": "78.0"
+ },
+ {
+  "companyName": "WellSaid",
+  "webDomain": "wellsaidlabs.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI voice",
+  "articleUrl": "",
+  "drFree": "63.0"
+ },
+ {
+  "companyName": "Crystal",
+  "webDomain": "crystalknows.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Personality AI for sales",
+  "articleUrl": "",
+  "drFree": "74.0"
+ }
+]
