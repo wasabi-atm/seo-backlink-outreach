@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Wyzowl,wyzowl.com,UK,Explainer video production and marketing research,A,yes,Explainer and animated video production studio,87,https://www.wyzowl.com/blog/,2025-10-28,Newest dated post seen on blog index via Apify crawler (Oct 28 2025); HQ from memory (UK),A_MARTECH
+Adalysis,adalysis.com,US,PPC ad testing and optimization software,A,no,,63,https://adalysis.com/blog/,2026-10-13,"Date from WP REST API via Apify; HQ from memory, verify",A_MARTECH
+Fanatic,fanatic.co.uk,UK,"Digital marketing, SEO and web design agency (Bristol)",A,no,,61,https://fanatic.co.uk/blog/,2026-10-01,Date from blog index (Studio Scrapbook October 2026). HQ from memory (Bristol). Staff size not verified.,A_UK_REGIONS
+Taoti Creative,taoti.com,US,web design and development agency (Washington DC),A,no,,51,https://taoti.com/blog,2026-07-02,"Date confirmed on blog index via Apify crawler (featured post dated July 2nd, 2026). HQ from memory (Washington DC). Staff size from memory (about 40 to 60).",A_US_EAST
+Growth Marketing Pro,growthmarketingpro.com,US,"B2B SaaS SEO, paid search and AI search agency (San Francisco CA)",A,no,,71,https://www.growthmarketingpro.com/blog/,2026-08-05,"Newest published date on blog index is August 5, 2026 (later modified dates also shown). HQ San Francisco per Built In and DesignRush, about 37 staff. Also publishes agency listicles; check for paid placement.",A_US_WEST_SOUTH
+Kigen,kigen.com,UK,eSIM / IoT connectivity tech,B,no,,52,https://www.kigen.com/resources/blog/,2026-10-01,"Blog shows Oct 2026 posts (upload path /2026/10/, 2026 award news); exact day not confirmed, lower bound. HQ from memory (Cambridge). Arm spin-out, check group status.",B_UKUAE
+Truewind,truewind.ai,US,AI bookkeeping and finance for startups,B,no,,48,https://www.truewind.ai/blog,2026-10-11,"Date shown on blog index (October 11, 2026). HQ from memory (San Francisco).",B_US_PEOPLE_FIN
+Revelry,revelry.co,US,Software development and AI consulting,B,no,,46,https://revelry.co/insights/,2026-09-09,Date seen on insights index via Apify crawl. HQ from memory (Little Rock AR).,B_US_SERVICES_AI
+Hopstack,hopstack.io,US,Warehouse management and logistics software,B,no,,61,https://www.hopstack.io/blog,2026-09-22,"Date seen on blog index via Apify crawl. HQ from memory (San Jose CA, engineering in India); verify HQ.",B_US_SERVICES_AI
+ShipHawk,shiphawk.com,US,Multi-carrier shipping software,B,no,,62,https://shiphawk.com/blog/,2026-09-18,Date from wp-json posts API (posts include event pages). HQ from memory (Denver).,B_US_TECH_VERT
+UtilityAPI,utilityapi.com,US,Utility data API,B,no,,54,https://utilityapi.com/blog,2026-02-10,Date from blog index via Apify crawl. HQ from memory (Oakland).,B_US_TECH_VERT
+Trunk,trunk.io,US,Code quality and CI tooling,B,no,,59,https://trunk.io/blog,2026-07-17,"Date from blog index via Apify crawl, only one date visible. HQ from memory (San Francisco).",B_US_TECH_VERT
+fourkitchens,fourkitchens.com,US,unknown (from leftovers),A,no,,62,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+tallwave,tallwave.com,US,unknown (from leftovers),A,no,,43,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+hummingbird,hummingbird.co,US,unknown (from leftovers),B,no,,50,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+mantl,mantl.com,US,unknown (from leftovers),B,no,,47,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+newbreedmarketing,newbreedmarketing.com,US,unknown (from leftovers),A,no,,60,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER

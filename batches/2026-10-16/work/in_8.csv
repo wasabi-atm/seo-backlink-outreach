@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+AMI Marketing for Manufacturing,amiweb.co.uk,UK,B2B marketing agency for manufacturers,A,no,,72,https://amiweb.co.uk/marketing-strategies-for-manufacturers/,2026-09-30,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Digital Neighbor,digitalneighbor.com,US,SEO agency,A,no,,56,https://digitalneighbor.com/metrics-for-local-seo,2026-10-08,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+SEO Optimizers,seooptimizers.com,US,SEO agency,A,no,,61,https://seooptimizers.com/blog/,2026-10-15,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+The SecOps Group,pentestingexams.com,UK,Cybersecurity certifications and pentest training,B,no,,41,https://pentestingexams.com/insights/,2026-06-26,"Date confirmed via wp-json posts API (Apify web-fetch). Domain is the exam brand site of The SecOps Group. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Strider Technologies,striderintel.com,US,Supply chain and research security intelligence,B,no,,55,https://striderintel.com/from-assessment-to-action-building-a-proactive-insider-threat-program/,2026-09-29,Date from WordPress RSS feed at /feed/ via Apify web-fetch; HQ from memory (Salt Lake City); staff approx 100,AP_B_US
+Transmit Security,transmitsecurity.com,US,Identity and fraud prevention platform,B,no,,54,https://transmitsecurity.com/blog,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (Boston); domain checked as transmit.security; staff may be near 500,AP_B_US
+BigPanda,bigpanda.io,US,AIOps and IT operations software,B,no,,73,https://www.bigpanda.io/blog/,2026-10-09,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+WEKA,weka.io,US,AI data platform and storage software,B,no,,73,https://www.weka.io/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (Campbell CA); staff may be near 500,AP_B_US
+Supio,supio.com,US,AI platform for personal injury law firms,B,no,,48,https://supio.com/blog,2026-08-05,Newest dated post on blog index via Apify web-fetch; HQ from memory (Seattle area),AP_B_US
+Zenwork,zenwork.com,US,Tax compliance and 1099 reporting software,B,no,,56,https://www.zenwork.com/blog/,2026-06-09,Newest dated post on blog index via Apify web-fetch; HQ from memory,AP_B_US
+Hydrolix,hydrolix.io,US,Streaming data lake for logs and observability,B,no,,60,https://hydrolix.io/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+cpgguys,cpgguys.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+marketscale,marketscale.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+worldcomgroup,worldcomgroup.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+kodemedia,kodemedia.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+flex,flex.legal,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+tempoaudits,tempoaudits.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED

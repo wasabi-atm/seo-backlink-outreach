@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Cibirix,cibirix.com,US,SEO and digital marketing agency,A,no,,42,https://www.cibirix.com/blog,2026-01-07,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Previsible,previsible.com,US,SEO and content marketing agency,A,no,,61,https://previsible.com/digital-marketing/,2026-10-13,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+BCB Group,bcbgroup.com,UK,"FinTech, B2B payments and banking infrastructure",B,no,,49,https://www.bcbgroup.com/insights/,2026-10-05,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-05. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Zeevou,zeevou.com,UAE,Property management SaaS for short-term rentals,B,no,,64,https://zeevou.com/blog/,2026-10-11,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-11. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+TekStream Solutions,tekstream.com,US,Splunk and Oracle IT consulting and staffing,B,no,,59,https://www.tekstream.com/blog/,2026-09-30,"Date from wp-json posts endpoint via Apify web-fetch; HQ from memory (Atlanta); staff approx 300 to 450, near upper limit",AP_B_US
+Clever,clever.com,US,K12 identity and rostering platform sold to schools and app partners,B,no,,81,https://www.clever.com/blog,2026-10-08,"Date from blog index via Apify web-fetch; HQ from memory (San Francisco); B2B edtech infrastructure, staff approx 300",AP_B_US
+MontyCloud,montycloud.com,US,Cloud operations automation for AWS partners and MSPs,B,no,,57,https://www.montycloud.com/blog,2026-05-22,"Dated post found via Apify web-fetch of blog path (May 22, 2026); newer posts may exist; HQ from memory",AP_B_US
+Connectbase,connectbase.com,US,Connectivity and fiber location intelligence software,B,no,,53,https://www.connectbase.com/blog,2026-04-22,Newest dated post on blog index via Apify web-fetch; HQ from memory,AP_B_US
+OneRail,onerail.com,US,Last mile delivery orchestration software,B,no,,55,https://www.onerail.com/blog/,2026-08-01,Newest dated post on blog index via Apify web-fetch; HQ from memory,AP_B_US
+Embrace,embrace.io,US,Mobile and web observability,B,no,,62,https://embrace.io/blog/,2026-09-09,Date from blog index via Apify web-fetch; HQ from memory (Portland OR),AP_B_US
+22squared,22squared.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+sprouts,sprouts.ai,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+sidecarpr,sidecarpr.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+karlaotto,karlaotto.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+socialstationagency,socialstationagency.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+nonbillable,nonbillable.co.uk,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+verto,verto.co,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED

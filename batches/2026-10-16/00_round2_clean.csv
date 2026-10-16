@@ -1,0 +1,102 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+AMI Marketing for Manufacturing,amiweb.co.uk,UK,B2B marketing agency for manufacturers,A,no,,72,https://amiweb.co.uk/marketing-strategies-for-manufacturers/,2026-09-30,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Cadence SEO,cadenceseo.com,US,SEO agency,A,no,,45,https://www.cadenceseo.com/blog/,2026-10-14,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+BuzzBoard,buzzboard.ai,US,Martech: AI sales and marketing platform for SMB selling,A,no,,53,https://www.buzzboard.ai/blog/,2026-01-07,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). US phone +1 415, Apollo listed it under the UK/US search.",AP_A
+Cibirix,cibirix.com,US,SEO and digital marketing agency,A,no,,42,https://www.cibirix.com/blog,2026-01-07,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Connective Web Design,connectivewebdesign.com,US,Web design and B2B marketing studio,A,no,,65,https://connectivewebdesign.com/blog,2026-10-03,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). Small team, size unverified.",AP_A
+Dawn,dawncreative.co.uk,UK,B2B brand and web agency,A,no,,46,https://www.wearedawn.co.uk/insight/,2026-08-04,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). Site redirects to wearedawn.co.uk.,AP_A
+Digital Neighbor,digitalneighbor.com,US,SEO agency,A,no,,56,https://digitalneighbor.com/metrics-for-local-seo,2026-10-08,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+BuyerForesight,buyerforesight.com,US,B2B market research and event marketing,A,no,,49,https://www.buyerforesight.com/blog/,2026-09-23,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). US phone but possible India operations, check before sending.",AP_A
+Local SEO Guide,localseoguide.com,US,SEO agency,A,no,,71,https://www.localseoguide.com/,2026-09-06,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). Newest post is Sep 2026, previous ones Aug 2025, so posting is infrequent.",AP_A
+Previsible,previsible.com,US,SEO and content marketing agency,A,no,,61,https://previsible.com/digital-marketing/,2026-10-13,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+SCG Advertising + Public Relations,scgadv.com,US,Advertising and PR agency,A,no,,51,https://scgadv.com/,2026-08-19,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+SEO Brand,seobrand.com,US,SEO agency,A,no,,51,https://www.seobrand.com/blog/,2026-09-24,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+SEO Optimizers,seooptimizers.com,US,SEO agency,A,no,,61,https://seooptimizers.com/blog/,2026-10-15,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+John Guilfoil Public Relations,jgpr.net,US,PR and communications firm,A,no,,66,https://jgpr.net/,2026-08-22,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Velo B2B,velo-b2b.com,UK,B2B marketing agency,A,no,,51,https://www.velo-b2b.com/insights/,2026-10-07,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+BCB Group,bcbgroup.com,UK,"FinTech, B2B payments and banking infrastructure",B,no,,49,https://www.bcbgroup.com/insights/,2026-10-05,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-05. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Harnham,harnham.com,UK,Data and analytics recruitment (B2B services),B,no,,41,https://www.harnham.com/,2026-10-14,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-14; posts are career advice articles. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Mobysoft,mobysoft.com,UK,Housing and rent analytics SaaS,B,no,,41,https://www.mobysoft.com/social-housing/,2026-05-20,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-05-20. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+The SecOps Group,pentestingexams.com,UK,Cybersecurity certifications and pentest training,B,no,,41,https://pentestingexams.com/insights/,2026-06-26,"Date confirmed via wp-json posts API (Apify web-fetch). Domain is the exam brand site of The SecOps Group. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+The Data City,thedatacity.com,UK,B2B business data and analytics platform,B,no,,62,https://thedatacity.com/blog/,2026-09-29,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-09-29. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Tickd,tickd.co.uk,UK,Energy broker software and tools for SMEs,B,no,,40,https://www.tickd.co.uk/news/,2026-09-02,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-09-02. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Zeevou,zeevou.com,UAE,Property management SaaS for short-term rentals,B,no,,64,https://zeevou.com/blog/,2026-10-11,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-11. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Disruptive HR,disruptivehr.com,UK,HR consultancy and HR tech advisory,B,no,,40,https://disruptivehr.com/,2026-10-12,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-12. DR is exactly 40. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Runa,runa.io,UK,Rewards and payouts API platform,B,no,,59,https://runa.io/blog/,2026-07-01,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-07-01. HQ from memory (verify, may be US). HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Strider Technologies,striderintel.com,US,Supply chain and research security intelligence,B,no,,55,https://striderintel.com/from-assessment-to-action-building-a-proactive-insider-threat-program/,2026-09-29,Date from WordPress RSS feed at /feed/ via Apify web-fetch; HQ from memory (Salt Lake City); staff approx 100,AP_B_US
+Black Hills Information Security,blackhillsinfosec.com,US,Cybersecurity services and training,B,no,,70,https://www.blackhillsinfosec.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (Sturgis SD); staff approx 100,AP_B_US
+NINJIO,ninjio.com,US,Security awareness training,B,no,,54,https://ninjio.com/blog/,2026-10-13,Date from wp-json posts endpoint via Apify web-fetch; HQ from memory,AP_B_US
+TekStream Solutions,tekstream.com,US,Splunk and Oracle IT consulting and staffing,B,no,,59,https://www.tekstream.com/blog/,2026-09-30,"Date from wp-json posts endpoint via Apify web-fetch; HQ from memory (Atlanta); staff approx 300 to 450, near upper limit",AP_B_US
+Fingerprint,fingerprint.com,US,Device intelligence and fraud prevention SaaS,B,no,,74,https://fingerprint.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (Chicago),AP_B_US
+Reco,reco.ai,US,SaaS and AI agent security,B,no,,69,https://reco.ai/blog,2026-10-09,"Date from blog index via Apify web-fetch; HQ from memory (New York, R&D in Israel)",AP_B_US
+Transmit Security,transmitsecurity.com,US,Identity and fraud prevention platform,B,no,,54,https://transmitsecurity.com/blog,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (Boston); domain checked as transmit.security; staff may be near 500,AP_B_US
+Scalr,scalr.com,US,Terraform and OpenTofu management platform,B,no,,67,https://www.scalr.com/blog,2026-10-15,"Date from Learning Center index (last updated Oct 15, 2026) via Apify web-fetch; HQ from memory (Sunnyvale CA)",AP_B_US
+Ketch,ketch.com,US,Data privacy and consent management platform,B,no,,73,https://www.ketch.com/blog,2026-09-15,Newest dated post on blog index via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+Clever,clever.com,US,K12 identity and rostering platform sold to schools and app partners,B,no,,81,https://www.clever.com/blog,2026-10-08,"Date from blog index via Apify web-fetch; HQ from memory (San Francisco); B2B edtech infrastructure, staff approx 300",AP_B_US
+Suzy,suzy.com,US,Consumer insights and market research SaaS,B,no,,60,https://suzy.com/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (New York),AP_B_US
+Rogo,rogo.ai,US,AI platform for financial services,B,no,,70,https://www.rogo.ai/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory (New York),AP_B_US
+BigPanda,bigpanda.io,US,AIOps and IT operations software,B,no,,73,https://www.bigpanda.io/blog/,2026-10-09,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+DroneDeploy,dronedeploy.com,US,Reality capture software for construction and industry,B,no,,75,https://www.dronedeploy.com/blog,2026-09-23,Date from blog index via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+Virtru,virtru.com,US,Data centric encryption and security,B,no,,74,https://www.virtru.com/blog,2026-10-14,Date seen on blog index via Apify web-fetch; HQ from memory (Washington DC area),AP_B_US
+MontyCloud,montycloud.com,US,Cloud operations automation for AWS partners and MSPs,B,no,,57,https://www.montycloud.com/blog,2026-05-22,"Dated post found via Apify web-fetch of blog path (May 22, 2026); newer posts may exist; HQ from memory",AP_B_US
+BatchData,batchdata.io,US,Real estate data and API provider,B,no,,58,https://batchdata.io/blog,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Scottsdale AZ),AP_B_US
+Anaconda,anaconda.com,US,Python and AI development platform,B,no,,85,https://www.anaconda.com/blog,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Austin TX); staff approx 300 to 400,AP_B_US
+WEKA,weka.io,US,AI data platform and storage software,B,no,,73,https://www.weka.io/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (Campbell CA); staff may be near 500,AP_B_US
+TetraScience,tetrascience.com,US,Scientific data cloud for life sciences,B,no,,59,https://www.tetrascience.com/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory (Boston),AP_B_US
+dscout,dscout.com,US,UX research platform,B,no,,74,https://dscout.com/people-nerds,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Chicago),AP_B_US
+Connectbase,connectbase.com,US,Connectivity and fiber location intelligence software,B,no,,53,https://www.connectbase.com/blog,2026-04-22,Newest dated post on blog index via Apify web-fetch; HQ from memory,AP_B_US
+Vroozi,vroozi.com,US,Procurement and accounts payable software,B,no,,48,https://www.vroozi.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (California),AP_B_US
+Eve Legal,eve.legal,US,AI platform for plaintiff law firms,B,no,,59,https://eve.legal/blog,2026-09-30,Date from blog index (Tort Report) via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+Supio,supio.com,US,AI platform for personal injury law firms,B,no,,48,https://supio.com/blog,2026-08-05,Newest dated post on blog index via Apify web-fetch; HQ from memory (Seattle area),AP_B_US
+Visitt,visitt.io,US,Commercial real estate operations software,B,no,,45,https://www.visitt.io/blog,2026-09-30,Date from blog index via Apify web-fetch; HQ from memory (New York); staff approx 50 to 100,AP_B_US
+CheckAlt,checkalt.com,US,Receivables and lockbox payments technology for banks,B,no,,52,https://www.checkalt.com/blog,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+OneRail,onerail.com,US,Last mile delivery orchestration software,B,no,,55,https://www.onerail.com/blog/,2026-08-01,Newest dated post on blog index via Apify web-fetch; HQ from memory,AP_B_US
+ShipperHQ,shipperhq.com,US,Ecommerce shipping rates and checkout software,B,no,,65,https://shipperhq.com/blog,2026-10-15,"Date from blog index via Apify web-fetch; HQ from memory; small team, approx 50",AP_B_US
+CMT.AI (Cambridge Mobile Telematics),cmtelematics.com,US,Telematics and AI platform for insurers,B,no,,71,https://www.cmtelematics.com/blog/,2026-10-15,Date from news and insights index via Apify web-fetch; HQ Cambridge MA stated on page; staff may be near 500,AP_B_US
+Zenwork,zenwork.com,US,Tax compliance and 1099 reporting software,B,no,,56,https://www.zenwork.com/blog/,2026-06-09,Newest dated post on blog index via Apify web-fetch; HQ from memory,AP_B_US
+EHS Insight,ehsinsight.com,US,Environmental health and safety software,B,no,,61,https://www.ehsinsight.com/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+TrueFoundry,truefoundry.com,US,AI gateway and ML platform,B,no,,73,https://www.truefoundry.com/blog,2026-10-16,Date from blog index via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+Embrace,embrace.io,US,Mobile and web observability,B,no,,62,https://embrace.io/blog/,2026-09-09,Date from blog index via Apify web-fetch; HQ from memory (Portland OR),AP_B_US
+nOps,nops.io,US,FinOps and cloud cost optimization,B,no,,64,https://www.nops.io/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+Rafay,rafay.co,US,Kubernetes and GPU cloud orchestration,B,no,,69,https://rafay.co/the-kubernetes-current/,2026-09-22,Date from blog index via Apify web-fetch; HQ from memory (Sunnyvale CA),AP_B_US
+Hydrolix,hydrolix.io,US,Streaming data lake for logs and observability,B,no,,60,https://hydrolix.io/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+Orkes,orkes.io,US,Workflow orchestration and agent platform (Conductor),B,no,,55,https://orkes.io/blog,2026-10-06,Date from blog index via Apify web-fetch; HQ from memory (Cupertino CA),AP_B_US
+Syndio,synd.io,US,Pay equity software for HR,B,no,,67,https://synd.io/blog/,2026-10-14,Date from resources index via Apify web-fetch; HQ from memory (Seattle),AP_B_US
+22squared,22squared.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+marketone,marketone.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+fullfunnel,fullfunnel.co,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+cpgguys,cpgguys.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+conversica,conversica.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+guidde,guidde.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+sprouts,sprouts.ai,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+uncommonagency,uncommonagency.co,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+madeinhaus,madeinhaus.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+marketscale,marketscale.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+propensity,propensity.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+rioseo,rioseo.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+sidecarpr,sidecarpr.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+regexseo,regexseo.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+verygoodcopy,verygoodcopy.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+worldcomgroup,worldcomgroup.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+brandnation,brandnation.co.uk,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+famouscampaigns,famouscampaigns.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+karlaotto,karlaotto.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+rhapsodymedia,rhapsodymedia.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+wearewiser,wearewiser.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+kodemedia,kodemedia.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+sister,sister.net,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+arn,arn.ae,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+socialstationagency,socialstationagency.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+bango,bango.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+eventree,eventree.co.uk,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+flex,flex.legal,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+getapron,getapron.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+nativeteams,nativeteams.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+nonbillable,nonbillable.co.uk,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+nuwebgroup,nuwebgroup.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+protect,protect.group,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+tempoaudits,tempoaudits.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+venditan,venditan.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+veremark,veremark.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+verto,verto.co,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+kerboo,kerboo.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED

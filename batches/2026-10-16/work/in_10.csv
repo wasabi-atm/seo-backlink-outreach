@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+BuzzBoard,buzzboard.ai,US,Martech: AI sales and marketing platform for SMB selling,A,no,,53,https://www.buzzboard.ai/blog/,2026-01-07,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). US phone +1 415, Apollo listed it under the UK/US search.",AP_A
+Local SEO Guide,localseoguide.com,US,SEO agency,A,no,,71,https://www.localseoguide.com/,2026-09-06,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). Newest post is Sep 2026, previous ones Aug 2025, so posting is infrequent.",AP_A
+Velo B2B,velo-b2b.com,UK,B2B marketing agency,A,no,,51,https://www.velo-b2b.com/insights/,2026-10-07,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Tickd,tickd.co.uk,UK,Energy broker software and tools for SMEs,B,no,,40,https://www.tickd.co.uk/news/,2026-09-02,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-09-02. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+NINJIO,ninjio.com,US,Security awareness training,B,no,,54,https://ninjio.com/blog/,2026-10-13,Date from wp-json posts endpoint via Apify web-fetch; HQ from memory,AP_B_US
+Ketch,ketch.com,US,Data privacy and consent management platform,B,no,,73,https://www.ketch.com/blog,2026-09-15,Newest dated post on blog index via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+Virtru,virtru.com,US,Data centric encryption and security,B,no,,74,https://www.virtru.com/blog,2026-10-14,Date seen on blog index via Apify web-fetch; HQ from memory (Washington DC area),AP_B_US
+dscout,dscout.com,US,UX research platform,B,no,,74,https://dscout.com/people-nerds,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Chicago),AP_B_US
+CheckAlt,checkalt.com,US,Receivables and lockbox payments technology for banks,B,no,,52,https://www.checkalt.com/blog,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+TrueFoundry,truefoundry.com,US,AI gateway and ML platform,B,no,,73,https://www.truefoundry.com/blog,2026-10-16,Date from blog index via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+Syndio,synd.io,US,Pay equity software for HR,B,no,,67,https://synd.io/blog/,2026-10-14,Date from resources index via Apify web-fetch; HQ from memory (Seattle),AP_B_US
+guidde,guidde.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+rioseo,rioseo.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+famouscampaigns,famouscampaigns.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+arn,arn.ae,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+nativeteams,nativeteams.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+veremark,veremark.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED

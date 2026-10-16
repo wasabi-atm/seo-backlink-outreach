@@ -1,0 +1,44 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Strider Technologies,striderintel.com,US,Supply chain and research security intelligence,B,no,,55,https://striderintel.com/from-assessment-to-action-building-a-proactive-insider-threat-program/,2026-09-29,Date from WordPress RSS feed at /feed/ via Apify web-fetch; HQ from memory (Salt Lake City); staff approx 100
+Black Hills Information Security,blackhillsinfosec.com,US,Cybersecurity services and training,B,no,,70,https://www.blackhillsinfosec.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (Sturgis SD); staff approx 100
+NINJIO,ninjio.com,US,Security awareness training,B,no,,54,https://ninjio.com/blog/,2026-10-13,Date from wp-json posts endpoint via Apify web-fetch; HQ from memory
+TekStream Solutions,tekstream.com,US,Splunk and Oracle IT consulting and staffing,B,no,,59,https://www.tekstream.com/blog/,2026-09-30,"Date from wp-json posts endpoint via Apify web-fetch; HQ from memory (Atlanta); staff approx 300 to 450, near upper limit"
+Fingerprint,fingerprint.com,US,Device intelligence and fraud prevention SaaS,B,no,,74,https://fingerprint.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (Chicago)
+CodeRabbit,coderabbit.ai,US,AI code review dev tool,B,no,,80,https://www.coderabbit.ai/blog,2026-10-13,Date from blog index (10.13.26) via Apify web-fetch; HQ from memory (San Francisco)
+Reco,reco.ai,US,SaaS and AI agent security,B,no,,69,https://reco.ai/blog,2026-10-09,"Date from blog index via Apify web-fetch; HQ from memory (New York, R&D in Israel)"
+Transmit Security,transmitsecurity.com,US,Identity and fraud prevention platform,B,no,,54,https://transmitsecurity.com/blog,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (Boston); domain checked as transmit.security; staff may be near 500
+Scalr,scalr.com,US,Terraform and OpenTofu management platform,B,no,,67,https://www.scalr.com/blog,2026-10-15,"Date from Learning Center index (last updated Oct 15, 2026) via Apify web-fetch; HQ from memory (Sunnyvale CA)"
+Suralink,suralink.com,US,Audit and accounting client collaboration software,B,no,,67,https://www.suralink.com/blog,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory
+Ketch,ketch.com,US,Data privacy and consent management platform,B,no,,73,https://www.ketch.com/blog,2026-09-15,Newest dated post on blog index via Apify web-fetch; HQ from memory (San Francisco)
+Clever,clever.com,US,K12 identity and rostering platform sold to schools and app partners,B,no,,81,https://www.clever.com/blog,2026-10-08,"Date from blog index via Apify web-fetch; HQ from memory (San Francisco); B2B edtech infrastructure, staff approx 300"
+Suzy,suzy.com,US,Consumer insights and market research SaaS,B,no,,60,https://suzy.com/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (New York)
+Rogo,rogo.ai,US,AI platform for financial services,B,no,,70,https://www.rogo.ai/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory (New York)
+BigPanda,bigpanda.io,US,AIOps and IT operations software,B,no,,73,https://www.bigpanda.io/blog/,2026-10-09,Date from blog index via Apify web-fetch; HQ from memory
+DroneDeploy,dronedeploy.com,US,Reality capture software for construction and industry,B,no,,75,https://www.dronedeploy.com/blog,2026-09-23,Date from blog index via Apify web-fetch; HQ from memory (San Francisco)
+Virtru,virtru.com,US,Data centric encryption and security,B,no,,74,https://www.virtru.com/blog,2026-10-14,Date seen on blog index via Apify web-fetch; HQ from memory (Washington DC area)
+MontyCloud,montycloud.com,US,Cloud operations automation for AWS partners and MSPs,B,no,,57,https://www.montycloud.com/blog,2026-05-22,"Dated post found via Apify web-fetch of blog path (May 22, 2026); newer posts may exist; HQ from memory"
+BatchData,batchdata.io,US,Real estate data and API provider,B,no,,58,https://batchdata.io/blog,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Scottsdale AZ)
+Anaconda,anaconda.com,US,Python and AI development platform,B,no,,85,https://www.anaconda.com/blog,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Austin TX); staff approx 300 to 400
+WEKA,weka.io,US,AI data platform and storage software,B,no,,73,https://www.weka.io/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (Campbell CA); staff may be near 500
+TetraScience,tetrascience.com,US,Scientific data cloud for life sciences,B,no,,59,https://www.tetrascience.com/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory (Boston)
+dscout,dscout.com,US,UX research platform,B,no,,74,https://dscout.com/people-nerds,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Chicago)
+Connectbase,connectbase.com,US,Connectivity and fiber location intelligence software,B,no,,53,https://www.connectbase.com/blog,2026-04-22,Newest dated post on blog index via Apify web-fetch; HQ from memory
+Vroozi,vroozi.com,US,Procurement and accounts payable software,B,no,,48,https://www.vroozi.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (California)
+Eve Legal,eve.legal,US,AI platform for plaintiff law firms,B,no,,59,https://eve.legal/blog,2026-09-30,Date from blog index (Tort Report) via Apify web-fetch; HQ from memory (San Francisco)
+Supio,supio.com,US,AI platform for personal injury law firms,B,no,,48,https://supio.com/blog,2026-08-05,Newest dated post on blog index via Apify web-fetch; HQ from memory (Seattle area)
+Visitt,visitt.io,US,Commercial real estate operations software,B,no,,45,https://www.visitt.io/blog,2026-09-30,Date from blog index via Apify web-fetch; HQ from memory (New York); staff approx 50 to 100
+CheckAlt,checkalt.com,US,Receivables and lockbox payments technology for banks,B,no,,52,https://www.checkalt.com/blog,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory
+OneRail,onerail.com,US,Last mile delivery orchestration software,B,no,,55,https://www.onerail.com/blog/,2026-08-01,Newest dated post on blog index via Apify web-fetch; HQ from memory
+ShipperHQ,shipperhq.com,US,Ecommerce shipping rates and checkout software,B,no,,65,https://shipperhq.com/blog,2026-10-15,"Date from blog index via Apify web-fetch; HQ from memory; small team, approx 50"
+CMT.AI (Cambridge Mobile Telematics),cmtelematics.com,US,Telematics and AI platform for insurers,B,no,,71,https://www.cmtelematics.com/blog/,2026-10-15,Date from news and insights index via Apify web-fetch; HQ Cambridge MA stated on page; staff may be near 500
+Zenwork,zenwork.com,US,Tax compliance and 1099 reporting software,B,no,,56,https://www.zenwork.com/blog/,2026-06-09,Newest dated post on blog index via Apify web-fetch; HQ from memory
+EHS Insight,ehsinsight.com,US,Environmental health and safety software,B,no,,61,https://www.ehsinsight.com/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory
+TrueFoundry,truefoundry.com,US,AI gateway and ML platform,B,no,,73,https://www.truefoundry.com/blog,2026-10-16,Date from blog index via Apify web-fetch; HQ from memory (San Francisco)
+Embrace,embrace.io,US,Mobile and web observability,B,no,,62,https://embrace.io/blog/,2026-09-09,Date from blog index via Apify web-fetch; HQ from memory (Portland OR)
+nOps,nops.io,US,FinOps and cloud cost optimization,B,no,,64,https://www.nops.io/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory
+Rafay,rafay.co,US,Kubernetes and GPU cloud orchestration,B,no,,69,https://rafay.co/the-kubernetes-current/,2026-09-22,Date from blog index via Apify web-fetch; HQ from memory (Sunnyvale CA)
+Hydrolix,hydrolix.io,US,Streaming data lake for logs and observability,B,no,,60,https://hydrolix.io/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory
+CloudBolt,cloudbolt.io,US,Cloud management and FinOps software,B,no,,71,https://www.cloudbolt.io/blog/,2026-09-01,Newest dated post on blog index via Apify web-fetch; HQ from memory
+Spekit,spekit.com,US,Sales enablement and in app guidance,B,no,,70,https://www.spekit.com/blog,2026-10-05,Date from blog index via Apify web-fetch; HQ from memory
+Orkes,orkes.io,US,Workflow orchestration and agent platform (Conductor),B,no,,55,https://orkes.io/blog,2026-10-06,Date from blog index via Apify web-fetch; HQ from memory (Cupertino CA)
+Syndio,synd.io,US,Pay equity software for HR,B,no,,67,https://synd.io/blog/,2026-10-14,Date from resources index via Apify web-fetch; HQ from memory (Seattle)

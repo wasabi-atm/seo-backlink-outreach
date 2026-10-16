@@ -1,0 +1,17 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Dawn,dawncreative.co.uk,UK,B2B brand and web agency,A,no,,46,https://www.wearedawn.co.uk/insight/,2026-08-04,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). Site redirects to wearedawn.co.uk.,AP_A
+SEO Brand,seobrand.com,US,SEO agency,A,no,,51,https://www.seobrand.com/blog/,2026-09-24,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Mobysoft,mobysoft.com,UK,Housing and rent analytics SaaS,B,no,,41,https://www.mobysoft.com/social-housing/,2026-05-20,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-05-20. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Runa,runa.io,UK,Rewards and payouts API platform,B,no,,59,https://runa.io/blog/,2026-07-01,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-07-01. HQ from memory (verify, may be US). HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Reco,reco.ai,US,SaaS and AI agent security,B,no,,69,https://reco.ai/blog,2026-10-09,"Date from blog index via Apify web-fetch; HQ from memory (New York, R&D in Israel)",AP_B_US
+Rogo,rogo.ai,US,AI platform for financial services,B,no,,70,https://www.rogo.ai/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory (New York),AP_B_US
+Anaconda,anaconda.com,US,Python and AI development platform,B,no,,85,https://www.anaconda.com/blog,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Austin TX); staff approx 300 to 400,AP_B_US
+Eve Legal,eve.legal,US,AI platform for plaintiff law firms,B,no,,59,https://eve.legal/blog,2026-09-30,Date from blog index (Tort Report) via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+CMT.AI (Cambridge Mobile Telematics),cmtelematics.com,US,Telematics and AI platform for insurers,B,no,,71,https://www.cmtelematics.com/blog/,2026-10-15,Date from news and insights index via Apify web-fetch; HQ Cambridge MA stated on page; staff may be near 500,AP_B_US
+Rafay,rafay.co,US,Kubernetes and GPU cloud orchestration,B,no,,69,https://rafay.co/the-kubernetes-current/,2026-09-22,Date from blog index via Apify web-fetch; HQ from memory (Sunnyvale CA),AP_B_US
+fullfunnel,fullfunnel.co,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+madeinhaus,madeinhaus.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+verygoodcopy,verygoodcopy.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+wearewiser,wearewiser.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+eventree,eventree.co.uk,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+protect,protect.group,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED

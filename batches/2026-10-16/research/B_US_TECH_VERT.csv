@@ -1,0 +1,24 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Propy,propy.com,US,SF real estate transaction platform,Segment B proptech,no,,67,https://www.propy.com/browse/blog/,2026-02-03,Date from blog index via Apify crawl. HQ from memory (San Francisco).
+ShipHawk,shiphawk.com,US,Multi-carrier shipping software,Segment B supply chain,no,,62,https://shiphawk.com/blog/,2026-09-18,Date from wp-json posts API (posts include event pages). HQ from memory (Denver).
+Credo AI,credo.ai,US,AI governance platform,Segment B AI,no,,71,https://www.credo.ai/blog,2026-10-06,Date from blog index via Apify crawl. HQ from memory (San Francisco).
+Truffle Security,trufflesecurity.com,US,"Secrets scanning, cybersecurity",Segment B cybersecurity,no,,71,https://trufflesecurity.com/blog,2026-10-15,Date from blog index via Apify crawl. HQ from memory (San Francisco).
+CloudBolt,cloudbolt.io,US,Cloud and FinOps management,Segment B cloud infra,no,,71,https://www.cloudbolt.io/blog/,2026-09-01,"Date from blog index via Apify crawl, only one date visible. HQ from memory (Reston VA)."
+Visual Lease,visuallease.com,US,Lease accounting software,Segment B proptech,no,,47,https://visuallease.com/blog/,2026-09-02,"Date from blog index via Apify crawl. HQ from memory (Boston area); DR is low, confirm."
+1upHealth,1up.health,US,Healthcare data interoperability,Segment B health IT,no,,57,https://1up.health/blog,2026-10-14,Date from blog index via Apify crawl. HQ from memory (Boston).
+Conveyor,conveyor.com,US,Security questionnaire automation,Segment B cybersecurity,no,,75,https://www.conveyor.com/blog,2026-09-24,Date from blog index via Apify crawl. HQ from memory (Austin).
+Flexpa,flexpa.com,US,Health insurance claims API,Segment B health IT,no,,62,https://www.flexpa.com/blog,2026-08-24,Date from blog index via Apify crawl. HQ from memory (San Francisco).
+Hover,hover.to,US,3D property measurement for contractors,Segment B vertical SaaS,no,,68,https://hover.to/blog/,2026-07-24,Date from blog index via Apify crawl. HQ from memory (San Francisco); staff may be near 300.
+Whistic,whistic.com,US,Vendor risk management,Segment B cybersecurity,no,,71,https://www.whistic.com/resources/blog,2026-09-15,"Date from blog index and post page via Apify crawl. HQ from memory (Lehi, Utah)."
+UtilityAPI,utilityapi.com,US,Utility data API,Segment B energy,no,,54,https://utilityapi.com/blog,2026-02-10,Date from blog index via Apify crawl. HQ from memory (Oakland).
+Terminal49,terminal49.com,US,Container tracking API,Segment B supply chain,no,,43,https://www.terminal49.com/blog,2026-03-05,"Date from blog index via Apify crawl. HQ from memory (San Francisco); small team, check size."
+Trunk Tools,trunktools.com,US,AI for construction project teams,Segment B construction tech,no,,41,https://www.trunktools.com/blog,2026-09-23,Date from blog index via Apify crawl. HQ from memory (New York).
+Route,routeapp.io,US,Order protection and package tracking for merchants,Segment B retail tech,no,,48,https://routeapp.io/blog,2026-09-03,"Date from blog index via Apify crawl. HQ from memory (Lehi, Utah)."
+Observable,observablehq.com,US,Data visualization and analytics platform,Segment B data platform,no,,82,https://observablehq.com/blog,2026-04-03,"Date from blog index via Apify crawl, only one date visible. HQ from memory (San Francisco)."
+Aviator,aviator.co,US,"Developer workflow tools, merge queue",Segment B dev tools,no,,54,https://www.aviator.co/blog,2026-10-14,"Date from blog index via Apify crawl. HQ from memory (San Francisco); small team, check size."
+Deno,deno.com,US,JavaScript runtime and edge hosting,Segment B dev tools,no,,83,https://deno.com/blog,2026-05-22,Date from blog index via Apify crawl. HQ from memory (San Francisco).
+vCluster Labs (Loft Labs),loft.sh,US,Kubernetes virtual clusters,Segment B cloud infra,no,,62,https://www.loft.sh/blog,2026-10-13,Date from blog index via Apify crawl. HQ from memory (San Francisco).
+Trunk,trunk.io,US,Code quality and CI tooling,Segment B dev tools,no,,59,https://trunk.io/blog,2026-07-17,"Date from blog index via Apify crawl, only one date visible. HQ from memory (San Francisco)."
+Nx (Nrwl),nx.dev,US,Monorepo build tooling and CI,Segment B dev tools,no,,78,https://nx.dev/blog,2026-10-08,"Date list on blog index via Apify crawl. HQ from memory (US, likely Pittsburgh); verify."
+CodeRabbit,coderabbit.ai,US,AI code review,Segment B dev tools,no,,80,https://www.coderabbit.ai/blog,2026-10-13,Date from blog index via Apify crawl. HQ from memory (San Francisco).
+Depot,depot.dev,US,Build acceleration and CI,Segment B dev tools,no,,70,https://depot.dev/blog,2026-10-13,Date from blog index via Apify crawl. HQ from memory (San Francisco).

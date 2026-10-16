@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Textedly,textedly.com,US,SMS marketing platform,A,no,,72,https://www.textedly.com/blog,2026-10-13,Date from blog index via Apify crawler; HQ from memory (US); serves small businesses,A_MARTECH
+Zipify,zipify.com,US,Shopify post-purchase upsell and funnel apps,A,no,,67,https://zipify.com/blog/,2026-09-30,"Date from blog index via Apify crawler; HQ from memory, verify; ecommerce focused",A_MARTECH
+KISS Communications,kisscom.co.uk,UK,B2B marketing agency for science and tech sectors (Cambridge),A,no,,67,https://kisscom.co.uk/news/,2026-06-25,Date from news index. Cambridge HQ from search listing. Staff size not verified.,A_UK_REGIONS
+Gravitate,gravitatedesign.com,US,Web design and digital marketing agency (Vancouver WA),A,no,,66,https://www.gravitatedesign.com/blog/,2026-10-01,"Date from WP REST API. HQ Vancouver WA per search results, about 26 staff per Datanyze. Serves B2B and B2C.",A_US_WEST_SOUTH
+Memgraph,memgraph.com,UK,Graph database / dev tools,B,no,,68,https://memgraph.com/blog,2026-10-08,Date confirmed on blog index via Apify crawl. HQ from memory (London). Staff est. 50-100.,B_UKUAE
+Cirrus,cirrusconnects.com,UK,Contact centre CCaaS,B,no,,47,https://www.cirrusconnects.com/blog/,2026-09-01,"Blog shows Sept 2026 post (Spice up your CX, upload path /2026/09/); exact day not confirmed, lower bound. HQ from memory (UK). Check group status.",B_UKUAE
+Spekit,spekit.com,US,Sales enablement and just in time learning platform,B,no,,70,https://www.spekit.com/blog,2026-10-11,"Index has no dates; date taken from Webflow asset ID timestamp of newest post thumbnails, so approximate. HQ from memory.",B_US_PEOPLE_FIN
+Egen,egen.ai,US,"Data, cloud and AI engineering services",B,no,,64,https://egen.ai/insights/,2026-09-30,Date from WP REST API via Apify. HQ from memory (Itasca IL).,B_US_SERVICES_AI
+Hume AI,hume.ai,US,Empathic voice AI,B,no,,72,https://www.hume.ai/blog,2026-10-06,Date seen on blog index via Apify crawl. HQ from memory (New York).,B_US_SERVICES_AI
+Visual Lease,visuallease.com,US,Lease accounting software,B,no,,47,https://visuallease.com/blog/,2026-09-02,"Date from blog index via Apify crawl. HQ from memory (Boston area); DR is low, confirm.",B_US_TECH_VERT
+Route,routeapp.io,US,Order protection and package tracking for merchants,B,no,,48,https://routeapp.io/blog,2026-09-03,"Date from blog index via Apify crawl. HQ from memory (Lehi, Utah).",B_US_TECH_VERT
+Depot,depot.dev,US,Build acceleration and CI,B,no,,70,https://depot.dev/blog,2026-10-13,Date from blog index via Apify crawl. HQ from memory (San Francisco).,B_US_TECH_VERT
+rainier,rainier.com,US,unknown (from leftovers),A,no,,44,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+clearbrief,clearbrief.com,US,unknown (from leftovers),B,no,,58,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+agencyzoom,agencyzoom.com,US,unknown (from leftovers),B,no,,62,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+redevolution,redevolution.com,UK,unknown (from leftovers),A,no,,59,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+newfangled,newfangled.com,US,unknown (from leftovers),A,no,,53,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER

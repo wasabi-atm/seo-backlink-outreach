@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Bitly,bitly.com,US,Link management and QR code platform,A,no,,90,https://bitly.com/blog,2026-10-15,Date from blog index via Apify crawler; HQ from memory (New York)
+imgix,imgix.com,US,Image and video processing CDN,A,no,,81,https://imgix.com/blog,2026-09-22,Date from blog index via Apify crawler; HQ from memory (San Francisco)
+Talkable,talkable.com,US,Referral and loyalty marketing platform,A,no,,71,https://www.talkable.com/blog/,2026-09-11,Date from WP REST API via Apify; HQ from memory (San Francisco)
+Cirrus Insight,cirrusinsight.com,US,Sales intelligence and Salesforce Gmail integration,A,no,,77,https://www.cirrusinsight.com/blog,2026-10-07,Date from blog index via Apify crawler; HQ from memory (Atlanta)
+ScreenPal,screencast-o-matic.com,US,Screen recording and video editing software,A,no,,78,https://www.screencast-o-matic.com/blog,2026-10-09,"Date from blog index via Apify crawler; HQ from memory; brand now ScreenPal; has education and consumer users, check fit"
+Wyzowl,wyzowl.com,UK,Explainer video production and marketing research,A,yes,Explainer and animated video production studio,87,https://www.wyzowl.com/blog/,2025-10-28,Newest dated post seen on blog index via Apify crawler (Oct 28 2025); HQ from memory (UK)
+Discourse,discourse.org,US,Community discussion platform,A,no,,84,https://blog.discourse.org/,2026-10-01,"Newest post URL is /2026/10/ (day not shown, 2026-10-01 used); HQ from memory (San Francisco)"
+Bettermode,bettermode.com,US,Community platform for customer and brand communities,A,no,,70,https://www.bettermode.com/blog,2026-10-13,"Date from blog index via Apify crawler; HQ from memory, verify (US entity, remote team)"
+Textedly,textedly.com,US,SMS marketing platform,A,no,,72,https://www.textedly.com/blog,2026-10-13,Date from blog index via Apify crawler; HQ from memory (US); serves small businesses
+GatherUp,gatherup.com,US,Review and reputation management platform for agencies,A,no,,75,https://www.gatherup.com/blog,2026-09-12,Date from WP REST API via Apify; HQ from memory (US)
+SimpleTexting,simpletexting.com,US,Business SMS marketing platform,A,no,,81,https://simpletexting.com/blog/,2026-08-26,"Date from WP REST API via Apify; HQ from memory (Ann Arbor, Michigan)"
+CallTrackingMetrics,ctm.com,US,Call tracking and marketing attribution software,A,no,,70,https://www.ctm.com/blog/,2026-10-14,"Date from WP REST API via Apify (blog moved to ctm.com); HQ from memory (Fort Lauderdale, Florida)"
+Phonexa,phonexa.com,US,Lead management and pay per call marketing software,A,no,,76,https://phonexa.com/blog/,2026-10-15,Date from WP REST API via Apify; HQ from memory (US)
+Adalysis,adalysis.com,US,PPC ad testing and optimization software,A,no,,63,https://adalysis.com/blog/,2026-10-13,"Date from WP REST API via Apify; HQ from memory, verify"
+MediaValet,mediavalet.com,US,Digital asset management software,A,no,,77,https://www.mediavalet.com/blog,2026-10-14,Date from WP REST API via Apify; HQ from memory (Utah)
+Customers.ai,customers.ai,US,Lead capture and retargeting for ecommerce marketers (formerly MobileMonkey),A,no,,78,https://customers.ai/blog,2026-07-01,Date from WP REST API via Apify; HQ from memory (Florida)
+Zipify,zipify.com,US,Shopify post-purchase upsell and funnel apps,A,no,,67,https://zipify.com/blog/,2026-09-30,"Date from blog index via Apify crawler; HQ from memory, verify; ecommerce focused"

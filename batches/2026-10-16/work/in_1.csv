@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+imgix,imgix.com,US,Image and video processing CDN,A,no,,81,https://imgix.com/blog,2026-09-22,Date from blog index via Apify crawler; HQ from memory (San Francisco),A_MARTECH
+SimpleTexting,simpletexting.com,US,Business SMS marketing platform,A,no,,81,https://simpletexting.com/blog/,2026-08-26,"Date from WP REST API via Apify; HQ from memory (Ann Arbor, Michigan)",A_MARTECH
+Sword and the Script,swordandthescript.com,US,B2B content marketing agency,A,no,,60,https://www.swordandthescript.com/blog/,2026-10-13,Date confirmed via wp-json posts API. HQ from memory. Staff size from memory.,A_UAE_PR_DESIGN
+Red Sky Digital,redskydigital.co.uk,UK,"Digital marketing, SEO and web design agency",A,no,,55,https://redskydigital.co.uk/news/,2026-07-01,"Date inferred from upload path 2026/07 on newest post images, no visible date. HQ from memory (Edinburgh, unverified). Staff size not verified.",A_UK_REGIONS
+Rise25,rise25.com,US,Podcast production and B2B podcast agency (Tiburon CA),A,no,,49,https://rise25.com/lead-generation/,2026-10-15,"Date from WP REST API. HQ Tiburon CA per Built In and Clutch (Chicago second location), about 31 staff. Distributed team.",A_US_WEST_SOUTH
+Netcraft,netcraft.com,UK,Cybersecurity / brand protection,B,no,,84,https://www.netcraft.com/blog/,2026-10-15,"Date confirmed on blog index via Apify crawl. UK address on page (London, Catherine Place). Staff est. 150-250.",B_UKUAE
+Rallyware,rallyware.com,US,Frontline sales enablement and learning platform,B,no,,52,https://www.rallyware.com/blog/,2026-10-15,Date shown on blog index (15 Oct 2026). HQ from memory.,B_US_PEOPLE_FIN
+Lindy,lindy.ai,US,AI agent platform (applied AI),B,no,,78,https://www.lindy.ai/blog,2026-10-15,Date seen on blog index via Apify crawl. HQ from memory (SF Bay Area).,B_US_SERVICES_AI
+Lightspeed Systems,lightspeedsystems.com,US,K-12 web filtering and device security software,B,no,,71,https://www.lightspeedsystems.com/blog/,2026-10-15,Date from WP REST API via Apify. HQ from memory (Austin TX). B2B sold to school districts.,B_US_SERVICES_AI
+Capacity,capacity.com,US,AI customer experience automation platform,B,no,,76,https://capacity.com/blog/,2026-08-20,Date seen on a post page via Apify fetch. HQ from memory (St. Louis MO); staff may be near the 500 cap.,B_US_SERVICES_AI
+Flexpa,flexpa.com,US,Health insurance claims API,B,no,,62,https://www.flexpa.com/blog,2026-08-24,Date from blog index via Apify crawl. HQ from memory (San Francisco).,B_US_TECH_VERT
+Aviator,aviator.co,US,"Developer workflow tools, merge queue",B,no,,54,https://www.aviator.co/blog,2026-10-14,"Date from blog index via Apify crawl. HQ from memory (San Francisco); small team, check size.",B_US_TECH_VERT
+topright,topright.co.uk,UK,unknown (from leftovers),A,no,,46,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+liquidagency,liquidagency.com,US,unknown (from leftovers),A,no,,49,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+cardknox,cardknox.com,US,unknown (from leftovers),B,no,,76,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+boldpenguin,boldpenguin.com,US,unknown (from leftovers),B,no,,58,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+fusionbox,fusionbox.com,US,unknown (from leftovers),A,no,,47,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER

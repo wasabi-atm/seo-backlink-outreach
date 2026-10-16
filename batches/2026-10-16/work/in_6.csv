@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Bettermode,bettermode.com,US,Community platform for customer and brand communities,A,no,,70,https://www.bettermode.com/blog,2026-10-13,"Date from blog index via Apify crawler; HQ from memory, verify (US entity, remote team)",A_MARTECH
+Customers.ai,customers.ai,US,Lead capture and retargeting for ecommerce marketers (formerly MobileMonkey),A,no,,78,https://customers.ai/blog,2026-07-01,Date from WP REST API via Apify; HQ from memory (Florida),A_MARTECH
+Studiowide,studiowide.co.uk,UK,B2B marketing agency for manufacturing and industrial clients (Liverpool),A,no,,53,https://www.studiowide.co.uk/news/,2026-09-16,Date from insights index. Liverpool HQ from search listing. Staff size not verified.,A_UK_REGIONS
+2POINT Agency,2pointagency.com,US,Full-service digital marketing agency (Dallas TX),A,no,,50,https://www.2pointagency.com/digital-lab/,2026-10-12,Date from WP REST API (digital-lab newsletter posts). HQ Dallas per search results. Staff size not verified.,A_US_WEST_SOUTH
+Tiny Frog Technologies,tinyfrog.com,US,"Web design, development and SEO agency (San Diego CA)",A,no,,61,https://tinyfrog.com/blog/,2026-09-23,"Date from WP REST API. HQ San Diego per DesignRush, about 20 staff. Skews to small business clients.",A_US_WEST_SOUTH
+Defense.com,defense.com,UK,Cybersecurity / threat detection and response,B,no,,45,https://defense.com/blog,2026-08-28,"Blog has 2026 posts incl. one citing the NCSC 27 August alert; exact day not confirmed, lower bound. HQ from memory (UK). Check whether part of a larger group.",B_UKUAE
+Conveyor,conveyor.com,US,Security questionnaire automation for sales teams,B,no,,75,https://www.conveyor.com/blog,2026-09-24,"Date shown on blog index (September 24, 2026). HQ from memory.",B_US_PEOPLE_FIN
+Gorilla Logic,gorillalogic.com,US,Software engineering and AI transformation services,B,no,,53,https://gorillalogic.com/insights/blogs/,2026-10-05,Date from WP REST API via Apify (10-05 is a press release in insights; latest plain blog 2026-09-17). HQ from memory (Denver CO); staff may be near the 500 cap.,B_US_SERVICES_AI
+Reducto,reducto.ai,US,AI document processing (applied AI),B,no,,67,https://reducto.ai/blog,2026-09-11,Date seen on blog index via Apify crawl. HQ from memory (San Francisco).,B_US_SERVICES_AI
+CloudBolt,cloudbolt.io,US,Cloud and FinOps management,B,no,,71,https://www.cloudbolt.io/blog/,2026-09-01,"Date from blog index via Apify crawl, only one date visible. HQ from memory (Reston VA).",B_US_TECH_VERT
+Trunk Tools,trunktools.com,US,AI for construction project teams,B,no,,41,https://www.trunktools.com/blog,2026-09-23,Date from blog index via Apify crawl. HQ from memory (New York).,B_US_TECH_VERT
+CodeRabbit,coderabbit.ai,US,AI code review,B,no,,80,https://www.coderabbit.ai/blog,2026-10-13,Date from blog index via Apify crawl. HQ from memory (San Francisco).,B_US_TECH_VERT
+bluefountainmedia,bluefountainmedia.com,US,unknown (from leftovers),A,no,,70,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+socotra,socotra.com,US,unknown (from leftovers),B,no,,55,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+c2fo,c2fo.com,US,unknown (from leftovers),B,no,,66,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+bronco,bronco.co.uk,UK,unknown (from leftovers),A,no,,71,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+mindgrub,mindgrub.com,US,unknown (from leftovers),A,no,,53,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
