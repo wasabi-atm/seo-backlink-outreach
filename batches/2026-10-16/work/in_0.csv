@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Bitly,bitly.com,US,Link management and QR code platform,A,no,,90,https://bitly.com/blog,2026-10-15,Date from blog index via Apify crawler; HQ from memory (New York),A_MARTECH
+GatherUp,gatherup.com,US,Review and reputation management platform for agencies,A,no,,75,https://www.gatherup.com/blog,2026-09-12,Date from WP REST API via Apify; HQ from memory (US),A_MARTECH
+Channel V Media,channelvmedia.com,US,B2B PR and communications agency,A,no,,53,https://channelvmedia.com/blog,2026-09-23,Date confirmed via wp-json posts API. NYC based. Staff size and independence from memory.,A_UAE_PR_DESIGN
+Objective Creative,objectivecreative.com,UK,B2B strategic marketing and creative agency (Sheffield),A,no,,49,https://www.objectivecreative.com/blog,2026-05-01,Latest listed post May 2026 (month only on blog index). Sheffield HQ confirmed in site footer. Staff size not verified.,A_UK_REGIONS
+Peaks Digital Marketing,peaksdigitalmarketing.com,US,SEO and digital marketing agency (Denver CO),A,no,,40,https://peaksdigitalmarketing.com/blog/,2026-03-16,"Newest dated post on blog index is March 16, 2026. HQ Denver per site claims and search. DR exactly 40. Staff size not verified.",A_US_WEST_SOUTH
+ProdPad,prodpad.com,UK,Product management SaaS,B,no,,72,https://www.prodpad.com/blog/,2026-10-15,Date confirmed on blog index via Apify crawl. HQ from memory (London). Staff est. 30-60.,B_UKUAE
+Suralink,suralink.com,US,Audit and accounting client collaboration software,B,no,,67,https://www.suralink.com/blog,2026-10-15,Date shown on blog index (weekly posts). HQ from memory (Dallas TX).,B_US_PEOPLE_FIN
+Everstage,everstage.com,US,Sales commission and incentive automation,B,no,,59,https://www.everstage.com/blog,2026-10-01,"Index has no dates; date taken from Webflow asset ID timestamp of the G2 Fall 2026 post image, so approximate. HQ from memory (San Francisco, team in Chennai).",B_US_PEOPLE_FIN
+Gigster,gigster.com,US,AI engineering and software delivery partner,B,no,,69,https://gigster.com/blog/,2026-08-24,Date from WP REST API via Apify. HQ from memory (SF Bay Area); staff count unverified.,B_US_SERVICES_AI
+Patronus AI,patronus.ai,US,AI evaluation and agent training environments,B,no,,65,https://www.patronus.ai/blog,2026-09-03,Date seen on blog index via Apify crawl. HQ from memory (New York / San Francisco).,B_US_SERVICES_AI
+1upHealth,1up.health,US,Healthcare data interoperability,B,no,,57,https://1up.health/blog,2026-10-14,Date from blog index via Apify crawl. HQ from memory (Boston).,B_US_TECH_VERT
+Observable,observablehq.com,US,Data visualization and analytics platform,B,no,,82,https://observablehq.com/blog,2026-04-03,"Date from blog index via Apify crawl, only one date visible. HQ from memory (San Francisco).",B_US_TECH_VERT
+quillcontent,quillcontent.com,UK,unknown (from leftovers),A,no,,43,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+sachsmedia,sachsmedia.com,US,unknown (from leftovers),A,no,,42,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+lawcus,lawcus.com,US,unknown (from leftovers),B,no,,62,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+hawksoft,hawksoft.com,US,unknown (from leftovers),B,no,,61,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+influxmarketing,influxmarketing.com,UK,unknown (from leftovers),A,no,,66,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER

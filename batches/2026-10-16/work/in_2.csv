@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Talkable,talkable.com,US,Referral and loyalty marketing platform,A,no,,71,https://www.talkable.com/blog/,2026-09-11,Date from WP REST API via Apify; HQ from memory (San Francisco),A_MARTECH
+CallTrackingMetrics,ctm.com,US,Call tracking and marketing attribution software,A,no,,70,https://www.ctm.com/blog/,2026-10-14,"Date from WP REST API via Apify (blog moved to ctm.com); HQ from memory (Fort Lauderdale, Florida)",A_MARTECH
+RevenueZen,revenuezen.com,US,SaaS SEO and content marketing agency,A,no,,61,https://revenuezen.com/blog/,2026-08-13,Date confirmed via wp-json posts API (firstpagestrategy.com redirects here). HQ from memory. Staff size from memory.,A_UAE_PR_DESIGN
+Substrakt,substrakt.com,UK,"Digital agency, websites and user research for cultural and public sector (Birmingham)",A,no,,62,https://substrakt.com/resources/,2026-08-10,"Date inferred from a screenshot filename dated 2026-08-10 on newest listed post, no visible date. HQ from memory (Birmingham). Staff size not verified.",A_UK_REGIONS
+Elatre,elatre.com,US,Creative marketing and software agency (Houston TX),A,no,,46,https://elatre.com/blog/,2026-08-19,"Latest post date taken from image filename 2026/08 and title ChatGPT-Image-Aug-19-2026; not confirmed on post page. HQ Houston per Semrush agency listing, 50 to 249 staff, offices in India. Content is partly consumer-leaning, check fit.",A_US_WEST_SOUTH
+StoreFeeder,storefeeder.com,UK,Ecommerce inventory and warehouse SaaS,B,no,,67,https://storefeeder.com/blog/,2026-10-15,Date confirmed on blog index via Apify crawl. HQ from memory (UK). Staff est. 30-60.,B_UKUAE
+Stigg,stigg.io,US,"Pricing, packaging and entitlements platform for SaaS",B,no,,61,https://stigg.io/blog,2026-10-12,"Date shown on blog index. HQ from memory (New York, R&D in Tel Aviv).",B_US_PEOPLE_FIN
+Rootstrap,rootstrap.com,US,Custom software and AI development services,B,no,,53,https://www.rootstrap.com/blog,2026-10-12,Date seen on blog index via Apify crawl. HQ from memory (Los Angeles area).,B_US_SERVICES_AI
+Credo AI,credo.ai,US,AI governance software,B,no,,71,https://www.credo.ai/blog,2026-10-06,Date seen on blog index via Apify crawl. HQ from memory (Palo Alto CA).,B_US_SERVICES_AI
+Zuar,zuar.com,US,Data analytics consulting and portal software,B,no,,52,https://zuar.com/blog/,2026-10-09,Date from blog RSS via Apify. HQ from memory (Portland OR).,B_US_SERVICES_AI
+Hover,hover.to,US,3D property measurement for contractors,B,no,,68,https://hover.to/blog/,2026-07-24,Date from blog index via Apify crawl. HQ from memory (San Francisco); staff may be near 300.,B_US_TECH_VERT
+Deno,deno.com,US,JavaScript runtime and edge hosting,B,no,,83,https://deno.com/blog,2026-05-22,Date from blog index via Apify crawl. HQ from memory (San Francisco).,B_US_TECH_VERT
+mediacurrent,mediacurrent.com,US,unknown (from leftovers),A,no,,52,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+innovationvisual,innovationvisual.com,US,unknown (from leftovers),A,no,,61,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+drivetrain,drivetrain.ai,US,unknown (from leftovers),B,no,,60,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+nymbus,nymbus.com,US,unknown (from leftovers),B,no,,52,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+brickmarketing,brickmarketing.com,US,unknown (from leftovers),A,no,,58,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER

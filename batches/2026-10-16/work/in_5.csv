@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Discourse,discourse.org,US,Community discussion platform,A,no,,84,https://blog.discourse.org/,2026-10-01,"Newest post URL is /2026/10/ (day not shown, 2026-10-01 used); HQ from memory (San Francisco)",A_MARTECH
+MediaValet,mediavalet.com,US,Digital asset management software,A,no,,77,https://www.mediavalet.com/blog,2026-10-14,Date from WP REST API via Apify; HQ from memory (Utah),A_MARTECH
+Opace,opace.agency,UK,"Digital agency, SEO and web development (Birmingham)",A,no,,49,https://opace.agency/blog/,2026-10-13,Date from blog index (13 Oct 2026). Birmingham HQ from search listing. Staff size not verified.,A_UK_REGIONS
+PRLab,prlab.co,US,PR and copywriting agency for tech brands (Austin TX),A,no,,57,https://prlab.co/blog/,2026-10-01,Date from WP REST API. HQ Austin per search results. Built In lists PRLab; staff size not verified.,A_US_WEST_SOUTH
+Mad Fish Digital,madfishdigital.com,US,"SEO, paid media and web agency (Portland OR)",A,no,,45,https://www.madfishdigital.com/blog/,2026-10-09,"Date from WP REST API. HQ Portland OR per DesignRush, about 27 staff per MarketingMonk. Serves B2B and B2C.",A_US_WEST_SOUTH
+Sylvera,sylvera.com,UK,Carbon credit ratings and data SaaS,B,no,,66,https://www.sylvera.com/blog,2026-10-01,"Blog features Q3 2026 Carbon Market Data Snapshot (published after quarter end); exact day not confirmed, lower bound. HQ from memory (London).",B_UKUAE
+BizLibrary,bizlibrary.com,US,Online employee training and video learning library,B,no,,62,https://www.bizlibrary.com/blog/,2026-10-06,"Date shown on blog index (Oct 6, 2026). HQ from memory; check ownership and staff size before sending.",B_US_PEOPLE_FIN
+Pactum,pactum.com,US,AI negotiation software for procurement,B,no,,53,https://pactum.com/blog/,2026-10-13,Date seen on blog index via Apify crawl. HQ from memory (Mountain View CA).,B_US_SERVICES_AI
+Resilinc,resilinc.com,US,Supply chain risk and resilience software,B,no,,59,https://www.resilinc.com/blog/,2026-10-15,Date seen on blog index via Apify crawl. HQ from memory (Pleasanton CA); staff may be near the 500 cap.,B_US_SERVICES_AI
+Truffle Security,trufflesecurity.com,US,"Secrets scanning, cybersecurity",B,no,,71,https://trufflesecurity.com/blog,2026-10-15,Date from blog index via Apify crawl. HQ from memory (San Francisco).,B_US_TECH_VERT
+Terminal49,terminal49.com,US,Container tracking API,B,no,,43,https://www.terminal49.com/blog,2026-03-05,"Date from blog index via Apify crawl. HQ from memory (San Francisco); small team, check size.",B_US_TECH_VERT
+Nx (Nrwl),nx.dev,US,Monorepo build tooling and CI,B,no,,78,https://nx.dev/blog,2026-10-08,"Date list on blog index via Apify crawl. HQ from memory (US, likely Pittsburgh); verify.",B_US_TECH_VERT
+seesparkbox,seesparkbox.com,US,unknown (from leftovers),A,no,,65,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+flowninja,flowninja.com,US,unknown (from leftovers),B,no,,69,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+ethico,ethico.com,US,unknown (from leftovers),B,no,,66,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+fatbuzz,fatbuzz.com,UK,unknown (from leftovers),A,no,,54,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
+titangrowth,titangrowth.com,US,unknown (from leftovers),A,no,,67,,,"LEFTOVER: blog date and HQ unconfirmed, verify in article step",LEFTOVER
