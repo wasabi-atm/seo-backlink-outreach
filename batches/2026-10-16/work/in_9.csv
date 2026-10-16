@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Cadence SEO,cadenceseo.com,US,SEO agency,A,no,,45,https://www.cadenceseo.com/blog/,2026-10-14,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+BuyerForesight,buyerforesight.com,US,B2B market research and event marketing,A,no,,49,https://www.buyerforesight.com/blog/,2026-09-23,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). US phone but possible India operations, check before sending.",AP_A
+John Guilfoil Public Relations,jgpr.net,US,PR and communications firm,A,no,,66,https://jgpr.net/,2026-08-22,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+The Data City,thedatacity.com,UK,B2B business data and analytics platform,B,no,,62,https://thedatacity.com/blog/,2026-09-29,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-09-29. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Black Hills Information Security,blackhillsinfosec.com,US,Cybersecurity services and training,B,no,,70,https://www.blackhillsinfosec.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (Sturgis SD); staff approx 100,AP_B_US
+Scalr,scalr.com,US,Terraform and OpenTofu management platform,B,no,,67,https://www.scalr.com/blog,2026-10-15,"Date from Learning Center index (last updated Oct 15, 2026) via Apify web-fetch; HQ from memory (Sunnyvale CA)",AP_B_US
+DroneDeploy,dronedeploy.com,US,Reality capture software for construction and industry,B,no,,75,https://www.dronedeploy.com/blog,2026-09-23,Date from blog index via Apify web-fetch; HQ from memory (San Francisco),AP_B_US
+TetraScience,tetrascience.com,US,Scientific data cloud for life sciences,B,no,,59,https://www.tetrascience.com/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory (Boston),AP_B_US
+Visitt,visitt.io,US,Commercial real estate operations software,B,no,,45,https://www.visitt.io/blog,2026-09-30,Date from blog index via Apify web-fetch; HQ from memory (New York); staff approx 50 to 100,AP_B_US
+EHS Insight,ehsinsight.com,US,Environmental health and safety software,B,no,,61,https://www.ehsinsight.com/blog,2026-10-08,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+Orkes,orkes.io,US,Workflow orchestration and agent platform (Conductor),B,no,,55,https://orkes.io/blog,2026-10-06,Date from blog index via Apify web-fetch; HQ from memory (Cupertino CA),AP_B_US
+conversica,conversica.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+propensity,propensity.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+brandnation,brandnation.co.uk,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+sister,sister.net,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+getapron,getapron.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+venditan,venditan.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED

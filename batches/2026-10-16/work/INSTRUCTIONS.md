@@ -20,3 +20,4 @@ Append ONE JSON line per company to `/home/user/seo-backlink-outreach/batches/20
 - Light fetches only. Use `apify--web-fetch` (and the wp-json/feed/sitemap routes), never `website-content-crawler`: the Apify account is near its memory cap.
 - Never say a page has no image, video or chart unless you saw it plainly in the markdown; put "check in browser" in notes when the hook rests on something the markdown may have dropped.
 - Also record `drChecked` = the domainRating from the input, unchanged.
+- Round 2: rows with slice UNCONFIRMED have an unknown HQ, country and blog date. Confirm HQ (UK, US or UAE; use country from the page), staff under 500, not part of a big group, and a dated article on or after 2024-10-16; skip with a reason if they fail. Set `country` in your output from what you found.

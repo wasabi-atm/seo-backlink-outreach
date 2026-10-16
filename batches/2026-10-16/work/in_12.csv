@@ -1,0 +1,18 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes,slice
+Connective Web Design,connectivewebdesign.com,US,Web design and B2B marketing studio,A,no,,65,https://connectivewebdesign.com/blog,2026-10-03,"Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified). Small team, size unverified.",AP_A
+SCG Advertising + Public Relations,scgadv.com,US,Advertising and PR agency,A,no,,51,https://scgadv.com/,2026-08-19,Date confirmed via Apify web-fetch of wp-json posts API. HQ and size per Apollo filters (not independently verified).,AP_A
+Harnham,harnham.com,UK,Data and analytics recruitment (B2B services),B,no,,41,https://www.harnham.com/,2026-10-14,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-14; posts are career advice articles. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Disruptive HR,disruptivehr.com,UK,HR consultancy and HR tech advisory,B,no,,40,https://disruptivehr.com/,2026-10-12,"Date confirmed via wp-json posts API (Apify web-fetch), newest 2026-10-12. DR is exactly 40. HQ per Apollo location filter; staff band from Apollo size filter (11-500), not individually verified.",AP_B_UKUAE
+Fingerprint,fingerprint.com,US,Device intelligence and fraud prevention SaaS,B,no,,74,https://fingerprint.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (Chicago),AP_B_US
+Suzy,suzy.com,US,Consumer insights and market research SaaS,B,no,,60,https://suzy.com/blog/,2026-10-13,Date from blog index via Apify web-fetch; HQ from memory (New York),AP_B_US
+BatchData,batchdata.io,US,Real estate data and API provider,B,no,,58,https://batchdata.io/blog,2026-10-15,Date from blog index via Apify web-fetch; HQ from memory (Scottsdale AZ),AP_B_US
+Vroozi,vroozi.com,US,Procurement and accounts payable software,B,no,,48,https://www.vroozi.com/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory (California),AP_B_US
+ShipperHQ,shipperhq.com,US,Ecommerce shipping rates and checkout software,B,no,,65,https://shipperhq.com/blog,2026-10-15,"Date from blog index via Apify web-fetch; HQ from memory; small team, approx 50",AP_B_US
+nOps,nops.io,US,FinOps and cloud cost optimization,B,no,,64,https://www.nops.io/blog/,2026-10-14,Date from blog index via Apify web-fetch; HQ from memory,AP_B_US
+marketone,marketone.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+uncommonagency,uncommonagency.co,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+regexseo,regexseo.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+rhapsodymedia,rhapsodymedia.com,,unknown,A,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+bango,bango.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+nuwebgroup,nuwebgroup.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
+kerboo,kerboo.com,,unknown,B,no,,40+ per discovery agent,,,"UNCONFIRMED: blog date and HQ unverified, confirm in article step",UNCONFIRMED
