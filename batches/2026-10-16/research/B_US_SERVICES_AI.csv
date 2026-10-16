@@ -1,0 +1,19 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Lindy,lindy.ai,US,AI agent platform (applied AI),B,no,,78,https://www.lindy.ai/blog,2026-10-15,Date seen on blog index via Apify crawl. HQ from memory (SF Bay Area).
+Rootstrap,rootstrap.com,US,Custom software and AI development services,B,no,,53,https://www.rootstrap.com/blog,2026-10-12,Date seen on blog index via Apify crawl. HQ from memory (Los Angeles area).
+Caktus Group,caktusgroup.com,US,"Custom software development (Django, Python)",B,no,,60,https://www.caktusgroup.com/blog/,2026-09-22,Date seen on blog index via Apify crawl. HQ from memory (Durham NC).
+Revelry,revelry.co,US,Software development and AI consulting,B,no,,46,https://revelry.co/insights/,2026-09-09,Date seen on insights index via Apify crawl. HQ from memory (Little Rock AR).
+Pactum,pactum.com,US,AI negotiation software for procurement,B,no,,53,https://pactum.com/blog/,2026-10-13,Date seen on blog index via Apify crawl. HQ from memory (Mountain View CA).
+Gorilla Logic,gorillalogic.com,US,Software engineering and AI transformation services,B,no,,53,https://gorillalogic.com/insights/blogs/,2026-10-05,Date from WP REST API via Apify (10-05 is a press release in insights; latest plain blog 2026-09-17). HQ from memory (Denver CO); staff may be near the 500 cap.
+Egen,egen.ai,US,"Data, cloud and AI engineering services",B,no,,64,https://egen.ai/insights/,2026-09-30,Date from WP REST API via Apify. HQ from memory (Itasca IL).
+Gigster,gigster.com,US,AI engineering and software delivery partner,B,no,,69,https://gigster.com/blog/,2026-08-24,Date from WP REST API via Apify. HQ from memory (SF Bay Area); staff count unverified.
+Lightspeed Systems,lightspeedsystems.com,US,K-12 web filtering and device security software,B,no,,71,https://www.lightspeedsystems.com/blog/,2026-10-15,Date from WP REST API via Apify. HQ from memory (Austin TX). B2B sold to school districts.
+Credo AI,credo.ai,US,AI governance software,B,no,,71,https://www.credo.ai/blog,2026-10-06,Date seen on blog index via Apify crawl. HQ from memory (Palo Alto CA).
+Replicant,replicant.com,US,Contact center AI voice agents,B,no,,59,https://www.replicant.com/blog,2026-10-14,Date seen on blog index via Apify crawl. HQ from memory (San Francisco).
+Hopstack,hopstack.io,US,Warehouse management and logistics software,B,no,,61,https://www.hopstack.io/blog,2026-09-22,"Date seen on blog index via Apify crawl. HQ from memory (San Jose CA, engineering in India); verify HQ."
+Resilinc,resilinc.com,US,Supply chain risk and resilience software,B,no,,59,https://www.resilinc.com/blog/,2026-10-15,Date seen on blog index via Apify crawl. HQ from memory (Pleasanton CA); staff may be near the 500 cap.
+Reducto,reducto.ai,US,AI document processing (applied AI),B,no,,67,https://reducto.ai/blog,2026-09-11,Date seen on blog index via Apify crawl. HQ from memory (San Francisco).
+Hume AI,hume.ai,US,Empathic voice AI,B,no,,72,https://www.hume.ai/blog,2026-10-06,Date seen on blog index via Apify crawl. HQ from memory (New York).
+Patronus AI,patronus.ai,US,AI evaluation and agent training environments,B,no,,65,https://www.patronus.ai/blog,2026-09-03,Date seen on blog index via Apify crawl. HQ from memory (New York / San Francisco).
+Capacity,capacity.com,US,AI customer experience automation platform,B,no,,76,https://capacity.com/blog/,2026-08-20,Date seen on a post page via Apify fetch. HQ from memory (St. Louis MO); staff may be near the 500 cap.
+Zuar,zuar.com,US,Data analytics consulting and portal software,B,no,,52,https://zuar.com/blog/,2026-10-09,Date from blog RSS via Apify. HQ from memory (Portland OR).
