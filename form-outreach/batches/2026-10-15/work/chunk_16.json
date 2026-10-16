@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Endowus",
+  "webDomain": "endowus.com",
+  "country": "SG",
+  "serviceType": "Wealth management fintech",
+  "segment": "B",
+  "drFree": "59",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "StashAway",
+  "webDomain": "stashaway.sg",
+  "country": "SG",
+  "serviceType": "Digital wealth fintech",
+  "segment": "B",
+  "drFree": "58",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Syfe",
+  "webDomain": "syfe.com",
+  "country": "SG",
+  "serviceType": "Investment fintech",
+  "segment": "B",
+  "drFree": "52",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Swingvy",
+  "webDomain": "swingvy.com",
+  "country": "SG",
+  "serviceType": "HR and payroll SaaS",
+  "segment": "B",
+  "drFree": "47",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "JustLogin",
+  "webDomain": "justlogin.com",
+  "country": "SG",
+  "serviceType": "HR software",
+  "segment": "B",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Rikvin",
+  "webDomain": "rikvin.com",
+  "country": "SG",
+  "serviceType": "Corporate services B2B",
+  "segment": "B",
+  "drFree": "43",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "ADA Asia",
+  "webDomain": "ada-asia.com",
+  "country": "SG",
+  "serviceType": "Data and digital marketing agency",
+  "segment": "A",
+  "drFree": "46",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "MoneySmart",
+  "webDomain": "moneysmart.sg",
+  "country": "SG",
+  "serviceType": "Fintech comparison platform",
+  "segment": "B",
+  "drFree": "68",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "SingSaver",
+  "webDomain": "singsaver.com.sg",
+  "country": "SG",
+  "serviceType": "Fintech comparison platform",
+  "segment": "B",
+  "drFree": "61",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Seedly",
+  "webDomain": "seedly.sg",
+  "country": "SG",
+  "serviceType": "Personal finance platform",
+  "segment": "B",
+  "drFree": "62",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

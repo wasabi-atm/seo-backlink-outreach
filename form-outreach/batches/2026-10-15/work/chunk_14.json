@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "FusionAuth",
+  "webDomain": "fusionauth.io",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page is a sales/demo pitch with no visible field labels"
+ },
+ {
+  "companyName": "Hasura",
+  "webDomain": "hasura.io",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows no visible field labels (pricing, demo and support enquiries"
+ },
+ {
+  "companyName": "Square 2 Marketing",
+  "webDomain": "square2marketing.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: /contact redirects to Brickwork services page with discovery call link only"
+ },
+ {
+  "companyName": "SeeResponse",
+  "webDomain": "seeresponse.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact and write-for-us pages show headings but no visible form field labels"
+ },
+ {
+  "companyName": "Cleverly",
+  "webDomain": "cleverly.co",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: /contact is a 404, only email and phone in footer"
+ },
+ {
+  "companyName": "Spear Marketing Group",
+  "webDomain": "spearmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page is a consultation booking with no visible field labels"
+ },
+ {
+  "companyName": "Marketbridge",
+  "webDomain": "marketbridge.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows required-fields note and offices but no visible field labels"
+ },
+ {
+  "companyName": "Roketto",
+  "webDomain": "helloroketto.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: domain now Sovyn, contact page shows address, phone and email only"
+ },
+ {
+  "companyName": "Major Tom",
+  "webDomain": "majortom.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows heading Start your mission but no field labels"
+ },
+ {
+  "companyName": "The Creative Momentum",
+  "webDomain": "thecreativemomentum.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: /contact is a 404 and /contact-us failed to load"
+ }
+]

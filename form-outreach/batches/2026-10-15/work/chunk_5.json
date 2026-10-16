@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Basecamp",
+  "webDomain": "basecamp.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact shows only a founder story with an email address"
+ },
+ {
+  "companyName": "Rewardful",
+  "webDomain": "rewardful.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Fetch failed on /contact (timeout), so no form could be verified"
+ },
+ {
+  "companyName": "Richpanel",
+  "webDomain": "richpanel.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page is a sales and demo pitch with no visible fields"
+ },
+ {
+  "companyName": "ClickDo",
+  "webDomain": "clickdo.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (only a budget dropdown visible, no field labels or message box in page text)"
+ },
+ {
+  "companyName": "Property Monitor",
+  "webDomain": "propertymonitor.com",
+  "country": "UAE",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site fetch failed twice (Apify run failed)"
+ },
+ {
+  "companyName": "Okadoc",
+  "webDomain": "okadoc.com",
+  "country": "UAE",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows only a 'Submit Form' button and help centre links, no visibl"
+ },
+ {
+  "companyName": "Octopus Deploy",
+  "webDomain": "octopus.com",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page lists only sales, finance and support email addresses, no form"
+ },
+ {
+  "companyName": "Lorikeet",
+  "webDomain": "lorikeetcx.ai",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: partner page shows only a Submit button with no visible field labels"
+ },
+ {
+  "companyName": "NuOptima",
+  "webDomain": "nuoptima.com",
+  "country": "UAE",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site fetch failed on several attempts (home, contact and blog runs failed or timed out)"
+ },
+ {
+  "companyName": "Groove",
+  "webDomain": "groovehq.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (no contact page found; /contact and /contact-us return 404, homepage only offer"
+ }
+]

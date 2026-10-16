@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Naseej",
+  "webDomain": "naseej.com",
+  "country": "UAE",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Not a marketing agency (education and library IT vendor, Saudi focus); /contact is 404 and no form f"
+ },
+ {
+  "companyName": "GuideCX",
+  "webDomain": "guidecx.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No general contact form found; /contact is 404 and site only offers a demo request"
+ },
+ {
+  "companyName": "WorkRamp",
+  "webDomain": "workramp.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; site now redirects to Confirm (Learning Pool group), contact page shows a sales"
+ },
+ {
+  "companyName": "Bray Leino",
+  "webDomain": "brayleino.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "form not verifiable: contact page shows only email addresses and phone"
+ },
+ {
+  "companyName": "Solvid",
+  "webDomain": "solvid.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "site could not be fetched (fetch failed twice)"
+ },
+ {
+  "companyName": "Zazzle Media",
+  "webDomain": "zazzlemedia.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "form not verifiable: contact page mentions a form but no field labels visible"
+ },
+ {
+  "companyName": "Greenlight Digital",
+  "webDomain": "greenlightdigital.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "domain now serves Brave Bison, a multi-brand media group; contact URL returned the homepage with no "
+ },
+ {
+  "companyName": "Wolff Olins",
+  "webDomain": "wolffolins.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "form not verifiable: contact page lists emails only, no form"
+ },
+ {
+  "companyName": "Made by Many",
+  "webDomain": "madebymany.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "no dated on-topic article: insights pages show no visible dates and the one brand-building post is a"
+ },
+ {
+  "companyName": "Audioboom",
+  "webDomain": "audioboom.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "no general contact form (/contact is 404, only support and advertiser pages) and blog is hosted on M"
+ }
+]

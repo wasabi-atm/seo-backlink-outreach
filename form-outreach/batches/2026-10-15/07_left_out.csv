@@ -1,0 +1,413 @@
+companyName,webDomain,reason,altEmail
+Juicebox,juicebox.ai,"Passed, held back: the only form is a partner Typeform that requires a LinkedIn profile URL (DR 70); spare for a later batch",
+Hive Learning,hivelearning.com,"Passed, held back: blog has had no new posts since late 2024 (DR 58); spare for a later batch",
+Redeye,redeye.com,"Passed, held back: blog dormant since February 2025 and the article is about email, not video or content (DR 66); spare for a later batch",
+Zeroseven,zeroseven.com.au,"Passed, held back: article is about UX design, a weaker fit, and the form has an 800 character limit (DR 44); spare for a later batch",
+Clearwater Agency,clearwateragency.com.au,"Passed, held back: weaker hook (no clear gap on the page) (DR 43); spare for a later batch",
+Louken Group,loukengroup.com,"Passed, held back: form is a client intake form with two required free text boxes, and posts are short event recaps (DR 44); spare for a later batch",
+SERV Agency,servagency.com.au,"Passed, held back: article has no section headings to tie the offer to (DR 65); spare for a later batch",
+TREW Marketing,trewmarketing.com,"Passed, held back: second step of the form could not be checked without clicking Next (DR 56); spare for a later batch",
+MediaOne,mediaone.sg,"Passed, held back: weaker hook (a missing H1 tag) and a rebuilt blog with only a few short posts (DR 53); spare for a later batch",
+Catalyst,wearecatalyst.co.uk,"Passed, held back: DR 40 and the article dates disagree (page 2026, schema 2025) (DR 40); spare for a later batch",
+Odyssey New Media,odysseynewmedia.com,"Passed, held back: article is general bank holiday tips, a weaker fit, DR 40 (DR 40); spare for a later batch",
+Content Factory,contentfac.com,"Passed, but the message box is limited to 350 characters, too short for the message (DR 64); spare for a later batch",
+Hype,wearehype.co.uk,"Passed, but the message box is limited to 500 characters, too short for the message (DR 41); spare for a later batch",
+Embryo Digital,embryodigital.co.uk,Already emailed: its live domain embryo.com is in the ledger (backlink-2026-09-25),
+Square 2 Marketing,square2marketing.com,Already emailed: its live domain brick.work is in the ledger (backlink-2026-10-14),
+Earnest,earnest-agency.com,Already emailed: its live domain transmissionagency.com is in the ledger (backlink-2026-09-25),
+Cloud Campaign,cloudcampaign.com,Already in another batch: queued in backlinkform-2026-10-14b (merged into the ledger after this run started),
+Veritone,veritone.com,"Passed but left out as unsure: Listed company, likely over 500 staff, and the article is almost a year old",
+Sisense,sisense.com,Passed but left out as unsure: Likely over 500 staff,
+Sigma Computing,sigmacomputing.com,Passed but left out as unsure: Likely over 500 staff,
+Dashlane,dashlane.com,"Passed but left out as unsure: Only form is a partner form with a required company size field, and the article is about workplace software adoption, not marketing",
+Learning Pool,learningpool.com,Passed but left out as unsure: Now merged into Confirm; size of the merged group unclear,
+Lumi,lumiglobal.com,"Passed but left out as unsure: Article is about investor communications, a weak fit",
+Four Communications,fourcommunications.com,"Passed but left out as unsure: No publish dates anywhere on the site, so the article could not be confirmed as recent",
+AIIMS Group,aiims.group,Passed but left out as unsure: Also sells video and podcast production (possible competitor),
+Made by Many,madebymany.com,Passed but left out as unsure: Article has no date anywhere on the page,
+Cofense,cofense.com,"Passed but left out as unsure: Article is a security post, a borderline topic fit",
+The Creative Momentum,thecreativemomentum.com,"Passed but left out as unsure: Lists explainer videos among its services (possible overlap with Motion), and the form reads like a project quote form",
+Archetype,archetype.co,"Passed but left out as unsure: Global PR network, may be over 500 staff",
+Kandji (now Iru),kandji.io,Passed but left out as unsure: Now rebranded as Iru; headcount may be over 500,
+Grizzle,grizzle.io,"Passed but left out as unsure: Only form is a book-an-intro-call page, and it lists video among its services (possible competitor)",
+Findmyshift,findmyshift.com,Passed but left out as unsure: Only form is a support team contact form,
+FastSpring,fastspring.com,"No general contact form: /contact only routes to seller support, consumer support or sales (demo form); chat widget otherwise",
+SimplePractice,simplepractice.com,"No contact form: /contact and /contact-us are 404, press and partners pages give email addresses only; suggested article (therapy notes) is clinical and off topic",PR@simplepractice.com; partnerships@simplepractice.com
+Mezmo,mezmo.com,No on-topic article: blog is observability and SRE engineering only; suggested trace analysis post is off topic technical content,
+Tenable,tenable.com,Over 500 staff (brief is 11 to 500): public company; suggested article (agentic AI security) is also off topic,
+UiPath,uipath.com,Over 500 staff (brief is 11 to 500): public company with thousands of staff,
+Trademo,trademo.com,No on-topic article: blog covers trade compliance and supply chain; suggested restricted party screening post is off topic,
+Wazuh,wazuh.com,No on-topic article: blog is security engineering only; suggested AWS access key compromise post is an off topic technical piece,
+Tanda,tanda.co,Sales only: contact forms are a demo booking calendar and a sales form with a required employee range dropdown; no general message form,support@workforce.com
+Mable,mable.com.au,"No on-topic article: newsroom and guides cover disability and aged care support and platform how-tos, nothing on marketing, brand, content or video",media@mable.com.au; info@mable.com.au
+Everlab,everlab.com.au,No on-topic article: blog is entirely preventive health and medical topics; only forms are referral partner and creator applications,"everlab@jacktaylorpr.com (media, via PR agency); support@everlab.com.au"
+Fathom,fathomhq.com,"No contact form: contact page lists emails and phone numbers only, plus an Intercom chat widget (checked live)",info@fathomhq.com
+Lawpath,lawpath.com.au,"No contact form: contact page offers phone, support email and live chat only; partner route is a PartnerStack referral sign up needing an account; blog topics are legal",support@lawpath.com.au
+OpenLearning,openlearning.com,Sales only: the Partnerships route leads to a sales form with required learner count and organisation type and no message box; other contact route is customer support and live chat,
+Mantel Group,mantelgroup.com.au,"Sales form: the only contact form (Pardot iframe) requires Company Size, Industry and an Australian State",
+Buildkite,buildkite.com,"No on-topic recent article: blog is CI/CD engineering; the design posts found (Unifying the Buildkite experience, visually; Product Design Principles) were last updated 2023 to 2024, before the cut off",
+Edstart,edstart.com.au,No blog: sitemap has 69 pages (school landing pages and case studies) and no articles,contact@edstart.com.au
+Novatti,novatti.com,No dated on-topic article: the only brand related post (brand refresh) shows no date anywhere and its JSON-LD dates are unfilled placeholders; other posts are payments topics,hello@novatti.com
+Reech,reech.com,Not based in UK/US/UAE/Australia/Singapore: French influencer agency (site defaults to French and calls itself France's most awarded influencer agency),
+Leadgenera,leadgenera.com,Site unreachable: leadgenera.com and www.leadgenera.com both timed out (ERR_CONNECTION_TIMED_OUT) in the browser,
+ADVANCE.AI,advance.ai,"No contact form; contact page shows only email addresses and a HubSpot chat widget, other route is Book a free demo",marketing@advance.ai
+Vase.ai,vase.ai,"Not really UK/US/UAE/AU/SG: main market is Malaysia (budget in RM, Malaysian phone, panel covers all Malaysian states); only form is a Contact Sales form",marketing@vase.ai
+Near,near.co,"near.co now redirects to an app login (app.livecompass.com); no company site, contact form or blog",
+Statsig,statsig.com,"Only form is a Talk to Sales lead form (Marketo) with no message box; consent text names Amplitude, so now part of a large public company",
+Canny,canny.io,No contact form; only request-demo and a support email/help centre,support@canny.io
+Lookback,lookback.com,No contact form; only a Book a demo Google calendar link and a help centre,
+Respondent,respondent.io,Only form is the Book a Demo sales form (footer Contact link also goes to /book-demo); its only partner option is API Integration / Partnership,info@respondent.io
+SavvyCal,savvycal.com,No contact form; only a support email,support@savvycal.com
+Productboard,productboard.com,"No general contact form; only demo/sales routes, support portal and a Google Forms partner programme application for resellers",support@productboard.com
+dbt Labs,getdbt.com,Only form is a Talk to a dbt expert demo form (page promises a live demo); company is also likely over 500 staff,
+HireVue,hirevue.com,Contact form not verifiable without typing: HubSpot iframe on /contact shows only an Email field (later steps appear after input); phone line is Sales and Business Development,
+Fly.io,fly.io,No usable contact form; /contact redirects to the community support forum and the only other form (on /about) has no message box,
+Netlify,netlify.com,"Only forms are sales (required Company size) and customer support; contact hub offers sales, support and partner programmes only",
+Jumio,jumio.com,"No on-topic article: blog is all identity verification, fraud, deepfake and eID regulation posts (some already have infographics)",
+Sift,sift.com,"Only form is a sales request form (required fraud challenge checkboxes, phone, 255 char message); press is email only",press@sift.com
+Basecamp,basecamp.com,"Only form is the customer support form (/support, topics are account, billing, bugs, features); no general, press or partnership form",jason@basecamp.com
+Rewardful,rewardful.com,"No contact form; footer Contact link is a mailto (hello@rewardful.com), other routes are Book a Demo and help centre",hello@rewardful.com
+ClickDo,clickdo.co.uk,"Sells guest posts and link placements (Guest Posting Services, Link Building Services, network of news blogs); link farm risk",digital@clickdo.co.uk
+Property Monitor,propertymonitor.com,"Contact form requires an industry pick with no honest option (Brokers, Lenders, Developers, Investment Advisors, Consultants, Surveyors, Valuers) plus phone and company; effectively a sales enquiry form",
+Okadoc,okadoc.com,"Only contact route is the patient Help Center (Want To Contact Us? button under booking FAQs), a customer support channel; no press or partnership form",
+Octopus Deploy,octopus.com,"No on-topic article: blog is technical DevOps and deployment content (Kubernetes, MCP onboarding, high availability), nothing on marketing, video or content",
+Lorikeet,lorikeetcx.ai,"No on-topic article: blog is AI customer support, voice AI, regulated CX and product launch posts (launch posts already embed a video)",partners@lorikeetcx.ai
+NuOptima,nuoptima.com,"Only form is a sales lead form (phone and website required, annual revenue range, top 3 competitors, no message box); agency also sells link building and digital PR",hello@nuoptima.com
+Groove,groovehq.com,"No contact form; groovehq.com now redirects to helply.com (Groove is now Helply) and /contact, /contact-us, /press, /partners all 404",
+Missive,missiveapp.com,"No contact form; /contact, /contact-us, /press, /write-for-us all 404; only email addresses and Calendly",info@missiveapp.com
+Qualified,qualified.com,"Now part of Salesforce (over 500 staff); footer contact link goes to salesforce.com contact page, no Qualified contact form",
+Terminus,terminus.com,Terminus now redirects to DemandScience; only form is a sales contact form (Pardot iframe with Chili Piper lead router),
+RollWorks,rollworks.com,"RollWorks now redirects to AdRoll; only form is a sales form (Questions about the AdRoll platform or pricing), plus agency meeting and support links",
+Uberflip,uberflip.com,"No contact form (contact page lists email, phone and address only); head office is Toronto, Canada",contact@uberflip.com
+Bevy,bevy.com,"No contact, partner or press form; only Book a Demo (sales); /contact, /b/contact, /b/press, /partners all 404",
+Unify,unify.com,"unify.com redirects to Mitel (business phone systems), over 500 staff (brief is 11 to 500)",
+Leadfeeder,leadfeeder.com,"No contact form (emails only); head office is Karlsruhe, Germany with Helsinki office, not UK/US/UAE/Australia/Singapore",info@leadfeeder.com
+Swipe Pages,swipepages.com,No contact form; footer Contact link is a blank # link and the only contact route is an Intercom chat widget; /contact and /press 404,
+Bluecore,bluecore.com,"Only form is the Talk to Us sales page (Jotform, pitched at enterprise retailers wanting a demo); Bluecore has been acquired by Insider One, well over 500 staff",
+MarketerHire,marketerhire.com,"No contact, press or partner form; /contact, /contact-us, /press, /partners all 404; only hiring (talent request) flows and an email address",contact@marketerhire.com
+Micky Weis,mickyweis.com,Danish-language site (lang da-DK) for a Danish marketing consultant; not based in UK/US/UAE/Australia/Singapore,
+SEO Tech Experts,seotechexperts.com,"Based in India (homepage title: India's No.1 SEO Company, Best in Gurgaon); not UK/US/UAE/Australia/Singapore",
+Incrementors,incrementors.com,"Doubtful base: only real office looks to be Rohini, Delhi, India; US office list reuses the same Sacramento apartment address for Michigan and a New Jersey ZIP for Wyoming, so not clearly UK/US/UAE based",hello@incrementors.com
+Brightery,brightery.com,"Unsure: blog is a scattered mix of unrelated topics (Women, Economy, Twitter Bot, Free Bootstrap Templates, hosting) plus self-promo city listicles, and the base is unclear (footer lists El Segundo, New York, Riyadh, Kuwait, Jakarta, Egypt; contact phone is +971)",
+Pitchbox,pitchbox.com,Only form is a sales lead form: required Company size and required Target cold email volume dropdowns,
+Webbiquity,webbiquity.com,"Homepage carries injected gambling links (1xbet, Slot Lair Casino), so the site looks hacked or used for paid links; also a one-person blog taking guest posts",
+Social SEO,socialseo.com,socialseo.com now redirects to Intero Digital; only form is a sales strategy session form with a required Projected Monthly Budget and no message box,
+Outsmart Labs,outsmartlabs.com,"Only form is a project enquiry form with a required budget range (10K to over 500K), so it is a sales form",david@outsmartlabs.com
+DemandJump,demandjump.com,Site would not load in the browser (navigation to demandjump.com and www.demandjump.com failed); also timed out yesterday,
+CosmoLex,cosmolex.com,Cloudflare block page (Attention Required) on the homepage,
+Peak AI,peak.ai,"Peak is now part of UiPath (homepage banner), so over 500 staff (brief is 11 to 500)",
+Tractable,tractable.ai,"No general contact form (/contact 404); only Request a Demo and a HubSpot partner form that did not render (0 height iframe) and is aimed at insurance and repair partners; press contact is email only; news content is insurance claims AI, no fitting article",press@tractable.ai
+Mind the Product,mindtheproduct.com,"Owned by Pendo (footer: 2026 Pendo.io, Inc.), well over 500 staff (brief is 11 to 500); Contact link goes to a Zendesk support ticket portal",
+Bidstack,bidstack.com,Homepage itself returns a 404 Page not found with no links; site appears defunct,
+HireHive,hirehive.com,"No contact form; site only offers Book a demo, support knowledge base and login",
+Railsr,railsr.com,"Only contact route is Contact us Sales, which now redirects to equalsmoney.com (Railsr folded into Equals); no general form",
+Applied,beapplied.com,Marketing site not reachable: beapplied.com timed out and www.beapplied.com and /contact redirect to the app login page,
+Sonocent,sonocent.com,"Legacy brand: sonocent.com is a retired product page (Audio Notetaker no longer sold); company now trades as Genio (genio.co) and its blog covers student study skills, not marketing",
+Receptive,receptive.io,"Acquired: receptive.io redirects to feedback.pendo.io (Pendo, over 500 staff)",
+Branded3,branded3.com,Site unreachable: navigation to branded3.com and www.branded3.com failed (brand was folded into Jaywing),
+Bespoke Digital,bespokedigital.agency,"Only form is Request a call back (first name, last name, company, work email) with no message box",hello@bespokedigital.agency
+ResponseTap,responsetap.com,"Brand retired: redirects to Infinity (infinity.co); only contact routes are Contact sales, Book a demo and a support centre",support@infinity.co
+Intergage,intergage.co.uk,"No blog or articles: sitemap lists only service and legal pages; /blog, /news, /insights, /articles all go to the 404 page",
+Strategic IC,strategic-ic.co.uk,Site unreachable: browser navigation to strategic-ic.co.uk and www.strategic-ic.co.uk was denied or failed,
+Prezzee,prezzee.com,"Only contact is Customer Care support (FAQ, gift tracker, Drop us a note to the care team); other form is Retailer Enquiries for merchants, no general or partnership form",
+Hireup,hireup.com.au,"No on-topic article: blog (News and Community Stories) covers NDIS policy news and participant stories, nothing on marketing, video or content",communications@hireup.com.au
+LiveTiles,livetiles.nyc,Site unreachable: livetiles.nyc did not finish loading within 50 seconds (also failed in the previous run),
+Gordon Digital,gordondigital.com.au,"Only form is a sales form: required phone, business name and a required I'm interested in services dropdown (Digital Strategy, SEO, Google Ads... ), with Book your call buttons",hello@gordondigital.com.au
+Stein IAS,steinb2b.com,"No usable article: Perspectives posts are 90 to 400 word stubs that point to PDFs (e.g. B2B Summit Takeaways from Cannes 2026), with no section headings and no dates; the one longer post (BDX playbook) is an older press release",info@steinb2b.com
+Sierra Six Media,sierrasixmedia.co.uk,Bot check blocks the site: homepage redirects to a Robot Challenge Screen (/.well-known/captcha/),
+Fat Cow Media,fatcowmedia.co.uk,Bot check blocks the site: homepage redirects to a Robot Challenge Screen (/.well-known/captcha/),
+Mantis Research,mantisresearch.com,"Contact form is a sales booking flow (Thanks for your interest in working with me; submit button Schedule a call, redirects to Calendly), and it is a one-person consultancy (Contact Michele), below the 11 staff brief",
+Convince and Convert,convinceandconvert.com,"Contact page blocked: /contact-us/ returns 403 Forbidden (nginx) in the browser, so the form cannot be checked",
+Draft.dev,draft.dev,No contact form: /contact and /contact-us are 404 and the site only offers Book a Discovery Call (/call) and a newsletter sign-up,
+Naseej,naseej.com,"Head office is Riyadh, Saudi Arabia (not UK/US/UAE/AU/SG); education and library IT vendor, not marketing; only form is a sales enquiry with required organisation, department and industry",uae@naseej.com
+GuideCX,guidecx.com,"No general contact form; only Book a Demo (sales) and a help centre; /contact, /contact-us, /partners, /press all 404",
+WorkRamp,workramp.com,"Domain now redirects to confirm.com (Learn:Up / Confirm), WorkRamp brand no longer exists as its own site; unsure who would read it",
+Bray Leino,brayleino.co.uk,No contact form at all; contact page lists phone numbers and email addresses only,hello@brayleino.co.uk
+Solvid,solvid.co.uk,"Sells guest posting and link building as services (listed in the contact form service dropdown), so a link request is a paid placement risk",hello@solvid.co.uk
+Zazzle Media,zazzlemedia.co.uk,"Form is fine but no recent article: blog and post sitemaps last updated 2021, newest blog posts are about 2021 BrightonSEO talks",hello@zazzlemedia.co.uk
+Greenlight Digital,greenlightdigital.com,"Domain redirects to bravebison.com; Greenlight is now part of Brave Bison, a listed media group likely over 500 staff that also makes social video",
+Wolff Olins,wolffolins.com,"No contact form; contact page lists email addresses only (checked live page, no form or iframe)",marketing@wolffolins.com
+Audioboom,audioboom.com,"No blog on its own site (blog link goes to audioboom.medium.com) and no general contact form, only a support centre and an advertisers page",
+This Is Distorted,thisisdistorted.com,Competitor: Competitor: an audio visual podcast and content company that makes branded video podcasts and runs a visual studio for clients; also no contact page (Contact link goes to /podcasts),
+Solutionreach,solutionreach.com,"No general contact form; contact page lists phone numbers for support, general enquiries and sales only, other routes are Book a Demo and Request Quote",
+Copper,copper.com,Only form on the contact page is an embedded Request a demo form with no message box; general contact is by email,info@copper.com
+Keap,keap.com,"Over 500 staff (brief is 11 to 500): Keap is now a brand of Thryv, Inc., a listed company; contact page is customer support and demos go to thryv.com",
+Paystand,paystand.com,"Only forms are sales forms (contact and partners) with required phone, job title and accounting ERP software, product interest checkboxes, Chili Piper routing and no message box",pr@paystand.com
+Homebase,joinhomebase.com,"No general contact form: /contact-us redirects to the support portal, Contact sales is sales only, and the partner form is a Google Form for integration and reseller partners with required customer counts",press@joinhomebase.com
+Kasasa,kasasa.com,"Site blocks non-US visitors (redirects to us-only.kasasa.com, US Based Customers Only), so the form could not be checked",
+Persona,withpersona.com,"Contact page is Get a demo (sales) and the partner form is for marketplace technology partners; blog is identity verification, KYC, KYB and AML compliance, off topic for a video studio link",
+Stytch,stytch.com,"Only form is Talk to sales (first name, last name, work email, no message box); support is via Slack or email",
+FusionAuth,fusionauth.io,No on-topic article: blog is authentication and developer tutorials; the only recent marketing-tagged post is a CMO appointment press release,
+Hasura,hasura.io,"Form is fine but no on-topic article: blog is GraphQL, data API and AI agent engineering content; marketing-related posts found are old (2021 era) and sitemap lastmod is a site-wide rebuild date",
+Cleverly,cleverly.co,"No general contact form: the Contact link opens nothing (href #), the only route is Book a Free Consultation (sales)",info@cleverly.co
+Spear Marketing Group,spearmarketing.com,Only form is a consultation booking (sales) form with a required Service Help list of services to buy and required phone,info@spearmarketing.com
+Roketto,helloroketto.com,Bot check blocks the site (SiteGround Robot Challenge Screen); previous run also found the brand is now Sovyn with no form,
+Major Tom,majortom.com,"Head office is Vancouver, Canada (site title: Digital Marketing Agency in Vancouver, Toronto, New York), so not really a US based company",
+GTM 80/20,gtm8020.com,"Sells link building as a service (nav: SEO & GEO > Link Building), so a link request is a paid placement risk; also /contact and /contact-us are 404",
+Endowus,endowus.com,"No contact form; only a Zendesk help centre for client support. Blog is investing content, off topic.",press@endowus.com
+StashAway,stashaway.sg,"No contact form; contact page lists emails only. Blog is investing content, off topic.",pr@stashaway.sg
+Syfe,syfe.com,"No contact form; only client support email, chat, WhatsApp and a Calendly advisory booking. Blog is investing content, off topic.",support.sg@syfe.com
+Swingvy,swingvy.com,"Contact form is a sales form (required Company Size, no message box); partner forms are reseller sign ups with no message box.",marketing@swingvy.com
+JustLogin,justlogin.com,Bot check blocks the site (redirects to a Robot Challenge Screen captcha page).,
+Rikvin,rikvin.com,"No fitting recent article: blog is incorporation, tax and work pass content; only marketing post is from 2023. Contact form is a service enquiry form.",
+ADA Asia,ada-asia.com,Over 500 staff (brief is 11 to 500): ADA Global has 18 offices worldwide and just acquired Algonomy.,
+MoneySmart,moneysmart.sg,"Contact is an AI chat assistant plus support ticket portal only. Blog is consumer personal finance (cards, loans, insurance), off topic.",
+SingSaver,singsaver.com.sg,"Blog is consumer personal finance (credit cards, insurance, loans), off topic. Part of MoneyHero Group, a listed company.",
+Seedly,seedly.sg,"No contact form (Contact link is mailto support). Blog is consumer personal finance, off topic; site sells advertising.",support@seedly.sg
+GrabJobs,grabjobs.co,Cloudflare verify you are human page blocks the site.,
+Multiplier,usemultiplier.com,No contact form renders on the contact page (text says send us a message but only phone and email are shown); other CTAs are Book a demo.,enquiries@usemultiplier.com
+Thunes,thunes.com,"Could not check the blog: the Insights page redirects to a Robot Challenge Screen captcha. Content seen is cross-border payments, likely off topic.",press@thunes.com
+Ghost,ghost.org,No contact form; contact page points to the community forum and support email for customers only.,support@ghost.org
+me&u,meandu.com,"No general contact form: press and partner options are mailto links; the only form is a sales form (required phone and business name, no message box).",partnerships@meandu.com
+Workforce.com,workforce.com,"Only form is a sales form (required Employee Range and phone, product checkboxes, no message box).",sales@workforce.com
+Martian Logic,martianlogic.com,"Contact form is a sales form (required Number of employees and phone). Contribute form has no message box (name, email, company only).",enquiries@martianlogic.com
+Enboarder,enboarder.com,Contact form is a sales form (required Company size).,
+Ezypay,ezypay.com,"No usable form: Get Support form is for customer billing issues; Talk to Sales form has no message box (required Industry and enquiry type). Blog is payments and fitness case studies, no clear marketing article.",hello@ezypay.com
+Spaceship,spaceship.com.au,"No contact form (email and help centre only). Learn hub is consumer investing content, off topic.",hello@spaceship.com.au
+Superhero,superhero.com.au,"No contact form found (media enquiries by email only). Blog is market news and investing content, off topic.",media@superhero.com.au
+Pearler,pearler.com,"No contact form; contact is chat widget, help centre and help@ email. Blog is consumer investing content, off topic.",help@pearler.com
+Canstar,canstar.com.au,"Site blocks the browser (blank page, contact page returns 406). Also a consumer finance comparison site with off-topic content.",
+Basiq,basiq.io,"Contact form is a sales form (first option is ""I'm a business interested in Basiq solutions"", asks what you are building); news and contact now route to parent Cuscal. Content is open banking, off topic.",
+Frollo,frollo.com.au,"No fitting article: all 12 blog posts are open banking, CDR data and mortgage broker topics.",
+FYI Docs,fyidocs.com,"Contact form is a sales form (required Number of employees and Practice Name, asks current software).",support@fyi.app
+Nookal,nookal.com,"Contact form has a required Department dropdown with only ""Sales and Onboarding"" or ""Customer and Technical Support"", no honest option for a partnership note.",info@nookal.com
+Kinde,kinde.com,"No contact form; only an agency partner sign up form with no message box (name, email, website, project capacity). Blog is auth and security dev content.",support@kinde.com
+Lyssna,lyssna.com,No contact form; contact page only offers support email and a book a demo sales page,support@lyssna.com
+Paperform,paperform.com,No contact form; contact page only gives support email and chat widget,support@paperform.co
+Bluewire Media,bluewiremedia.com.au,"No contact form; contact page offers phone, email and call booking only. Business has pivoted to a one person AI advisory",adam.franklin@bluewiremedia.com.au
+Safari Digital,safaridigital.com.au,"Only form is an SEO sales enquiry form (required website URL, age of business, past SEO agency, campaign goals)",hello@safaridigital.com.au
+Frost collective,frostcollective.com,"Only form is a new project enquiry form with no message box (Additional Notes is a one line text field; required company, position, location, referral source)",hello@frostcollective.com
+For The People,forthepeople.agency,No contact form (contact page lists emails only) and no blog found,hello@forthepeople.agency
+Karbon,karbonhq.com,No contact form; contact page lists team emails only,partnerships@karbonhq.com
+BrightHR,brighthr.com,Only form is a free demo request form with no message box; otherwise support help centre,support@brighthr.com
+People HR,peoplehr.com,Only form is a sales form with required number of employees and demo or trial choice; also part of The Access Group (over 500 staff),
+Chip,getchip.uk,"No contact form; contact page lists emails only. Blog is investing and savings topics, off topic",partnerships@getchip.uk
+Freetrade,freetrade.io,"No contact form; contact page lists customer support emails only. Blog is investing topics, off topic",hello@freetrade.io
+Wealthify,wealthify.com,"No contact form found (help centre and partnerships page only); owned by Aviva; content is investing topics, off topic",
+Curve,curve.com,"No contact form; media enquiries page gives press email only. Consumer fintech blog, no fitting marketing article",press@imaginecurve.com
+Zilch,zilch.com,"No contact form found (customer help only) and news section is press releases, no fitting article",
+MarketFinance,marketfinance.com,"Site is a holding page (""MarketFinance will be relaunching soon""); no form or blog",
+Marshmallow,marshmallow.com,No contact form; contact is a customer help centre only,
+Cuvva,cuvva.com,"No contact form; only press and support emails. Consumer insurance content, no fitting article",press@cuvva.com
+DesignStudio,design.studio,No contact form; DesignStudio is now Further (further.group) and the contact page lists office emails only,london@further.group
+Podia,podia.com,No contact form; Contact us links to a help centre article about contacting support (support chat only),
+Runway,runway.com,"Competitor: runway.com is now Runway (AI video generation, formerly runwayml), not the FP&A SaaS in the list; an AI video maker is a close competitor to a video studio, so unsure",partnerships@runwayml.com
+Maze,maze.co,Contact us goes to a support ticket portal (Pylon); other form is a demo request,
+Mediaboom,mediaboom.com,Only form is a sales form with a required annual advertising budget field (minimum $60k/year),
+Almentor,almentor.net,No contact form; contact page gives support email only. Main site and blog are in Arabic,support@almentor.net
+WakeCap,wakecap.com,"No fitting article; news and insights posts are construction safety, claims and acquisition news, off topic for a video or design link",info@wakecap.com
+iDigitalise,idigitalise.net,"Not UAE based (title says Digital Marketing Company in Mumbai India; blog targets India and Albania), and only forms are sales forms with required phone and budget range",
+Origin,originmena.com,"originmena.com frames origin.global, now titled as an agency in Riyadh (Saudi Arabia, not on the country list); no blog found; contact form message box is a one line field",info@origin.global
+Ninja Promo,ninjapromo.io,"Only form is a 'Book a call with us' sales form routed through Chili Piper; site also sells video production, so a partial competitor",media@ninjapromo.io
+Scarlet Royal,scarletroyal.ae,"No contact form and no blog; single page site with email, phone and WhatsApp only",info@scarletroyal.ae
+ServiceMarket,servicemarket.com,"No general contact form; contact page routes customers and providers to the app, and the 'other inquiries' link opens no form (likely chat); only other form is a service provider sign up",
+Laimoon,laimoon.com,No contact form; contact page lists only phone and support email,support@laimoon.com
+Mind Mingles,mindmingles.com,"Not based in UK/US/UAE/AU/SG: Delhi, India agency serving Indian businesses",
+Marketika,marketika.co,"Only form is a sales brief (goal, urgency, budget) and blog has only 6 old posts (2019 era), no recent on-topic article",hello@marketika.co
+YouTrip,you.co,No contact form; only a support help centre (support.you.co) and public emails,marketingsg@you.co
+99.co,99.co,"No contact form; only public emails (pr, marketing, advertise)",marketing@99.co
+Kinex Media,kinexmedia.com,"Not based in UK/US/UAE/AU/SG: Toronto, Canada web design agency",info@kinexmedia.com
+Vodien,vodien.com,"No general contact form; contact page is customer support only (phone, live chat, support options)",
+FastJobs,fastjobs.sg,Cloudflare verify you are human challenge blocks the site,
+Taiger,taiger.com,Site would not load in the browser (navigation denied or failed for taiger.com and www.taiger.com),
+WIZ.AI,wiz.ai,"Only form is a sales demo form (required Monthly Call Volume, Primary Use Case, Company)",marketing@wiz.ai
+Cobo,cobo.com,"No on-topic article; blog is all crypto custody, wallet security and payments guides",media@cobo.com
+Matrixport,matrixport.com,Site would not load in the browser (navigation denied or failed for matrixport.com and www.matrixport.com),
+Coinhako,coinhako.com,Contact link goes to a customer support ticket portal (help.coinhako.com); no general or press form,hello@coinhako.com
+Independent Reserve,independentreserve.com,Site would not load in the browser (navigation denied or failed),
+NodeFlair,nodeflair.com,No recent on-topic article; blog's latest English posts are from 2023 and about tech careers and salaries,
+Outfit,outfit.io,"outfit.io now redirects to brandfolder.com (Outfit is part of Brandfolder, a Smartsheet company), so over 500 staff and not the original company",
+Flippa,flippa.com,"Contact goes to a customer support help centre (support.flippa.com); no general, press or partner form",
+Coreplus,coreplus.com.au,No contact form; /contact redirects to the homepage and contact is via help centre and support emails only,success@corepluspm.com
+Rosterfy,rosterfy.com,"Only form is a sales form: contact form requires Number of active volunteers (size qualifier), organisation type, mobile phone; other form is a newsletter signup",
+Secure Code Warrior,securecodewarrior.com,"No on-topic article; blog is developer security, AI code governance and secure coding training",info@securecodewarrior.com
+Kasada,kasada.io,"No recent on-topic article; blog is bot attacks and fraud, and the only brand post (Shining a Light on Our New Brand) is from 2023-05-30",enquiries@kasada.io
+Assignar,assignar.com,"No general contact form; /contact is 404, site routes to demo requests and a referral (reseller) partner programme only",
+HammerTech,hammertech.com,"No on-topic recent article; blog is construction safety, customer stories and product release notes",
+Box+Dice,boxdice.com.au,"Over 500 staff (brief is 11 to 500): boxdice.com.au redirects to MRI Software (mrisoftware.com), a large global company",
+Different,different.com.au,"No general contact form: only property owner lead forms (HubSpot, mobile required, property address) on resources.different.com.au; no /contact page",
+Rounded,rounded.com.au,No contact form: only a help centre (help.rounded.com.au) for customer support; no /contact page. Blog marketing posts mostly 2022,
+Zepto,zepto.com.au,"Only form is a Typeform titled 'New General Lead Form' behind 'Enquire Now' (sales lead form); media, PR and partnerships go to email. Blog is payments news with no marketing or video fit",marketing@zepto.com.au
+Monoova,monoova.com,"No on-topic article: blog and newsroom are payments infrastructure posts (PayTo, partnerships, case studies) with no marketing, content or video angle",pressenquiries@monoova.com
+Athena Home Loans,athena.com.au,"No contact form (only Calendly loan consultation booking and email) and no on-topic recent article (consumer home loan guides, newest marketing-ish posts from 2018 to 2020)",hello@athena.com.au
+Driva,driva.com.au,"No on-topic article: blog is consumer car finance guides (car loans, comparison rates); no contact page found, only email",contact@driva.com.au
+Lumi,lumi.com.au,"No contact form found (/contact and /contact-us 404, no contact link on homepage); marketing blog posts are old (social media post 2024-02-29, brand post 2023-12-28)",
+Bizcap,bizcap.com.au,"No general contact form: contact page offers phone, email and a loan specialist callback; only form is a broker partner signup (aggregator dropdown required)",info@bizcap.com.au
+Shift,shift.com.au,No blog: site has only a media centre for company news; no marketing or content article to anchor a link,contact@shift.com.au
+Payroller,payroller.com.au,"No contact form with a message box (only account signup forms: role, client count, company, email); content is payroll help guides with no marketing or video topic",hello@payroller.com.au
+Microkeeper,microkeeper.com.au,"No on-topic article: about 110 blog posts are payroll, award rates and HR compliance topics with no marketing, content or video angle",
+Astute Payroll,astutepayroll.com,Contact us goes to a support ticket portal (/new-support-ticket/); blog is recruitment payroll topics with no marketing or video angle,
+Bird Marketing,bird.co.uk,Cloudflare 'Just a moment' bot check blocks the site,
+Diffusion,diffusionpr.com,No contact form: contact page lists emails and phone numbers only (the only form is a newsletter signup),enquiries@diffusionpr.com
+B&B Studio,bandb-studio.co.uk,Bot check blocks the site (redirects to a 'Robot Challenge Screen' captcha page),
+Ayima,ayima.com,Sales form: the only contact form requires Company Revenue (annual revenue dropdown) and company website,contact@ayima.com
+GatherContent,gathercontent.com,"gathercontent.com redirects to bynder.com (GatherContent is now part of Bynder), which shows a Cloudflare 'Just a moment' bot check",
+Pallyy,pallyy.com,"No contact form: no /contact page, only an email address on the site",hey@pallyy.com
+Wrapbook,wrapbook.com,"Only form is a 'Talk with an expert' sales/demo form (Marketo: name, email, company, no message box); /contact is Contact Sales; support is help centre and email",
+Musicbed,musicbed.com,"Contact us goes only to a customer support portal (support.musicbed.com); no general, partnership or press form on the site",
+Otter PR,otterpr.com,"Sales form: contact page form is a consultation booking form (Reason for Booking, 'open to going over next steps on this call?', then 'Book Your Appointment'); other forms require budget",hello@otterpr.com
+Ruckus,ruckusmarketing.com,"No fitting recent article: 2026 posts are client win case studies (Kaya, VAST Data, DecoverAI) and the newest Insights post is from Nov 2020",info@ruckusco.com
+Foreign Policy Design,foreignpolicy.design,No contact form (only email and Calendly) and no blog,affairs@foreignpolicy.design
+HighSpark,highspark.co,"Only form is a sales enquiry form (must pick Training or Agency services to buy, budget bands, service checkboxes)",info@highspark.co
+Coherent Lab,coherentlab.com,"Not really based in UK/US/UAE/Australia/Singapore (head office Jaipur, India) and blog is mixed off-topic app content",business@coherentlab.com
+The Hoffman Agency,hoffman.com,No contact form (Let's Connect page lists office contacts and emails only),glafond@hoffman.com
+MediaPlus Digital,mediaplus.com.sg,"Only forms are Free Consultation / Free Audit sales forms (product of interest and budget dropdowns, phone required)",wow@mediaplus.com.sg
+Digital Business Lab,digital-business-lab.com,"Main office is Hong Kong (Singapore is a branch), so not clearly based in the target countries",sgteam@db-lab.com
+Nimble,nimble.com,Cloudflare verify-you-are-human page blocks the site,
+Re:amaze,reamaze.com,No general contact form: /contact shows the homepage with a free trial signup and a demo request form (subject preset to 'Request for Re:amaze demo'); otherwise only the support chat,support@reamaze.com
+Groove,groove.co,"Domain redirects to salesloft.com (Groove is now part of Salesloft, over 500 staff); not the help desk company in the list",
+SaneBox,sanebox.com,No contact form; only a customer support help request portal. Partners and press pages list email addresses only,press@sanebox.com; partners@sanebox.com
+UpLead,uplead.com,"No contact form; contact page lists a general email plus Contact Sales, Contact Support and Request a Demo links",team@uplead.com
+Kickbox,kickbox.com,Cloudflare verify-you-are-human page blocks the contact page,
+Emailable,emailable.com,"No contact form; contact page offers live chat, a demo call booking and a support email only. Partnerships page has a Calendly link, no form",support@emailable.com
+Kartra,kartra.com,No contact form; only a customer support help centre and a support chat. /contact and /press return 404,affiliates@kartra.com
+mParticle,mparticle.com,"Only form is a Talk with our team sales form with no message box (first name, last name, email, company, country); now merged with Rokt",
+Chronosphere,chronosphere.io,Over 500 staff (brief is 11 to 500): site banner says Chronosphere is now Cortex XCOR by Palo Alto Networks,
+mabl,mabl.com,"No on-topic article: blog is all software testing, CI/CD and accessibility testing; no marketing, video or content posts",
+FireHydrant,firehydrant.com,"No contact form: only Get a demo and 4 Minute Demo sales pages; /contact, /contact-us, /partners and /press all 404",
+Addigy,addigy.com,"Sales form: required How many Apple devices do you manage (fleet size), Organization Type and Phone; no separate general or press form",
+Productiv,productiv.com,"Domain mismatch: productiv.com now redirects to getproductiv.com, a 3PL kitting and fulfilment company, not the SaaS management platform in the list",
+Tropic,tropicapp.io,"No on-topic article: blog (about 180 posts) is all procurement, SaaS spend, negotiation and finance; nothing on marketing, content or video",elissa@tropicapp.io
+Lightdash,lightdash.com,"No usable form: no contact page (/contact 404), only Book a demo and a BI consultancy partner application (Name, Email, Company, Role, BI tools) with no message box",
+incident.io,incident.io,"Only form is the Book a demo sales form (required company size and demo region), no general contact form",
+Verb Brands,verbbrands.com,"Domain now redirects to croud.com; Verb Brands has been absorbed into Croud, a different and larger agency, so the prospect no longer exists as listed",
+Flycast Media,flycastmedia.co.uk,No contact form anywhere; /contact redirects to a locations page with only an email address,office@flycastmedia.co.uk
+Fold7,fold7.com,No contact form; contact page lists email addresses only,hello@fold7.com
+TMW Unlimited,tmwunlimited.com,No contact form; Get in touch is a mailto link only. Also part of Accenture Song (far over 500 staff),info@tmwunlimited.com
+AEK Media,aekmedia.com.au,Only form is a sales consultation form with a required budget choice (<$5K to $50K+) and no message box,hello@aekmedia.com.au
+Opollo,opollo.com,"Site blocked by a bot check (SiteGround ""Robot Challenge Screen"")",
+Due North,duenorth.com.au,"Contact Us form has no message box (name, email, phone, website, industry, location only); the only form with a message box is a social media service enquiry form that requires an Australian state",hello@duenorth.com.au
+Soup Agency,soupagency.com.au,Bot check (robot challenge screen) blocks the site,
+TOAST,toast.au,Only contact form is a project enquiry form with required Estimated Budget field (sales form),collaborate@toast.au; hello@toast.au
+Grafiqberry,grafiqberry.com,No recent blog article (newest post dated August 2023); also sells video production,hello@grafiqberry.com
+Koncept,koncept.ae,No contact form (only a cal.com discovery call booking) and no real blog (journal has only placeholder lorem ipsum posts),hello@koncept.ae
+ADDX,addx.co,"No contact form (contact page lists emails only); blog (/insights/) is private markets investing content, off-topic",team@addx.co (platform support and partnerships); media@addx.co
+CYFIRMA,cyfirma.com,"No on-topic article: blog is cyber threat research and geopolitics only (newest 2026-05-25), nothing on marketing or video",
+Nektar.ai,nektar.ai,Only form is a book a demo form (/contact redirects to /book-a-demo); no general contact form,
+Omni HR,omnihr.co,"Contact form has no message box (only name, email, company, company size and a purpose dropdown); other forms are demo or support",kelsey.breton@omnihr.co
+Silent Eight,silenteight.com,"No on-topic article: blog is entirely AML, sanctions and financial crime compliance posts",
+watchTowr,watchtowr.com,"No on-topic article: resources and blog are all vulnerability research, CVE FAQs, security explainers and company news",
+Cascade,cascade.app,"No contact form: contact page offers only email, live chat and book a demo",info@cascade.app
+Drawboard,drawboard.com,No general contact form: site links only to book a demo pages and a support help centre; blog is PDF and AEC tool comparisons,
+XY Sense,xysense.com,Bot check blocks the site (SiteGround Robot Challenge Screen captcha),
+Blinq,blinq.me,No general contact form: contact page offers only a support portal and book a demo,
+Factor House,factorhouse.io,"No on-topic article: blog is entirely Kafka engineering content (architecture, monitoring, tooling)",
+Socialsuite,socialsuitehq.com,"Contact form has no message box (lead form only) and blog is ESG compliance content, not marketing",
+LOKE,loke.global,"No recent article (all blog posts last modified 2024-08-30 or older) and no contact form, only demo/free-trial pages",support@loke.global
+Servicely,servicely.ai,No dated on-topic article: blog is ITSM/AI service desk content; the only brand piece (Creator archetype) has no date anywhere,info@servicely.ai
+Decidr,decidr.ai,Only form is a demo request form with required company size (Total number of employees) and industry,info@decidr.ai
+Crowd,thisiscrowd.com,Bot check blocks the site (Robot Challenge Screen captcha on every page),
+Zelt,zelt.app,Bot check blocks inner pages (Human Verification page) and the only form linked from the site is a demo request,
+Lendable,lendable.co.uk,"No blog: /blog is 404 and the sitemap has no blog, guide or news pages",
+Hubbub,hubbub.net,Only form is a 'Talk to a fundraising expert' demo/walkthrough form; no general contact form,hello@hubbub.net
+Plandek,plandek.com,No on-topic article: blog is about engineering metrics and developer productivity,hello@plandek.com
+Cord,cord.co,No contact form: contact page lists only support@cord.com,support@cord.com
+Potion,potion.so,Site did not load: navigation failed and www page timed out (still loading after 50s),
+Music Vine,musicvine.com,"No blog: sitemap has only track, browse and policy pages, no articles",
+Nifty Marketing Australia,niftymarketing.com.au,"Sales form only: contact form requires ticking services to buy (SEO, Google Ads, Website Design etc.)",info@niftymarketing.com.au
+Marketix Digital,marketixdigital.com.au,Site returns 403 Forbidden to the browser (homepage and contact page),
+Digital One Agency,digitaloneagency.com.au,Bot check blocks the site (SiteGround robot challenge then captcha page),
+The Marketing Co,themarketingco.com.au,Site unreachable (connection timed out on both bare and www domain),
+Visibility Marketing,visibilitymarketing.com.au,Bot check blocks the site (SiteGround robot challenge captcha page),
+Spicy Broccoli,spicybroccoli.com,Site unreachable (connection timed out on both bare and www domain),
+Wrapped Agency,wrappedagency.co.uk,Already in the ledger or a likely brand match,
+Social Chain,socialchain.com,Already in the ledger or a likely brand match,
+Robot Food,robot-food.com,Already in the ledger or a likely brand match,
+Medianet,medianet.com.au,Already in the ledger or a likely brand match,
+Reload Media,reloadmedia.com.au,Already in the ledger or a likely brand match,
+Lexer,lexer.io,Already in the ledger or a likely brand match,
+Particular Audience,particularaudience.com,Already in the ledger or a likely brand match,
+Expert360,expert360.com,Already in the ledger or a likely brand match,
+Pixeled Eggs,pixeledeggs.com,Already in the ledger or a likely brand match,
+Workbooks,workbooks.com,Already in the ledger or a likely brand match,
+Webrecruit,webrecruit.co,Already in the ledger or a likely brand match,
+Perfect Search Media,perfectsearchmedia.com,Already in the ledger or a likely brand match,
+Fusion92,fusion92.com,Already in the ledger or a likely brand match,
+LaunchSquad,launchsquad.com,Already in the ledger or a likely brand match,
+Switcher Studio,switcherstudio.com,Already in the ledger or a likely brand match,
+Homebot,homebot.ai,Already in the ledger or a likely brand match,
+Splose,splose.com,Already in the ledger or a likely brand match,
+Propeller Aero,propelleraero.com,Already in the ledger or a likely brand match,
+Ignition,practiceignition.com,Already in the ledger or a likely brand match,
+Easy Agile,easyagile.com,Already in the ledger or a likely brand match,
+Spotlight Reporting,spotlightreporting.com,Already in the ledger or a likely brand match,
+Streamtime,streamtime.net,Already in the ledger or a likely brand match,
+Coassemble,coassemble.com,Already in the ledger or a likely brand match,
+CreativeX,creativex.com,Already in the ledger or a likely brand match,
+Studio Hawk,studiohawk.co.uk,Already in the ledger or a likely brand match,
+ThinkTank,thinktank.org.uk,Already in the ledger or a likely brand match,
+Assisted,assisted.co.uk,Already in the ledger or a likely brand match,
+Heavyweight Digital,heavyweightdigital.co.uk,Already in the ledger or a likely brand match,
+Alt Agency,altagency.co.uk,Already in the ledger or a likely brand match,
+Funding Societies,fundingsocieties.com,Already in the ledger or a likely brand match,
+FirstPromoter,firstpromoter.com,Already in the ledger or a likely brand match,
+PartnerStack,partnerstack.com,Already in the ledger or a likely brand match,
+Stamped,stamped.io,Already in the ledger or a likely brand match,
+SentiSum,sentisum.com,Already in the ledger or a likely brand match,
+Go1,go1.com,Already in the ledger or a likely brand match,
+Zeller,myzeller.com,Already in the ledger or a likely brand match,
+Higher Logic,higherlogic.com,Already in the ledger or a likely brand match,
+Circle,circle.so,Already in the ledger or a likely brand match,
+Justuno,justuno.com,Already in the ledger or a likely brand match,
+Moving Minds,movingminds.io,Already in the ledger or a likely brand match,
+Emotive Brand,emotivebrand.com,Already in the ledger or a likely brand match,
+Brick Work,brick.work,Already in the ledger or a likely brand match,
+Mighty Citizen,mightycitizen.com,Already in the ledger or a likely brand match,
+Right Side Up,rightsideup.com,Already in the ledger or a likely brand match,
+Chameleon Collective,chameleoncollective.com,Already in the ledger or a likely brand match,
+The Marketing Blender,themarketingblender.com,Already in the ledger or a likely brand match,
+Tenet,wearetenet.com,Already in the ledger or a likely brand match,
+Content Allies,contentallies.com,Already in the ledger or a likely brand match,
+Agorapulse,agorapulse.com,Already in the ledger or a likely brand match,
+Mutiny,mutinyhq.com,Already in the ledger or a likely brand match,
+Marketveep,marketveep.com,Already in the ledger or a likely brand match,
+OnTheMap Marketing,onthemap.com,Already in the ledger or a likely brand match,
+Qwilr,qwilr.com,Already in the ledger or a likely brand match,
+Gleam,gleam.io,Already in the ledger or a likely brand match,
+TribePad,tribepad.com,Already in the ledger or a likely brand match,
+Be Noticed Design,benoticeddesign.co.uk,Already in the ledger or a likely brand match,
+Zuko,zuko.io,Already in the ledger or a likely brand match,
+Conversion,conversion.com,Already in the ledger or a likely brand match,
+Beonic,beonic.com,Already in the ledger or a likely brand match,
+Red Search,redsearch.com.au,Already in the ledger or a likely brand match,
+Convert Digital,convertdigital.com.au,Already in the ledger or a likely brand match,
+OOm,oom.com.sg,Already in the ledger or a likely brand match,
+AlchemyWorx,alchemyworx.com,Already in the ledger or a likely brand match,
+Ceek,ceek.co.uk,Already in the ledger or a likely brand match,
+Foundation Marketing,foundationinc.co,Already in the ledger or a likely brand match,
+Scribewise,scribewise.com,Already in the ledger or a likely brand match,
+Fractl,frac.tl,Already in the ledger or a likely brand match,
+New North,newnorth.com,Already in the ledger or a likely brand match,
+ContentWriters,contentwriters.com,Already in the ledger or a likely brand match,
+Hinge Marketing,hingemarketing.com,Already in the ledger or a likely brand match,
+Curzon PR,curzonpr.com,Already in the ledger or a likely brand match,
+Digital Dot,digitaldot.com,Already in the ledger or a likely brand match,
+ChurnZero,churnzero.com,Already in the ledger or a likely brand match,
+Kudos,kudos.com,Already in the ledger or a likely brand match,
+Wellable,wellable.co,Already in the ledger or a likely brand match,
+The PHA Group,thephagroup.com,Already in the ledger or a likely brand match,
+Receptional,receptional.com,Already in the ledger or a likely brand match,
+Mando,mandogroup.com,Already in the ledger or a likely brand match,
+SomeOne,someoneinlondon.com,Already in the ledger or a likely brand match,
+Evoluted,evoluted.net,Already in the ledger or a likely brand match,
+JBH,jbh.co.uk,Already in the ledger or a likely brand match,
+BBD Boom,bbdboom.com,Already in the ledger or a likely brand match,
+Instantly,instantly.ai,Already in the ledger or a likely brand match,
+Pilot,pilot.com,Already in the ledger or a likely brand match,
+Novo,novo.co,Already in the ledger or a likely brand match,
+Maxio,maxio.com,Already in the ledger or a likely brand match,
+Baremetrics,baremetrics.com,Already in the ledger or a likely brand match,
+Ironhorse,ironhorse.io,Already in the ledger or a likely brand match,
+Arketi Group,arketi.com,Already in the ledger or a likely brand match,
+Conveyor Marketing Group,conveyormg.com,Already in the ledger or a likely brand match,
+Salted Stone,saltedstone.com,Already in the ledger or a likely brand match,
+310 Creative,310creative.com,Already in the ledger or a likely brand match,
+Evenbound,evenbound.com,Already in the ledger or a likely brand match,
+Inflow,goinflow.com,Already in the ledger or a likely brand match,
+Ember Tribe,embertribe.com,Already in the ledger or a likely brand match,
+Uncommon Logic,uncommonlogic.com,Already in the ledger or a likely brand match,
+Stake,hellostake.com,Already in the ledger or a likely brand match,
+Impression,impressiondigital.com,Already in the ledger or a likely brand match,
+EDS FZE,edsfze.com,Already in the ledger or a likely brand match,
+WebCastle,webcastletech.com,Already in the ledger or a likely brand match,
+Honcho,honcho.agency,Already in the ledger or a likely brand match,

@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "ResponseTap",
+  "webDomain": "responsetap.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; ResponseTap is now part of Infinity (contact page redirects to marketing page, "
+ },
+ {
+  "companyName": "Ruler Analytics",
+  "webDomain": "ruleranalytics.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page shows phone, address and demo link only)"
+ },
+ {
+  "companyName": "Intergage",
+  "webDomain": "intergage.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No blog or articles found (/blog is 404 and sitemap lists only service pages)"
+ },
+ {
+  "companyName": "Strategic IC",
+  "webDomain": "strategic-ic.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site fetch failed twice (timeout/blocked), could not verify form or article"
+ },
+ {
+  "companyName": "Prezzee",
+  "webDomain": "prezzee.com",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (only customer support ticket portal)"
+ },
+ {
+  "companyName": "Hireup",
+  "webDomain": "hireup.com.au",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page returned no visible content)"
+ },
+ {
+  "companyName": "LiveTiles",
+  "webDomain": "livetiles.nyc",
+  "country": "AU",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Fetch did not complete (page blocked or timed out)"
+ },
+ {
+  "companyName": "Gordon Digital",
+  "webDomain": "gordondigital.com.au",
+  "country": "AU",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site fetch failed twice (blocked or unreachable)"
+ },
+ {
+  "companyName": "Stein IAS",
+  "webDomain": "steinb2b.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows only emails and phone numbers, no form"
+ },
+ {
+  "companyName": "Embryo Digital",
+  "webDomain": "embryodigital.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows only address, email and phone"
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Factor House",
+  "webDomain": "factorhouse.io",
+  "country": "AU",
+  "serviceType": "Developer tools for Kafka",
+  "segment": "B",
+  "drFree": "48",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Socialsuite",
+  "webDomain": "socialsuitehq.com",
+  "country": "AU",
+  "serviceType": "Social media and ESG reporting SaaS",
+  "segment": "A",
+  "drFree": "46",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "LOKE",
+  "webDomain": "loke.global",
+  "country": "AU",
+  "serviceType": "Customer engagement and loyalty platform",
+  "segment": "A",
+  "drFree": "52",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Servicely",
+  "webDomain": "servicely.ai",
+  "country": "AU",
+  "serviceType": "AI service management SaaS",
+  "segment": "B",
+  "drFree": "40",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Decidr",
+  "webDomain": "decidr.ai",
+  "country": "AU",
+  "serviceType": "AI business platform",
+  "segment": "B",
+  "drFree": "50",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Crowd",
+  "webDomain": "thisiscrowd.com",
+  "country": "UK",
+  "serviceType": "Creative and digital agency",
+  "segment": "A",
+  "drFree": "53",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Findmyshift",
+  "webDomain": "findmyshift.com",
+  "country": "UK",
+  "serviceType": "Staff scheduling SaaS",
+  "segment": "B",
+  "drFree": "51",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Zelt",
+  "webDomain": "zelt.app",
+  "country": "UK",
+  "serviceType": "HR and IT SaaS",
+  "segment": "B",
+  "drFree": "61",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Lendable",
+  "webDomain": "lendable.co.uk",
+  "country": "UK",
+  "serviceType": "Consumer lending fintech",
+  "segment": "B",
+  "drFree": "44",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Hubbub",
+  "webDomain": "hubbub.net",
+  "country": "UK",
+  "serviceType": "Fundraising SaaS",
+  "segment": "B",
+  "drFree": "54",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

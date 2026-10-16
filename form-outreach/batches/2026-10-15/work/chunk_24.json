@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Zeroseven",
+  "webDomain": "zeroseven.com.au",
+  "country": "AU",
+  "serviceType": "Digital and web design agency",
+  "segment": "A",
+  "drFree": "44",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Outfit",
+  "webDomain": "outfit.io",
+  "country": "AU",
+  "serviceType": "Brand automation SaaS",
+  "segment": "A",
+  "drFree": "48",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Flippa",
+  "webDomain": "flippa.com",
+  "country": "AU",
+  "serviceType": "Online business marketplace",
+  "segment": "B",
+  "drFree": "80",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Coreplus",
+  "webDomain": "coreplus.com.au",
+  "country": "AU",
+  "serviceType": "Practice management SaaS",
+  "segment": "B",
+  "drFree": "70",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Zanda",
+  "webDomain": "zandahealth.com",
+  "country": "AU",
+  "serviceType": "Practice management SaaS",
+  "segment": "B",
+  "drFree": "82",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Rosterfy",
+  "webDomain": "rosterfy.com",
+  "country": "AU",
+  "serviceType": "Volunteer management SaaS",
+  "segment": "B",
+  "drFree": "67",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Secure Code Warrior",
+  "webDomain": "securecodewarrior.com",
+  "country": "AU",
+  "serviceType": "Developer security training",
+  "segment": "B",
+  "drFree": "71",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Kasada",
+  "webDomain": "kasada.io",
+  "country": "AU",
+  "serviceType": "Bot protection security SaaS",
+  "segment": "B",
+  "drFree": "67",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Assignar",
+  "webDomain": "assignar.com",
+  "country": "AU",
+  "serviceType": "Construction operations SaaS",
+  "segment": "B",
+  "drFree": "52",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "HammerTech",
+  "webDomain": "hammertech.com",
+  "country": "AU",
+  "serviceType": "Construction safety SaaS",
+  "segment": "B",
+  "drFree": "46",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

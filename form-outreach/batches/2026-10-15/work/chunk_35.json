@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Plandek",
+  "webDomain": "plandek.com",
+  "country": "UK",
+  "serviceType": "Engineering analytics SaaS",
+  "segment": "B",
+  "drFree": "40",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Cord",
+  "webDomain": "cord.co",
+  "country": "UK",
+  "serviceType": "Hiring platform",
+  "segment": "B",
+  "drFree": "48",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "RecurPost",
+  "webDomain": "recurpost.com",
+  "country": "US",
+  "serviceType": "Social media scheduling SaaS",
+  "segment": "A",
+  "drFree": "73",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Cloud Campaign",
+  "webDomain": "cloudcampaign.com",
+  "country": "US",
+  "serviceType": "Social media SaaS for agencies",
+  "segment": "A",
+  "drFree": "67",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Potion",
+  "webDomain": "potion.so",
+  "country": "US",
+  "serviceType": "Personalized video email SaaS",
+  "segment": "A",
+  "drFree": "59",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Music Vine",
+  "webDomain": "musicvine.com",
+  "country": "UK",
+  "serviceType": "Music licensing for video creators",
+  "segment": "A",
+  "drFree": "63",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Nifty Marketing Australia",
+  "webDomain": "niftymarketing.com.au",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "55",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "netStripes",
+  "webDomain": "netstripes.com",
+  "country": "AU",
+  "serviceType": "Web design and digital agency",
+  "segment": "A",
+  "drFree": "60",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Digital Presence",
+  "webDomain": "digitalpresence.com.au",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "47",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Online Road",
+  "webDomain": "onlineroad.com.au",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "45",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

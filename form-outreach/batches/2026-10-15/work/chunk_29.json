@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Awebstar",
+  "webDomain": "awebstar.com.sg",
+  "country": "SG",
+  "serviceType": "Web design agency",
+  "segment": "A",
+  "drFree": "56",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Digitrio",
+  "webDomain": "digitrio.com.sg",
+  "country": "SG",
+  "serviceType": "Web design and digital agency",
+  "segment": "A",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Nimble",
+  "webDomain": "nimble.com",
+  "country": "US",
+  "serviceType": "CRM SaaS",
+  "segment": "B",
+  "drFree": "75",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Re:amaze",
+  "webDomain": "reamaze.com",
+  "country": "US",
+  "serviceType": "Customer support SaaS",
+  "segment": "B",
+  "drFree": "76",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Groove",
+  "webDomain": "groove.co",
+  "country": "US",
+  "serviceType": "Help desk SaaS",
+  "segment": "B",
+  "drFree": "54",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "SaneBox",
+  "webDomain": "sanebox.com",
+  "country": "US",
+  "serviceType": "Email productivity SaaS",
+  "segment": "B",
+  "drFree": "75",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "UpLead",
+  "webDomain": "uplead.com",
+  "country": "US",
+  "serviceType": "B2B lead data platform",
+  "segment": "A",
+  "drFree": "76",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Kickbox",
+  "webDomain": "kickbox.com",
+  "country": "US",
+  "serviceType": "Email verification for marketers",
+  "segment": "A",
+  "drFree": "74",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Emailable",
+  "webDomain": "emailable.com",
+  "country": "US",
+  "serviceType": "Email verification for marketers",
+  "segment": "A",
+  "drFree": "72",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Kartra",
+  "webDomain": "kartra.com",
+  "country": "US",
+  "serviceType": "Marketing automation platform",
+  "segment": "A",
+  "drFree": "89",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

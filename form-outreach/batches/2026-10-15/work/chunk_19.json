@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Lyssna",
+  "webDomain": "lyssna.com",
+  "country": "AU",
+  "serviceType": "UX research SaaS",
+  "segment": "B",
+  "drFree": "76",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Paperform",
+  "webDomain": "paperform.co",
+  "country": "AU",
+  "serviceType": "Forms SaaS",
+  "segment": "B",
+  "drFree": "86",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Bluewire Media",
+  "webDomain": "bluewiremedia.com.au",
+  "country": "AU",
+  "serviceType": "Content marketing agency",
+  "segment": "A",
+  "drFree": "49",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Safari Digital",
+  "webDomain": "safaridigital.com.au",
+  "country": "AU",
+  "serviceType": "SEO agency",
+  "segment": "A",
+  "drFree": "75",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Frost collective",
+  "webDomain": "frostcollective.com",
+  "country": "AU",
+  "serviceType": "Brand design studio",
+  "segment": "A",
+  "drFree": "47",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "For The People",
+  "webDomain": "forthepeople.agency",
+  "country": "AU",
+  "serviceType": "Brand and design agency",
+  "segment": "A",
+  "drFree": "44",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Karbon",
+  "webDomain": "karbonhq.com",
+  "country": "US",
+  "serviceType": "Practice management SaaS",
+  "segment": "B",
+  "drFree": "75",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "BrightHR",
+  "webDomain": "brighthr.com",
+  "country": "UK",
+  "serviceType": "HR software",
+  "segment": "B",
+  "drFree": "70",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "People HR",
+  "webDomain": "peoplehr.com",
+  "country": "UK",
+  "serviceType": "HR software",
+  "segment": "B",
+  "drFree": "72",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Chip",
+  "webDomain": "getchip.uk",
+  "country": "UK",
+  "serviceType": "Savings fintech",
+  "segment": "B",
+  "drFree": "53",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

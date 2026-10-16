@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Outsmart Labs",
+  "webDomain": "outsmartlabs.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page returned no visible content"
+ },
+ {
+  "companyName": "DemandJump",
+  "webDomain": "demandjump.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site could not be fetched (two timeouts after 120s), so form not verifiable"
+ },
+ {
+  "companyName": "CosmoLex",
+  "webDomain": "cosmolex.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (Request More Information form shows no visible fields)"
+ },
+ {
+  "companyName": "Learning Pool",
+  "webDomain": "learningpool.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (page says fill in the form but no fields visible)"
+ },
+ {
+  "companyName": "Hive Learning",
+  "webDomain": "hivelearning.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (mentions request a demo and general inquiry options but no fields visible)"
+ },
+ {
+  "companyName": "Peak AI",
+  "webDomain": "peak.ai",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (Write to us heading but no fields visible)"
+ },
+ {
+  "companyName": "Lumi",
+  "webDomain": "lumiglobal.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (Share a few details below but no fields visible); enquiry form routes to sales "
+ },
+ {
+  "companyName": "Tractable",
+  "webDomain": "tractable.ai",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No contact form; /contact is 404 and press page lists emails only"
+ },
+ {
+  "companyName": "Mind the Product",
+  "webDomain": "mindtheproduct.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page not found (/contact and /contact-us both 404)"
+ },
+ {
+  "companyName": "Bidstack",
+  "webDomain": "bidstack.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page not found (/contact 404)"
+ }
+]

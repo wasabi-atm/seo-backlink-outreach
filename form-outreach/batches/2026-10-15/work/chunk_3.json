@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Loop Digital",
+  "webDomain": "loop-digital.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Page could not be fetched: /contact is 404 and /contact-us/ fetch failed twice"
+ },
+ {
+  "companyName": "Inbox Insight",
+  "webDomain": "inboxinsight.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Page could not be fetched: two fetch attempts returned no content"
+ },
+ {
+  "companyName": "ADVANCE.AI",
+  "webDomain": "advance.ai",
+  "country": "SG",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page lists only email addresses, no form"
+ },
+ {
+  "companyName": "Vase.ai",
+  "webDomain": "vase.ai",
+  "country": "SG",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page is titled Contact Sales and shows no visible form fields"
+ },
+ {
+  "companyName": "Near",
+  "webDomain": "near.co",
+  "country": "SG",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Fetch failed: contact page returned empty content and homepage fetch returned no items"
+ },
+ {
+  "companyName": "MediaOne",
+  "webDomain": "mediaone.sg",
+  "country": "SG",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "https://mediaone.sg/ai-powered-marketing-funnels-explained/",
+  "note": "Unsure: only form is a free audit lead form, /blog 404, and the few posts are thin template text wit"
+ },
+ {
+  "companyName": "Statsig",
+  "webDomain": "statsig.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; contact page shows only a Talk to Sales route and no visible fields"
+ },
+ {
+  "companyName": "Canny",
+  "webDomain": "canny.io",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact returns 404 and homepage links only to request-demo"
+ },
+ {
+  "companyName": "Lookback",
+  "webDomain": "lookback.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; /contact returns 404, only demo calendar and help centre linked"
+ },
+ {
+  "companyName": "Respondent",
+  "webDomain": "respondent.io",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable; only Talk to sales and book-demo routes found"
+ }
+]

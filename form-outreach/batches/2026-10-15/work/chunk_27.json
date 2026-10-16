@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "GatherContent",
+  "webDomain": "gathercontent.com",
+  "country": "UK",
+  "serviceType": "Content operations SaaS",
+  "segment": "A",
+  "drFree": "76",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Pallyy",
+  "webDomain": "pallyy.com",
+  "country": "AU",
+  "serviceType": "Social media scheduling SaaS",
+  "segment": "A",
+  "drFree": "72",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Tolstoy",
+  "webDomain": "gotolstoy.com",
+  "country": "US",
+  "serviceType": "Interactive video commerce platform",
+  "segment": "A",
+  "drFree": "71",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "StudioBinder",
+  "webDomain": "studiobinder.com",
+  "country": "US",
+  "serviceType": "Video production management SaaS",
+  "segment": "A",
+  "drFree": "78",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Wrapbook",
+  "webDomain": "wrapbook.com",
+  "country": "US",
+  "serviceType": "Production payroll SaaS",
+  "segment": "A",
+  "drFree": "68",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Musicbed",
+  "webDomain": "musicbed.com",
+  "country": "US",
+  "serviceType": "Music licensing for video creators",
+  "segment": "A",
+  "drFree": "75",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "TREW Marketing",
+  "webDomain": "trewmarketing.com",
+  "country": "US",
+  "serviceType": "B2B content marketing agency",
+  "segment": "A",
+  "drFree": "56",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Otter PR",
+  "webDomain": "otterpr.com",
+  "country": "US",
+  "serviceType": "PR agency",
+  "segment": "A",
+  "drFree": "51",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Ruckus",
+  "webDomain": "ruckusmarketing.com",
+  "country": "US",
+  "serviceType": "Brand and digital agency",
+  "segment": "A",
+  "drFree": "51",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Weave Asia",
+  "webDomain": "weave.asia",
+  "country": "SG",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "Bluecore",
+  "webDomain": "bluecore.com",
+  "country": "US",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Only contact route is a Talk to us sales page with no visible form fields (form not verifiable); com"
+ },
+ {
+  "companyName": "Skale",
+  "webDomain": "skale.so",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable"
+ },
+ {
+  "companyName": "MarketerHire",
+  "webDomain": "marketerhire.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No general contact form found (/contact returns 404; hiring marketplace)"
+ },
+ {
+  "companyName": "Micky Weis",
+  "webDomain": "mickyweis.com",
+  "country": "UAE",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Danish-language site, not based in UK/US/UAE; /contact returns 404"
+ },
+ {
+  "companyName": "SEO Tech Experts",
+  "webDomain": "seotechexperts.com",
+  "country": "UAE",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page not found (404); HQ appears to be India with a Dubai business-centre address, not a rea"
+ },
+ {
+  "companyName": "Incrementors",
+  "webDomain": "incrementors.com",
+  "country": "UAE",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (Send Us a Message heading but no field labels visible); mainly India and US off"
+ },
+ {
+  "companyName": "Brightery",
+  "webDomain": "brightery.com",
+  "country": "UAE",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page not found (404 at /en/contact-us); no form seen"
+ },
+ {
+  "companyName": "Pitchbox",
+  "webDomain": "pitchbox.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "No contact form: /contact returns 404 and homepage offers only demo booking"
+ },
+ {
+  "companyName": "Webbiquity",
+  "webDomain": "webbiquity.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page returns 404 and the 404 page carries injected casino spam links (possible hacked or lin"
+ },
+ {
+  "companyName": "Social SEO",
+  "webDomain": "socialseo.com",
+  "country": "US",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable: contact page shows no field labels"
+ }
+]

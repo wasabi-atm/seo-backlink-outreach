@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Laimoon",
+  "webDomain": "laimoon.com",
+  "country": "UAE",
+  "serviceType": "Training and jobs platform",
+  "segment": "B",
+  "drFree": "46",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Mind Mingles",
+  "webDomain": "mindmingles.com",
+  "country": "UAE",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Digitrends",
+  "webDomain": "digitrends.co",
+  "country": "UAE",
+  "serviceType": "Web design and digital agency",
+  "segment": "A",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Marketika",
+  "webDomain": "marketika.co",
+  "country": "UAE",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "50",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Designocracy",
+  "webDomain": "thedesignocracy.com",
+  "country": "UAE",
+  "serviceType": "Branding and design studio",
+  "segment": "A",
+  "drFree": "48",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "MBLM",
+  "webDomain": "mblm.com",
+  "country": "US",
+  "serviceType": "Brand agency",
+  "segment": "A",
+  "drFree": "59",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "YouTrip",
+  "webDomain": "you.co",
+  "country": "SG",
+  "serviceType": "Travel payments fintech",
+  "segment": "B",
+  "drFree": "58",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "99.co",
+  "webDomain": "99.co",
+  "country": "SG",
+  "serviceType": "Property tech platform",
+  "segment": "B",
+  "drFree": "77",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Kinex Media",
+  "webDomain": "kinexmedia.com",
+  "country": "SG",
+  "serviceType": "Web design and digital agency",
+  "segment": "A",
+  "drFree": "69",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Vodien",
+  "webDomain": "vodien.com",
+  "country": "SG",
+  "serviceType": "Web hosting and domains",
+  "segment": "B",
+  "drFree": "73",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "companyName": "HireHive",
+  "webDomain": "hirehive.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page not found (/contact and /contact-us both 404); only Book a demo offered"
+ },
+ {
+  "companyName": "Railsr",
+  "webDomain": "railsr.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page not found (/contact and /contact-us both 404)"
+ },
+ {
+  "companyName": "Applied",
+  "webDomain": "beapplied.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact pages returned an empty page with no visible content)"
+ },
+ {
+  "companyName": "Sonocent",
+  "webDomain": "sonocent.com",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Contact page not found (/contact 404; /contact-us fetch returned nothing)"
+ },
+ {
+  "companyName": "Receptive",
+  "webDomain": "receptive.io",
+  "country": "UK",
+  "segment": "B",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Fetch failed or timed out twice (/contact and homepage returned nothing); form not verifiable"
+ },
+ {
+  "companyName": "Branded3",
+  "webDomain": "branded3.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site fetch failed twice (timeout/blocked), could not verify form or article"
+ },
+ {
+  "companyName": "Four Communications",
+  "webDomain": "fourcommunications.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (page shows only Send us a message heading, no visible fields)"
+ },
+ {
+  "companyName": "Reading Room",
+  "webDomain": "readingroom.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Site fetch failed twice (timeout/blocked), could not verify form or article"
+ },
+ {
+  "companyName": "Bespoke Digital",
+  "webDomain": "bespokedigital.agency",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (contact page shows email, phone and call back request only, no visible fields)"
+ },
+ {
+  "companyName": "Redeye",
+  "webDomain": "redeye.com",
+  "country": "UK",
+  "segment": "A",
+  "source": "recheck1014",
+  "articleUrl": "",
+  "note": "Form not verifiable (General enquiries page shows the heading but no field labels); also acquired by"
+ }
+]

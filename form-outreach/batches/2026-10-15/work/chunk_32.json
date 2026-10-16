@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Soup Agency",
+  "webDomain": "soupagency.com.au",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "42",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Clearwater Agency",
+  "webDomain": "clearwateragency.com.au",
+  "country": "AU",
+  "serviceType": "B2B tech PR and marketing agency",
+  "segment": "A",
+  "drFree": "43",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "TOAST",
+  "webDomain": "toast.au",
+  "country": "AU",
+  "serviceType": "Brand and creative agency",
+  "segment": "A",
+  "drFree": "42",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "ROI Marketing",
+  "webDomain": "roi.com.au",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "53",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Margin Media",
+  "webDomain": "marginmedia.com.au",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "55",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Mojo Dojo",
+  "webDomain": "mojodojo.io",
+  "country": "AU",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "45",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Grafiqberry",
+  "webDomain": "grafiqberry.com",
+  "country": "UAE",
+  "serviceType": "Advertising and design agency",
+  "segment": "A",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Koncept",
+  "webDomain": "koncept.ae",
+  "country": "UAE",
+  "serviceType": "Branding and design agency",
+  "segment": "A",
+  "drFree": "46",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "ADDX",
+  "webDomain": "addx.co",
+  "country": "SG",
+  "serviceType": "Private markets fintech",
+  "segment": "B",
+  "drFree": "53",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "CYFIRMA",
+  "webDomain": "cyfirma.com",
+  "country": "SG",
+  "serviceType": "Threat intelligence SaaS",
+  "segment": "B",
+  "drFree": "72",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

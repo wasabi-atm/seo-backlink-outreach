@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Spaceship",
+  "webDomain": "spaceship.com.au",
+  "country": "AU",
+  "serviceType": "Investing fintech",
+  "segment": "B",
+  "drFree": "51",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Superhero",
+  "webDomain": "superhero.com.au",
+  "country": "AU",
+  "serviceType": "Investing fintech",
+  "segment": "B",
+  "drFree": "46",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Pearler",
+  "webDomain": "pearler.com",
+  "country": "AU",
+  "serviceType": "Investing fintech",
+  "segment": "B",
+  "drFree": "48",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Canstar",
+  "webDomain": "canstar.com.au",
+  "country": "AU",
+  "serviceType": "Financial comparison",
+  "segment": "B",
+  "drFree": "77",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Basiq",
+  "webDomain": "basiq.io",
+  "country": "AU",
+  "serviceType": "Open banking API",
+  "segment": "B",
+  "drFree": "58",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Frollo",
+  "webDomain": "frollo.com.au",
+  "country": "AU",
+  "serviceType": "Open banking fintech",
+  "segment": "B",
+  "drFree": "55",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "FYI Docs",
+  "webDomain": "fyidocs.com",
+  "country": "AU",
+  "serviceType": "Practice management SaaS",
+  "segment": "B",
+  "drFree": "40",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Nookal",
+  "webDomain": "nookal.com",
+  "country": "AU",
+  "serviceType": "Practice management SaaS",
+  "segment": "B",
+  "drFree": "80",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Kinde",
+  "webDomain": "kinde.com",
+  "country": "AU",
+  "serviceType": "Auth and dev tools SaaS",
+  "segment": "B",
+  "drFree": "76",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Shorthand",
+  "webDomain": "shorthand.com",
+  "country": "AU",
+  "serviceType": "Content storytelling SaaS",
+  "segment": "A",
+  "drFree": "81",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]

@@ -1,0 +1,2 @@
+companyName,webDomain,domainRating,country,serviceType,segment,visualScore,backlinkExchange,backlinkEvidence,dataSource,competitor,drStatus,videoSchemaGap,latestPost,blogUrl,competitorDecision,pool,postsRead,outsideDomainCount,recentPosts,notes
+Gurucul,gurucul.com,71,US,SIEM and security analytics platform,B,,unchecked,no post read; blocks Apify,ahrefs-free DR; apify links,no,pass,,2026-10-05,https://gurucul.com/blog/,,,0,,[],"blocks Apify (403 on direct and residential proxy, www and non-www); no post could be read"

@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Bizcap",
+  "webDomain": "bizcap.com.au",
+  "country": "AU",
+  "serviceType": "SME lending fintech",
+  "segment": "B",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Shift",
+  "webDomain": "shift.com.au",
+  "country": "AU",
+  "serviceType": "SME finance fintech",
+  "segment": "B",
+  "drFree": "45",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Payroller",
+  "webDomain": "payroller.com.au",
+  "country": "AU",
+  "serviceType": "Payroll SaaS",
+  "segment": "B",
+  "drFree": "40",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Microkeeper",
+  "webDomain": "microkeeper.com.au",
+  "country": "AU",
+  "serviceType": "Payroll and HR SaaS",
+  "segment": "B",
+  "drFree": "50",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Astute Payroll",
+  "webDomain": "astutepayroll.com",
+  "country": "AU",
+  "serviceType": "Payroll SaaS",
+  "segment": "B",
+  "drFree": "68",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Bird Marketing",
+  "webDomain": "bird.co.uk",
+  "country": "UK",
+  "serviceType": "Digital marketing agency",
+  "segment": "A",
+  "drFree": "67",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Catalyst",
+  "webDomain": "wearecatalyst.co.uk",
+  "country": "UK",
+  "serviceType": "Digital marketing and web agency",
+  "segment": "A",
+  "drFree": "40",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Diffusion",
+  "webDomain": "diffusionpr.com",
+  "country": "UK",
+  "serviceType": "Tech PR agency",
+  "segment": "A",
+  "drFree": "43",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "B&B Studio",
+  "webDomain": "bandb-studio.co.uk",
+  "country": "UK",
+  "serviceType": "Brand design studio",
+  "segment": "A",
+  "drFree": "41",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ },
+ {
+  "companyName": "Ayima",
+  "webDomain": "ayima.com",
+  "country": "UK",
+  "serviceType": "SEO and performance marketing agency",
+  "segment": "A",
+  "drFree": "57",
+  "source": "new1015",
+  "articleUrl": "",
+  "note": ""
+ }
+]
