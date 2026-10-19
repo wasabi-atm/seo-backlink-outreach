@@ -1,0 +1,128 @@
+[
+ {
+  "companyName": "Fat Zebra",
+  "webDomain": "fatzebra.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Payments fintech (Sydney)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Venture Stream",
+  "webDomain": "venturestream.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Ecommerce digital marketing and SEO agency (Newcastle)",
+  "articleHint": "https://venturestream.co.uk/blog/how-to-boost-organic-visibility-in-the-age-of-zero-click-search/",
+  "source": "new"
+ },
+ {
+  "companyName": "Nucleus Commercial Finance",
+  "webDomain": "nucleuscommercialfinance.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "SME lending fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Madgex",
+  "webDomain": "madgex.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Job board software (Brighton)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Locomotive Agency",
+  "webDomain": "locomotive.agency",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Technical SEO agency",
+  "articleHint": "https://locomotive.agency/blog/why-video-should-be-part-of-your-content-strategy/",
+  "source": "new"
+ },
+ {
+  "companyName": "SPROUT Content",
+  "webDomain": "sproutcontent.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B content marketing agency (Colorado)",
+  "articleHint": "https://www.sproutcontent.com/blog/why-you-cant-afford-not-to-invest-in-inbound-marketing",
+  "source": "new"
+ },
+ {
+  "companyName": "Maestro",
+  "webDomain": "maestro.io",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Live video streaming platform",
+  "articleHint": "https://www.maestro.io/blog/make-money-with-video/",
+  "source": "new"
+ },
+ {
+  "companyName": "SlickText",
+  "webDomain": "slicktext.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "SMS marketing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "GorillaDesk",
+  "webDomain": "gorilladesk.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Pest control and field service software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Malomo",
+  "webDomain": "gomalomo.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Ecommerce shipment tracking and post purchase marketing",
+  "articleHint": "https://gomalomo.com/post-purchase-experience/post-purchase-behavior-marketing",
+  "source": "new"
+ },
+ {
+  "companyName": "Broadly",
+  "webDomain": "broadly.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Reputation and customer engagement software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "SalesHood",
+  "webDomain": "saleshood.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Sales enablement software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "access4.com",
+  "webDomain": "access4.com",
+  "country": "check (likely US or UK)",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "stuut.ai",
+  "webDomain": "stuut.ai",
+  "country": "check (likely US or UK)",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ }
+]

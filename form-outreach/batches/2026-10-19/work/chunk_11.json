@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "Accelo",
+  "webDomain": "accelo.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Professional services automation SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "TherapyNotes",
+  "webDomain": "therapynotes.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Practice management software for therapists",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Breeze ChMS",
+  "webDomain": "breezechms.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Goody",
+  "webDomain": "ongoody.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Corporate gifting platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Process Street",
+  "webDomain": "process.st",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Process and workflow management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Adalo",
+  "webDomain": "adalo.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "No-code app builder",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Cake Equity",
+  "webDomain": "cakeequity.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Equity management SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

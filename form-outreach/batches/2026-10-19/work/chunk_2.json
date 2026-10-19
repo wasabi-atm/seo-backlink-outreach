@@ -1,0 +1,128 @@
+[
+ {
+  "companyName": "Mediabooth",
+  "webDomain": "mediabooth.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing agency (Brisbane)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "FYI",
+  "webDomain": "fyi.app",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Document management SaaS for accountants (Melbourne)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Whoisvisiting",
+  "webDomain": "whoisvisiting.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "B2B website visitor identification SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Streetbees",
+  "webDomain": "streetbees.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "AI consumer insights platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Sova Assessment",
+  "webDomain": "sovaassessment.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Talent assessment HR tech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Clariant Creative",
+  "webDomain": "clariantcreative.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B content and inbound agency (Phoenix)",
+  "articleHint": "https://www.clariantcreative.com/9-step-guide-to-a-complete-b2b-content-strategy",
+  "source": "new"
+ },
+ {
+  "companyName": "Flowcode",
+  "webDomain": "flowcode.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Marketing SaaS (QR and attribution)",
+  "articleHint": "https://www.flowcode.com/blog/what-nfl-shop-and-the-pittsburgh-penguins-prove-about-tv-attribution",
+  "source": "new"
+ },
+ {
+  "companyName": "BoomTown",
+  "webDomain": "boomtownroi.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate CRM and lead generation software",
+  "articleHint": "https://resources.boomtownroi.com/agent/2-ways-to-create-compelling-video-ads-in-minutes",
+  "source": "new"
+ },
+ {
+  "companyName": "GlossGenius",
+  "webDomain": "glossgenius.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Salon and spa software",
+  "articleHint": "https://glossgenius.com/blog/salon-marketing-ideas",
+  "source": "new"
+ },
+ {
+  "companyName": "Xola",
+  "webDomain": "xola.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Tour and activity booking software",
+  "articleHint": "https://www.xola.com/articles/how-tour-operators-can-easily-harness-the-power-of-video",
+  "source": "new"
+ },
+ {
+  "companyName": "Revinate",
+  "webDomain": "revinate.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Hotel CRM and marketing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Shopper Approved",
+  "webDomain": "shopperapproved.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Ecommerce ratings and reviews",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Element451",
+  "webDomain": "element451.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Higher education CRM",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "nimblework.com",
+  "webDomain": "nimblework.com",
+  "country": "check (likely US or UK)",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ }
+]

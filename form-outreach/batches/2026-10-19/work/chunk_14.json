@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "Smartlead",
+  "webDomain": "smartlead.ai",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Cold email outreach SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "MarketMan",
+  "webDomain": "marketman.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant inventory SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Kangarootime",
+  "webDomain": "kangarootime.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Childcare management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Printfection",
+  "webDomain": "printfection.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Swag management platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "ContentStudio",
+  "webDomain": "contentstudio.io",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Social media management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Aligned",
+  "webDomain": "alignedup.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Buyer enablement SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Supernormal",
+  "webDomain": "supernormal.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI meeting notes",
+  "articleHint": "",
+  "source": "new"
+ }
+]

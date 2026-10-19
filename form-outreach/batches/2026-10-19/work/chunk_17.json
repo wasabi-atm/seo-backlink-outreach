@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Ninja Forms",
+  "webDomain": "ninjaforms.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "WordPress form builder SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "PFL",
+  "webDomain": "pfl.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Tactile marketing automation",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Senja",
+  "webDomain": "senja.io",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Testimonial SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Forma",
+  "webDomain": "joinforma.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Benefits platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Allbound",
+  "webDomain": "allbound.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "PRM SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Varos",
+  "webDomain": "varos.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Ad benchmarking SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Stencil",
+  "webDomain": "getstencil.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Graphic design SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Upflow",
+  "webDomain": "upflow.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AR automation",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Actionstep",
+  "webDomain": "actionstep.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Legal practice SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

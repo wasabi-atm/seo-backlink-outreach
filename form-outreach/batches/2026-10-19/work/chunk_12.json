@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "MarcomCentral",
+  "webDomain": "marcom.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Brand and marketing asset management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Boulevard",
+  "webDomain": "joinblvd.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Salon and spa management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Gloo",
+  "webDomain": "gloo.us",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church growth and engagement platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Swag.com",
+  "webDomain": "swag.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Branded merchandise platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Almanac",
+  "webDomain": "almanac.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Docs and collaboration SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Thunkable",
+  "webDomain": "thunkable.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "No-code mobile app builder",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Visible",
+  "webDomain": "visible.vc",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Investor updates and fundraising SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

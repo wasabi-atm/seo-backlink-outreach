@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Grow",
+  "webDomain": "grow.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "BI dashboard SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Eventzilla",
+  "webDomain": "eventzilla.net",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Event registration SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Playroll",
+  "webDomain": "playroll.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "EOR platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "The Social Cat",
+  "webDomain": "thesocialcat.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Influencer platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Retention.com",
+  "webDomain": "retention.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Ecommerce identity SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "CloudPano",
+  "webDomain": "cloudpano.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Virtual tour SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ivvy",
+  "webDomain": "ivvy.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Event management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Clear Books",
+  "webDomain": "clearbooks.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Accounting software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Beamer",
+  "webDomain": "getbeamer.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Product announcements SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

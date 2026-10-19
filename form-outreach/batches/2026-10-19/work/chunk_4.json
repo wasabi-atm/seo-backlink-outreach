@@ -1,0 +1,128 @@
+[
+ {
+  "companyName": "Eftsure",
+  "webDomain": "eftsure.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "B2B payment fraud prevention fintech (Sydney)",
+  "articleHint": "https://www.eftsure.com/blog/industry-news/payments-system/",
+  "source": "new"
+ },
+ {
+  "companyName": "Pixel Mechanics",
+  "webDomain": "pixelmechanics.com.sg",
+  "country": "Singapore",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Crowdcube",
+  "webDomain": "crowdcube.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Equity crowdfunding fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "ClassForKids",
+  "webDomain": "classforkids.io",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Class booking and payments SaaS (Glasgow)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Liberis",
+  "webDomain": "liberis.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Revenue based business finance fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "1Digital Agency",
+  "webDomain": "1digitalagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Ecommerce SEO and digital agency",
+  "articleHint": "https://www.1digitalagency.com/blog/best-ai-cms-platforms-seo-content-optimization-2026/",
+  "source": "new"
+ },
+ {
+  "companyName": "TSL Marketing",
+  "webDomain": "tslmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand gen and HubSpot agency",
+  "articleHint": "https://www.tslmarketing.com/blog",
+  "source": "new"
+ },
+ {
+  "companyName": "CINC",
+  "webDomain": "cincpro.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate lead generation software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "PushPress",
+  "webDomain": "pushpress.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Gym management software",
+  "articleHint": "https://www.pushpress.com/blog/how-to-create-a-gym-marketing-plan-focused-on-growth",
+  "source": "new"
+ },
+ {
+  "companyName": "Anedot",
+  "webDomain": "anedot.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Donation and fundraising platform",
+  "articleHint": "https://www.anedot.com/blog/church-marketing-social-media-video",
+  "source": "new"
+ },
+ {
+  "companyName": "Tapcart",
+  "webDomain": "tapcart.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Mobile commerce app builder",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Easy Agent Pro",
+  "webDomain": "easyagentpro.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate websites and marketing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Antavo",
+  "webDomain": "antavo.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Loyalty programme SaaS",
+  "articleHint": "https://antavo.com/blog/customer-loyalty-statistics/",
+  "source": "leftover"
+ },
+ {
+  "companyName": "SegmentStream",
+  "webDomain": "segmentstream.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Marketing measurement and attribution SaaS",
+  "articleHint": "https://segmentstream.com/blog/articles/composable-measurement-platform",
+  "source": "leftover"
+ }
+]

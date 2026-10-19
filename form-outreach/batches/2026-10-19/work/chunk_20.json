@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Whimsical",
+  "webDomain": "whimsical.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Visual collaboration SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Breadcrumbs",
+  "webDomain": "breadcrumbs.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Revenue intelligence SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Velocity Global",
+  "webDomain": "velocityglobal.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Global employment platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Insense",
+  "webDomain": "insense.pro",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "UGC creator platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Judge.me",
+  "webDomain": "judge.me",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Product reviews app",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Threekit",
+  "webDomain": "threekit.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "3D product visualization SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Expr3ss",
+  "webDomain": "expr3ss.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Hiring software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Juni",
+  "webDomain": "juni.co",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Finance for ecommerce",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Userback",
+  "webDomain": "userback.io",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "User feedback SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]
