@@ -1,6 +1,6 @@
 ---
 name: "mta-backlink-outreach"
-description: "Run a Motion The Agency SEO backlink outreach batch. Interview, dedupe against every company already contacted, build and visually vet 40 UK/US/UAE sites with webscreenshotter, ask the user about any competitor, check DR and link habits in Ahrefs, check each homepage video for VideoObject schema with Apify, crawl each blog for free with crawl4ai to pick one article per site, and draft emails on request."
+description: "Run a Motion The Agency SEO backlink outreach batch. Interview, dedupe against every company already contacted, build and visually vet 40 UK/US/UAE sites with webscreenshotter, ask the user about any competitor, check DR and link habits in Ahrefs, check each homepage video for VideoObject schema with Apify, read each blog with WebFetch to pick one article per site, and draft emails on request."
 ---
 
 # MTA backlink outreach
@@ -51,6 +51,17 @@ The helper is `<repo>/skill/mta-backlink-outreach/scripts/dedupe.py` (standard l
 - `python dedupe.py remove --ledger <ledger> --campaign <name>` deletes a whole campaign. Use it only when the user says a run was a test and should be forgotten. Name test runs `backlink-<YYYY-MM-DD>-test` so they are easy to find.
 
 A `possible` match (brand name only) is still removed. Show it to the user at the checkpoint and only put it back if they say it is a different company. Do not edit the ledger by hand.
+
+## Crawling websites (WebFetch first)
+
+Any step that reads a website's pages (blog crawls, article checks, titles, meta descriptions, headings, link checks, contact pages) uses WebFetch. Do not use Apify's `apify/website-content-crawler` for this, and do not use the shell (curl, Python, crawl4ai, Crawlee) to reach websites: it is blocked in the cloud session.
+
+1. Page content, titles, meta descriptions, headings and link checks: WebFetch, one URL per call, up to 20 calls in parallel in one message.
+2. To find a site's URLs, fetch `/sitemap.xml` with WebFetch first (follow a sitemap index to the post or page sitemaps). If there is no sitemap, fetch the homepage and use its internal links.
+3. Cap every crawl at 50 pages by default. Take the most important pages first: homepage, services, pricing, case studies, then blog. For an article pick, that means the blog index and the posts whose titles fit the topics in Step 4. Go above 50 only if the user says so in the request.
+4. Label word counts and link counts from WebFetch as "approx". If a field is missing, write "not found". Retry a failed page once, then mark it "failed" and move on.
+5. Use Apify only when WebFetch cannot do the job: more than about 100 pages, exact word or link counts, or a site that blocks WebFetch. Tell the user before running it, then use `apify/website-content-crawler` with crawlerType "cheerio", maxCrawlPages 150, maxCrawlDepth 3, maxResults 150, proxyConfiguration {"useApifyProxy": true}, saveMarkdown false and saveHtml false. In an unattended run nobody can be told first, so skip the site (note why) instead of running it.
+6. This only covers crawling websites. Other Apify actors are used as before (ahrefs-scraper, screenshot-url, google-rich-results-checker, leads-scraper-ppe, Google Maps, LinkedIn, Upwork, AI visibility scrapers).
 
 ## Who is a competitor (ask the user, never decide alone)
 
@@ -113,7 +124,7 @@ The script is `<repo>/skill/mta-backlink-outreach/scripts/visual_check.py`. Run 
 
 For each domain it saves one screenshot, `shots/<domain>.png`: the first screen as a 16:9 image (1440x810). No full-page shots. It also writes `shots/signals.csv` with ad networks, farm words, outbound link count, word count and whether a blog link exists. Each site has a 150 second limit, so one slow page cannot stall the batch. About 30 seconds per site, so 60 sites take roughly 8 minutes with 4 workers. Run it in the background and wait for it to finish.
 
-Read each `.png` for design and first impressions. For blog quality, look at the blog itself (fetch the blog index and one or two posts for authors, dates and topics) rather than guessing from the homepage.
+Read each `.png` for design and first impressions. For blog quality, look at the blog itself (WebFetch the blog index and one or two posts for authors, dates and topics, see "Crawling websites") rather than guessing from the homepage.
 
 Setup, once per machine (needs Google Chrome installed):
 
@@ -127,7 +138,7 @@ Make the venv at `<repo>/.venv` (it is not synced, so each device needs it once;
 Where to run it:
 
 1. In Claude Code on the user's Mac, run it directly. This is the tested path.
-2. In a cloud session, first test the network with `curl -sI https://<one candidate domain>`. The cloud workspace often blocks arbitrary sites and has no Chrome. If a folder on the user's computer is connected, run the script there with device_bash, then stage the `.png` files back to look at them.
+2. In a cloud session, do not run it in the cloud shell (it is blocked from reaching websites and has no Chrome). If a folder on the user's computer is connected, run the script there with device_bash, then stage the `.png` files back to look at them. Otherwise go to option 3.
 3. For any domain listed under "No screenshots" at the end of the run, or if nothing above works, use the Apify actor `apify/screenshot-url` (urls list, viewportWidth 1440, viewportHeight 810, fullPage false, waitUntil "load", delay 2000) and read the images from its key-value store. Or open each homepage in the built-in browser and take a screenshot. signals.csv still has that site's checks if it loaded; if `loaded` is False too, check the homepage text for farm words by hand.
 
 Score each site 1 to 5 on each of these, from the 16:9 screenshot, the blog pages you fetched and signals.csv:
@@ -153,7 +164,7 @@ Run it on `01_prospects.csv`:
 <repo>/.venv-crawl/bin/python <repo>/skill/mta-backlink-outreach/scripts/video_schema.py detect 01_prospects.csv video/ --workers 4
 ```
 
-`detect` renders each homepage with crawl4ai (free, the same venv as the Step 4 blog crawl) and looks for video players outside the nav, footer and sidebars: YouTube, Vimeo, Wistia, Loom, Vidyard, Brightcove, HubSpot, a plain video tag with player controls, and others. Plain links to a video don't count, and neither do video tags without player controls (background and UI animations). It writes `video/video_check.csv` (with each homepage's title, handy for spotting non-matching sites) and lists in `video/apify_todo.csv` the homepages that have a video but no VideoObject in the rendered page. A homepage with a video but no VideoObject then gets a deep render (Playwright) that sees the page the way Google's Rich Results Test does: Googlebot phone user agent, a tall viewport, no scrolling or clicking, then a wait for script-added schema (Wistia adds its VideoObject by script). It reads structured data in the page itself and, separately, in every iframe (`iframeVideoObject`). A VideoObject that only appears after scrolling does not count, as Google never scrolls (JumpCloud). About 10 seconds per site, plus about 30 seconds per deep render. `recheck <file> video/` runs the deep render on its own, for example on a list the user doubts.
+`detect` renders each homepage with crawl4ai (free, in `<repo>/.venv-crawl`, Mac only: it reaches websites through the shell) and looks for video players outside the nav, footer and sidebars: YouTube, Vimeo, Wistia, Loom, Vidyard, Brightcove, HubSpot, a plain video tag with player controls, and others. Plain links to a video don't count, and neither do video tags without player controls (background and UI animations). It writes `video/video_check.csv` (with each homepage's title, handy for spotting non-matching sites) and lists in `video/apify_todo.csv` the homepages that have a video but no VideoObject in the rendered page. A homepage with a video but no VideoObject then gets a deep render (Playwright) that sees the page the way Google's Rich Results Test does: Googlebot phone user agent, a tall viewport, no scrolling or clicking, then a wait for script-added schema (Wistia adds its VideoObject by script). It reads structured data in the page itself and, separately, in every iframe (`iframeVideoObject`). A VideoObject that only appears after scrolling does not count, as Google never scrolls (JumpCloud). About 10 seconds per site, plus about 30 seconds per deep render. `recheck <file> video/` runs the deep render on its own, for example on a list the user doubts.
 
 Vimeo needs its own step. A Vimeo player page carries its own VideoObject, and Google's Rich Results Test shows it as a Video item on the host page when the player is visible at load (Alpheya, Tribepad), so such a page is not a gap. A hero loop (Vimeo `background=1`, or autoplay and muted) also shows as a Video item, but a hero clip's schema does not count, as the real video still has none (Netacea); a player hidden in a closed pop-up is not counted by Google at all (Altruistiq). YouTube and Vidyard embeds carry no VideoObject, and Google did not count Posit's Wistia iframe. So after `detect`, run `<repo>/.venv-crawl/bin/python video_schema.py players video/apify_todo.csv video/`: it renders each homepage the Google way, lists the video iframes that load, and writes `video/players.csv` (real vimeo player, vimeo hero only, vimeo hidden only, no vimeo at load). It reads iframe URLs only, so it works even where the ISP blocks player.vimeo.com (Indonesian ISPs do, so a local render never sees Vimeo's schema). `merge` then marks a real Vimeo player as no gap, and a page whose only video is a Vimeo hero loop as `check`.
 
@@ -183,7 +194,7 @@ It adds these columns to `01_prospects.csv` in place:
 
 The actor reads the raw HTML, so it misses a VideoObject that a player adds by script. Google renders pages and does see those, so `merge` also counts a VideoObject found in the rendered page (the deep render included), and says so in videoNote. A gap is only reported when neither finds one. Do not overrule the result by hand. Before a list goes out, give the user the rows with a `richResultsUrl` (Google's Rich Results Test) so they can spot-check a sample: Google's test is the final word, and "No items detected" or no "Videos" item there means the gap is real.
 
-In a cloud session `detect` has to reach the sites. If they are blocked there and a folder on the user's computer is connected, run `detect` on the Mac with device_bash. If neither works, skip 2c and leave the columns blank, so no email gets the video lines.
+In a cloud session do not run `detect` in the cloud shell, which is blocked from reaching websites. If a folder on the user's computer is connected, run `detect` on the Mac with device_bash. Otherwise skip 2c and leave the columns blank, so no email gets the video lines.
 
 **Checkpoint 1.** Show the user the list as a short table (company, domain, country, segment, score, videoSchemaGap) plus the excluded sites with one-line reasons. List the dedupe removals separately with their reason, and flag any `possible` matches so the user can say if they are really a different company. Any swap the user suggests goes through `dedupe.py check` before it joins the list, then through 2c in its own folder (`detect swaps.csv video_swaps/`, the Apify check, then `merge 01_prospects.csv video_swaps/`, which only touches the swapped rows). Wait for approval, and apply any removals or swaps, before Step 3.
 
@@ -212,7 +223,7 @@ Fallback: if Ahrefs is low on units or returns an out-of-units or limit error, s
 - `get-dataset-items` returns 20 rows by default. Set `limit` to at least the number of domains, and pass `fields` "domain,type,domain_rating" to keep it small.
 - If a domain still has no authority row, try the free Ahrefs endpoint `public-domain-rating-free` (targets list, costs no units) for DR.
 
-The scraper does not show which sites a domain links out to, so on the Apify path check link habits by hand: fetch three to five recent blog posts and count distinct outside business domains they link to in the article body, plus any contributor page or quotes from outside founders.
+The scraper does not show which sites a domain links out to, so on the Apify path check link habits by hand: WebFetch three to five recent blog posts and count distinct outside business domains they link to in the article body (label the count "approx"), plus any contributor page or quotes from outside founders.
 
 Split the results into two files. Both use the same columns, in this order: companyName, webDomain, domainRating, country, serviceType, segment, visualScore, backlinkExchange, backlinkEvidence, dataSource, competitor, drStatus, videoSchemaGap.
 
@@ -231,38 +242,15 @@ If fewer than 40 rows pass, go back to the spare candidates from Step 2, vet the
 
 ## Step 4: Pick one article per company
 
-Crawl each site's blog with crawl4ai (Playwright Chromium) through `<repo>/skill/mta-backlink-outreach/scripts/blog_crawl.py`. It is free. Do not use Apify's Website Content Crawler for this step: it cost about $4.40 of Apify credit for one batch and hit the monthly usage cap.
+Read each site's blog with WebFetch, following "Crawling websites" above (no crawl4ai, no shell, no Website Content Crawler). For each company:
 
-```
-<repo>/.venv-crawl/bin/python <repo>/skill/mta-backlink-outreach/scripts/blog_crawl.py 02_enriched.csv crawl/ --workers 4
-```
+1. WebFetch `/sitemap.xml` (or the sitemap index, then the post sitemap) to list blog URLs with their lastmod dates. If there is no sitemap, WebFetch the homepage, find the blog link, and WebFetch the blog index for its post links.
+2. Shortlist posts by title and date against the topics below, and WebFetch the best few (at most 50 pages per site, usually far fewer) for the title, published or updated date, headings, approx word count and whether the page has video, images or a CTA that Motion could improve.
+3. Run up to 20 WebFetch calls in parallel across companies. Retry a failed page once, then mark it "failed" and move on. If WebFetch is blocked for a whole site, open the blog in the built-in browser if one is connected; otherwise drop the site and say why (Apify only with the user told first, see rule 5).
 
-For each webDomain it finds the blog index from the homepage links (or tries /blog, /insights, /resources and similar), then crawls up to about 40 pages, 2 levels deep, on the blog's host. It skips pricing, login, docs, services and similar pages, and ignores links in the nav, header and footer, so it follows the post list and not the site menu. Posts outside the blog path (for example `/post/...` or at the root) are still found. Around 10 seconds per site, so 40 sites take a few minutes with 4 workers. Run it in the background and wait for it to finish.
+Save what you read to `crawl/articles.csv` (webDomain, url, title, published, wordCountApprox, fetchStatus) so the pick can be checked later.
 
-It writes:
-
-- `crawl/articles.csv`: webDomain, url, title, published, wordCount, isListing, mdFile. Rows with isListing True are the blog index, pagination, tag, category or author pages. Skip them when picking an article.
-- `crawl/<domain>/<n>.md`: the page as markdown. The first line is the URL, the second the title.
-- `crawl/summary.csv`: per domain, the blog URL used, page and article counts, and any error. Everything with an error is listed again at the end of the run.
-
-For a domain with an error or 0 articles, find the real blog URL (from the homepage or a search), put it in a `blogUrl` column for just those rows, and run the script again on them. If a site still fails, open its blog in the built-in browser or fetch it directly.
-
-Setup, once per machine. crawl4ai needs Python 3.10 or newer (macOS ships 3.9, so use Homebrew's `python@3.12`). It gets its own venv, `<repo>/.venv-crawl`, kept apart from the screenshot venv because of the old Selenium pin there. It is not synced; on the main Mac it already exists.
-
-```
-python3.12 -m venv .venv-crawl
-.venv-crawl/bin/pip install -U crawl4ai
-.venv-crawl/bin/crawl4ai-setup
-.venv-crawl/bin/crawl4ai-doctor
-```
-
-`crawl4ai-setup` downloads Playwright's Chromium. Where to run it:
-
-1. In Claude Code on the user's Mac, use the local venv above and the local Playwright Chromium. This is the tested path.
-2. In a cloud session (Claude Code on the web, where `$CLAUDE_CODE_REMOTE` is set, or a claude.ai workspace), run it in the cloud with the cloud's own Playwright: do the setup above with whatever Python 3.10+ is there (`python3 -m venv .venv-crawl`). If Chromium fails to start for missing system libraries, run `.venv-crawl/bin/python -m playwright install --with-deps chromium`, then try again. First test the network with `curl -sI https://<one enriched domain>`, as the cloud workspace can block arbitrary sites. If sites are blocked there and a folder on the user's computer is connected, run the script on the Mac with device_bash instead and read `crawl/` back.
-3. Only if neither works, ask the user before falling back to Apify's `apify/website-content-crawler`. If they agree, give it only blog index start URLs (never homepages), `crawlerType` "cheerio", `maxCrawlDepth` 2, `maxCrawlPages` 40 per domain, and a `maxTotalChargeUsd` cap. Say what it will roughly cost first.
-
-Read the title, URL and markdown from `crawl/`. Look for articles about SaaS video, B2B video, video marketing, advertising or content marketing. Don't be strict. The test is whether a link to MTA would sit naturally in the article and pass authority to motiontheagency.com. Prefer articles that:
+Read the titles, dates and page content you fetched. Look for articles about SaaS video, B2B video, video marketing, advertising or content marketing. Don't be strict. The test is whether a link to MTA would sit naturally in the article and pass authority to motiontheagency.com. Prefer articles that:
 
 - mention video, explainers, animation, demos or visual content, or recommend something MTA could make
 - are live and updated within the last two years
@@ -293,7 +281,7 @@ Each source only gets the companies the sources above it did not cover. `<repo>/
 1. **Instantly SuperSearch.** Check credits with `workspace_billing_plan_details` (credits.available_credits). `enrichment_count` and `enrichment_preview` are free. Import with `enrichment_enrich`: search_filters `domains` (the companies), `title.include` (the roles) and `show_one_lead_per_company` true, plus `work_email_enrichment` true, `skip_rows_without_email` true and a `list_name` for the batch (a second pass can add to the same list with `resource_id`). The count over-reports, but the import keeps one person per company and only found emails use credits. Wait until `enrichment_get` shows `in_progress` false, then export the list with `list_leads` (list_id, 100 per page) to `leads_instantly.csv` with webDomain (payload.sourceCompanyDomain), firstName, lastName, jobTitle, email, location (payload.location), linkedinUrl (payload.linkedIn). Run `contacts.py pick leads_instantly.csv contacts.csv --source instantly --targets <file>`. If many companies are left, run one more, broader Instantly pass on just those (any marketing title, then founder or CEO) before moving on. People marked isOwned in the preview are already in the Instantly workspace: note them so the user can check they are not in a live campaign.
 2. **Apollo**, for the companies in `contacts.py todo <file> contacts.csv -o todo_apollo.csv`. Check `apollo_usage_stats_credit_usage_stats` (lead_credit left_over) and tell the user the expected cost, about 1 lead credit per revealed email, before spending. Find people with `apollo_mixed_people_api_search` (free: q_organization_domains_list, person_titles), choose one per company, then reveal emails with `apollo_people_bulk_match` (10 per call, by id). Save `leads_apollo.csv` in the same columns and run `pick --source apollo`.
 3. **Apify `peakydev/leads-scraper-ppe`** through the Apify MCP, for what is still left (`todo -o todo_apify.csv`). Input: companyDomain (up to 100 domains), personTitle (the roles), maxPerCompany 3, totalResults about 3 per domain. About $0.10 per run plus $0.0017 per lead. Map organizationWebsite to webDomain, title to jobTitle, and keep firstName, lastName, email, linkedinUrl and city/country as location. Save `leads_apify.csv` and run `pick --source apify`.
-4. **The company's public contact email**, for anything still left: `<repo>/.venv-crawl/bin/python contacts.py site todo_site.csv contacts.csv` reads the homepage and up to three contact, about or support pages and keeps an address on the company's own domain (hello@, info@ and contact@ first, never careers@, privacy@ or no-reply@). It is a shared inbox, but still worth sending. Nothing is guessed; the script lists any company with no email anywhere.
+4. **The company's public contact email**, for anything still left: WebFetch the homepage and up to three contact, about or support pages and keep an address on the company's own domain (hello@, info@ and contact@ first, never careers@, privacy@ or no-reply@). Write every address seen to `site_emails.csv` (webDomain, emails separated by semicolons) and run `python contacts.py site todo_site.csv contacts.csv --found site_emails.csv`, which picks the best one per company and lists any company with no email anywhere. It is a shared inbox, but still worth sending. Nothing is guessed. (Without `--found`, `contacts.py site` crawls the sites itself through the shell, which only works on the user's Mac, not in a cloud session.)
 
 Then check every email with Instantly's `search_campaigns_by_contact` (read only, about 15 in parallel per message; hand it to a background agent for a big list). Put the campaign name in an `instantlyCampaign` column for any email that is already in a campaign, and ask the user what to do with those rows. Never drop or keep them silently: the person may already be getting another sequence.
 

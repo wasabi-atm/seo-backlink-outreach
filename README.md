@@ -19,7 +19,9 @@ python3 -m venv .venv
 
 Google Chrome must be installed for screenshots.
 
-The Step 4 blog crawl uses crawl4ai, which needs Python 3.10+ (`brew install python@3.12` on a Mac) and its own venv:
+Websites are read with WebFetch (sitemap first, at most 50 pages per site, up to 20 calls in parallel), not with Apify's Website Content Crawler or the shell, which is blocked in cloud sessions. See "Crawling websites (WebFetch first)" in `skill/mta-backlink-outreach/SKILL.md`. Apify's crawler is only for jobs WebFetch cannot do, and the user is told first.
+
+The Step 2c video schema check (`video_schema.py`) and the optional Mac-only shell crawls use crawl4ai, which needs Python 3.10+ (`brew install python@3.12` on a Mac) and its own venv:
 
 ```
 python3.12 -m venv .venv-crawl
@@ -27,7 +29,7 @@ python3.12 -m venv .venv-crawl
 .venv-crawl/bin/crawl4ai-setup
 ```
 
-The Step 2c video schema check (`video_schema.py`) runs in the same `.venv-crawl`. The script never calls Apify: Claude runs the actor `dev00/google-rich-results-checker` through the Apify MCP.
+`video_schema.py` never calls Apify: Claude runs the actor `dev00/google-rich-results-checker` through the Apify MCP.
 
 The Step 5 contact waterfall (`contacts.py`: Instantly, then Apollo, then Apify `peakydev/leads-scraper-ppe`, then the website's contact email) also runs in `.venv-crawl` for its website step. The paid sources run through their MCP tools; the script only picks and tracks contacts.
 

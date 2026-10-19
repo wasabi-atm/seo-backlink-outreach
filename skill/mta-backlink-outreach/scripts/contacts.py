@@ -233,7 +233,15 @@ def site(args):
     contacts = read(args.contacts)
     have = {root(r["webDomain"]) for r in contacts if r.get("email")}
     domains = [d for d in dict.fromkeys(root(r["webDomain"]) for r in read(args.todo)) if d and d not in have]
-    found = asyncio.run(site_all(domains, args.workers))
+    if args.found:
+        # Emails Claude already read off the site with WebFetch (no shell access to websites, e.g. cloud sessions).
+        seen = {}
+        for r in read(args.found):
+            d = root(r.get("webDomain"))
+            seen.setdefault(d, set()).update(e.strip().lower() for e in re.split(r"[;,\s]+", r.get("emails") or r.get("email") or "") if "@" in e)
+        found = {d: best_email(seen.get(d, set()), d) for d in domains}
+    else:
+        found = asyncio.run(site_all(domains, args.workers))
     for d in domains:
         if found.get(d):
             contacts.append(dict(webDomain=d, email=found[d], emailSource="website", emailType="generic"))
@@ -273,6 +281,7 @@ def main():
     t.add_argument("targets"); t.add_argument("contacts"); t.add_argument("-o", "--out", required=True)
     s = sub.add_parser("site", help="find the public contact email on each remaining company's website")
     s.add_argument("todo"); s.add_argument("contacts"); s.add_argument("--workers", type=int, default=4)
+    s.add_argument("--found", help="CSV (webDomain, emails) of addresses already read off each site with WebFetch; skips the crawl")
     m = sub.add_parser("merge", help="add the contact columns to the targets file")
     m.add_argument("targets"); m.add_argument("contacts"); m.add_argument("-o", "--out", required=True)
     args = ap.parse_args()

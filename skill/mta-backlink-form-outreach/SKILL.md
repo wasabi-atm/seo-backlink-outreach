@@ -124,7 +124,7 @@ Follow `mta-backlink-outreach` Step 2, with the user's brief in place of the def
 
 Use the built-in browser and work in one tab of your own, navigating it from site to site.
 
-Look for the best form in this order: partnerships or partner page, "write for us" or contribute page, press or media page, contact page, about page. Check the header and footer links first, then try common paths (`/contact`, `/contact-us`, `/get-in-touch`, `/lets-talk`, `/partners`, `/write-for-us`). Many forms only appear after JavaScript runs, inside tabs, or in iframes, so read the page in the browser rather than relying on WebFetch. A short JavaScript snippet that lists every form's fields, labels, required flags, character limits, dropdown options, CAPTCHA iframes and any email addresses on the page saves a lot of time.
+Look for the best form in this order: partnerships or partner page, "write for us" or contribute page, press or media page, contact page, about page. Check the header and footer links first, then try common paths (`/contact`, `/contact-us`, `/get-in-touch`, `/lets-talk`, `/partners`, `/write-for-us`). WebFetch (the homepage, then `/sitemap.xml`) is the quick way to list those links and pages; see "Crawling websites" in `mta-backlink-outreach`. Many forms only appear after JavaScript runs, inside tabs, or in iframes, so read the page in the browser rather than relying on WebFetch. A short JavaScript snippet that lists every form's fields, labels, required flags, character limits, dropdown options, CAPTCHA iframes and any email addresses on the page saves a lot of time.
 
 Record for each site:
 
@@ -145,7 +145,7 @@ Save `02_forms.csv`.
 
 This step is copied from `mta-backlink-outreach` Step 4. Follow that skill if the two ever differ.
 
-Crawl each site's blog with crawl4ai through `<repo>/skill/mta-backlink-outreach/scripts/blog_crawl.py` (setup and where to run it are in `mta-backlink-outreach` Step 4). If the workspace cannot reach the sites (requests come back 403 from the proxy) and no folder on the user's computer is connected, read the blogs in the built-in browser instead, or find candidate posts with a `site:<domain>` web search on the topics below and open them in the browser.
+Read each site's blog with WebFetch, exactly as "Crawling websites (WebFetch first)" in `mta-backlink-outreach` says: `/sitemap.xml` first (homepage links if there is none), one URL per call, up to 20 calls in parallel, at most 50 pages per site, approx word counts, "not found" for missing fields, one retry then "failed". Do not use crawl4ai, the shell or Apify's Website Content Crawler. If WebFetch is blocked for a site, read the blog in the built-in browser instead, or find candidate posts with a `site:<domain>` web search on the topics below and open them in the browser.
 
 Look for articles about SaaS video, B2B video, video marketing, advertising or content marketing. Don't be strict about the exact topic. The test is whether a link to Motion would sit naturally in the article and pass authority to motiontheagency.com. Prefer articles that:
 
