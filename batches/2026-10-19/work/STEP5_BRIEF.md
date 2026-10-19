@@ -104,3 +104,9 @@ Reply with: emails written, rows left blank, and the manualCheck rows with a one
 - Every hook came from a text fetch, so any claim about missing images, video, charts or graphics is unsafe. Leave such points out, or phrase them so they stay true, and add `check in browser` to manualCheck. Where the notes say `check in browser`, do the same.
 - Contacts with emailType `generic` use `Hey <companyName> team,` and add `generic inbox` to manualCheck.
 - If the contact's jobTitle is a CTO, engineer, product or operations role, add `contact title weak` to manualCheck.
+
+## Round 2 notes
+- This is the re-verify round. Articles were read with text fetches (and Apify where WebFetch failed), so the same "check in browser" rules apply to any claim about images, video or charts.
+- Uptick Marketing's contact is the generic sales@ inbox: greeting `Hey Uptick Marketing team,`, add `generic inbox` and `founder not reached` to manualCheck.
+- Emulent (formerly Linchpin SEO): use the name Emulent in the email, never mention the rebrand.
+- Chunks to write: in_e4.csv (5 rows) and in_e5.csv (4 rows).
