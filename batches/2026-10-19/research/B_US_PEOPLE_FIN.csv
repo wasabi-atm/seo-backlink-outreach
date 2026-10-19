@@ -1,0 +1,12 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,domainRating,blogUrl,latestPost,notes
+Payload,payload.com,US,Embedded payments for SaaS platforms,B,no,,64,https://payload.com/articles,2026-06-09,Date from WebSearch index listing; HQ from memory; staff size from memory
+Sixfold,sixfold.ai,US,AI underwriting for insurers (insurtech),B,no,,43,https://www.sixfold.ai/content/category/sixfold-news,2026-09-02,Date from WebSearch listing of Life and Health AI Underwriter post; HQ San Francisco from memory
+Kickfurther,kickfurther.com,US,Inventory financing marketplace for brands,B,no,,47,https://www.kickfurther.com/blog,2026-06-01,"Date printed in post (alternative lenders), via WebSearch; HQ from memory"
+Siteline,siteline.com,US,Billing and payments software for construction subcontractors,B,no,,46,https://www.siteline.com/blog,2026-09-01,"Post dated September 2026 per WebSearch, exact day not shown so 01 used; HQ from memory"
+Sayari,sayari.com,US,"Risk intelligence, sanctions and AML data",B,no,,62,https://sayari.com/resources/blog/,2026-07-01,Date printed on China counter sanctions post via WebSearch; HQ Washington DC from memory
+PayJunction,payjunction.com,US,Integrated payments for dealerships and SMB,B,no,,65,https://blog.payjunction.com/,2026-09-23,Date printed in newest post via WebSearch; blog is on subdomain; HQ from memory
+Selerix,selerix.com,US,Benefits administration and enrollment software,B,no,,52,https://selerix.com/blog/,2026-09-09,Date printed on Take the Guesswork Out of Open Enrollment post via WebSearch; HQ from memory
+Yello,yello.co,US,Campus and early talent recruiting software,B,no,,74,https://yello.co/blog/,2026-07-02,Date of NACE26 recap per WebSearch; HQ Chicago from memory; confirm still independent
+JobTarget,jobtarget.com,US,Recruitment advertising and job distribution software,B,no,,70,https://www.jobtarget.com/blog,2026-08-20,Date printed on Healthcare Keeps Heating Up post via WebSearch; HQ from memory
+Trellis,trellis.law,US,State trial court data and legal research,B,no,,70,https://blog.trellis.law/,2026-10-14,Date printed on California judicial elections post via WebSearch; blog on subdomain; HQ San Francisco from memory
+SmartAdvocate,smartadvocate.com,US,Case management software for plaintiff law firms,B,no,,52,https://www.smartadvocate.com/articles,2026-10-08,"Date is a release announcement on the articles and news page, via WebSearch; weaker blog signal; HQ from memory"
