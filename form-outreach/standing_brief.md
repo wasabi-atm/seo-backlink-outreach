@@ -17,3 +17,4 @@ The scheduled run (Mon to Fri, 2PM Bali time) has nobody to interview, so it use
 - Sign-off under Sam: Founder @ Motion The Agency
 - Sender: Lia submits the forms
 - Delivery: Slack canvas, link sent to C07SWGY4MNV and D0ADQ3Y6CG5
+- Reading websites: WebFetch only, as "Crawling websites (WebFetch first)" in `skill/mta-backlink-outreach/SKILL.md` says (sitemap first, one URL per call, up to 20 in parallel, at most 50 pages per site, word and link counts marked "approx", "not found" for missing fields, one retry then "failed"). No shell crawls and no Apify Website Content Crawler. Nobody can approve an Apify crawl in this unattended run, so skip a site that WebFetch cannot read and note why.
