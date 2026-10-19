@@ -23,7 +23,7 @@ scan(f"{REPO}/form-outreach/form_outreach_master.csv", ["webDomain"])
 scan(f"{REPO}/client_collab_opportunities.csv", ["Domain"])
 scan(f"{REPO}/output/Motion_Clients_DR_Location.csv", ["Domain"])
 for p in glob.glob(f"{REPO}/batches/*/**/*.csv", recursive=True) + glob.glob(f"{REPO}/form-outreach/batches/**/*.csv", recursive=True):
-    if "/2026-10-19/" in p:
+    if False:
         continue
     try:
         scan(p, ["webDomain", "domain", "rootDomain"])
@@ -33,6 +33,12 @@ for p in glob.glob(f"{REPO}/batches/*/exclude_domains.txt"):
     if "/2026-10-19/" not in p:
         for line in open(p):
             add(line.strip())
+import json
+for p in glob.glob(f"{REPO}/batches/2026-10-19/work/results_*.jsonl"):
+    for l in open(p):
+        if l.strip():
+            try: add(json.loads(l).get("webDomain"))
+            except Exception: pass
 with open("exclude_domains.txt", "w") as f:
     f.write("\n".join(sorted(doms)) + "\n")
 print(len(doms), "domains")
