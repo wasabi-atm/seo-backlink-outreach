@@ -110,3 +110,12 @@ Reply with: emails written, rows left blank, and the manualCheck rows with a one
 - Uptick Marketing's contact is the generic sales@ inbox: greeting `Hey Uptick Marketing team,`, add `generic inbox` and `founder not reached` to manualCheck.
 - Emulent (formerly Linchpin SEO): use the name Emulent in the email, never mention the rebrand.
 - Chunks to write: in_e4.csv (5 rows) and in_e5.csv (4 rows).
+
+## Round 3 notes (40 rows, chunks in_e6 to in_e9)
+- Hooks come from text fetches only. Same rules: never claim a page lacks images/video/charts; add `check in browser`.
+- Contact titles: CTO, product, engineering or "owner" roles (SalesHood's CTO is held out, but Akkio's Co-founder Head of Product, CustomGPT's Product Experience Owner, Language IO's CMO etc.) get `contact title weak` where the role is not founder/CEO/marketing/content. Quote swap with a non-founder: "one from your side for ours" and `founder not reached`.
+- Generic inboxes (emailType generic: 180marketing, Reputation X, PheedLoop, Koala): `Hey <companyName> team,` and add `generic inbox` and `founder not reached`.
+- Levitate's contact is on levitateapp.com (the brand's other domain): do not comment on it.
+- Hooks where the article date is unclear (Xref "8/9/2026", Watson Creative, Botpress, DashThis): never state a date; add `date unconfirmed`.
+- Competitor-adjacent: Lumen5-style rows do not appear here. If a company sells video, animation or design as a service (for example WANT Branding is not in this batch), quote swap only.
+- Write only the rows of your own in_e file.
