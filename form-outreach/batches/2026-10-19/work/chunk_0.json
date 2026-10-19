@@ -1,0 +1,137 @@
+[
+ {
+  "companyName": "Keep Left",
+  "webDomain": "keepleft.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "PR and communications agency (Sydney/Melbourne)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Paydock",
+  "webDomain": "paydock.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Payments orchestration fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Tibus",
+  "webDomain": "tibus.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Web design and digital agency (Belfast)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Huboo",
+  "webDomain": "huboo.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Ecommerce fulfilment platform (Bristol)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Talkative",
+  "webDomain": "gettalkative.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Customer engagement and chat SaaS (Newcastle)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Growth Machine",
+  "webDomain": "growthmachine.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Content and SEO agency",
+  "articleHint": "https://www.growthmachine.com/blog/marketing-content-types",
+  "source": "new"
+ },
+ {
+  "companyName": "Tagboard",
+  "webDomain": "tagboard.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Live video production and social display SaaS",
+  "articleHint": "https://tagboard.com/blog/year-of-the-vodcast/",
+  "source": "new"
+ },
+ {
+  "companyName": "Swoogo",
+  "webDomain": "swoogo.events",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Event management software",
+  "articleHint": "https://swoogo.events/blog/event-marketing-guide/",
+  "source": "new"
+ },
+ {
+  "companyName": "ManyChat",
+  "webDomain": "manychat.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Chat marketing automation",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "RevenueWell",
+  "webDomain": "revenuewell.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Dental marketing and patient engagement software",
+  "articleHint": "https://www.revenuewell.com/article/social-media-video-marketing-webinar",
+  "source": "new"
+ },
+ {
+  "companyName": "Jungle Scout",
+  "webDomain": "junglescout.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Amazon seller software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "ReviewTrackers",
+  "webDomain": "reviewtrackers.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Review management software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Planning Pod",
+  "webDomain": "planningpod.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Event management software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "edo.com",
+  "webDomain": "edo.com",
+  "country": "check (likely US or UK)",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "influxmarketing",
+  "webDomain": "influxmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "https://influxmarketing.com/blog/first-impressions-how-online-patient-education-helps-grow-your-cosmetic-dentistry-practice/",
+  "source": "leftover"
+ }
+]

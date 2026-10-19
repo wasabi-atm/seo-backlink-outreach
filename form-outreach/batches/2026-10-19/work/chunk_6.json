@@ -1,0 +1,128 @@
+[
+ {
+  "companyName": "Rapid Global",
+  "webDomain": "rapidglobal.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Contractor and workforce management SaaS (Melbourne)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "SecurityHQ",
+  "webDomain": "securityhq.com",
+  "country": "UAE",
+  "segment": "B",
+  "serviceType": "Managed security services (Dubai/London)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "CloudCall",
+  "webDomain": "cloudcall.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "CRM integrated telephony SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "DisplayNote",
+  "webDomain": "displaynote.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Screen sharing and collaboration software (Belfast)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Intuitive Digital",
+  "webDomain": "intuitivedigital.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing agency (Portland)",
+  "articleHint": "https://intuitivedigital.com/blog/i-made-a-custom-ai-video-avatar/",
+  "source": "new"
+ },
+ {
+  "companyName": "Beehive Strategic Communication",
+  "webDomain": "beehivepr.biz",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PR and comms firm (St. Paul)",
+  "articleHint": "https://beehivepr.biz/news/",
+  "source": "new"
+ },
+ {
+  "companyName": "Unlock Health",
+  "webDomain": "unlockhealth.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare marketing agency (Nashville)",
+  "articleHint": "https://unlockhealth.com/resources/blogs/healthcare-marketing-metrics/",
+  "source": "new"
+ },
+ {
+  "companyName": "EZ Texting",
+  "webDomain": "eztexting.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "SMS marketing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Spark Membership",
+  "webDomain": "sparkmembership.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Martial arts and fitness software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Twenty Over Ten",
+  "webDomain": "twentyoverten.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Financial advisor websites and marketing",
+  "articleHint": "https://blog.twentyoverten.com/video-marketing-for-financial-advisors-3-ways-to-promote-video-on-your-website-and-blog/",
+  "source": "new"
+ },
+ {
+  "companyName": "Grade.us",
+  "webDomain": "grade.us",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Review management software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Badger Maps",
+  "webDomain": "badgermapping.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field sales route planning software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "madcapsoftware.com",
+  "webDomain": "madcapsoftware.com",
+  "country": "check (likely US or UK)",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "Cirrus Insight",
+  "webDomain": "cirrusinsight.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "https://www.cirrusinsight.com/blog/sales-productivity-statistics",
+  "source": "leftover"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "companyName": "BugHerd",
+  "webDomain": "bugherd.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Website feedback SaaS (Melbourne)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Affable.ai",
+  "webDomain": "affable.ai",
+  "country": "Singapore",
+  "segment": "A",
+  "serviceType": "Influencer marketing SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Interact",
+  "webDomain": "interact-intranet.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Intranet and employee comms SaaS (Manchester)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "My1Login",
+  "webDomain": "my1login.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Identity and access management SaaS (Glasgow)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "myhrtoolkit",
+  "webDomain": "myhrtoolkit.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "HR software for SMEs",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "True North Custom",
+  "webDomain": "truenorthcustom.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare content marketing agency",
+  "articleHint": "https://www.truenorthcustom.com/blog/keys-to-creating-an-effective-content-strategy",
+  "source": "new"
+ },
+ {
+  "companyName": "TINT",
+  "webDomain": "tintup.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "UGC marketing SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Real Geeks",
+  "webDomain": "realgeeks.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate websites and CRM",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mangomint",
+  "webDomain": "mangomint.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Salon and spa software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Nucleus",
+  "webDomain": "nucleus.church",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church website and media platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Thanx",
+  "webDomain": "thanx.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant loyalty and marketing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Showcase IDX",
+  "webDomain": "showcaseidx.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate IDX websites",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Text In Church",
+  "webDomain": "textinchurch.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church communication software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "parmonic.com",
+  "webDomain": "parmonic.com",
+  "country": "check (likely US or UK)",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ }
+]

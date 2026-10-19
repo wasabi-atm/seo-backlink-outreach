@@ -1,0 +1,74 @@
+[
+ {
+  "companyName": "Reply",
+  "webDomain": "reply.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI sales engagement SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "FieldPulse",
+  "webDomain": "fieldpulse.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field service management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Donorfy",
+  "webDomain": "donorfy.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Nonprofit CRM SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Finalsite",
+  "webDomain": "finalsite.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "School websites and marketing SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "myInterview",
+  "webDomain": "myinterview.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Video interviewing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Quickbase",
+  "webDomain": "quickbase.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Low-code platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "SleekFlow",
+  "webDomain": "sleekflow.io",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "Omnichannel messaging SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Motion",
+  "webDomain": "motionapp.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Creative analytics for ad teams",
+  "articleHint": "",
+  "source": "new"
+ }
+]

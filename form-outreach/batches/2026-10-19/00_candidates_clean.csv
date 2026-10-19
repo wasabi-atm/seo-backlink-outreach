@@ -1,0 +1,195 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,articleHint,source
+Sling & Stone,slingandstone.com,Australia,Tech and startup PR agency (Sydney),A,no,,,new
+Liquid Ideas,liquidideas.com.au,Australia,PR and communications agency (Sydney),A,no,,,new
+Keep Left,keepleft.com.au,Australia,PR and communications agency (Sydney/Melbourne),A,no,,,new
+Haystac,haystac.com.au,Australia,Public relations agency (Sydney),A,no,,,new
+Mahlab,mahlab.com.au,Australia,Content marketing agency (Melbourne),A,no,,,new
+iformat,iformat.com.au,Australia,HubSpot inbound marketing agency (Melbourne/Brisbane),A,no,,,new
+Bambrick,bambrick.com.au,Australia,SEO and digital marketing agency (Melbourne),A,no,,,new
+Mediabooth,mediabooth.com.au,Australia,SEO and digital marketing agency (Brisbane),A,no,,,new
+Marketing Sweet,marketingsweet.com.au,Australia,SEO and web design agency (Adelaide),A,no,,,new
+Neon Treehouse,neontreehouse.com,Australia,Content and social marketing agency (Adelaide),A,no,,,new
+Motiv,motiv.com.au,Australia,Brand design studio (Adelaide),A,no,,,new
+Hughes PR,hughespr.com.au,Australia,PR and communications agency (Adelaide),A,no,,,new
+Bigdatr,bigdatr.com,Australia,Advertising intelligence SaaS (Sydney),A,no,,,new
+BugHerd,bugherd.com,Australia,Website feedback SaaS (Melbourne),B,no,,,new
+Eftsure,eftsure.com,Australia,B2B payment fraud prevention fintech (Sydney),B,no,,https://www.eftsure.com/blog/industry-news/payments-system/,new
+Sitemate,sitemate.com,Australia,Construction software SaaS (Sydney),B,no,,,new
+Weploy,weploy.com,Australia,Workforce and staffing platform (Melbourne),B,no,,,new
+Rapid Global,rapidglobal.com,Australia,Contractor and workforce management SaaS (Melbourne),B,no,,,new
+Fat Zebra,fatzebra.com,Australia,Payments fintech (Sydney),B,no,,,new
+Paydock,paydock.com,Australia,Payments orchestration fintech,B,no,,,new
+Scout Talent,scouttalent.com,Australia,Recruitment and HR tech (Brisbane),B,no,,,new
+Openn,openn.com.au,Australia,Property sales proptech SaaS (Perth),B,no,,,new
+Oneflare,oneflare.com.au,Australia,Local services marketplace (Sydney),B,no,,,new
+FYI,fyi.app,Australia,Document management SaaS for accountants (Melbourne),B,no,,,new
+Yarno,yarno.com.au,Australia,Workplace learning SaaS (Sydney),B,no,,,new
+Mutant Communications,thisismutant.com,Singapore,PR and content marketing agency,A,no,,,new
+Gushcloud,gushcloud.com,Singapore,Influencer marketing agency,A,no,,,new
+Affable.ai,affable.ai,Singapore,Influencer marketing SaaS,A,no,,,new
+Mashwire,mashwire.com.sg,Singapore,Content marketing agency,A,no,,,new
+Meet Isaac,meetisaac.com,Singapore,Digital and content marketing agency,A,no,,,new
+Slash,slash.co,Singapore,Digital product and UX design studio,A,no,,,new
+Happy Marketer,happymarketer.com,Singapore,Digital marketing and martech consultancy,A,no,,,new
+Construct Digital,constructdigital.com,Singapore,B2B digital marketing and HubSpot agency,A,no,,,new
+Pixel Mechanics,pixelmechanics.com.sg,Singapore,SEO and digital marketing agency,A,no,,,new
+entomo,entomo.co,Singapore,Performance management HR tech,B,no,,,new
+CardUp,cardup.co,Singapore,B2B payments fintech,B,no,,,new
+Eezee,eezee.sg,Singapore,B2B procurement marketplace,B,no,,https://eezee.sg/blog/eezee-best-procurement-platform-in-singapore,new
+Gambit Communications,gambit.ae,UAE,PR and influencer agency (Dubai),A,no,,,new
+Atteline,atteline.com,UAE,PR and marketing agency (Dubai),A,no,,,new
+TOH Public Relations,tohpr.com,UAE,Consumer PR agency (Dubai),A,no,,,new
+Matrix PR,matrixdubai.com,UAE,PR and communications agency (Dubai),A,no,,,new
+Traffic Digital,trafficdigital.com,UAE,Social and digital marketing agency (Dubai),A,no,,,new
+Soar PR,soar-pr.com,UAE,PR agency (Dubai),A,no,,,new
+Ethos Global Solutions,ethosglobalsolutions.com,UAE,PR and digital marketing agency (Dubai),A,no,,,new
+Erahaus,erahaus.com,UAE,Creative and branding agency (Dubai),A,no,,,new
+WebEngrave,webengrave.com,UAE,Web design and development agency (Dubai),A,no,,,new
+SecurityHQ,securityhq.com,UAE,Managed security services (Dubai/London),B,no,,,new
+Venture Stream,venturestream.co.uk,UK,Ecommerce digital marketing and SEO agency (Newcastle),A,no,,https://venturestream.co.uk/blog/how-to-boost-organic-visibility-in-the-age-of-zero-click-search/,new
+Noisy Little Monkey,noisylittlemonkey.com,UK,Digital marketing and SEO agency (Bristol),A,no,,,new
+Tibus,tibus.com,UK,Web design and digital agency (Belfast),A,no,,,new
+Digital Marmalade,digitalmarmalade.co.uk,UK,Web design and digital agency (Bristol),A,no,,,new
+Netcel,netcel.com,UK,Digital experience and web agency (Bristol),A,no,,,new
+Caffeine Marketing,caffeinemarketing.co.uk,UK,B2B marketing and HubSpot agency (Cardiff),A,no,,,new
+Huck,huck.agency,UK,Content marketing agency (Edinburgh),A,no,,,new
+PXA,pxa.agency,UK,Content marketing and SEO agency (Cardiff),A,no,,,new
+Shake Digital,shakedigital.com,UK,Digital marketing agency (Edinburgh),A,no,,,new
+Key Principles,keyprinciples.co.uk,UK,B2B marketing agency (Nottingham),A,no,,,new
+Adeo Group,adeogroup.co.uk,UK,Digital marketing agency (Glasgow),A,no,,,new
+Big Think Agency,bigthinkagency.co.uk,UK,PR and content agency (Glasgow),A,no,,,new
+Robot Mascot,robotmascot.co.uk,UK,Web design and SEO agency (Leeds),A,no,,,new
+Crowd Network,crowdnetwork.co.uk,UK,B2B podcast production agency,A,no,,,new
+Lansons,lansons.com,UK,PR and communications consultancy,A,no,,,new
+Morrow Communications,morrowcommunications.com,UK,PR and communications agency (Belfast),A,no,,,new
+Communicator Corp,communicatorcorp.com,UK,Email marketing SaaS,A,no,,,new
+Whoisvisiting,whoisvisiting.com,UK,B2B website visitor identification SaaS,A,no,,,new
+Vualto,vualto.com,UK,Video streaming technology platform (Cardiff),A,no,,,new
+Tangerine,tangerinecomms.com,UK,PR and communications agency (Manchester),A,no,,,new
+Gingermay,teamgingermay.com,UK,B2B tech PR and marketing agency,A,no,,,new
+Big Partnership,bigpartnership.co.uk,UK,PR and communications agency (Glasgow),A,no,,,new
+Interact,interact-intranet.com,UK,Intranet and employee comms SaaS (Manchester),B,no,,,new
+Crowdcube,crowdcube.com,UK,Equity crowdfunding fintech,B,no,,,new
+AMPLYFI,amplyfi.com,UK,AI market intelligence platform (Cardiff),B,no,,,new
+CloudCall,cloudcall.com,UK,CRM integrated telephony SaaS,B,no,,,new
+Weekly10,weekly10.com,UK,Employee performance and engagement HR tech,B,no,,,new
+Nucleus Commercial Finance,nucleuscommercialfinance.com,UK,SME lending fintech,B,no,,,new
+Huboo,huboo.com,UK,Ecommerce fulfilment platform (Bristol),B,no,,,new
+Mintec,mintecglobal.com,UK,Commodity pricing data SaaS,B,no,,,new
+Streetbees,streetbees.com,UK,AI consumer insights platform,B,no,,,new
+Gigged.AI,gigged.ai,UK,AI talent marketplace HR tech (Glasgow),B,no,,,new
+My1Login,my1login.com,UK,Identity and access management SaaS (Glasgow),B,no,,,new
+ClassForKids,classforkids.io,UK,Class booking and payments SaaS (Glasgow),B,no,,,new
+Budibase,budibase.com,UK,Low code internal tools dev platform (Belfast),B,no,,,new
+DisplayNote,displaynote.com,UK,Screen sharing and collaboration software (Belfast),B,no,,,new
+OurPeople,ourpeople.com,UK,Frontline workforce communication SaaS (Bristol),B,no,,,new
+Madgex,madgex.com,UK,Job board software (Brighton),B,no,,,new
+Talkative,gettalkative.com,UK,Customer engagement and chat SaaS (Newcastle),B,no,,,new
+Sona,getsona.com,UK,Frontline workforce management SaaS,B,no,,,new
+Sova Assessment,sovaassessment.com,UK,Talent assessment HR tech,B,no,,,new
+ThriveMap,thrivemap.io,UK,Pre hire assessment HR tech,B,no,,,new
+myhrtoolkit,myhrtoolkit.com,UK,HR software for SMEs,B,no,,,new
+Liberis,liberis.com,UK,Revenue based business finance fintech,B,no,,,new
+Konsentus,konsentus.com,UK,Open banking identity and trust fintech,B,no,,,new
+Intuitive Digital,intuitivedigital.com,US,SEO and digital marketing agency (Portland),A,no,,https://intuitivedigital.com/blog/i-made-a-custom-ai-video-avatar/,new
+Locomotive Agency,locomotive.agency,US,Technical SEO agency,A,no,,https://locomotive.agency/blog/why-video-should-be-part-of-your-content-strategy/,new
+Greystone.Net,greystone.net,US,Healthcare digital marketing agency,A,no,,https://www.greystone.net/blog,new
+Growth Machine,growthmachine.com,US,Content and SEO agency,A,no,,https://www.growthmachine.com/blog/marketing-content-types,new
+Intelligent Demand,intelligentdemand.com,US,B2B demand gen agency (Denver),A,no,,https://intelligentdemand.com/blog/b2b-is-broken/,new
+Uproar PR,uproarpr.com,US,PR firm,A,no,,https://uproarpr.com/blog,new
+Sutherland Gold Group,sutherlandgold.com,US,B2B tech PR firm,A,no,,https://www.sutherlandgold.com/post/why-your-story-is-your-most-strategic-asset,new
+Lambert,lambert.com,US,PR and IR firm,A,no,,https://lambert.com/how-teaching-made-me-a-better-pr-professional/,new
+The Bliss Group,blissintegrated.com,US,B2B PR and comms firm,A,no,,,new
+WG Content,wgcontent.com,US,Healthcare content marketing agency,A,no,,https://wgcontent.com/blog/healthcare-social-media-ai/,new
+Full Media,fullmedia.com,US,Healthcare digital marketing agency,A,no,,https://www.fullmedia.com/blog/,new
+Smith & Jones,smithandjones.com,US,Healthcare marketing agency,A,no,,https://smithandjones.com/resources/blog/,new
+Clariant Creative,clariantcreative.com,US,B2B content and inbound agency (Phoenix),A,no,,https://www.clariantcreative.com/9-step-guide-to-a-complete-b2b-content-strategy,new
+Amendola Communications,acmarketingpr.com,US,Healthcare tech PR firm (Scottsdale),A,no,,https://acmarketingpr.com/8-pr-practices-that-annoy-journalists-how-to-avoid-them/,new
+True North Custom,truenorthcustom.com,US,Healthcare content marketing agency,A,no,,https://www.truenorthcustom.com/blog/keys-to-creating-an-effective-content-strategy,new
+Rattleback,rattleback.com,US,B2B professional services marketing agency,A,no,,https://www.rattleback.com/insights/articles/consulting-firm-marketing-strategy-areas/,new
+Tunheim,tunheim.com,US,PR and comms firm (Minneapolis),A,no,,https://tunheim.com/why-content-treadmill-exhausting-your-team-limiting-lead-generation/,new
+1Digital Agency,1digitalagency.com,US,Ecommerce SEO and digital agency,A,no,,https://www.1digitalagency.com/blog/best-ai-cms-platforms-seo-content-optimization-2026/,new
+AHA Media Group,ahamediagroup.com,US,Healthcare content marketing agency,A,no,,https://ahamediagroup.com/healthcare-content-marketing/copywriting/blog-writing/,new
+Beehive Strategic Communication,beehivepr.biz,US,PR and comms firm (St. Paul),A,no,,https://beehivepr.biz/news/,new
+SPROUT Content,sproutcontent.com,US,B2B content marketing agency (Colorado),A,no,,https://www.sproutcontent.com/blog/why-you-cant-afford-not-to-invest-in-inbound-marketing,new
+SSPR,sspr.com,US,B2B tech PR firm (Chicago),A,no,,https://sspr.com/content-marketing/mobile-marketing-primer/,new
+KGBTexas Communications,kgbtexas.com,US,PR and marketing firm (San Antonio),A,no,,,new
+HMA Public Relations,hmapr.com,US,PR firm (Phoenix),A,no,,https://hmapr.com/the-communications-your-firm-should-never-let-ai-handle-and-the-ones-it-should/,new
+SPM Marketing & Communications,spmmarketing.com,US,Healthcare marketing agency,A,no,,,new
+Werth PR,werthpr.com,US,PR firm (Columbus),A,no,,https://werthpr.com/insights/,new
+Tagboard,tagboard.com,US,Live video production and social display SaaS,A,no,,https://tagboard.com/blog/year-of-the-vodcast/,new
+NetLine,netline.com,US,B2B content syndication and demand gen platform,A,no,,https://blog.netline.com/does-gating-hurt-ai/,new
+Flowcode,flowcode.com,US,Marketing SaaS (QR and attribution),A,no,,https://www.flowcode.com/blog/what-nfl-shop-and-the-pittsburgh-penguins-prove-about-tv-attribution,new
+TINT,tintup.com,US,UGC marketing SaaS,A,no,,,new
+Corporate Ink,corporateink.com,US,B2B tech PR firm (Boston),A,no,,https://corporateink.com/corporate-inklings-blog/,new
+TSL Marketing,tslmarketing.com,US,B2B demand gen and HubSpot agency,A,no,,https://www.tslmarketing.com/blog,new
+Firecracker PR,firecrackerpr.com,US,B2B tech PR firm,A,no,,https://www.firecrackerpr.com/how-pr-is-like-sales/,new
+Interprose,interprosepr.com,US,B2B tech PR firm,A,no,,https://interprosepr.com/5-steps-to-finding-the-right-media-outlets-for-your-message/,new
+Global Results Communications,globalresultspr.com,US,PR firm,A,no,,https://globalresultspr.com/blog/pr-in-2026-how-communications-is-evolving-in-an-ai-driven-world,new
+Intrepid Agency,intrepidagency.com,US,PR and marketing firm (Salt Lake City),A,no,,https://intrepidagency.com/blog,new
+Spark,sparkpr.com,US,Tech PR firm,A,no,,https://sparkpr.com/news/how-to-scale-content-creation-efficiently-using-ai,new
+Snapp Conner PR,snappconner.com,US,PR firm (Salt Lake City),A,no,,https://www.snappconner.com/personal-branding-creating-the-brand-called-you,new
+Murmur Creative,murmurcreative.com,US,Brand and web design studio (Portland),A,no,,https://murmurcreative.com/what-is-brand-positioning-and-why-does-it-matter/,new
+Unlock Health,unlockhealth.com,US,Healthcare marketing agency (Nashville),A,no,,https://unlockhealth.com/resources/blogs/healthcare-marketing-metrics/,new
+March Communications,marchcomms.com,US,Tech PR firm (Boston),A,no,,https://www.marchcomms.com/blog/3-pillars-brand-storytelling/,new
+V2 Communications,v2comms.com,US,Tech PR firm (Boston),A,no,,https://www.v2comms.com/insights/,new
+Zer0 to 5ive,0to5.com,US,B2B tech PR firm,A,no,,https://0to5.com/what-is-a-good-pr-strategy-and-why-do-most-teams-get-it-wrong/,new
+French West Vaughan,fwv-us.com,US,PR firm (Raleigh),A,no,,https://fwv-us.com/news/pr-isnt-losing-relevance-its-becoming-the-answer,new
+Maestro,maestro.io,US,Live video streaming platform,A,no,,https://www.maestro.io/blog/make-money-with-video/,new
+Swoogo,swoogo.events,US,Event management software,B,no,,https://swoogo.events/blog/event-marketing-guide/,new
+AgentFire,agentfire.com,US,Real estate websites and marketing software,B,no,,https://agentfire.com/blog/real-estate-video-marketing/,new
+BoomTown,boomtownroi.com,US,Real estate CRM and lead generation software,B,no,,https://resources.boomtownroi.com/agent/2-ways-to-create-compelling-video-ads-in-minutes,new
+Real Geeks,realgeeks.com,US,Real estate websites and CRM,B,no,,,new
+CINC,cincpro.com,US,Real estate lead generation software,B,no,,,new
+Tithely,tithe.ly,US,Church giving and engagement software,B,no,,https://get.tithe.ly/blog/best-practices-for-church-social-media,new
+EZ Texting,eztexting.com,US,SMS marketing software,B,no,,,new
+SlickText,slicktext.com,US,SMS marketing software,B,no,,,new
+ManyChat,manychat.com,US,Chat marketing automation,B,no,,,new
+Referral Rock,referralrock.com,US,Referral program software,B,no,,,new
+GlossGenius,glossgenius.com,US,Salon and spa software,B,no,,https://glossgenius.com/blog/salon-marketing-ideas,new
+Mangomint,mangomint.com,US,Salon and spa software,B,no,,,new
+PushPress,pushpress.com,US,Gym management software,B,no,,https://www.pushpress.com/blog/how-to-create-a-gym-marketing-plan-focused-on-growth,new
+Wodify,wodify.com,US,Gym management software,B,no,,https://www.wodify.com/blog/top-10-video-marketing-tips-for-fitness-businesses-in-2020,new
+Spark Membership,sparkmembership.com,US,Martial arts and fitness software,B,no,,,new
+GorillaDesk,gorilladesk.com,US,Pest control and field service software,B,no,,,new
+RevenueWell,revenuewell.com,US,Dental marketing and patient engagement software,B,no,,https://www.revenuewell.com/article/social-media-video-marketing-webinar,new
+PetDesk,petdesk.com,US,Veterinary client engagement software,B,no,,https://petdesk.com/blog/post-better-content-on-your-clinics-social-media-channels,new
+Xola,xola.com,US,Tour and activity booking software,B,no,,https://www.xola.com/articles/how-tour-operators-can-easily-harness-the-power-of-video,new
+Nucleus,nucleus.church,US,Church website and media platform,B,no,,,new
+Anedot,anedot.com,US,Donation and fundraising platform,B,no,,https://www.anedot.com/blog/church-marketing-social-media-video,new
+Ongig,ongig.com,US,Recruitment job description software,B,no,,,new
+Twenty Over Ten,twentyoverten.com,US,Financial advisor websites and marketing,B,no,,https://blog.twentyoverten.com/video-marketing-for-financial-advisors-3-ways-to-promote-video-on-your-website-and-blog/,new
+Malomo,gomalomo.com,US,Ecommerce shipment tracking and post purchase marketing,B,no,,https://gomalomo.com/post-purchase-experience/post-purchase-behavior-marketing,new
+Jungle Scout,junglescout.com,US,Amazon seller software,B,no,,,new
+SPOTIO,spotio.com,US,Field sales software,B,no,,,new
+Revinate,revinate.com,US,Hotel CRM and marketing software,B,no,,,new
+Thanx,thanx.com,US,Restaurant loyalty and marketing software,B,no,,,new
+Tapcart,tapcart.com,US,Mobile commerce app builder,B,no,,,new
+Octane AI,octaneai.com,US,Ecommerce quiz and personalization software,B,no,,,new
+Grade.us,grade.us,US,Review management software,B,no,,,new
+Broadly,broadly.com,US,Reputation and customer engagement software,B,no,,,new
+ReviewTrackers,reviewtrackers.com,US,Review management software,B,no,,,new
+Chatmeter,chatmeter.com,US,Local listings and reputation software,B,no,,,new
+Shopper Approved,shopperapproved.com,US,Ecommerce ratings and reviews,B,no,,,new
+Showcase IDX,showcaseidx.com,US,Real estate IDX websites,B,no,,,new
+Easy Agent Pro,easyagentpro.com,US,Real estate websites and marketing software,B,no,,,new
+Sierra Interactive,sierrainteractive.com,US,Real estate websites and CRM,B,no,,,new
+Badger Maps,badgermapping.com,US,Field sales route planning software,B,no,,,new
+SalesHood,saleshood.com,US,Sales enablement software,B,no,,,new
+Planning Pod,planningpod.com,US,Event management software,B,no,,,new
+Event Farm,eventfarm.com,US,Event marketing platform,B,no,,,new
+Element451,element451.com,US,Higher education CRM,B,no,,,new
+Text In Church,textinchurch.com,US,Church communication software,B,no,,,new
+Antavo,antavo.com,UK,Loyalty programme SaaS,A,no,,https://antavo.com/blog/customer-loyalty-statistics/,leftover
+i6.io,i6.io,,,B,no,,,leftover
+madcapsoftware.com,madcapsoftware.com,,,B,no,,,leftover
+access4.com,access4.com,,,B,no,,,leftover
+edo.com,edo.com,,,B,no,,,leftover
+Eve Legal,eve.legal,US,,B,no,,https://eve.legal/tort-report/torties-award-best-personal-injury-ads-america,leftover
+nimblework.com,nimblework.com,,,B,no,,,leftover
+parmonic.com,parmonic.com,,,B,no,,,leftover
+SegmentStream,segmentstream.com,UK,Marketing measurement and attribution SaaS,A,no,,https://segmentstream.com/blog/articles/composable-measurement-platform,leftover
+Runa,runa.io,UK,,B,no,,https://runa.io/blog/loyaltys-seven-billion-dollar-iou-problem,leftover
+Cirrus Insight,cirrusinsight.com,US,,A,no,,https://www.cirrusinsight.com/blog/sales-productivity-statistics,leftover
+stuut.ai,stuut.ai,,,B,no,,,leftover
+influxmarketing,influxmarketing.com,US,,A,no,,https://influxmarketing.com/blog/first-impressions-how-online-patient-education-helps-grow-your-cosmetic-dentistry-practice/,leftover

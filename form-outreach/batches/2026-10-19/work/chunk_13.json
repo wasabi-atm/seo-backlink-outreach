@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "signNow",
+  "webDomain": "signnow.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "E-signature SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Zen Planner",
+  "webDomain": "zenplanner.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Gym and studio management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Procare Software",
+  "webDomain": "procaresoftware.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Childcare management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "SwagUp",
+  "webDomain": "swagup.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Branded merchandise platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Bubbles",
+  "webDomain": "usebubbles.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Async video messaging and AI notes",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Beacons",
+  "webDomain": "beacons.ai",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Creator AI tools and link in bio",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Firstbase",
+  "webDomain": "firstbase.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Company formation and back office SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "companyName": "Sitemate",
+  "webDomain": "sitemate.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Construction software SaaS (Sydney)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "CardUp",
+  "webDomain": "cardup.co",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "B2B payments fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "AMPLYFI",
+  "webDomain": "amplyfi.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "AI market intelligence platform (Cardiff)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Budibase",
+  "webDomain": "budibase.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Low code internal tools dev platform (Belfast)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Konsentus",
+  "webDomain": "konsentus.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Open banking identity and trust fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "AHA Media Group",
+  "webDomain": "ahamediagroup.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare content marketing agency",
+  "articleHint": "https://ahamediagroup.com/healthcare-content-marketing/copywriting/blog-writing/",
+  "source": "new"
+ },
+ {
+  "companyName": "Murmur Creative",
+  "webDomain": "murmurcreative.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Brand and web design studio (Portland)",
+  "articleHint": "https://murmurcreative.com/what-is-brand-positioning-and-why-does-it-matter/",
+  "source": "new"
+ },
+ {
+  "companyName": "Tithely",
+  "webDomain": "tithe.ly",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church giving and engagement software",
+  "articleHint": "https://get.tithe.ly/blog/best-practices-for-church-social-media",
+  "source": "new"
+ },
+ {
+  "companyName": "Wodify",
+  "webDomain": "wodify.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Gym management software",
+  "articleHint": "https://www.wodify.com/blog/top-10-video-marketing-tips-for-fitness-businesses-in-2020",
+  "source": "new"
+ },
+ {
+  "companyName": "Ongig",
+  "webDomain": "ongig.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Recruitment job description software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Octane AI",
+  "webDomain": "octaneai.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Ecommerce quiz and personalization software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Sierra Interactive",
+  "webDomain": "sierrainteractive.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate websites and CRM",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "i6.io",
+  "webDomain": "i6.io",
+  "country": "check (likely US or UK)",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "Runa",
+  "webDomain": "runa.io",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "https://runa.io/blog/loyaltys-seven-billion-dollar-iou-problem",
+  "source": "leftover"
+ }
+]

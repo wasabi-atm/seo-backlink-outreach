@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Subly",
+  "webDomain": "getsubly.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "AI subtitles and translation SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "MediaPlatform",
+  "webDomain": "mediaplatform.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Enterprise video platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Appraisd",
+  "webDomain": "appraisd.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Performance management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Hashtag Paid",
+  "webDomain": "hashtagpaid.com",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "Creator marketplace",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Peel",
+  "webDomain": "peelinsights.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Ecommerce analytics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "EyeSpy360",
+  "webDomain": "eyespy360.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Virtual tour SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "TryBooking",
+  "webDomain": "trybooking.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Ticketing platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Moxie",
+  "webDomain": "withmoxie.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Freelancer CRM",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Frill",
+  "webDomain": "frill.co",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Feedback and roadmap SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "companyName": "Bambrick",
+  "webDomain": "bambrick.com.au",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing agency (Melbourne)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Oneflare",
+  "webDomain": "oneflare.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Local services marketplace (Sydney)",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Communicator Corp",
+  "webDomain": "communicatorcorp.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Email marketing SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mintec",
+  "webDomain": "mintecglobal.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Commodity pricing data SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Sona",
+  "webDomain": "getsona.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Frontline workforce management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Full Media",
+  "webDomain": "fullmedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare digital marketing agency",
+  "articleHint": "https://www.fullmedia.com/blog/",
+  "source": "new"
+ },
+ {
+  "companyName": "NetLine",
+  "webDomain": "netline.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B content syndication and demand gen platform",
+  "articleHint": "https://blog.netline.com/does-gating-hurt-ai/",
+  "source": "new"
+ },
+ {
+  "companyName": "AgentFire",
+  "webDomain": "agentfire.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Real estate websites and marketing software",
+  "articleHint": "https://agentfire.com/blog/real-estate-video-marketing/",
+  "source": "new"
+ },
+ {
+  "companyName": "Referral Rock",
+  "webDomain": "referralrock.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Referral program software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "PetDesk",
+  "webDomain": "petdesk.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Veterinary client engagement software",
+  "articleHint": "https://petdesk.com/blog/post-better-content-on-your-clinics-social-media-channels",
+  "source": "new"
+ },
+ {
+  "companyName": "SPOTIO",
+  "webDomain": "spotio.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field sales software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Chatmeter",
+  "webDomain": "chatmeter.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Local listings and reputation software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Event Farm",
+  "webDomain": "eventfarm.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Event marketing platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Eve Legal",
+  "webDomain": "eve.legal",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "https://eve.legal/tort-report/torties-award-best-personal-injury-ads-america",
+  "source": "leftover"
+ }
+]

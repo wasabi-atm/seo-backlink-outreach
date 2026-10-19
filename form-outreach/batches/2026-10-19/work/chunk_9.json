@@ -1,0 +1,74 @@
+[
+ {
+  "companyName": "Connecteam",
+  "webDomain": "connecteam.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Frontline workforce management app",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Workiz",
+  "webDomain": "workiz.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field service management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Planning Center",
+  "webDomain": "planningcenter.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Textline",
+  "webDomain": "textline.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Business texting SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Datapeople",
+  "webDomain": "datapeople.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Recruiting analytics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Pipedream",
+  "webDomain": "pipedream.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Developer workflow automation",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "WATI",
+  "webDomain": "wati.io",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "WhatsApp business API SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Foreplay",
+  "webDomain": "foreplay.co",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Ad creative research SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]
