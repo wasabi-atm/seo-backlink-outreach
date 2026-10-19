@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Bidsketch",
+  "webDomain": "bidsketch.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Proposal software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "RevenueHero",
+  "webDomain": "revenuehero.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Inbound scheduling SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Atlas HXM",
+  "webDomain": "atlashxm.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Global employment platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Social Status",
+  "webDomain": "socialstatus.io",
+  "country": "Australia",
+  "segment": "A",
+  "serviceType": "Social analytics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Kiflo",
+  "webDomain": "kiflo.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "PRM SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Pixlr",
+  "webDomain": "pixlr.com",
+  "country": "Singapore",
+  "segment": "A",
+  "serviceType": "Online photo editor",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Cognology",
+  "webDomain": "cognology.com.au",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Performance software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Balance",
+  "webDomain": "getbalance.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B payments",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Spotler",
+  "webDomain": "spotler.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Email and marketing automation SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Klevu",
+  "webDomain": "klevu.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "AI ecommerce search SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Thnks",
+  "webDomain": "thnks.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Corporate gifting SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "SweetProcess",
+  "webDomain": "sweetprocess.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "SOP software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Poppulo",
+  "webDomain": "poppulo.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Employee communications SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "ZINFI",
+  "webDomain": "zinfi.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "PRM SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "AdCreative.ai",
+  "webDomain": "adcreative.ai",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "AI ad creative SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Reckon",
+  "webDomain": "reckon.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Accounting software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Invoiced",
+  "webDomain": "invoiced.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AR SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Josef",
+  "webDomain": "joseflegal.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Legal automation SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "companyName": "SE Ranking",
+  "webDomain": "seranking.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "SEO software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Little Green Light",
+  "webDomain": "littlegreenlight.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit donor management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Compass Education",
+  "webDomain": "compass.education",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "School management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "WebinarJam",
+  "webDomain": "webinarjam.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Webinar software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Tagger",
+  "webDomain": "taggermedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Influencer marketing SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "respond.io",
+  "webDomain": "respond.io",
+  "country": "Singapore",
+  "segment": "B",
+  "serviceType": "Customer conversation management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "HowdyGo",
+  "webDomain": "howdygo.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Interactive product demo SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Mesh Payments",
+  "webDomain": "meshpayments.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Spend management fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Searchie",
+  "webDomain": "searchie.io",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Video and audio knowledge hub SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mo",
+  "webDomain": "mo.work",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Employee recognition SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Rewardful",
+  "webDomain": "getrewardful.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Affiliate software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Daasity",
+  "webDomain": "daasity.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Ecommerce analytics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Zappar",
+  "webDomain": "zappar.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "AR platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Torii",
+  "webDomain": "toriihq.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "SaaS management",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Plutio",
+  "webDomain": "plutio.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Business management app",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Savio",
+  "webDomain": "savio.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Customer feedback SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

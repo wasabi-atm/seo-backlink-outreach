@@ -1,0 +1,74 @@
+[
+ {
+  "companyName": "Document360",
+  "webDomain": "document360.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Knowledge base SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Raken",
+  "webDomain": "rakenapp.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Construction field management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Subsplash",
+  "webDomain": "subsplash.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church engagement and media platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Trumpet",
+  "webDomain": "sendtrumpet.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Digital sales rooms SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "LiveHire",
+  "webDomain": "livehire.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Talent acquisition platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Glide",
+  "webDomain": "glideapps.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "No-code app builder",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Keeper",
+  "webDomain": "keeper.app",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Bookkeeping practice software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Coefficient",
+  "webDomain": "coefficient.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Spreadsheet data connector SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

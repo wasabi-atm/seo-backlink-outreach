@@ -1,0 +1,83 @@
+[
+ {
+  "companyName": "Hunch",
+  "webDomain": "hunchads.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Creative automation SaaS for paid social",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "LearnWorlds",
+  "webDomain": "learnworlds.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Online course platform SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Testimonial",
+  "webDomain": "testimonial.to",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Video testimonial SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Juno",
+  "webDomain": "withjuno.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Employee benefits SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "TUNE",
+  "webDomain": "tune.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Partner marketing SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Glew",
+  "webDomain": "glew.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Ecommerce analytics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Unmetric",
+  "webDomain": "unmetric.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Social analytics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Precoro",
+  "webDomain": "precoro.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Procurement SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Content Snare",
+  "webDomain": "contentsnare.com",
+  "country": "Australia",
+  "segment": "B",
+  "serviceType": "Client content collection SaaS",
+  "articleHint": "",
+  "source": "new"
+ }
+]

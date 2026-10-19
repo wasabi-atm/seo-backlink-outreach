@@ -1,0 +1,82 @@
+companyName,webDomain,country,serviceType,segment,competitor,competitorReason,articleHint,source,drFree
+Sling & Stone,slingandstone.com,Australia,Tech and startup PR agency (Sydney),A,no,,,new,0.2
+Liquid Ideas,liquidideas.com.au,Australia,PR and communications agency (Sydney),A,no,,,new,23.0
+Haystac,haystac.com.au,Australia,Public relations agency (Sydney),A,no,,,new,8.0
+Mahlab,mahlab.com.au,Australia,Content marketing agency (Melbourne),A,no,,,new,16.0
+iformat,iformat.com.au,Australia,HubSpot inbound marketing agency (Melbourne/Brisbane),A,no,,,new,25.0
+Marketing Sweet,marketingsweet.com.au,Australia,SEO and web design agency (Adelaide),A,no,,,new,38.0
+Neon Treehouse,neontreehouse.com,Australia,Content and social marketing agency (Adelaide),A,no,,,new,26.0
+Motiv,motiv.com.au,Australia,Brand design studio (Adelaide),A,no,,,new,16.0
+Hughes PR,hughespr.com.au,Australia,PR and communications agency (Adelaide),A,no,,,new,22.0
+Bigdatr,bigdatr.com,Australia,Advertising intelligence SaaS (Sydney),A,no,,,new,22.0
+Weploy,weploy.com,Australia,Workforce and staffing platform (Melbourne),B,no,,,new,0.0
+Scout Talent,scouttalent.com,Australia,Recruitment and HR tech (Brisbane),B,no,,,new,30.0
+Openn,openn.com.au,Australia,Property sales proptech SaaS (Perth),B,no,,,new,34.0
+Yarno,yarno.com.au,Australia,Workplace learning SaaS (Sydney),B,no,,,new,38.0
+Mutant Communications,thisismutant.com,Singapore,PR and content marketing agency,A,no,,,new,28.0
+Gushcloud,gushcloud.com,Singapore,Influencer marketing agency,A,no,,,new,34.0
+Mashwire,mashwire.com.sg,Singapore,Content marketing agency,A,no,,,new,6.0
+Meet Isaac,meetisaac.com,Singapore,Digital and content marketing agency,A,no,,,new,1.8
+Slash,slash.co,Singapore,Digital product and UX design studio,A,no,,,new,25.0
+Happy Marketer,happymarketer.com,Singapore,Digital marketing and martech consultancy,A,no,,,new,26.0
+Construct Digital,constructdigital.com,Singapore,B2B digital marketing and HubSpot agency,A,no,,,new,30.0
+entomo,entomo.co,Singapore,Performance management HR tech,B,no,,,new,38.0
+Eezee,eezee.sg,Singapore,B2B procurement marketplace,B,no,,https://eezee.sg/blog/eezee-best-procurement-platform-in-singapore,new,36.0
+Gambit Communications,gambit.ae,UAE,PR and influencer agency (Dubai),A,no,,,new,8.0
+Atteline,atteline.com,UAE,PR and marketing agency (Dubai),A,no,,,new,15.0
+TOH Public Relations,tohpr.com,UAE,Consumer PR agency (Dubai),A,no,,,new,22.0
+Matrix PR,matrixdubai.com,UAE,PR and communications agency (Dubai),A,no,,,new,20.0
+Traffic Digital,trafficdigital.com,UAE,Social and digital marketing agency (Dubai),A,no,,,new,21.0
+Soar PR,soar-pr.com,UAE,PR agency (Dubai),A,no,,,new,9.0
+Ethos Global Solutions,ethosglobalsolutions.com,UAE,PR and digital marketing agency (Dubai),A,no,,,new,0.6
+Erahaus,erahaus.com,UAE,Creative and branding agency (Dubai),A,no,,,new,17.0
+WebEngrave,webengrave.com,UAE,Web design and development agency (Dubai),A,no,,,new,3.7
+Noisy Little Monkey,noisylittlemonkey.com,UK,Digital marketing and SEO agency (Bristol),A,no,,,new,33.0
+Digital Marmalade,digitalmarmalade.co.uk,UK,Web design and digital agency (Bristol),A,no,,,new,38.0
+Netcel,netcel.com,UK,Digital experience and web agency (Bristol),A,no,,,new,38.0
+Caffeine Marketing,caffeinemarketing.co.uk,UK,B2B marketing and HubSpot agency (Cardiff),A,no,,,new,32.0
+Huck,huck.agency,UK,Content marketing agency (Edinburgh),A,no,,,new,31.0
+PXA,pxa.agency,UK,Content marketing and SEO agency (Cardiff),A,no,,,new,36.0
+Shake Digital,shakedigital.com,UK,Digital marketing agency (Edinburgh),A,no,,,new,33.0
+Key Principles,keyprinciples.co.uk,UK,B2B marketing agency (Nottingham),A,no,,,new,35.0
+Adeo Group,adeogroup.co.uk,UK,Digital marketing agency (Glasgow),A,no,,,new,32.0
+Big Think Agency,bigthinkagency.co.uk,UK,PR and content agency (Glasgow),A,no,,,new,39.0
+Robot Mascot,robotmascot.co.uk,UK,Web design and SEO agency (Leeds),A,no,,,new,32.0
+Crowd Network,crowdnetwork.co.uk,UK,B2B podcast production agency,A,no,,,new,36.0
+Lansons,lansons.com,UK,PR and communications consultancy,A,no,,,new,38.0
+Morrow Communications,morrowcommunications.com,UK,PR and communications agency (Belfast),A,no,,,new,34.0
+Vualto,vualto.com,UK,Video streaming technology platform (Cardiff),A,no,,,new,34.0
+Tangerine,tangerinecomms.com,UK,PR and communications agency (Manchester),A,no,,,new,32.0
+Gingermay,teamgingermay.com,UK,B2B tech PR and marketing agency,A,no,,,new,30.0
+Big Partnership,bigpartnership.co.uk,UK,PR and communications agency (Glasgow),A,no,,,new,36.0
+Weekly10,weekly10.com,UK,Employee performance and engagement HR tech,B,no,,,new,35.0
+Gigged.AI,gigged.ai,UK,AI talent marketplace HR tech (Glasgow),B,no,,,new,34.0
+OurPeople,ourpeople.com,UK,Frontline workforce communication SaaS (Bristol),B,no,,,new,36.0
+ThriveMap,thrivemap.io,UK,Pre hire assessment HR tech,B,no,,,new,39.0
+Greystone.Net,greystone.net,US,Healthcare digital marketing agency,A,no,,https://www.greystone.net/blog,new,30.0
+Intelligent Demand,intelligentdemand.com,US,B2B demand gen agency (Denver),A,no,,https://intelligentdemand.com/blog/b2b-is-broken/,new,34.0
+Uproar PR,uproarpr.com,US,PR firm,A,no,,https://uproarpr.com/blog,new,30.0
+Sutherland Gold Group,sutherlandgold.com,US,B2B tech PR firm,A,no,,https://www.sutherlandgold.com/post/why-your-story-is-your-most-strategic-asset,new,15.0
+Lambert,lambert.com,US,PR and IR firm,A,no,,https://lambert.com/how-teaching-made-me-a-better-pr-professional/,new,38.0
+The Bliss Group,blissintegrated.com,US,B2B PR and comms firm,A,no,,,new,20.0
+WG Content,wgcontent.com,US,Healthcare content marketing agency,A,no,,https://wgcontent.com/blog/healthcare-social-media-ai/,new,36.0
+Smith & Jones,smithandjones.com,US,Healthcare marketing agency,A,no,,https://smithandjones.com/resources/blog/,new,35.0
+Amendola Communications,acmarketingpr.com,US,Healthcare tech PR firm (Scottsdale),A,no,,https://acmarketingpr.com/8-pr-practices-that-annoy-journalists-how-to-avoid-them/,new,25.0
+Rattleback,rattleback.com,US,B2B professional services marketing agency,A,no,,https://www.rattleback.com/insights/articles/consulting-firm-marketing-strategy-areas/,new,31.0
+Tunheim,tunheim.com,US,PR and comms firm (Minneapolis),A,no,,https://tunheim.com/why-content-treadmill-exhausting-your-team-limiting-lead-generation/,new,37.0
+SSPR,sspr.com,US,B2B tech PR firm (Chicago),A,no,,https://sspr.com/content-marketing/mobile-marketing-primer/,new,25.0
+KGBTexas Communications,kgbtexas.com,US,PR and marketing firm (San Antonio),A,no,,,new,13.0
+HMA Public Relations,hmapr.com,US,PR firm (Phoenix),A,no,,https://hmapr.com/the-communications-your-firm-should-never-let-ai-handle-and-the-ones-it-should/,new,29.0
+SPM Marketing & Communications,spmmarketing.com,US,Healthcare marketing agency,A,no,,,new,28.0
+Werth PR,werthpr.com,US,PR firm (Columbus),A,no,,https://werthpr.com/insights/,new,22.0
+Corporate Ink,corporateink.com,US,B2B tech PR firm (Boston),A,no,,https://corporateink.com/corporate-inklings-blog/,new,34.0
+Firecracker PR,firecrackerpr.com,US,B2B tech PR firm,A,no,,https://www.firecrackerpr.com/how-pr-is-like-sales/,new,25.0
+Interprose,interprosepr.com,US,B2B tech PR firm,A,no,,https://interprosepr.com/5-steps-to-finding-the-right-media-outlets-for-your-message/,new,9.0
+Global Results Communications,globalresultspr.com,US,PR firm,A,no,,https://globalresultspr.com/blog/pr-in-2026-how-communications-is-evolving-in-an-ai-driven-world,new,35.0
+Intrepid Agency,intrepidagency.com,US,PR and marketing firm (Salt Lake City),A,no,,https://intrepidagency.com/blog,new,9.0
+Spark,sparkpr.com,US,Tech PR firm,A,no,,https://sparkpr.com/news/how-to-scale-content-creation-efficiently-using-ai,new,36.0
+Snapp Conner PR,snappconner.com,US,PR firm (Salt Lake City),A,no,,https://www.snappconner.com/personal-branding-creating-the-brand-called-you,new,25.0
+March Communications,marchcomms.com,US,Tech PR firm (Boston),A,no,,https://www.marchcomms.com/blog/3-pillars-brand-storytelling/,new,20.0
+V2 Communications,v2comms.com,US,Tech PR firm (Boston),A,no,,https://www.v2comms.com/insights/,new,30.0
+Zer0 to 5ive,0to5.com,US,B2B tech PR firm,A,no,,https://0to5.com/what-is-a-good-pr-strategy-and-why-do-most-teams-get-it-wrong/,new,14.0
+French West Vaughan,fwv-us.com,US,PR firm (Raleigh),A,no,,https://fwv-us.com/news/pr-isnt-losing-relevance-its-becoming-the-answer,new,35.0
