@@ -1,7 +1,7 @@
 """Merge article results + contacts + campaign check -> work/step5_rows.csv; chunk rows not yet written into work/in_e<N>.csv."""
 import csv, json, glob, os, sys
 B = "/home/user/seo-backlink-outreach/batches/2026-10-19"
-DROP = {"swordandthescript.com"}
+DROP = set()
 tg = {}
 for p in sorted(glob.glob(f"{B}/work/results_*.jsonl")):
     for l in open(p):
