@@ -1,5 +1,7 @@
-"""Blog crawl for Step 4, built on crawl4ai (local Playwright Chromium). Replaces Apify's
-Website Content Crawler, so it costs no Apify credits.
+"""Blog crawl built on crawl4ai (local Playwright Chromium). NOT part of the normal Step 4 any more:
+Step 4 reads sites with WebFetch (see "Crawling websites (WebFetch first)" in SKILL.md). This script
+reaches websites through the shell, which is blocked in cloud sessions, so it is only an optional
+Mac-only tool. It costs no Apify credits.
 
     python blog_crawl.py 02_enriched.csv crawl/ [--workers 4] [--max-pages 40] [--depth 2]
 
