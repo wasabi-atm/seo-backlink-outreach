@@ -1,0 +1,5 @@
+20 October 2026 - Backlink Cold Outreach Campaign
+id: 14e7f638-ac61-46ef-812d-6bdb625dd058
+status: draft (never activated), no sender accounts set
+leads added: 30 of 90 (instantly/slim_1.json)
+NOT added: instantly/slim_2.json (30) and instantly/slim_3.json (30). The second upload was denied by the permission classifier, so it was not retried.
