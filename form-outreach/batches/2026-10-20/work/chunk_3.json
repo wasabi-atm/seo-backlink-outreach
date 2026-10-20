@@ -1,0 +1,182 @@
+[
+ {
+  "companyName": "City Road Communications",
+  "webDomain": "wearecityroad.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "tech PR agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Zenstores",
+  "webDomain": "zenstores.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "ecommerce SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Vacancy Filler",
+  "webDomain": "vacancyfiller.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "HR tech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ripen eCommerce",
+  "webDomain": "ripenecommerce.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "ecommerce marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Bright Vessel",
+  "webDomain": "brightvessel.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Roofr",
+  "webDomain": "roofr.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Construction SaaS: roofing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Service Autopilot",
+  "webDomain": "serviceautopilot.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field service software: lawn care",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Daxko",
+  "webDomain": "daxko.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Fitness software: club and Y management",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Trumpia",
+  "webDomain": "trumpia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SMS marketing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "WebinarNinja",
+  "webDomain": "webinarninja.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "webinar platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Heymarket",
+  "webDomain": "heymarket.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "business texting platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Agility PR Solutions",
+  "webDomain": "agilitypr.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PR software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Talemetry",
+  "webDomain": "talemetry.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech recruiting software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Modern Health",
+  "webDomain": "modernhealth.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "employee wellbeing platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Augmedix",
+  "webDomain": "augmedix.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Bannerbear",
+  "webDomain": "bannerbear.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI design automation API",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Linewize",
+  "webDomain": "linewize.com",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Edtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Spriggy",
+  "webDomain": "spriggy.com.au",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "PropSearch",
+  "webDomain": "propsearch.ae",
+  "country": "UAE",
+  "segment": "B",
+  "serviceType": "proptech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "108 Degrees",
+  "webDomain": "108degrees.com",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "https://108degrees.com/blog/improve-b2b-email-engagement",
+  "source": "leftover"
+ }
+]

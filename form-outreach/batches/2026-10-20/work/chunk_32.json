@@ -1,0 +1,134 @@
+[
+ {
+  "companyName": "Blink UX",
+  "webDomain": "blinkux.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Ad Results Media",
+  "webDomain": "adresultsmedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Mindgruve",
+  "webDomain": "mindgruve.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Blennd",
+  "webDomain": "blennd.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Clearview Social",
+  "webDomain": "clearviewsocial.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "50",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "AthenaHQ",
+  "webDomain": "athenahq.ai",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "71",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Accelevents",
+  "webDomain": "accelevents.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "77",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Mockingbird Marketing",
+  "webDomain": "mockingbirdmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "61",
+  "origin": "batches/2026-10-12-b2/01_prospects.csv"
+ },
+ {
+  "companyName": "Evergreen Podcasts",
+  "webDomain": "evergreenpodcasts.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "59",
+  "origin": "batches/2026-10-19/01_pool.csv"
+ },
+ {
+  "companyName": "Channel V Media",
+  "webDomain": "channelvmedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "53",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "Growth Marketing Pro",
+  "webDomain": "growthmarketingpro.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "71",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "Actuate Media",
+  "webDomain": "actuatemedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45",
+  "origin": "batches/2026-10-13/00_candidates.csv"
+ }
+]

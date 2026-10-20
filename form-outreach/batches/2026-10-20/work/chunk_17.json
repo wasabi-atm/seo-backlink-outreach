@@ -1,0 +1,102 @@
+[
+ {
+  "companyName": "AIP Media",
+  "webDomain": "aip.media",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Pink Pine Media",
+  "webDomain": "pinkpinemedia.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Seller Dynamics",
+  "webDomain": "sellerdynamics.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "HawkSEM",
+  "webDomain": "hawksem.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "PGN Agency",
+  "webDomain": "pgnagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Forge Worldwide",
+  "webDomain": "forgeworldwide.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "GiveCentral",
+  "webDomain": "givecentral.org",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Podcast Page",
+  "webDomain": "podcastpage.io",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "ButterCMS",
+  "webDomain": "buttercms.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Cleartail Marketing",
+  "webDomain": "cleartailmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ }
+]

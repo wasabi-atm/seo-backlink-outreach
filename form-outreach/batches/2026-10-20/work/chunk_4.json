@@ -1,0 +1,182 @@
+[
+ {
+  "companyName": "Dirty Martini Marketing",
+  "webDomain": "dirty-martini.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Satchel",
+  "webDomain": "satchelone.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "edtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Fluidly",
+  "webDomain": "fluidly.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Vertical Measures",
+  "webDomain": "verticalmeasures.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and content agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Wallaroo Media",
+  "webDomain": "wallaroomedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Menufy",
+  "webDomain": "menufy.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant SaaS: online ordering",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Real Green Systems",
+  "webDomain": "realgreen.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field service software: lawn and pest",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "TeamSnap",
+  "webDomain": "teamsnap.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Sports team management software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "LeadDyno",
+  "webDomain": "leaddyno.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "affiliate and referral software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "NiceJob",
+  "webDomain": "nicejob.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "reviews and referral software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Tatango",
+  "webDomain": "tatango.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SMS marketing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Squadcast",
+  "webDomain": "squadcast.fm",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "podcast and video recording tool",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Jobscan",
+  "webDomain": "jobscan.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech AI resume tools",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Wheel",
+  "webDomain": "wheel.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ambience Healthcare",
+  "webDomain": "ambiencehealthcare.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Torch",
+  "webDomain": "torch.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "L&D leadership coaching platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ezidebit",
+  "webDomain": "ezidebit.com.au",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Payments fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Starngage",
+  "webDomain": "starngage.com",
+  "country": "SG",
+  "segment": "A",
+  "serviceType": "influencer marketing platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Unifonic",
+  "webDomain": "unifonic.com",
+  "country": "UAE",
+  "segment": "B",
+  "serviceType": "CPaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Breakline Agency",
+  "webDomain": "breaklineagency.com",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "https://www.breaklineagency.com/how-to-optimize-for-near-me-searches/",
+  "source": "leftover"
+ }
+]

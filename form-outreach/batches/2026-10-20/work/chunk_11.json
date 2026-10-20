@@ -1,0 +1,102 @@
+[
+ {
+  "companyName": "Nightwatch",
+  "webDomain": "nightwatch.io",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO rank tracking tool; formHint https://nightwatch.io/contact/",
+  "articleHint": "https://nightwatch.io/blog/ai-brand-monitoring/",
+  "source": "new",
+  "drFree": "72"
+ },
+ {
+  "companyName": "Klatch",
+  "webDomain": "klatch.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Electric Media",
+  "webDomain": "electricmedia.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "KashFlow",
+  "webDomain": "kashflow.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "PushFire",
+  "webDomain": "pushfire.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Moncur",
+  "webDomain": "thinkmoncur.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Tribal Vision",
+  "webDomain": "tribalvision.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Ticket Fairy",
+  "webDomain": "ticketfairy.com",
+  "country": "check",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Curated",
+  "webDomain": "curated.co",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Rock Agency",
+  "webDomain": "rockagency.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ }
+]

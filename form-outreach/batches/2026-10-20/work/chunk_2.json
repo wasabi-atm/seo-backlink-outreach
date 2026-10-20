@@ -1,0 +1,182 @@
+[
+ {
+  "companyName": "Bcast",
+  "webDomain": "bcast.fm",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "podcast hosting and production",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ebsta",
+  "webDomain": "ebsta.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "B2B SaaS sales",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Jupix",
+  "webDomain": "jupix.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "proptech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Vengreso",
+  "webDomain": "vengreso.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B marketing and sales training",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Cleartail Marketing",
+  "webDomain": "cleartailmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "CompanyCam",
+  "webDomain": "companycam.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Construction SaaS: contractor photo documentation",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Successware",
+  "webDomain": "successware.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field service software: home services",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mariana Tek",
+  "webDomain": "marianatek.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Fitness software: boutique studio management",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mailmunch",
+  "webDomain": "mailmunch.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "email and popup marketing",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Social Tables",
+  "webDomain": "socialtables.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "event planning software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Retention Science",
+  "webDomain": "retentionscience.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "ecommerce marketing automation",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Keyhole",
+  "webDomain": "keyhole.co",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "social media analytics",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Clinch",
+  "webDomain": "clinchtalent.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech recruitment marketing",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mantra Health",
+  "webDomain": "mantrahealth.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "RXNT",
+  "webDomain": "rxnt.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Obviously AI",
+  "webDomain": "obviously.ai",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI analytics tool",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Fergus",
+  "webDomain": "fergus.com",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Trades job management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Splitit",
+  "webDomain": "splitit.com",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Shipox",
+  "webDomain": "shipox.com",
+  "country": "UAE",
+  "segment": "B",
+  "serviceType": "logistics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Cloud Cartel",
+  "webDomain": "cloudcartel.com.au",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ }
+]

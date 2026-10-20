@@ -1,0 +1,102 @@
+[
+ {
+  "companyName": "Prowess",
+  "webDomain": "prowess.org.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "Women in business network and publication; formHint https://prowess.org.uk/contact/",
+  "articleHint": "https://prowess.org.uk/the-power-of-video-marketing-boosting-your-business-with-visual-content/",
+  "source": "new",
+  "drFree": "59"
+ },
+ {
+  "companyName": "MR Digital",
+  "webDomain": "mr-digital.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "EQTR",
+  "webDomain": "eqtr.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Localgiving",
+  "webDomain": "localgiving.org",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Inbound Marketing Agents",
+  "webDomain": "inboundmarketingagents.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "KarmaJack",
+  "webDomain": "karmajack.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Boston Digital",
+  "webDomain": "bostondigital.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Yapsody",
+  "webDomain": "yapsody.com",
+  "country": "check",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "SendFox",
+  "webDomain": "sendfox.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Gorilla 360",
+  "webDomain": "gorilla360.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ }
+]

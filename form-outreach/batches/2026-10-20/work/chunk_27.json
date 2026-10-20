@@ -1,0 +1,112 @@
+[
+ {
+  "companyName": "Digital Wonderlab",
+  "webDomain": "digitalwonderlab.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "41"
+ },
+ {
+  "companyName": "Mobiquity Technologies",
+  "webDomain": "mobiquity.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "advertising technology",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "61"
+ },
+ {
+  "companyName": "Infuse Media",
+  "webDomain": "infusemedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand generation",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "62"
+ },
+ {
+  "companyName": "AudienceBloom",
+  "webDomain": "audiencebloom.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and content marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "64"
+ },
+ {
+  "companyName": "Online Media Masters",
+  "webDomain": "onlinemediamasters.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and PPC",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "71"
+ },
+ {
+  "companyName": "Qeedle",
+  "webDomain": "qeedle.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "Dynamic Web",
+  "webDomain": "dynamicwebs.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "B2B digital marketing and web agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "59"
+ },
+ {
+  "companyName": "Big Fish",
+  "webDomain": "bigfish.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing and web agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46"
+ },
+ {
+  "companyName": "Green Banana SEO",
+  "webDomain": "greenbananaseo.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46"
+ },
+ {
+  "companyName": "Big Duck",
+  "webDomain": "bigduck.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Nonprofit branding and communications",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Stevens and Tate",
+  "webDomain": "stevens-tate.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Manufacturing and B2B marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ }
+]

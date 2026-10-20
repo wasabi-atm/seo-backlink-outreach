@@ -1,0 +1,102 @@
+[
+ {
+  "companyName": "Enjoy Digital",
+  "webDomain": "enjoy-digital.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "TicToc Digital",
+  "webDomain": "tictocdigital.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Glisser",
+  "webDomain": "glisser.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Exposure",
+  "webDomain": "exposure.net",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Vizion Interactive",
+  "webDomain": "vizioninteractive.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Fused",
+  "webDomain": "getfused.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Woopra",
+  "webDomain": "woopra.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Link Whisper",
+  "webDomain": "linkwhisper.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Phlanx",
+  "webDomain": "phlanx.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "DigitalChalk",
+  "webDomain": "digitalchalk.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ }
+]

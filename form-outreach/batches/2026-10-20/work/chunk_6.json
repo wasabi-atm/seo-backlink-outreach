@@ -1,0 +1,182 @@
+[
+ {
+  "companyName": "Moorwand",
+  "webDomain": "moorwand.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "embedded finance",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Third Space Learning",
+  "webDomain": "thirdspacelearning.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "edtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Marion",
+  "webDomain": "marion.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "content marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Solid Digital",
+  "webDomain": "soliddigital.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Metia",
+  "webDomain": "metia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B tech marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Revel Systems",
+  "webDomain": "revelsystems.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant SaaS: POS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "ServiceMonster",
+  "webDomain": "servicemonster.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Field service software: service business management",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Salsa Labs",
+  "webDomain": "salsalabs.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit software: fundraising and advocacy",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Woobox",
+  "webDomain": "woobox.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "social promotions and contest software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Juicer",
+  "webDomain": "juicer.io",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "social media feed aggregator",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "ConvertKit",
+  "webDomain": "convertkit.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "creator email marketing",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Tolt",
+  "webDomain": "tolt.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "affiliate software for SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Eddy",
+  "webDomain": "eddy.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech SMB HR software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Particle Health",
+  "webDomain": "particlehealth.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Sudowrite",
+  "webDomain": "sudowrite.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "AI writing tool",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mursion",
+  "webDomain": "mursion.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "L&D simulation training platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mathspace",
+  "webDomain": "mathspace.co",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Edtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Anchanto",
+  "webDomain": "anchanto.com",
+  "country": "SG",
+  "segment": "B",
+  "serviceType": "ecommerce logistics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Akraya",
+  "webDomain": "akraya.com",
+  "country": "check",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "Search Marketing Group",
+  "webDomain": "searchmarketinggroup.com.au",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "https://searchmarketinggroup.com.au/google-ads-or-facebook-ads-small-business/",
+  "source": "leftover"
+ }
+]

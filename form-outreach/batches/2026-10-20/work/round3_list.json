@@ -1,0 +1,952 @@
+[
+ {
+  "companyName": "Optimisey",
+  "webDomain": "optimisey.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Site Visibility",
+  "webDomain": "sitevisibility.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "SEO/PPC",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "61"
+ },
+ {
+  "companyName": "Indigo Extra",
+  "webDomain": "indigoextra.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "50"
+ },
+ {
+  "companyName": "Position Digital",
+  "webDomain": "position.digital",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "71"
+ },
+ {
+  "companyName": "Chatterblast",
+  "webDomain": "chatterblast.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Creatif",
+  "webDomain": "creatif.agency",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Web design/branding",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "43"
+ },
+ {
+  "companyName": "SERP Co",
+  "webDomain": "serp.co",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "78"
+ },
+ {
+  "companyName": "Digital Wonderlab",
+  "webDomain": "digitalwonderlab.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "41"
+ },
+ {
+  "companyName": "Zero Gravity",
+  "webDomain": "zerogravity.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "41"
+ },
+ {
+  "companyName": "Fluid Media",
+  "webDomain": "fluidmedia.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "Digital Maas",
+  "webDomain": "digitalmaas.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "40"
+ },
+ {
+  "companyName": "Ardor SEO",
+  "webDomain": "ardorseo.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "Jackson Spalding",
+  "webDomain": "jsa.net",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PR and marketing communications",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Rosemont Media",
+  "webDomain": "rosemontmedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "web design and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "70"
+ },
+ {
+  "companyName": "Idea Marketing",
+  "webDomain": "ideamktg.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "Mobiquity Technologies",
+  "webDomain": "mobiquity.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "advertising technology",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "61"
+ },
+ {
+  "companyName": "Roar Media",
+  "webDomain": "roarmedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "web design and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "41"
+ },
+ {
+  "companyName": "Reach Marketing",
+  "webDomain": "reachmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "65"
+ },
+ {
+  "companyName": "Brand Fuel",
+  "webDomain": "brandfuel.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "branding and marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "47"
+ },
+ {
+  "companyName": "Big Eye Agency",
+  "webDomain": "bigeyeagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and web design",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "55"
+ },
+ {
+  "companyName": "Mucca Design",
+  "webDomain": "mucca.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "branding",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "Rubenstein",
+  "webDomain": "rubenstein.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PR and communications",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Inbound Junction",
+  "webDomain": "inboundjunction.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "inbound and HubSpot marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Infuse Media",
+  "webDomain": "infusemedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand generation",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "62"
+ },
+ {
+  "companyName": "Ballantine",
+  "webDomain": "ballantine.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PR and communications",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Envision IT Agency",
+  "webDomain": "envisionit.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "web design and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "40"
+ },
+ {
+  "companyName": "Chatter Buzz Media",
+  "webDomain": "chatterbuzzmedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and web design",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "61"
+ },
+ {
+  "companyName": "Nuvew",
+  "webDomain": "nuvew.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and web design",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "54"
+ },
+ {
+  "companyName": "Blue Line Media",
+  "webDomain": "bluelinemedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "44"
+ },
+ {
+  "companyName": "Upbeat Agency",
+  "webDomain": "upbeatagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "social media marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "53"
+ },
+ {
+  "companyName": "Clix Marketing",
+  "webDomain": "clixmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PPC agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "61"
+ },
+ {
+  "companyName": "AudienceBloom",
+  "webDomain": "audiencebloom.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and content marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "64"
+ },
+ {
+  "companyName": "Hyperquake",
+  "webDomain": "hyperquake.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "web design and ecommerce",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46"
+ },
+ {
+  "companyName": "Boldist",
+  "webDomain": "boldist.co",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and PPC",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "First Page Strategy",
+  "webDomain": "firstpagestrategy.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Ignite Visibility",
+  "webDomain": "ignitedigital.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "60"
+ },
+ {
+  "companyName": "Clarity Ventures",
+  "webDomain": "clarity-ventures.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "ecommerce development",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "65"
+ },
+ {
+  "companyName": "Clearlink",
+  "webDomain": "clearlink.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "performance marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Northcutt",
+  "webDomain": "northcutt.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "social media and content marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Online Media Masters",
+  "webDomain": "onlinemediamasters.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and PPC",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "71"
+ },
+ {
+  "companyName": "Visual Fizz",
+  "webDomain": "visualfizz.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "web design and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "44"
+ },
+ {
+  "companyName": "Opus Agency",
+  "webDomain": "opusagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Synaptic Digital",
+  "webDomain": "synapticdigital.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Spiralytics",
+  "webDomain": "spiralytics.com",
+  "country": "SG",
+  "segment": "A",
+  "serviceType": "inbound marketing / HubSpot partner",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "74"
+ },
+ {
+  "companyName": "Pivotal Agency",
+  "webDomain": "pivotalagency.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "web design and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "Ignition Digital",
+  "webDomain": "ignitiondigital.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "SEO and PPC",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "WeThrive",
+  "webDomain": "wethrive.net",
+  "country": "SG",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Qeedle",
+  "webDomain": "qeedle.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "Charle Agency",
+  "webDomain": "charleagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify Plus ecommerce agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "68"
+ },
+ {
+  "companyName": "Groove Commerce",
+  "webDomain": "groovecommerce.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify Plus ecommerce agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "62"
+ },
+ {
+  "companyName": "Blend Commerce",
+  "webDomain": "blendcommerce.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify Plus ecommerce agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "64"
+ },
+ {
+  "companyName": "Atrium",
+  "webDomain": "atrium.co",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Salesforce consulting partner",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "53"
+ },
+ {
+  "companyName": "Sercante",
+  "webDomain": "sercante.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Salesforce and Pardot marketing consultancy",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "DemandSpring",
+  "webDomain": "demandspring.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand generation agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "53"
+ },
+ {
+  "companyName": "Thrive Internet Marketing Agency",
+  "webDomain": "thrivemyway.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B digital marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "76"
+ },
+ {
+  "companyName": "Dynamic Web",
+  "webDomain": "dynamicwebs.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "B2B digital marketing and web agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "59"
+ },
+ {
+  "companyName": "321 Web Marketing",
+  "webDomain": "321webmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B digital marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Pagelift",
+  "webDomain": "pagelift.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "HubSpot website and inbound agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Kinesis",
+  "webDomain": "kinesisinc.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "HubSpot partner inbound agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "73"
+ },
+ {
+  "companyName": "EBQ",
+  "webDomain": "ebq.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B ecommerce marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Ironistic",
+  "webDomain": "ironistic.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "HubSpot partner and B2B marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "72"
+ },
+ {
+  "companyName": "Infront Webworks",
+  "webDomain": "infront.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "HubSpot partner web and inbound agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "65"
+ },
+ {
+  "companyName": "Wiredcraft",
+  "webDomain": "wiredcraft.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Software development consultancy",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "52"
+ },
+ {
+  "companyName": "Big Fish",
+  "webDomain": "bigfish.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing and web agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46"
+ },
+ {
+  "companyName": "Growth Dot",
+  "webDomain": "growthdot.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B SaaS growth marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Ecom Experts",
+  "webDomain": "ecomexperts.io",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "Shopify Plus ecommerce agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Black Belt Commerce",
+  "webDomain": "blackbeltcommerce.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify Plus ecommerce agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "Ethercycle",
+  "webDomain": "ethercycle.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B marketing and ABM agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "63"
+ },
+ {
+  "companyName": "Pipeline360",
+  "webDomain": "pipeline360.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand generation media",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "43"
+ },
+ {
+  "companyName": "Spark Business Works",
+  "webDomain": "sparkbusinessworks.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B sales and marketing consultancy",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56"
+ },
+ {
+  "companyName": "LeadMD",
+  "webDomain": "leadmd.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "RevOps and marketing automation consultancy",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "47"
+ },
+ {
+  "companyName": "Green Banana SEO",
+  "webDomain": "greenbananaseo.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46"
+ },
+ {
+  "companyName": "Jumpcrew",
+  "webDomain": "jumpcrew.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand generation agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "43"
+ },
+ {
+  "companyName": "Blue Tuskr",
+  "webDomain": "bluetuskr.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify and ecommerce marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "54"
+ },
+ {
+  "companyName": "The Smarketers",
+  "webDomain": "thesmarketers.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "HubSpot and Salesforce RevOps agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Smile Marketing",
+  "webDomain": "smilemarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Dental marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "41"
+ },
+ {
+  "companyName": "Sterling Sky",
+  "webDomain": "sterlingsky.ca",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Local SEO for multi-location brands",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "74"
+ },
+ {
+  "companyName": "Gladiator Law Marketing",
+  "webDomain": "gladiatorlawmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Legal marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "42"
+ },
+ {
+  "companyName": "Consultwebs",
+  "webDomain": "consultwebs.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Law firm marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56"
+ },
+ {
+  "companyName": "Big Duck",
+  "webDomain": "bigduck.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Nonprofit branding and communications",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Whole Whale",
+  "webDomain": "wholewhale.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Nonprofit digital marketing and analytics",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "67"
+ },
+ {
+  "companyName": "Wired Impact",
+  "webDomain": "wiredimpact.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Nonprofit web design and marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "72"
+ },
+ {
+  "companyName": "Nonprofit Megaphone",
+  "webDomain": "nonprofitmegaphone.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Nonprofit grant and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "54"
+ },
+ {
+  "companyName": "Ruffalo Noel Levitz",
+  "webDomain": "ruffalonl.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Higher education enrollment marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "71"
+ },
+ {
+  "companyName": "Carnegie Higher Ed",
+  "webDomain": "carnegiehighered.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Higher education marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "62"
+ },
+ {
+  "companyName": "Lunar Strategy",
+  "webDomain": "lunarstrategy.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Crypto and fintech marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "44"
+ },
+ {
+  "companyName": "Industrial Strength Marketing",
+  "webDomain": "industrialstrengthmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Industrial and manufacturing marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "Stevens and Tate",
+  "webDomain": "stevens-tate.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Manufacturing and B2B marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Medical Marketing Whiz",
+  "webDomain": "medicalmarketingwhiz.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "53"
+ },
+ {
+  "companyName": "Dental Marketing",
+  "webDomain": "dentalmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Dental marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "65"
+ },
+ {
+  "companyName": "Hotel Marketing",
+  "webDomain": "hotelmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Hospitality marketing and content",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Fat Rank",
+  "webDomain": "fatrank.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and local marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "66"
+ },
+ {
+  "companyName": "DocSites",
+  "webDomain": "docsites.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare website design and marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "78"
+ },
+ {
+  "companyName": "MadPow",
+  "webDomain": "madpow.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare digital design and marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "My Dental Agency",
+  "webDomain": "mydentalagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Dental marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ }
+]
