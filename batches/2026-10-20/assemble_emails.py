@@ -2,7 +2,7 @@
 from the user's four templates (set on 7 Oct), mixed through the list."""
 import csv, glob, random, collections, re, html
 B = "/home/user/seo-backlink-outreach/batches/2026-10-20"
-tg = {r["webDomain"]: r for r in csv.DictReader(open(f"{B}/work/step5_rows.csv"))}
+tg = {r["webDomain"]: {**r, "domainRating": r.get("drChecked",""), "offer": ("Founder's quote swap" if r["segment"]=="A" else r.get("offerSuggestion",""))} for r in csv.DictReader(open(f"{B}/work/step5_rows.csv"))}
 ct = {r["webDomain"]: r for r in csv.DictReader(open(f"{B}/work/contacts_final.csv"))}
 em = {}
 for p in sorted(glob.glob(f"{B}/work/emails_e*.csv")):
