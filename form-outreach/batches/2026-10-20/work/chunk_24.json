@@ -1,0 +1,122 @@
+[
+ {
+  "companyName": "Chatterblast",
+  "webDomain": "chatterblast.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "Digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Jackson Spalding",
+  "webDomain": "jsa.net",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PR and marketing communications",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "Mucca Design",
+  "webDomain": "mucca.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "branding",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "Blue Line Media",
+  "webDomain": "bluelinemedia.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "44"
+ },
+ {
+  "companyName": "Clarity Ventures",
+  "webDomain": "clarity-ventures.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "ecommerce development",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "65"
+ },
+ {
+  "companyName": "Pivotal Agency",
+  "webDomain": "pivotalagency.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "web design and digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "Sercante",
+  "webDomain": "sercante.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Salesforce and Pardot marketing consultancy",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "Ironistic",
+  "webDomain": "ironistic.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "HubSpot partner and B2B marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "72"
+ },
+ {
+  "companyName": "Pipeline360",
+  "webDomain": "pipeline360.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand generation media",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "43"
+ },
+ {
+  "companyName": "Sterling Sky",
+  "webDomain": "sterlingsky.ca",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Local SEO for multi-location brands",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "74"
+ },
+ {
+  "companyName": "Carnegie Higher Ed",
+  "webDomain": "carnegiehighered.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Higher education marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "62"
+ },
+ {
+  "companyName": "DocSites",
+  "webDomain": "docsites.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Healthcare website design and marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "78"
+ }
+]

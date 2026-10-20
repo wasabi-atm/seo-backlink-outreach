@@ -1,0 +1,122 @@
+[
+ {
+  "companyName": "SERP Co",
+  "webDomain": "serp.co",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "78"
+ },
+ {
+  "companyName": "Idea Marketing",
+  "webDomain": "ideamktg.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "58"
+ },
+ {
+  "companyName": "Inbound Junction",
+  "webDomain": "inboundjunction.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "inbound and HubSpot marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "48"
+ },
+ {
+  "companyName": "Clix Marketing",
+  "webDomain": "clixmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "PPC agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "61"
+ },
+ {
+  "companyName": "Northcutt",
+  "webDomain": "northcutt.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "social media and content marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51"
+ },
+ {
+  "companyName": "WeThrive",
+  "webDomain": "wethrive.net",
+  "country": "SG",
+  "segment": "A",
+  "serviceType": "digital marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ },
+ {
+  "companyName": "Thrive Internet Marketing Agency",
+  "webDomain": "thrivemyway.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B digital marketing agency",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "76"
+ },
+ {
+  "companyName": "Wiredcraft",
+  "webDomain": "wiredcraft.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Software development consultancy",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "52"
+ },
+ {
+  "companyName": "LeadMD",
+  "webDomain": "leadmd.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "RevOps and marketing automation consultancy",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "47"
+ },
+ {
+  "companyName": "Consultwebs",
+  "webDomain": "consultwebs.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Law firm marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56"
+ },
+ {
+  "companyName": "Industrial Strength Marketing",
+  "webDomain": "industrialstrengthmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Industrial and manufacturing marketing",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "45"
+ },
+ {
+  "companyName": "My Dental Agency",
+  "webDomain": "mydentalagency.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Dental marketing and SEO",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "49"
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "companyName": "Postalytics",
+  "webDomain": "postalytics.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "64",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "SPINX Digital",
+  "webDomain": "spinxdigital.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "65",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Fannit",
+  "webDomain": "fannit.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Jarrard Inc",
+  "webDomain": "jarrardinc.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Ambassador",
+  "webDomain": "getambassador.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "75",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Fullintel",
+  "webDomain": "fullintel.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "43",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Hannon Hill",
+  "webDomain": "hannonhill.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Common Thread Collective",
+  "webDomain": "commonthreadco.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "72",
+  "origin": "batches/2026-10-12-b2/01_prospects.csv"
+ },
+ {
+  "companyName": "InfoTrust",
+  "webDomain": "infotrust.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "60",
+  "origin": "batches/2026-10-19/01_pool.csv"
+ },
+ {
+  "companyName": "Zipify",
+  "webDomain": "zipify.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "67",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "Elite Strategies",
+  "webDomain": "elite-strategies.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "indaHash",
+  "webDomain": "indahash.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "44",
+  "origin": "batches/2026-10-13/00_candidates.csv"
+ }
+]

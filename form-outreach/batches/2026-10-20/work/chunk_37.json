@@ -1,0 +1,134 @@
+[
+ {
+  "companyName": "Strategies 360",
+  "webDomain": "strategies360.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "44",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Smith Publicity",
+  "webDomain": "smithpublicity.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Affect",
+  "webDomain": "affect.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Cohley",
+  "webDomain": "cohley.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "65",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "InEvent",
+  "webDomain": "inevent.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "73",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Gravity Forms",
+  "webDomain": "gravityforms.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "86",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Pepperland Marketing",
+  "webDomain": "pepperlandmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "47",
+  "origin": "batches/2026-10-12-b2/01_prospects.csv"
+ },
+ {
+  "companyName": "Passionates",
+  "webDomain": "passionates.com",
+  "country": "UAE",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "56",
+  "origin": "batches/2026-10-19/01_pool.csv"
+ },
+ {
+  "companyName": "SimpleTexting",
+  "webDomain": "simpletexting.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "81",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "PRLab",
+  "webDomain": "prlab.co",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "57",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "LiveKit",
+  "webDomain": "livekit.io",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "79",
+  "origin": "batches/2026-10-13/00_candidates.csv"
+ },
+ {
+  "companyName": "Hyperise",
+  "webDomain": "hyperise.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "68",
+  "origin": "batches/2026-10-13/00_candidates.csv"
+ }
+]

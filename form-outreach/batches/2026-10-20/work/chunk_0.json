@@ -1,0 +1,191 @@
+[
+ {
+  "companyName": "Passion Digital",
+  "webDomain": "passion.digital",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "SEO and content agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Tutorful",
+  "webDomain": "tutorful.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "edtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Bright Network",
+  "webDomain": "brightnetwork.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "graduate recruitment platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Mojo Media Labs",
+  "webDomain": "mojomedialabs.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "SEO agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Stryve",
+  "webDomain": "stryve.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Landlord Studio",
+  "webDomain": "landlordstudio.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Proptech: landlord software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Peek Pro",
+  "webDomain": "peek.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Hospitality SaaS: tours and activities booking",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Sellercloud",
+  "webDomain": "sellercloud.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Logistics SaaS: ecommerce operations",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Aplos",
+  "webDomain": "aplos.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Nonprofit and church software: accounting",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Certain",
+  "webDomain": "certain.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "event marketing platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "SweepWidget",
+  "webDomain": "sweepwidget.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "giveaway and contest software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Fast Simon",
+  "webDomain": "fastsimon.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "ecommerce search and merchandising",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "SparkLoop",
+  "webDomain": "sparkloop.app",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "newsletter referral software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Catapult Health",
+  "webDomain": "catapulthealth.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "DrChrono",
+  "webDomain": "drchrono.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Hirebridge",
+  "webDomain": "hirebridge.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech recruiting software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Atollon",
+  "webDomain": "atollon.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "Digital marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Learnosity",
+  "webDomain": "learnosity.com",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Edtech assessment SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ohmyhome",
+  "webDomain": "ohmyhome.com",
+  "country": "SG",
+  "segment": "B",
+  "serviceType": "proptech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Alley Group",
+  "webDomain": "alleygroup.com.au",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "Visions Design",
+  "webDomain": "visionsdesign.co.uk",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "https://www.visionsdesign.co.uk/news/how-to-redesign-your-website-without-destroying-your-seo",
+  "source": "leftover"
+ }
+]

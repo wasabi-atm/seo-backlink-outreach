@@ -1,0 +1,191 @@
+[
+ {
+  "companyName": "Venture Harbour",
+  "webDomain": "ventureharbour.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "CRO and marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Pusher",
+  "webDomain": "pusher.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "dev tools",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Expert Agent",
+  "webDomain": "expertagent.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "proptech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Revenue Marketing Alliance",
+  "webDomain": "revenuemarketingalliance.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B demand gen agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Podcast Motor",
+  "webDomain": "podcastmotor.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "podcast production",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Showdigs",
+  "webDomain": "showdigs.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Proptech: rental showing software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "TripWorks",
+  "webDomain": "tripworks.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Hospitality SaaS: tours and activities booking",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Exercise.com",
+  "webDomain": "exercise.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Fitness software: gym and trainer platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Sumo Group",
+  "webDomain": "sumo.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "email capture and list growth tools",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Remo",
+  "webDomain": "remo.co",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "virtual event platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Pixlee",
+  "webDomain": "pixlee.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "UGC and visual marketing",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Replo",
+  "webDomain": "replo.app",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify landing page builder",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Symphony Talent",
+  "webDomain": "symphonytalent.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech employer branding",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Wellsteps",
+  "webDomain": "wellsteps.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "employee wellbeing platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Nextech",
+  "webDomain": "nextech.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "PandoLogic",
+  "webDomain": "pandologic.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech recruitment advertising",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "TidyHQ",
+  "webDomain": "tidyhq.com",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Membership management SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Vend",
+  "webDomain": "vendhq.com",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "Retail POS SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Skuad",
+  "webDomain": "skuad.io",
+  "country": "SG",
+  "segment": "B",
+  "serviceType": "global payroll HR tech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Smart Pension",
+  "webDomain": "smartpension.co.uk",
+  "country": "check",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "DigitalChalk",
+  "webDomain": "digitalchalk.com",
+  "country": "check",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "https://www.digitalchalk.com/best-lms-for-customer-training/",
+  "source": "leftover"
+ }
+]

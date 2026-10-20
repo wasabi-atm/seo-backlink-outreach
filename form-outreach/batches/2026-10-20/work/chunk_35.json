@@ -1,0 +1,134 @@
+[
+ {
+  "companyName": "KPS3",
+  "webDomain": "kps3.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "53",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Absolute Web",
+  "webDomain": "absoluteweb.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "69",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Simple Thread",
+  "webDomain": "simplethread.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "66",
+  "origin": "batches/2026-10-12-b3/01_prospects.csv"
+ },
+ {
+  "companyName": "Perfect Venue",
+  "webDomain": "perfectvenue.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "79",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "CaliberMind",
+  "webDomain": "calibermind.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "59",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Synup",
+  "webDomain": "synup.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "74",
+  "origin": "batches/2026-10-12-b4/01_prospects.csv"
+ },
+ {
+  "companyName": "Brightec",
+  "webDomain": "brightec.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "46",
+  "origin": "batches/2026-10-12-b2/01_prospects.csv"
+ },
+ {
+  "companyName": "Blank Theory",
+  "webDomain": "blanktheory.com.au",
+  "country": "AU",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "44",
+  "origin": "batches/2026-10-19/01_pool.csv"
+ },
+ {
+  "companyName": "ScreenPal",
+  "webDomain": "screencast-o-matic.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "78",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "Crema",
+  "webDomain": "crema.us",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "51",
+  "origin": "batches/2026-10-16/00_candidates.csv"
+ },
+ {
+  "companyName": "Sojern",
+  "webDomain": "sojern.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "76",
+  "origin": "batches/2026-10-13/00_candidates.csv"
+ },
+ {
+  "companyName": "Rise, a Quad agency",
+  "webDomain": "meetrise.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": "59",
+  "origin": "batches/2026-10-13/00_candidates.csv"
+ }
+]

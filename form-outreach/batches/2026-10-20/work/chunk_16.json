@@ -1,0 +1,102 @@
+[
+ {
+  "companyName": "Republic Marketing",
+  "webDomain": "republicmarketing.co.uk",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Tourism Marketing Agency",
+  "webDomain": "tourismmarketing.agency",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "TicketSource",
+  "webDomain": "ticketsource.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Nettl",
+  "webDomain": "nettl.com",
+  "country": "UK",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Growth Marketing Genie",
+  "webDomain": "growthmarketinggenie.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "829 Studios",
+  "webDomain": "829studios.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Uteach",
+  "webDomain": "uteach.io",
+  "country": "check",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "Pinecast",
+  "webDomain": "pinecast.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "LeadQuizzes",
+  "webDomain": "leadquizzes.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ },
+ {
+  "companyName": "EventsAir",
+  "webDomain": "eventsair.com",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "new",
+  "drFree": null
+ }
+]

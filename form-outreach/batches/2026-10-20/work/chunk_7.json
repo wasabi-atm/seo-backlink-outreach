@@ -1,0 +1,182 @@
+[
+ {
+  "companyName": "Vebra",
+  "webDomain": "vebra.com",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "proptech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Educake",
+  "webDomain": "educake.co.uk",
+  "country": "UK",
+  "segment": "B",
+  "serviceType": "edtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Allied Global Marketing",
+  "webDomain": "alliedglobalmarketing.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "B2B marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Intrepy",
+  "webDomain": "intrepy.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "digital marketing agency",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Stessa",
+  "webDomain": "stessa.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Proptech: rental property software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Paytronix",
+  "webDomain": "paytronix.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Restaurant SaaS: loyalty and guest engagement",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ordoro",
+  "webDomain": "ordoro.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Logistics SaaS: ecommerce shipping and inventory",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Clearstream",
+  "webDomain": "clearstream.io",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "Church software: text messaging",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "ShortStack",
+  "webDomain": "shortstack.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "campaign and contest builder",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Foursixty",
+  "webDomain": "foursixty.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "shoppable UGC platform",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Swym",
+  "webDomain": "swym.it",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "Shopify wishlist and retention apps",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Swell Rewards",
+  "webDomain": "swellrewards.com",
+  "country": "US",
+  "segment": "A",
+  "serviceType": "loyalty and referrals",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Ease",
+  "webDomain": "ease.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "HR tech benefits administration",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Elation Health",
+  "webDomain": "elationhealth.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B healthtech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Propel PR",
+  "webDomain": "propelmypr.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "PR software",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Numeral",
+  "webDomain": "numeralhq.com",
+  "country": "US",
+  "segment": "B",
+  "serviceType": "B2B fintech sales tax automation",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "EarlyPay",
+  "webDomain": "earlypay.com.au",
+  "country": "AU",
+  "segment": "B",
+  "serviceType": "B2B fintech",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Detrack",
+  "webDomain": "detrack.com",
+  "country": "SG",
+  "segment": "B",
+  "serviceType": "logistics SaaS",
+  "articleHint": "",
+  "source": "new"
+ },
+ {
+  "companyName": "Quartix",
+  "webDomain": "quartix.com",
+  "country": "check",
+  "segment": "B",
+  "serviceType": "",
+  "articleHint": "",
+  "source": "leftover"
+ },
+ {
+  "companyName": "WANT Branding",
+  "webDomain": "wantbranding.com",
+  "country": "check",
+  "segment": "A",
+  "serviceType": "",
+  "articleHint": "https://wantbranding.com/how-to-do-a-brand-audit/",
+  "source": "leftover"
+ }
+]
