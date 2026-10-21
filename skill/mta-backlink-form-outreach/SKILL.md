@@ -51,7 +51,7 @@ A scheduled task runs this skill every weekday (Mon to Fri) at 2PM Bali time (As
 - If the pull or push fails, the built-in browser cannot be reached, or the ledger looks wrong, do not guess. Send a short Slack message to both destinations saying the run stopped and why, and stop.
 - If fewer than 50 pass every check, send what passed and say in the canvas callout how many short and why. Never lower the bar to reach 50.
 - If today's batch folder already exists with a `slack.json`, a run already happened today: stop without sending anything.
-- Mix sources so 50 is reachable: leftovers first (ledger rows with status `not_sent` whose DR is 40 or more), then new sites. Gather at least 120 candidates for new sites, since only about half have a usable form and some more fail the article check.
+- Mix sources so 50 is reachable: leftovers first (ledger rows with status `not_sent` whose DR is 60 or more), then new sites. Gather at least 120 candidates for new sites, since only about half have a usable form and some more fail the article check.
 
 ## Which browser
 
@@ -96,7 +96,7 @@ Call 1, who to target:
 3. Batch size. Default 20, with 10 and 40 as options.
 4. Segment B offer (multi-select): video for the blog post, blog graphic or infographic, founder's quote, internal data.
 
-Keep DR 40 or higher, 11 to 500 staff, the founder's quote swap for Segment A and the paid placement fallback as defaults, and say so in the message before the question.
+Keep DR 60 or higher, 11 to 500 staff, the founder's quote swap for Segment A and the paid placement fallback as defaults, and say so in the message before the question.
 
 Call 2, details for the forms:
 
@@ -110,7 +110,7 @@ Also ask in plain text for any keywords, niches or domains to exclude. Write all
 
 Follow `mta-backlink-outreach` Step 2, with the user's brief in place of the defaults there:
 
-- Source candidates from the topics in Step 4, not just from the industry: Ahrefs `serp-overview` for SaaS video, B2B video, video marketing, advertising and content marketing keywords in the brief's countries, plus web searches like "<industry> blog explainer video" or "<industry> video marketing guide". A domain that already ranks for these has the right kind of article.
+- Source candidates from the topics in Step 4, not just from the industry: Ahrefs `serp-overview` for explainer video, SaaS explainer video, SaaS demo video, B2B video marketing, animated video and motion graphics keywords in the brief's countries, plus web searches like "<industry> blog explainer video" or "<industry> video marketing guide". A domain that already ranks for these has the right kind of article.
 - Gather about twice the batch size: in the first run only about half of new sites had a usable form, and some more fail the article check.
 - Flag competitors and ask the user about each one, exactly as that skill says. Included competitors get the founder's quote swap only.
 - Drop current clients and open deals (HubSpot).
@@ -145,9 +145,9 @@ Save `02_forms.csv`.
 
 This step is copied from `mta-backlink-outreach` Step 4. Follow that skill if the two ever differ.
 
-Read each site's blog with WebFetch, exactly as "Crawling websites (WebFetch first)" in `mta-backlink-outreach` says: `/sitemap.xml` first (homepage links if there is none), one URL per call, up to 20 calls in parallel, at most 50 pages per site, approx word counts, "not found" for missing fields, one retry then "failed". Do not use crawl4ai, the shell or Apify's Website Content Crawler. If WebFetch is blocked for a site, read the blog in the built-in browser instead, or find candidate posts with a `site:<domain>` web search on the topics below and open them in the browser.
+Read each site's blog with WebFetch, exactly as "Crawling websites (WebFetch first)" in `mta-backlink-outreach` says: `/sitemap.xml` first (homepage links if there is none), one URL per call, up to 20 calls in parallel, at most 5 matching posts per site, picked by title and URL slug only, approx word counts, "not found" for missing fields, one retry then "failed". Do not use crawl4ai, the shell or Apify's Website Content Crawler. If WebFetch is blocked for a site, read the blog in the built-in browser instead, or find candidate posts with a `site:<domain>` web search on the topics below and open them in the browser.
 
-Look for articles about SaaS video, B2B video, video marketing, advertising or content marketing. Don't be strict about the exact topic. The test is whether a link to Motion would sit naturally in the article and pass authority to motiontheagency.com. Prefer articles that:
+Look for articles whose main subject is explainer video, animated explainers, SaaS product demo video, B2B video marketing, or motion graphics and animation for business. The title, URL slug or H1 must contain one of: video, explainer, animation, animated, motion graphics, demo. A general advertising or content marketing post only counts if one of its H2 sections is about video. Do not stretch the topic. The test is whether a link to Motion would sit naturally in that section and pass authority to motiontheagency.com. Prefer articles that:
 
 - mention video, explainers, animation, demos or visual content, or recommend something Motion could make
 - are live and updated within the last two years (check the published or modified date in the page metadata)
@@ -170,7 +170,7 @@ Every row that goes into the CSV needs a DR checked today, including leftovers, 
 1. Run `mcp__Ahrefs__subscription-info-limits-and-usage` (free). Call the Ahrefs `doc` tool once for `site-explorer-domain-rating`.
 2. If at least about 1,000 units are left, call `site-explorer-domain-rating` (target the domain, date today) for each domain. Each call costs about 50 units. Set drSource to "Ahrefs API".
 3. If units are low or Ahrefs returns a limit error, use the Apify actor `radeance/ahrefs-scraper` exactly as `mta-backlink-outreach` Step 3 describes (urls list, mode "subdomains", include_web_authority true, maxTotalChargeUsd at least 0.25, read DR from the rows with type "authority", and set the dataset `limit` to at least twice the number of domains). Set drSource to "Apify ahrefs-scraper".
-4. Rows under DR 40, or with no DR from either source, go to `02_low_dr.csv` and the low DR pool (`dedupe.py pool`), and stay out of the CSV.
+4. Rows under DR 60, or with no DR from either source, go to `02_low_dr.csv` and the low DR pool (`dedupe.py pool`), and stay out of the CSV.
 
 Tell the user how many units or dollars the check cost.
 
@@ -253,4 +253,4 @@ Remind the user that replies come to the reply email in the brief, not to Instan
 
 ## Low DR companies
 
-Same rule as `mta-backlink-outreach`: never research, write messages for or log companies under DR 40 unless the user clearly asks.
+Same rule as `mta-backlink-outreach`: never research, write messages for or log companies under DR 60 unless the user clearly asks.

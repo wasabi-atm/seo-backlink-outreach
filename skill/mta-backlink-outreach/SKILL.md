@@ -102,7 +102,7 @@ Also ask, in plain text if needed, for any domains to exclude (current partners,
 
 Collect about 60 candidates so 40 survive the filters. Skip any domain already in the ledger while you search, so the 60 are all new. Good sources, in this order:
 
-- Ahrefs `serp-overview` for the target keywords (SaaS video, B2B video, video marketing, advertising, content marketing) with country set to gb, us and ae. Domains that rank for these already have relevant articles and some authority.
+- Ahrefs `serp-overview` for the target keywords (explainer video, SaaS explainer video, SaaS demo video, B2B video marketing, animated video, motion graphics for business) with country set to gb, us and ae. Domains that rank for these already have relevant articles and some authority.
 - Web search for lists like "B2B content marketing agency London", "SaaS marketing agency Dubai", "video hosting platform".
 - Apollo `apollo_mixed_companies_search` to confirm HQ country and industry.
 
@@ -227,8 +227,8 @@ The scraper does not show which sites a domain links out to, so on the Apify pat
 
 Split the results into two files. Both use the same columns, in this order: companyName, webDomain, domainRating, country, serviceType, segment, visualScore, backlinkExchange, backlinkEvidence, dataSource, competitor, drStatus, videoSchemaGap.
 
-- `02_enriched.csv`: domainRating 40 or higher, drStatus "pass". Only these rows go on to Step 4.
-- `02_low_dr.csv`: domainRating under 40 (drStatus "low"), or no DR found by any source (drStatus "unknown", domainRating left blank). Still fill in backlinkExchange and the other columns, so the file is ready if the user wants to use it later. Do not delete these rows or leave them out.
+- `02_enriched.csv`: domainRating 60 or higher, drStatus "pass". Only these rows go on to Step 4.
+- `02_low_dr.csv`: domainRating under 60 (drStatus "low"), or no DR found by any source (drStatus "unknown", domainRating left blank). Still fill in backlinkExchange and the other columns, so the file is ready if the user wants to use it later. Do not delete these rows or leave them out.
 
 Then add the low-DR rows to the shared pool on the user's Mac, so they can be found again in later sessions and on other devices:
 
@@ -245,12 +245,12 @@ If fewer than 40 rows pass, go back to the spare candidates from Step 2, vet the
 Read each site's blog with WebFetch, following "Crawling websites" above (no crawl4ai, no shell, no Website Content Crawler). For each company:
 
 1. WebFetch `/sitemap.xml` (or the sitemap index, then the post sitemap) to list blog URLs with their lastmod dates. If there is no sitemap, WebFetch the homepage, find the blog link, and WebFetch the blog index for its post links.
-2. Shortlist posts by title and date against the topics below, and WebFetch the best few (at most 50 pages per site, usually far fewer) for the title, published or updated date, headings, approx word count and whether the page has video, images or a CTA that Motion could improve.
+2. Shortlist from the sitemap or blog index by title and URL slug only, using the keywords above. WebFetch at most 5 matching posts per site (newest first), not the whole blog. If none of the titles match, drop the site. Do not fetch posts just to look for a fit. Fetch each of those for the title, published or updated date, headings, approx word count and whether the page has video, images or a CTA that Motion could improve.
 3. Run up to 20 WebFetch calls in parallel across companies. Retry a failed page once, then mark it "failed" and move on. If WebFetch is blocked for a whole site, open the blog in the built-in browser if one is connected; otherwise drop the site and say why (Apify only with the user told first, see rule 5).
 
 Save what you read to `crawl/articles.csv` (webDomain, url, title, published, wordCountApprox, fetchStatus) so the pick can be checked later.
 
-Read the titles, dates and page content you fetched. Look for articles about SaaS video, B2B video, video marketing, advertising or content marketing. Don't be strict. The test is whether a link to MTA would sit naturally in the article and pass authority to motiontheagency.com. Prefer articles that:
+Read the titles, dates and page content you fetched. Look for articles whose main subject is explainer video, animated explainers, SaaS product demo video, B2B video marketing, or motion graphics and animation for business. The title, URL slug or H1 must contain one of: video, explainer, animation, animated, motion graphics, demo. A general advertising or content marketing post only counts if one of its H2 sections is about video. Do not stretch the topic. The test is whether a link to MTA would sit naturally in that section and pass authority to motiontheagency.com. Prefer articles that:
 
 - mention video, explainers, animation, demos or visual content, or recommend something MTA could make
 - are live and updated within the last two years
@@ -374,7 +374,7 @@ If a step fails, say which one and what is already in Instantly, so nothing is a
 
 ## Low DR companies (only when the user asks)
 
-Companies under DR 40 are never researched, emailed or logged on your own. Only work on them when the user clearly asks, for example "reach out to the low DR ones", "do the under-40 list too" or "email <company> even though its DR is low". Asking about them, or looking at the file, is not a request to email them. If it is unclear, ask with AskUserQuestion first.
+Companies under DR 60 are never researched, emailed or logged on your own. Only work on them when the user clearly asks, for example "reach out to the low DR ones", "do the under-60 list too" or "email <company> even though its DR is low". Asking about them, or looking at the file, is not a request to email them. If it is unclear, ask with AskUserQuestion first.
 
 When asked:
 

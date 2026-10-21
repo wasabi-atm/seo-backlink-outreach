@@ -4,7 +4,7 @@ Private workspace for Motion The Agency's backlink outreach, synced between devi
 
 - `skill/mta-backlink-outreach/`: the Claude skill (SKILL.md) and its scripts. This copy is the source of truth.
 - `outreach_ledger.csv`: every company already contacted. The dedupe check reads it so no company is emailed twice.
-- `low_dr_pool.csv`: companies under DR 40, kept for manual outreach on request.
+- `low_dr_pool.csv`: companies under DR 60, kept for manual outreach on request.
 - `batches/<date>/`: the CSVs from each email run. `sent/`: copies of sent batches.
 - `form-outreach/`: the contact form workflow. Its skill is `skill/mta-backlink-form-outreach/SKILL.md`, every form batch is in `form-outreach/batches/<date>/`, and `form-outreach/form_outreach_master.csv` lists every company reached through a form. It shares the ledger above, so no company gets both an email and a form.
 
