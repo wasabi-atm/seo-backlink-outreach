@@ -1,6 +1,7 @@
 ---
 name: "mta-backlink-outreach"
 description: "Run a Motion The Agency SEO backlink outreach batch. Interview, dedupe against every company already contacted, build and visually vet 40 UK/US/UAE sites with webscreenshotter, ask the user about any competitor, check DR and link habits in Ahrefs, check each homepage video for VideoObject schema with Apify, read each blog with WebFetch to pick one article per site, and draft emails on request."
+model: claude-haiku-5-5
 ---
 
 # MTA backlink outreach
