@@ -1,6 +1,7 @@
 ---
 name: mta-backlink-form-outreach
 description: Run Motion The Agency backlink outreach through website contact forms: find sites whose blogs match Motion's topics, verify DR with Ahrefs or Apify, find each contact form, and deliver a Slack canvas of form links with messages copied from the Instantly backlink emails. Also runs unattended every weekday as a scheduled task.
+model: claude-haiku-5-5
 ---
 
 # MTA backlink outreach through contact forms

@@ -1,5 +1,13 @@
 {
+  "model": "claude-haiku-5-5",
   "permissions": {
-    "allow": ["Bash(npm run *)", "Bash(git diff *)", "Edit(src/**)", "Read(**)", "mcp__Apify_Neu", "mcp__apify"]
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(git diff *)",
+      "Edit(src/**)",
+      "Read(**)",
+      "mcp__Apify_Neu",
+      "mcp__apify"
+    ]
   }
 }
