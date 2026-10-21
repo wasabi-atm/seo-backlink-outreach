@@ -34,7 +34,7 @@ for p in glob.glob(f"{REPO}/batches/*/exclude_domains.txt"):
         for line in open(p):
             add(line.strip())
 import json
-for p in glob.glob(f"{REPO}/batches/2026-10-21/work/prev/results_*.jsonl"):
+for p in glob.glob(f"{REPO}/batches/2026-10-21/work/results_*.jsonl"):
     for l in open(p):
         if l.strip():
             try: add(json.loads(l).get("webDomain"))
