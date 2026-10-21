@@ -1,7 +1,7 @@
-"""Builds 04_backlink_emails.csv for backlink-2026-10-20: merges step5/emails_*.csv onto targets + contacts, gives each sendable row one subject
+"""Builds 04_backlink_emails.csv for backlink-2026-10-21: merges step5/emails_*.csv onto targets + contacts, gives each sendable row one subject
 from the user's four templates (set on 7 Oct), mixed through the list."""
 import csv, glob, random, collections, re, html
-B = "/home/user/seo-backlink-outreach/batches/2026-10-20"
+B = "/home/user/seo-backlink-outreach/batches/2026-10-21"
 tg = {r["webDomain"]: {**r, "domainRating": r.get("drChecked",""), "offer": ("Founder's quote swap" if r["segment"]=="A" else r.get("offerSuggestion",""))} for r in csv.DictReader(open(f"{B}/work/step5_rows.csv"))}
 ct = {r["webDomain"]: r for r in csv.DictReader(open(f"{B}/work/contacts_final.csv"))}
 em = {}
@@ -27,7 +27,7 @@ for d, c in ct.items():
         r["emailBody"] = ""; r["articleShortName"] = ""; r["manualCheck"] = "no email written"
     rows.append(r)
 send = [r for r in rows if r["emailBody"]]
-random.Random(20261020).shuffle(send)
+random.Random(20261021).shuffle(send)
 T = ["quick_question", "noticed_something", "quick_intro", "asap"]
 used = set()
 for i, r in enumerate(send):
