@@ -102,7 +102,7 @@ Also ask, in plain text if needed, for any domains to exclude (current partners,
 
 Collect about 60 candidates so 40 survive the filters. Skip any domain already in the ledger while you search, so the 60 are all new. Good sources, in this order:
 
-- Ahrefs `serp-overview` for the target keywords (explainer video, SaaS explainer video, SaaS demo video, B2B video marketing, animated video, motion graphics for business) with country set to gb, us and ae. Domains that rank for these already have relevant articles and some authority.
+- Ahrefs `serp-overview` for the target keywords (explainer video, SaaS explainer video, SaaS demo video, B2B video marketing, animated video, motion graphics for business, sales enablement video) with country set to gb, us and ae. Domains that rank for these already have relevant articles and some authority.
 - Web search for lists like "B2B content marketing agency London", "SaaS marketing agency Dubai", "video hosting platform".
 - Apollo `apollo_mixed_companies_search` to confirm HQ country and industry.
 
@@ -250,7 +250,7 @@ Read each site's blog with WebFetch, following "Crawling websites" above (no cra
 
 Save what you read to `crawl/articles.csv` (webDomain, url, title, published, wordCountApprox, fetchStatus) so the pick can be checked later.
 
-Read the titles, dates and page content you fetched. Look for articles whose main subject is explainer video, animated explainers, SaaS product demo video, B2B video marketing, or motion graphics and animation for business. The title, URL slug or H1 must contain one of: video, explainer, animation, animated, motion graphics, demo. A general advertising or content marketing post only counts if one of its H2 sections is about video. Do not stretch the topic. The test is whether a link to MTA would sit naturally in that section and pass authority to motiontheagency.com. Prefer articles that:
+Read the titles, dates and page content you fetched. Look for articles whose main subject is explainer video, animated explainers, SaaS product demo video, B2B video marketing, sales enablement (decks, demos, training or pitch video), or motion graphics and animation for business. The title, URL slug or H1 must contain one of: video, explainer, animation, animated, motion graphics, demo, sales enablement. A general advertising or content marketing post only counts if one of its H2 sections is about video. Do not stretch the topic. The test is whether a link to MTA would sit naturally in that section and pass authority to motiontheagency.com. Prefer articles that:
 
 - mention video, explainers, animation, demos or visual content, or recommend something MTA could make
 - are live and updated within the last two years

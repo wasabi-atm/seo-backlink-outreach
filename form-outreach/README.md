@@ -31,7 +31,7 @@ The ledger (`outreach_ledger.csv`) and the low DR pool (`low_dr_pool.csv`) stay 
 
 ## Rules in short
 
-- The article has to match Motion: explainer video, SaaS demo video, B2B video marketing or animation, with the keyword in the title, URL or H1, live and updated within two years. A site with a form but no matching article is dropped.
+- The article has to match Motion: explainer video, SaaS demo video, B2B video marketing, sales enablement or animation, with the keyword in the title, URL or H1, live and updated within two years. A site with a form but no matching article is dropped.
 - Messages copy the latest Instantly backlink email word for word, with URLs written out and "Founder @ Motion The Agency" under Sam.
 - Nothing is filled in or submitted automatically. A person opens each link, pastes the message and submits.
 - After sending, mark rows `sent` in the ledger (`set-status ... --channel form`) and in `form_outreach_master.csv`, then `sync.sh push`.

@@ -110,7 +110,7 @@ Also ask in plain text for any keywords, niches or domains to exclude. Write all
 
 Follow `mta-backlink-outreach` Step 2, with the user's brief in place of the defaults there:
 
-- Source candidates from the topics in Step 4, not just from the industry: Ahrefs `serp-overview` for explainer video, SaaS explainer video, SaaS demo video, B2B video marketing, animated video and motion graphics keywords in the brief's countries, plus web searches like "<industry> blog explainer video" or "<industry> video marketing guide". A domain that already ranks for these has the right kind of article.
+- Source candidates from the topics in Step 4, not just from the industry: Ahrefs `serp-overview` for explainer video, SaaS explainer video, SaaS demo video, B2B video marketing, animated video, sales enablement video and motion graphics keywords in the brief's countries, plus web searches like "<industry> blog explainer video" or "<industry> video marketing guide". A domain that already ranks for these has the right kind of article.
 - Gather about twice the batch size: in the first run only about half of new sites had a usable form, and some more fail the article check.
 - Flag competitors and ask the user about each one, exactly as that skill says. Included competitors get the founder's quote swap only.
 - Drop current clients and open deals (HubSpot).
@@ -147,7 +147,7 @@ This step is copied from `mta-backlink-outreach` Step 4. Follow that skill if th
 
 Read each site's blog with WebFetch, exactly as "Crawling websites (WebFetch first)" in `mta-backlink-outreach` says: `/sitemap.xml` first (homepage links if there is none), one URL per call, up to 20 calls in parallel, at most 5 matching posts per site, picked by title and URL slug only, approx word counts, "not found" for missing fields, one retry then "failed". Do not use crawl4ai, the shell or Apify's Website Content Crawler. If WebFetch is blocked for a site, read the blog in the built-in browser instead, or find candidate posts with a `site:<domain>` web search on the topics below and open them in the browser.
 
-Look for articles whose main subject is explainer video, animated explainers, SaaS product demo video, B2B video marketing, or motion graphics and animation for business. The title, URL slug or H1 must contain one of: video, explainer, animation, animated, motion graphics, demo. A general advertising or content marketing post only counts if one of its H2 sections is about video. Do not stretch the topic. The test is whether a link to Motion would sit naturally in that section and pass authority to motiontheagency.com. Prefer articles that:
+Look for articles whose main subject is explainer video, animated explainers, SaaS product demo video, B2B video marketing, sales enablement (decks, demos, training or pitch video), or motion graphics and animation for business. The title, URL slug or H1 must contain one of: video, explainer, animation, animated, motion graphics, demo, sales enablement. A general advertising or content marketing post only counts if one of its H2 sections is about video. Do not stretch the topic. The test is whether a link to Motion would sit naturally in that section and pass authority to motiontheagency.com. Prefer articles that:
 
 - mention video, explainers, animation, demos or visual content, or recommend something Motion could make
 - are live and updated within the last two years (check the published or modified date in the page metadata)
