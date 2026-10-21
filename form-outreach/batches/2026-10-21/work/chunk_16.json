@@ -1,0 +1,130 @@
+[
+{
+"companyName": "Loopy Loyalty",
+"webDomain": "loopyloyalty.com",
+"country": "UK",
+"serviceType": "Digital loyalty card software",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "CANDDi",
+"webDomain": "canddi.com",
+"country": "UK",
+"serviceType": "Website visitor tracking and analytics",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Call-Loop",
+"webDomain": "callloop.com",
+"country": "US",
+"serviceType": "SMS marketing software",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "KnoCommerce",
+"webDomain": "knocommerce.com",
+"country": "US",
+"serviceType": "Post purchase survey app for ecommerce",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "ResDiary",
+"webDomain": "resdiary.com",
+"country": "UK",
+"serviceType": "restaurant reservation software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Jackrabbit Technologies",
+"webDomain": "jackrabbittech.com",
+"country": "US",
+"serviceType": "dance and gym class software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Aspire",
+"webDomain": "youraspire.com",
+"country": "US",
+"serviceType": "landscaping business software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Kindlink",
+"webDomain": "kindlink.com",
+"country": "AU",
+"serviceType": "nonprofit fundraising and CRM software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Join It",
+"webDomain": "joinit.com",
+"country": "US",
+"serviceType": "membership management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "DNL OmniMedia",
+"webDomain": "dnlomnimedia.com",
+"country": "US",
+"serviceType": "nonprofit digital and HubSpot agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Dunham+Company",
+"webDomain": "dunhamandcompany.com",
+"country": "US",
+"serviceType": "nonprofit fundraising marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Simple Strat",
+"webDomain": "simplestrat.com",
+"country": "US",
+"serviceType": "HubSpot partner agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Spectrio",
+"webDomain": "spectrio.com",
+"country": "US",
+"serviceType": "Digital signage and on-hold messaging",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Parcel2Go",
+"webDomain": "parcel2go.com",
+"country": "UK",
+"serviceType": "Parcel delivery comparison and shipping",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "SmartBiz Loans",
+"webDomain": "smartbizloans.com",
+"country": "US",
+"serviceType": "Small business lending",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Digital Pacific",
+"webDomain": "digitalpacific.com.au",
+"country": "AU",
+"serviceType": "Web hosting and domains",
+"segment": "B",
+"articleHint": ""
+}
+]

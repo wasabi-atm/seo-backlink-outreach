@@ -1,0 +1,66 @@
+[
+{
+"companyName": "Wise Agent",
+"webDomain": "wiseagent.com",
+"country": "US",
+"serviceType": "real estate agent CRM",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "CCS Fundraising",
+"webDomain": "ccsfundraising.com",
+"country": "US",
+"serviceType": "fundraising consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Precision Marketing Group",
+"webDomain": "precisionmarketinggroup.com",
+"country": "US",
+"serviceType": "HubSpot inbound marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "OptiSigns",
+"webDomain": "optisigns.com",
+"country": "US",
+"serviceType": "Digital signage software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "MemberPress",
+"webDomain": "memberpress.com",
+"country": "US",
+"serviceType": "Membership and online course platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "ShippingEasy",
+"webDomain": "shippingeasy.com",
+"country": "US",
+"serviceType": "Ecommerce shipping and order software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "1-800Accountant",
+"webDomain": "1800accountant.com",
+"country": "US",
+"serviceType": "Small business accounting and tax",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "GreenGeeks",
+"webDomain": "greengeeks.com",
+"country": "US",
+"serviceType": "Web hosting",
+"segment": "B",
+"articleHint": ""
+}
+]

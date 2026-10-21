@@ -1,0 +1,58 @@
+[
+{
+"companyName": "RKD Group",
+"webDomain": "rkdgroup.com",
+"country": "US",
+"serviceType": "nonprofit fundraising marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Graham-Pelton",
+"webDomain": "grahampelton.com",
+"country": "US",
+"serviceType": "fundraising consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Good Agency",
+"webDomain": "goodagency.co.uk",
+"country": "UK",
+"serviceType": "charity brand and fundraising agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Axero",
+"webDomain": "axerosolutions.com",
+"country": "US",
+"serviceType": "Intranet and employee communications software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "James and James Fulfilment",
+"webDomain": "ecommercefulfilment.com",
+"country": "UK",
+"serviceType": "Ecommerce fulfilment",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Kapitus",
+"webDomain": "kapitus.com",
+"country": "US",
+"serviceType": "Small business financing",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "DreamHost",
+"webDomain": "dreamhost.com",
+"country": "US",
+"serviceType": "Web hosting and website builder",
+"segment": "B",
+"articleHint": ""
+}
+]

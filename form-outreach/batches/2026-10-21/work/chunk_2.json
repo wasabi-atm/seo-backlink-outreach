@@ -1,0 +1,202 @@
+[
+{
+"companyName": "The Wonder Agency",
+"webDomain": "wonderagency.co.uk",
+"country": "UK",
+"serviceType": "digital marketing agency (Leeds)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "TheeDigital",
+"webDomain": "theedigital.com",
+"country": "US",
+"serviceType": "Web design and SEO agency (Raleigh)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Carney",
+"webDomain": "carney.co",
+"country": "US",
+"serviceType": "Digital and content marketing agency (Pittsburgh)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Threesides Marketing",
+"webDomain": "threesides.com.au",
+"country": "AU",
+"serviceType": "Digital marketing agency (Canberra)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Knowify",
+"webDomain": "knowify.com",
+"country": "US",
+"serviceType": "Contractor management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Arketa",
+"webDomain": "arketa.com",
+"country": "US",
+"serviceType": "Fitness and wellness studio software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "LionDesk",
+"webDomain": "liondesk.com",
+"country": "US",
+"serviceType": "Real estate CRM",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Yapi",
+"webDomain": "yapiapp.com",
+"country": "US",
+"serviceType": "Dental practice software",
+"segment": "B",
+"articleHint": "https://yapiapp.com/blog/dental-practice-management/dental-patient-engagement-2/"
+},
+{
+"companyName": "CampMinder",
+"webDomain": "campminder.com",
+"country": "US",
+"serviceType": "Summer camp management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "17hats",
+"webDomain": "17hats.com",
+"country": "US",
+"serviceType": "Business management software for creative small businesses",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Recruitment Revolution",
+"webDomain": "recruitmentrevolution.com",
+"country": "UK",
+"serviceType": "recruitment marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Give as you Live",
+"webDomain": "giveasyoulive.com",
+"country": "UK",
+"serviceType": "charity fundraising platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Pobble",
+"webDomain": "pobble.com",
+"country": "UK",
+"serviceType": "edtech writing platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "PostPilot",
+"webDomain": "postpilot.com",
+"country": "US",
+"serviceType": "Shopify direct mail marketing app",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "BL.INK",
+"webDomain": "bl.ink",
+"country": "US",
+"serviceType": "branded link management",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Five Stars",
+"webDomain": "getfivestars.com",
+"country": "US",
+"serviceType": "review management software",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "TicketLeap",
+"webDomain": "ticketleap.com",
+"country": "US",
+"serviceType": "event ticketing platform",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Pain-Free Dental Marketing",
+"webDomain": "painfreedentalmarketing.com",
+"country": "US",
+"serviceType": "Dental marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Mockingbird Marketing",
+"webDomain": "mockingbird.marketing",
+"country": "US",
+"serviceType": "Law firm marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "MissionWired",
+"webDomain": "missionwired.com",
+"country": "US",
+"serviceType": "Nonprofit digital marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Energage",
+"webDomain": "energage.com",
+"country": "US",
+"serviceType": "employee engagement and employer branding (Top Workplaces)",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Korbyt",
+"webDomain": "korbyt.com",
+"country": "US",
+"serviceType": "internal comms and digital signage software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "iorad",
+"webDomain": "iorad.com",
+"country": "US",
+"serviceType": "interactive tutorial and onboarding software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Repsly",
+"webDomain": "repsly.com",
+"country": "US",
+"serviceType": "retail field sales software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "PayTrace",
+"webDomain": "paytrace.com",
+"country": "US",
+"serviceType": "B2B payment processing",
+"segment": "B",
+"articleHint": ""
+}
+]

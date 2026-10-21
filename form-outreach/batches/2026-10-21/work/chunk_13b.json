@@ -1,0 +1,50 @@
+[
+{
+"companyName": "Ignyte Branding",
+"webDomain": "ignytebrands.com",
+"country": "US",
+"serviceType": "brand strategy firm",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Rise Vision",
+"webDomain": "risevision.com",
+"country": "US",
+"serviceType": "Digital signage software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Pigeonhole Live",
+"webDomain": "pigeonholelive.com",
+"country": "SG",
+"serviceType": "Event audience interaction software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Parcel Monkey",
+"webDomain": "parcelmonkey.co.uk",
+"country": "UK",
+"serviceType": "Parcel delivery comparison",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "ProWritingAid",
+"webDomain": "prowritingaid.com",
+"country": "UK",
+"serviceType": "AI writing and editing tool",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Kualo",
+"webDomain": "kualo.co.uk",
+"country": "UK",
+"serviceType": "Web hosting",
+"segment": "B",
+"articleHint": ""
+}
+]

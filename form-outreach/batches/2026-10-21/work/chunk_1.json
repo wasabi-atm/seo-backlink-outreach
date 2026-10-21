@@ -1,0 +1,202 @@
+[
+{
+"companyName": "Our Agency",
+"webDomain": "our-agency.co.uk",
+"country": "UK",
+"serviceType": "digital marketing agency (Leeds)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Studio Science",
+"webDomain": "studioscience.com",
+"country": "US",
+"serviceType": "B2B tech brand and digital agency (Indianapolis)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Stream Creative",
+"webDomain": "streamcreative.com",
+"country": "US",
+"serviceType": "Inbound marketing and HubSpot agency (Milwaukee)",
+"segment": "A",
+"articleHint": "https://www.streamcreative.com/blog/dont-miss-the-bus-create-leads--build-loyalty-with-video-"
+},
+{
+"companyName": "R6 Digital",
+"webDomain": "r6digital.com.au",
+"country": "AU",
+"serviceType": "Digital marketing and SEO agency (Brisbane)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Service Fusion",
+"webDomain": "servicefusion.com",
+"country": "US",
+"serviceType": "Field service management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "ClubReady",
+"webDomain": "clubready.com",
+"country": "US",
+"serviceType": "Fitness club management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "ChurchTrac",
+"webDomain": "churchtrac.com",
+"country": "US",
+"serviceType": "Church management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Dental Intelligence",
+"webDomain": "dentalintel.com",
+"country": "US",
+"serviceType": "Dental practice analytics software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Campus Suite",
+"webDomain": "campussuite.com",
+"country": "US",
+"serviceType": "School website software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Marqii",
+"webDomain": "marqii.com",
+"country": "US",
+"serviceType": "Restaurant listings and marketing software",
+"segment": "B",
+"articleHint": "https://blog.marqii.com/tag/best-practices"
+},
+{
+"companyName": "WhosOn",
+"webDomain": "whoson.com",
+"country": "UK",
+"serviceType": "live chat software",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Swiftaid",
+"webDomain": "swiftaid.co.uk",
+"country": "UK",
+"serviceType": "Gift Aid fintech for charities",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Seneca Learning",
+"webDomain": "senecalearning.com",
+"country": "UK",
+"serviceType": "edtech platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Fohr",
+"webDomain": "fohr.co",
+"country": "US",
+"serviceType": "influencer marketing platform",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Rebrandly",
+"webDomain": "rebrandly.com",
+"country": "US",
+"serviceType": "branded link management",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "TrustSpot",
+"webDomain": "trustspot.io",
+"country": "US",
+"serviceType": "reviews and UGC platform",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "EventCreate",
+"webDomain": "eventcreate.com",
+"country": "US",
+"serviceType": "event platform",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Delmain",
+"webDomain": "delmain.co",
+"country": "US",
+"serviceType": "Dental marketing agency",
+"segment": "A",
+"articleHint": "https://delmain.co/blog/best-dental-websites/"
+},
+{
+"companyName": "Grow Law Firm",
+"webDomain": "growlawfirm.com",
+"country": "US",
+"serviceType": "Law firm marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "mStoner",
+"webDomain": "mstoner.com",
+"country": "US",
+"serviceType": "Higher education marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "CareerArc",
+"webDomain": "careerarc.com",
+"country": "US",
+"serviceType": "employer branding and social recruiting software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Appspace",
+"webDomain": "appspace.com",
+"country": "US",
+"serviceType": "workplace experience and internal comms software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Paradiso Solutions",
+"webDomain": "paradisosolutions.com",
+"country": "US",
+"serviceType": "LMS and training software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "LevelEleven",
+"webDomain": "leveleleven.com",
+"country": "US",
+"serviceType": "sales performance management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Checkbook",
+"webDomain": "checkbook.io",
+"country": "US",
+"serviceType": "B2B digital payments",
+"segment": "B",
+"articleHint": ""
+}
+]

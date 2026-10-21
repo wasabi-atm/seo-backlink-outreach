@@ -1,0 +1,74 @@
+[
+{
+"companyName": "Monk Development",
+"webDomain": "monkdevelopment.com",
+"country": "US",
+"serviceType": "church website platform Ekklesia360",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "RSVPify",
+"webDomain": "rsvpify.com",
+"country": "US",
+"serviceType": "event RSVP and registration software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Campbell & Company",
+"webDomain": "campbellcompany.com",
+"country": "US",
+"serviceType": "fundraising consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Resource Media",
+"webDomain": "resource-media.org",
+"country": "US",
+"serviceType": "nonprofit communications consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "ScreenCloud",
+"webDomain": "screencloud.com",
+"country": "UK",
+"serviceType": "Digital signage and internal comms software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Screenfeed",
+"webDomain": "screenfeed.com",
+"country": "US",
+"serviceType": "Digital signage content provider",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Pirate Ship",
+"webDomain": "pirateship.com",
+"country": "US",
+"serviceType": "Shipping software for ecommerce",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Credibly",
+"webDomain": "credibly.com",
+"country": "US",
+"serviceType": "Small business financing",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "InMotion Hosting",
+"webDomain": "inmotionhosting.com",
+"country": "US",
+"serviceType": "Web hosting",
+"segment": "B",
+"articleHint": ""
+}
+]

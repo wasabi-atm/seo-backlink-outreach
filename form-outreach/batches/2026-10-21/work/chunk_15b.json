@@ -1,0 +1,66 @@
+[
+{
+"companyName": "YourMembership",
+"webDomain": "yourmembership.com",
+"country": "US",
+"serviceType": "association management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Pursuant",
+"webDomain": "pursuant.com",
+"country": "US",
+"serviceType": "fundraising agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Aly Sterling Philanthropy",
+"webDomain": "alysterling.com",
+"country": "US",
+"serviceType": "nonprofit fundraising consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Tronvig",
+"webDomain": "tronviggroup.com",
+"country": "US",
+"serviceType": "brand strategy agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Signagelive",
+"webDomain": "signagelive.com",
+"country": "UK",
+"serviceType": "Digital signage software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Easyship",
+"webDomain": "easyship.com",
+"country": "US",
+"serviceType": "Ecommerce shipping software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "NorthOne",
+"webDomain": "northone.com",
+"country": "US",
+"serviceType": "Small business banking",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Showit",
+"webDomain": "showit.com",
+"country": "US",
+"serviceType": "Website builder for creatives",
+"segment": "B",
+"articleHint": ""
+}
+]

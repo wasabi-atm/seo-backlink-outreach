@@ -1,0 +1,194 @@
+[
+{
+"companyName": "Nile",
+"webDomain": "nilehq.com",
+"country": "UK",
+"serviceType": "service and brand design consultancy (Edinburgh)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Five Q",
+"webDomain": "fiveq.com",
+"country": "US",
+"serviceType": "Digital marketing and web agency (Nashville)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Diagram",
+"webDomain": "wearediagram.com",
+"country": "US",
+"serviceType": "HubSpot and web design agency (Grand Rapids)",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Ascora",
+"webDomain": "ascora.com.au",
+"country": "AU",
+"serviceType": "Field service management SaaS",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "DaySmart Software",
+"webDomain": "daysmart.com",
+"country": "US",
+"serviceType": "Salon, spa and pet business software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "GrowthZone",
+"webDomain": "growthzone.com",
+"country": "US",
+"serviceType": "Association and chamber management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Funnel",
+"webDomain": "funnelleasing.com",
+"country": "US",
+"serviceType": "Multifamily leasing CRM",
+"segment": "B",
+"articleHint": "https://funnelleasing.com/optimize-multi-community-leasing-without-losing-personalization/"
+},
+{
+"companyName": "Jackrabbit Class",
+"webDomain": "jackrabbitclass.com",
+"country": "US",
+"serviceType": "Class management software for studios",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Red Stag Fulfillment",
+"webDomain": "redstagfulfillment.com",
+"country": "US",
+"serviceType": "Ecommerce fulfillment",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Planet eStream",
+"webDomain": "planetestream.co.uk",
+"country": "UK",
+"serviceType": "video hosting platform for education",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Work for Good",
+"webDomain": "workforgood.co.uk",
+"country": "UK",
+"serviceType": "charity giving platform",
+"segment": "B",
+"articleHint": "https://workforgood.co.uk/work-for-good-blog/social-media-tips-for-fundraisers"
+},
+{
+"companyName": "Cognassist",
+"webDomain": "cognassist.com",
+"country": "UK",
+"serviceType": "edtech learning support",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Giraffe360",
+"webDomain": "giraffe360.com",
+"country": "UK",
+"serviceType": "proptech property imaging",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "ScoreApp",
+"webDomain": "scoreapp.com",
+"country": "UK",
+"serviceType": "quiz and lead generation tool",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "TextUs",
+"webDomain": "textus.com",
+"country": "US",
+"serviceType": "business SMS platform",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Skio",
+"webDomain": "skio.com",
+"country": "US",
+"serviceType": "Shopify subscriptions app",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Geniuslink",
+"webDomain": "geniuslink.com",
+"country": "US",
+"serviceType": "smart link management",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Wonderist Agency",
+"webDomain": "wonderistagency.com",
+"country": "US",
+"serviceType": "Dental marketing agency",
+"segment": "A",
+"articleHint": "https://www.wonderistagency.com/blog/10-dental-marketing-ideas-to-grow-your-dental-practice"
+},
+{
+"companyName": "Spotlight Branding",
+"webDomain": "spotlightbranding.com",
+"country": "US",
+"serviceType": "Law firm marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Fenton",
+"webDomain": "fenton.com",
+"country": "US",
+"serviceType": "Nonprofit and social impact communications",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Workshop",
+"webDomain": "useworkshop.com",
+"country": "US",
+"serviceType": "internal comms email software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "WorkBright",
+"webDomain": "workbright.com",
+"country": "US",
+"serviceType": "employee onboarding software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Journey",
+"webDomain": "journey.io",
+"country": "US",
+"serviceType": "sales storytelling and deal room software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "interviewstream",
+"webDomain": "interviewstream.com",
+"country": "US",
+"serviceType": "video interviewing and recruiting software",
+"segment": "B",
+"articleHint": ""
+}
+]

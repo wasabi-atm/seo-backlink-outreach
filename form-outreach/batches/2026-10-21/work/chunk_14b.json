@@ -1,0 +1,74 @@
+[
+{
+"companyName": "Novi AMS",
+"webDomain": "noviams.com",
+"country": "US",
+"serviceType": "association management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Nonprofit Hub",
+"webDomain": "nonprofithub.org",
+"country": "US",
+"serviceType": "nonprofit communications education",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Burness",
+"webDomain": "burness.com",
+"country": "US",
+"serviceType": "nonprofit communications firm",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Monigle",
+"webDomain": "monigle.com",
+"country": "US",
+"serviceType": "brand strategy consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Mvix",
+"webDomain": "mvix.com",
+"country": "US",
+"serviceType": "Digital signage software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Sched",
+"webDomain": "sched.com",
+"country": "US",
+"serviceType": "Event scheduling and app software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "MachShip",
+"webDomain": "machship.com",
+"country": "AU",
+"serviceType": "Freight and shipping software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "HyperWrite",
+"webDomain": "hyperwriteai.com",
+"country": "US",
+"serviceType": "AI writing assistant",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Crazy Domains",
+"webDomain": "crazydomains.com.au",
+"country": "AU",
+"serviceType": "Web hosting, domains and website builder",
+"segment": "B",
+"articleHint": ""
+}
+]

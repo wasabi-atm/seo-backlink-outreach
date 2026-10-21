@@ -1,0 +1,58 @@
+[
+{
+"companyName": "DNL OmniMedia",
+"webDomain": "dnlomnimedia.com",
+"country": "US",
+"serviceType": "nonprofit digital and HubSpot agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Dunham+Company",
+"webDomain": "dunhamandcompany.com",
+"country": "US",
+"serviceType": "nonprofit fundraising marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Simple Strat",
+"webDomain": "simplestrat.com",
+"country": "US",
+"serviceType": "HubSpot partner agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Spectrio",
+"webDomain": "spectrio.com",
+"country": "US",
+"serviceType": "Digital signage and on-hold messaging",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Parcel2Go",
+"webDomain": "parcel2go.com",
+"country": "UK",
+"serviceType": "Parcel delivery comparison and shipping",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "SmartBiz Loans",
+"webDomain": "smartbizloans.com",
+"country": "US",
+"serviceType": "Small business lending",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Digital Pacific",
+"webDomain": "digitalpacific.com.au",
+"country": "AU",
+"serviceType": "Web hosting and domains",
+"segment": "B",
+"articleHint": ""
+}
+]

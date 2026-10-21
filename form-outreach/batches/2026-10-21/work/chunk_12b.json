@@ -1,0 +1,66 @@
+[
+{
+"companyName": "Rechat",
+"webDomain": "rechat.com",
+"country": "US",
+"serviceType": "real estate agent marketing platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Marts&Lundy",
+"webDomain": "martsandlundy.com",
+"country": "US",
+"serviceType": "fundraising consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "InboxArmy",
+"webDomain": "inboxarmy.com",
+"country": "US",
+"serviceType": "email marketing agency",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Raydiant",
+"webDomain": "raydiant.com",
+"country": "US",
+"serviceType": "Digital signage and in-store experience platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Academy of Mine",
+"webDomain": "academyofmine.com",
+"country": "US",
+"serviceType": "LMS and online course platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Interparcel",
+"webDomain": "interparcel.com",
+"country": "AU",
+"serviceType": "Parcel shipping platform",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "HashMicro",
+"webDomain": "hashmicro.com",
+"country": "SG",
+"serviceType": "ERP and business software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "VentraIP",
+"webDomain": "ventraip.com.au",
+"country": "AU",
+"serviceType": "Web hosting and domains",
+"segment": "B",
+"articleHint": ""
+}
+]

@@ -1,0 +1,29 @@
+{
+ "out": {
+  "Corefact": "Passed form check, but the article has no date anywhere (only a 2025 mention in a tip), so recency could not be confirmed",
+  "MavSocial": "Blog looks bulk redated in 2026 and the picked article is an old republished piece that still mentions Google+",
+  "Akumina": "Article is about AI adoption and employee experience, not marketing or video; topic fit too weak",
+  "FormAssembly": "Article is about managing campaign requests in higher education; topic fit too weak",
+  "VinciWorks": "Article is about compliance microlearning, not marketing; topic fit too weak",
+  "TextUs": "Only form is a \"Talk to an Expert\" sales form with required industry and customer dropdowns",
+  "Formidable Forms": "Only form is the support ticket form with required WordPress and plugin version fields",
+  "Beaver Builder": "Visible byline date is 2022; only the page metadata says 2025",
+  "Popup Maker": "Only form is a support ticket page",
+  "Wise Agent": "Required \"Contacting About\" dropdown only offers CRM or custom website enquiries, no honest choice",
+  "SearchWP": "Picked article (promoted ads in WordPress search) is only a moderate fit; blog is mostly plugin tutorials",
+  "Picreel": "Owned by ProProfs (same company as Qualaroo, which is held as a spare below); contact goes to the shared ProProfs form",
+  "Novi AMS": "Article is about association member experience, not marketing; topic fit too weak",
+  "Nonprofit Hub": "Contact form offers \"Backlink to Relevant Resource\" and sponsorship options, so it looks like it sells placements",
+  "SocketLabs": "Joining Infobip (a large company), so size and who reads the form are unclear",
+  "tinyEmail": "Visible byline date is 2023; only the page metadata says 2025",
+  "Aspire": "Part of ServiceTitan (public, far over 500 staff)",
+  "Graham-Pelton": "Visible article date is 2023; only the page metadata says 2026",
+  "DreamHost": "Over 500 staff likely, and the form sits on the support page",
+  "1-800Accountant": "Visible article date is 2021 and the firm may be over 500 staff",
+  "SingleOps": "Now part of Granum; article is about landscaper equipment training, topic fit too weak",
+  "Jackrabbit Technologies": "Same company as Jackrabbit Class, which is in this batch",
+  "CCS Fundraising": "Firm may be over 500 staff and the form is a HubSpot sales style form; unsure",
+  "Pursuant": "Redirects to teamallegiance.com (Allegiance Group), whose main form needs a required donor count; unsure which form reaches them",
+  "Pretty Links": "Same company as MemberPress (Caseproof), which is in this batch"
+ }
+}

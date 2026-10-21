@@ -1,0 +1,138 @@
+[
+{
+"companyName": "Endorsal",
+"webDomain": "endorsal.io",
+"country": "UK",
+"serviceType": "Testimonial and review software",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Kissmetrics",
+"webDomain": "kissmetrics.io",
+"country": "US",
+"serviceType": "Product and marketing analytics",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Delivra",
+"webDomain": "delivra.com",
+"country": "US",
+"serviceType": "Email marketing software",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "WordFly",
+"webDomain": "wordfly.com",
+"country": "US",
+"serviceType": "Email marketing for arts organisations",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "ShareThis",
+"webDomain": "sharethis.com",
+"country": "US",
+"serviceType": "Social sharing tools",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Clubworx",
+"webDomain": "clubworx.com",
+"country": "AU",
+"serviceType": "gym and martial arts software",
+"segment": "B",
+"articleHint": "https://clubworx.com/blog/marketing-and-personalisation-how-clubworx-can-help-you-automate-your-success"
+},
+{
+"companyName": "Aisle Planner",
+"webDomain": "aisleplanner.com",
+"country": "US",
+"serviceType": "wedding planner software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "TutorCruncher",
+"webDomain": "tutorcruncher.com",
+"country": "UK",
+"serviceType": "tutoring agency software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Novi AMS",
+"webDomain": "noviams.com",
+"country": "US",
+"serviceType": "association management software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Nonprofit Hub",
+"webDomain": "nonprofithub.org",
+"country": "US",
+"serviceType": "nonprofit communications education",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Burness",
+"webDomain": "burness.com",
+"country": "US",
+"serviceType": "nonprofit communications firm",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Monigle",
+"webDomain": "monigle.com",
+"country": "US",
+"serviceType": "brand strategy consultancy",
+"segment": "A",
+"articleHint": ""
+},
+{
+"companyName": "Mvix",
+"webDomain": "mvix.com",
+"country": "US",
+"serviceType": "Digital signage software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Sched",
+"webDomain": "sched.com",
+"country": "US",
+"serviceType": "Event scheduling and app software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "MachShip",
+"webDomain": "machship.com",
+"country": "AU",
+"serviceType": "Freight and shipping software",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "HyperWrite",
+"webDomain": "hyperwriteai.com",
+"country": "US",
+"serviceType": "AI writing assistant",
+"segment": "B",
+"articleHint": ""
+},
+{
+"companyName": "Crazy Domains",
+"webDomain": "crazydomains.com.au",
+"country": "AU",
+"serviceType": "Web hosting, domains and website builder",
+"segment": "B",
+"articleHint": ""
+}
+]
