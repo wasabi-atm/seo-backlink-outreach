@@ -8,7 +8,7 @@ Backlink outreach through prospects' own website contact forms, for companies wh
 - `batches/<YYYY-MM-DD>/`: the files from one run.
   - `00_candidates*.csv`: candidates and the dedupe check.
   - `02_forms.csv`: what was found on each site's contact page, including skipped sites and any public email (`altEmail`) worth using in an email batch instead.
-  - `02_low_dr.csv`: sites under DR 40 (also added to the shared `low_dr_pool.csv`).
+  - `02_low_dr.csv`: sites under DR 60 (also added to the shared `low_dr_pool.csv`).
   - `03_form_targets.csv`: tracking detail for each site: DR (checked that day with the Ahrefs API or Apify), article, segment, offer, CAPTCHA and consent notes.
   - `06_form_outreach.csv`: the file for whoever submits the forms. Five columns: companyName, formUrl, beforeSubmit (anything to do besides pasting), subjectText and messageText. Use the name and reply email from `brief.md` on every form.
   - `07_left_out.csv`: companies the daily run left out (competitors, unsure fits) and why.
@@ -31,7 +31,7 @@ The ledger (`outreach_ledger.csv`) and the low DR pool (`low_dr_pool.csv`) stay 
 
 ## Rules in short
 
-- The article has to match Motion: SaaS video, B2B video, video marketing, advertising or content marketing, live and updated within two years. A site with a form but no matching article is dropped.
+- The article has to match Motion: explainer video, SaaS demo video, B2B video marketing, sales enablement or animation, with the keyword in the title, URL or H1, live and updated within two years. A site with a form but no matching article is dropped.
 - Messages copy the latest Instantly backlink email word for word, with URLs written out and "Founder @ Motion The Agency" under Sam.
 - Nothing is filled in or submitted automatically. A person opens each link, pastes the message and submits.
 - After sending, mark rows `sent` in the ledger (`set-status ... --channel form`) and in `form_outreach_master.csv`, then `sync.sh push`.
