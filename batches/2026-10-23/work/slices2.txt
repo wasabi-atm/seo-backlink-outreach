@@ -1,0 +1,12 @@
+f01|Digital marketing agencies in Ireland/UK/US with 10-100 staff publishing content or SEO or social media posts
+f02|Ecommerce and Shopify agencies and Shopify app developers in US/UK/CA/AU with active blogs
+f03|SEO tools, rank tracking, link building and content optimisation software (mid-size) with blogs
+f04|Webinar, community, newsletter and creator-economy SaaS tools and agencies with blogs
+f05|B2B SaaS marketing agencies and fractional CMO consultancies in US/UK/CA/AU with blogs
+f06|Cybersecurity, compliance (SOC 2, GDPR) and privacy software vendors with marketing-style blogs
+f07|Accounting, bookkeeping, payments, expense and spend-management SaaS (mid-size) with content blogs
+f08|Telehealth, wellness, benefits and employee wellbeing software and agencies with content blogs
+f09|Property management, construction tech, home services software and their marketing agencies
+f10|Social media management, scheduling, listening and analytics tools and agencies
+f11|PR, media monitoring, press release and communications tools and boutique PR agencies
+f12|Customer data, personalisation, analytics, BI and no-code/low-code platforms (mid-size) with blogs
