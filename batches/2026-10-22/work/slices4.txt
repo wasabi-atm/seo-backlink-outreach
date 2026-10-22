@@ -1,0 +1,12 @@
+d01|Healthcare IT, medical practice software and healthcare marketing agencies (US/CA/UK/AU) with marketing-style blogs
+d02|Real estate tech, proptech and real estate marketing agencies and software (US/CA/UK/AU)
+d03|Legal tech, law firm marketing agencies and accounting/tax software with marketing blogs (US/CA/UK/AU)
+d04|Restaurant, hospitality, travel and events technology and marketing agencies (US/CA/UK/AU)
+d05|Manufacturing, industrial, construction and B2B ecommerce marketing agencies and software (US/CA/UK/AU)
+d06|Translation, localization, call centre, virtual assistant, outsourcing and business process firms with content blogs (US/UK/CA/AU)
+d07|Nonprofit tech, fundraising software, church and association management software with content blogs (US/CA/UK/AU)
+d08|Fitness, wellness, salon and appointment-booking SaaS and agencies selling to small businesses (US/CA/UK/AU)
+d09|B2B lead generation, appointment setting, cold email, outbound agencies and tools (US/UK/CA/AU)
+d10|Website analytics, heatmaps, A/B testing, CRO agencies and conversion tools (US/UK/CA/AU)
+d11|Mobile app development, no-code, AI chatbot and automation agencies and tools (US/UK/CA/AU)
+d12|Insurance, mortgage, financial advisor and wealth marketing agencies and software (US/CA/UK/AU)
