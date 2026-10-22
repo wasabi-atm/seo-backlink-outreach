@@ -1,0 +1,11 @@
+# Brief: backlink-2026-10-23 (90-company run)
+
+- Started on "make sure the companies for tomorrow hits 90". Standing brief reused from 22 Oct: Segment A founder's quote swap, Segment B whichever fits, paid placement fallback, sender Sam.
+- Rules as on 22 Oct (user-approved again for this run): DR 40 or higher, article keyword rule waived, HQ in UK/US/UAE/AU/CA/SG, 10 to 500 staff, not acquired, dated post since 2024-10-22. Ahrefs units exhausted until 30 Oct: free DR tool only.
+- Research: round 1 (24 slices e01-e24) and round 2 (12 slices f01-f12), about 36 agents. Round 1 merged to 86 unique passes, 83 after the ledger check; with round 2, 112 candidates with allowed countries (2 Irish rows dropped: wolfgangdigital.com, matrixinternet.ie).
+- Contacts: Instantly SuperSearch 60 companies (first pass lacked the one-lead-per-company flag, so it spent extra credits on duplicate people at the same companies), Apollo 37 reveals (standard, no waterfall). 97 with an email, 15 without. Second Instantly import never returned leads; Apollo covered the gap.
+- Ledger check with emails: 0 removed. Instantly campaign check on all 97: 7 held out because already in other campaigns (appstle.com, vcita.com, ihire.com, onestepgps.com, pickfu.com, peppy.health, truescope.com). Result: exactly 90.
+- User decisions: hold all 7 out; keep the 3 weak rows (skyline.com 400+ staff, quarterdeck.co.uk undated article, motionelements.com sells motion templates) flagged in manualCheck.
+- Emails: 7 writers with a humanizer pass. Subjects from the four 7 Oct templates (quick_question 26, noticed_something 23, asap 22, quick_intro 19). Three writers switched the offer to quote swap only because the company sells video or design (zendrop.com, motionelements.com, zoviz.com); the offer column was corrected to match. 87 of 90 carry a manualCheck.
+- Logged queued under backlink-2026-10-23 (90). Draft campaign 03ee06a9-7472-4a2a-a156-96eeb1ed5063, 90 leads, no senders, not activated.
+- Known gaps: every hook came from text fetches only (check in browser); several HQs and headcounts come from third-party sources; subject "ASAP ... !!" template follows the user's 7 Oct templates though the skill's subject_check.py would reject it; round-1 writers share /tmp scripts, one collision was caught and the files verified.

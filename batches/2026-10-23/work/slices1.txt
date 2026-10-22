@@ -1,0 +1,24 @@
+e01|Corporate training, leadership coaching and L&D consultancies with marketing-style blogs (US/UK/CA/AU)
+e02|Cloud communications, VoIP, contact centre and customer support software with content blogs (US/UK/CA/AU)
+e03|Email marketing, newsletter, SMS and marketing automation SaaS (mid-size, US/UK/CA/AU)
+e04|Small B2B digital agencies in Canada and Australia (SEO, content, PPC, social) with active blogs
+e05|Small B2B digital agencies in the UK regions (Manchester, Leeds, Bristol, Birmingham, Glasgow, Edinburgh) with active blogs
+e06|Small B2B digital agencies in US cities outside NY/SF/LA (Austin, Denver, Chicago, Atlanta, Boston, Seattle, Minneapolis) with active blogs
+e07|Project management, collaboration, scheduling and productivity SaaS (mid-size) with content blogs
+e08|Ecommerce platforms, plugins, shipping, reviews and loyalty SaaS with marketing blogs (US/UK/CA/AU)
+e09|Customer success, CRM, quoting, invoicing and billing SaaS for SMBs with marketing blogs
+e10|Brand strategy, naming, packaging and creative consultancies with blogs (US/UK/CA/AU)
+e11|Influencer marketing, affiliate, referral and community platforms and agencies
+e12|Event marketing, trade show, experiential and conference tech companies
+e13|Market research, survey, feedback and review-management software and agencies
+e14|HR, payroll, recruitment marketing, ATS and employee engagement SaaS (mid-size) with content blogs
+e15|AI writing, AI marketing, chatbot and automation startups with active blogs (US/UK/CA/AU)
+e16|Print, signage, promotional products, direct mail and merchandising companies with marketing blogs
+e17|IT managed services, MSPs and cybersecurity awareness vendors with marketing-led blogs (US/UK/CA/AU)
+e18|Education technology, e-learning content, course creator and membership platforms
+e19|UAE and Dubai agencies and SaaS (marketing, tech, fintech, proptech) with active English blogs
+e20|Singapore and Australia SaaS and agencies (marketing, fintech, HR, logistics) with active blogs
+e21|Logistics, supply chain, fleet and field service software with content blogs (US/UK/CA/AU)
+e22|Sustainability, energy, cleantech and ESG software and consultancies with content blogs
+e23|Photography, design assets, stock, templates, design tools and creative marketplaces (B2B-facing)
+e24|Business consultancies, management consulting boutiques and B2B growth advisors with thought-leadership blogs
