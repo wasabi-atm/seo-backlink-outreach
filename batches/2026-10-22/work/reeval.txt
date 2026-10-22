@@ -1,0 +1,87 @@
+vidcruiter.com|CA|HR tech blog, no title contains video/demo/explainer; off-topic recruitment content
+challengerinc.com|US|Blog is live (July 2026) but no title or slug contains video, explainer, animation, demo or sales en
+ethos3.com|US|Video related posts are 2022 only; latest sitemap dates June 2025, so no post since 2025-10-22.
+quantified.ai|US|Blog is AI roleplay for pharma sales; no title or slug with required keywords.
+richardson.com|US|Blog lives on richardsonsales.com with undated posts; no title with required keyword.
+red5.net|US|Technical live streaming blog, no fitting article
+ascend2.com|US|No fitting article: first blog page shows research and thought-leadership posts only, none with vide
+blitzmetrics.com|US|No post title or slug contains a required keyword; blog is personal, coaching and podcast posts
+mixlr.com|UK|Audio streaming blog, no title with video/demo/explainer etc.
+polleverywhere.com|US|No post since 2025-10-22 (latest Aug 2025) and no matching titles
+sessionboard.com|US|No title/slug with required keyword
+screensteps.com|US|No article with video, demo, explainer, animation or sales enablement in title, slug or H1
+kitaboo.com||Part of Hurix Systems group and no fitting article keyword in recent titles
+360training.com|US|Compliance and certification content, no fitting article; consumer-facing course sales
+strivr.com|US|No post title or slug with a required keyword
+dozuki.com|US|No post title or slug with a required keyword
+7taps.com|US|Blog is product release notes only, no fitting article
+workleap.com|CA|Blog index of 24 posts has no title or slug with video, explainer, animation, demo or sales enableme
+workjam.com|US|Latest 9 blog posts (Sep-Oct 2026) have no keyword in title or slug; retail workforce topics.
+gloat.com|US|17 recent posts all AI/HR topics, no keyword in title or slug.
+recruiter.com|US|Sitemap has no video, explainer, animation or demo slug and no dates; no fitting article.
+betterteam.com|US|Sitemap lists only five core pages, no blog posts; no fitting article.
+technologyadvice.com|US|Video slugs are software review/comparison videos (e.g. video-gusto-vs-quickbooks-payroll), not abou
+achievers.com|CA|Blog sitemap very large; no keyword slug in the part read; blog index lists no posts in text fetch. 
+nectar.com|US|/blog 404; sitemap part read has no keyword slug; no fitting article.
+trolley.com|CA|No blog post with video, explainer, animation, demo in title across 12 latest posts
+prophix.com|CA|No blog title with video, explainer, animation or demo; FP&A software roundups only
+spreedly.com|US|Payments and security blog; no title with video, explainer, animation or demo
+socialsnap.com||Blog index shows 2020-2021 posts only; no recent post; no video title match
+intesols.com.au|AU|No fitting article: blog posts are SEO, AI and agency news; sitemap has no video, explainer, animati
+whitepeakdigital.com|AU|No fitting article: recent posts are web design, SEO, security; no video, explainer, animation or de
+concretecms.com|US|No video/explainer/animation/demo title in latest 10 posts or search results; best fit 'Interactive 
+statamic.com|US|No video/explainer/animation title in 20 recent posts; developer-focused blog
+glideapps.com|US|No video/explainer/demo title; blog is no-code and AI engineering
+tailorbrands.com|US|Blog is LLC, logo and business-formation content; no video or animation title
+balsamiq.com||No video/animation/demo title; wireframing blog
+format.com|CA|Magazine is photographer and filmmaker profiles, no business video title; consumer/creator audience
+speero.com|UK|Only video article is dated 2022-06-02; no fitting recent article
+momentumabm.com|US|No sitemap slug or blog title matching video, explainer, animation, demo or sales enablement
+cap.so|US|Blog is product updates and screen recording how-tos; no fitting article
+epiphan.com|CA|No fitting article: only recent post with video in title is 'Hardware vs. software video encoders' (
+pollev.com|US|Blog not live since 2025-10-22 (latest post seen 2025-08-04) and no video-titled article
+signwell.com|US|No fitting article: resources are press releases and e-signature topics, none with video/demo in tit
+sparkol.com|UK|Blog at blog.sparkol.com last posted 2022; no post since 2025-10-22 found
+videopeel.com|US|Blog posts undated and product-announcement style; no title with the required keyword on a fitting t
+brightcarbon.com|UK|No fitting article: recent post titles/slugs (Copilot, Brand Kits, dolly zoom, pitch deck) contain n
+huthwaiteinternational.com|UK|No fitting article: blog is sales negotiation and training behaviour; no title or slug with required
+salesfuel.com|US|Blog undated and titles (culture fit, brand awareness, prospecting questions) do not match required 
+seoimpact.co.uk|UK|No title with video, explainer, animation, demo or sales enablement across 21 recent posts
+websitesuccess.co.uk|UK|Blog titles are SEO, CRO and email only; no video article
+dcpweb.co.uk|UK|Blog index returned empty, no article could be verified
+bluetonemedia.com|US|No post with video/explainer/demo/animation in title or slug on blog index (SEO, web, ads topics onl
+imagescape.com|US|Blog mostly Django dev and web design; no video title; latest post Sept 2025
+nextafter.com|US|Nonprofit fundraising focus, not B2B; no video title
+thrivesearch.com|US|Law-firm marketing (B2C-leaning vertical); only video-ish post lacks required title keyword in a fit
+stealthseminar.com|US|No title/slug with video, explainer, animation, demo or sales enablement in blog titles seen; posts 
+getopenwater.com|US|Blog on awards/grants/abstracts, no title keyword match
+knowledgecity.com|US|Only video-slug post found (video-training-tool) is dated 2018 with no update date; no fitting artic
+engageli.com|US|Education-institution product, not B2B video/demo content; only video-slug posts are Nov-Dec 2024 on
+contactmonkey.com|CA|No blog title with video/explainer/animation/demo/sales enablement in latest 25 posts
+testgorilla.com||No blog title matches the video keywords; dates not shown
+jobiak.ai|US|Blog has no video-titled posts; nothing dated since 2025-03
+agentero.com|US|Visible byline date 2019-10-05 (metadata says 2026-10-07, likely migration); no fitting recent artic
+bitwage.com|US|Only video slugs are Spanish-language tutorial posts; no fitting English article.
+insurity.com|US|No blog post with a video keyword in title or slug (only resource and event pages).
+frigade.com|US|No article with a required title keyword; 'A good animation disappears' is about UI animation design
+soapboxhq.com||Domain redirects to hypercontext.com, which is part of a larger group; not a clean standalone compan
+crowdriff.com|CA|No article with video, explainer, animation or demo in title or slug since 2025-10-22 (only a 2025-0
+ripemedia.com|US|No fitting article (blog is Moodle, eLearning, nonprofit web topics)
+mindesigns.com.au|AU|No post title or slug since 2025-10 contains video, explainer, animation, demo or sales enablement (
+uphouseinc.com|CA|Only video-titled posts are dated 2021 to 2022 in post sitemap; no qualifying recent article
+thriveweb.com.au|AU|No blog title with video/explainer/animation/demo keyword in latest 15 posts; sitemap slugs also non
+bigscoots.com|US|No fitting article: hosting/performance/security posts only
+foremostmedia.com|US|No fitting article: no video keyword in any blog title or slug
+proceedinnovative.com|US|No video keyword in recent blog titles; video posts dated early 2025
+imforza.com|US|No video keyword in 12 latest blog titles
+bragdeal.com|CA|Video posts dated Feb and Aug 2025 (before 2025-10-22 recency need); latest 12 titles have no video 
+topfiremedia.com|US|Video post dated 2025-01-15 and blog has no post since 2025-03-18
+customerlabs.com|US|Tracking/ad-tech blog, no fitting title
+bluetree.digital|US|Sells link building/guest posts; no video title
+rallyup.com|US|Nonprofit fundraising, not fitting; no video titles
+buffalo7.co.uk|UK|No recent post with a title keyword (video, animation, demo, sales enablement); keyword posts date f
+signaturely.com||Blog is alternatives listicles; no post slug with video, explainer, animation, demo or sales enablem
+web-designlondon.co.uk|UK|No post title with a video/explainer/animation/demo keyword in 15 listed posts
+red-website-design.co.uk|UK|No title keyword match; Reels post title lacks required words; no dates shown
+onbrand.co.uk|UK|Retail/destination marketing blog; no title keyword match
+consultmyapp.com|UK|App marketing blog; no title keyword match in 20 posts

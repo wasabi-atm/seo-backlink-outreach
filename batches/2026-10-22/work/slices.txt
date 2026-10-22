@@ -1,0 +1,16 @@
+a01|SaaS product demo software and interactive demo platforms (US/UK), plus blogs of vendors that publish demo video posts
+a02|Sales enablement platforms and sales training/pitch deck vendors (US/UK)
+a03|Video hosting, video marketing and video analytics platforms (not video production studios)
+a04|B2B content marketing and SEO agencies in the UK whose blogs cover video
+a05|B2B content marketing and demand gen agencies in the US whose blogs cover video
+a06|Webinar, virtual event and online presentation platforms
+a07|Customer education, LMS, employee training and onboarding software
+a08|HR tech and employer branding vendors with video or explainer posts
+a09|FinTech and insurtech marketing-heavy brands with explainer video posts
+a10|Digital adoption, product tour, user onboarding and in-app guidance tools
+a11|PR, comms and social media agencies (UK/US) and social/martech SaaS with video posts
+a12|Australia, Canada and Singapore agencies and SaaS (any slice above), DR 60+
+a13|Web design, branding and website builder companies and CMS vendors with video/explainer posts
+a14|Product marketing, SaaS growth and ABM agencies and ABM/email/marketing automation vendors with video posts
+a15|Cybersecurity, dev tools, data/AI and cloud SaaS with explainer or demo video blog posts
+a16|Podcast, livestream, screen recording, e-signature and presentation tools with video posts
