@@ -10,3 +10,6 @@
 - Contacts: Instantly SuperSearch 90, Apollo 23 (23 credits, standard reveal, no waterfall). 112 emailable after ledger check (RKD removed: already contacted via form).
 - Instantly campaign check on all 112 emails: 3 in live campaigns, held out: envisionitagency.com (BB Campaign 2), frigade.com (CTO - Campaign 1 - Jan Leads / Oct), dataro.io (3. Startups - March / Dec leads Campaign).
 - 19 weakest dropped on fit and verification risk (video sellers, DR exactly 40, unevidenced HQ, weak topic). final90.csv has 90 rows. Emails by 7 agents with a humanizer pass; subjects from the four templates set on 7 Oct, as on 21 Oct.
+- 04_backlink_emails.csv: 90 emails, subject types quick_question 24, noticed_something 23, asap 22, quick_intro 21. Logged queued under backlink-2026-10-22 (90). 88 of 90 carry a manualCheck.
+- Step 6: draft campaign fbb0ad49-a26f-4451-ad93-9e45e27ed12e, 90 leads, no senders, not activated. Uploaded leads diffed against slim_*.json: 90 of 90 identical.
+- Known gaps: hooks came from text fetches only (check in browser); e0, e3, e5 writers applied the humanizer guidance by hand rather than a separate Skill pass; subject "ASAP ... !!" template follows the user's 7 Oct templates as on 21 Oct, though the skill's subject_check.py would reject it.

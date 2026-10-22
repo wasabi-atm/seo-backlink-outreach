@@ -1,0 +1,4 @@
+22 October 2026 - Backlink Cold Outreach Campaign
+id: fbb0ad49-a26f-4451-ad93-9e45e27ed12e
+status: draft (never activated), no sender accounts set
+leads added: 90 of 90 (slim_1.json, slim_2.json, slim_3.json, 30 each); checked against the source file: 0 mismatches
